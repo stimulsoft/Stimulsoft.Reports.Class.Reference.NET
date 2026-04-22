@@ -1,0 +1,22 @@
+---
+title: "StiGaugeStyleCoreXF28 Class"
+---
+
+## StiGaugeStyleCoreXF28 Class
+
+**Namespace:** `Stimulsoft.Report.Gauge`  
+**Assembly:** `Stimulsoft.Report`
+
+```csharp
+public class StiGaugeStyleCoreXF28
+```
+
+### Inheritance
+
+Inherits from: [StiGaugeStyleCoreXF](StiGaugeStyleCoreXF.md)  
+
+### Properties
+
+| Property | Type | Description |
+| --- | --- | --- |
+| **ForeColor** | Color |  |

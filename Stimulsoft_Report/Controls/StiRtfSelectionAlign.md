@@ -1,0 +1,21 @@
+---
+title: "StiRtfSelectionAlign Enum"
+---
+
+## StiRtfSelectionAlign Enum
+
+**Namespace:** `Stimulsoft.Report.Controls`  
+**Assembly:** `Stimulsoft.Report`
+
+```csharp
+public enum StiRtfSelectionAlign
+```
+
+### Members
+
+| Member | Value | Description |
+| --- | --- | --- |
+| **Left** | 1 | The text is aligned to the left. |
+| **Right** | 2 | The text is aligned to the right. |
+| **Center** | 3 | The text is aligned in the center. |
+| **Justify** | 4 | The text is justified. |

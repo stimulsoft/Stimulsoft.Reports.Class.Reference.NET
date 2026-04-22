@@ -1,0 +1,45 @@
+---
+title: "ByteList Class"
+---
+
+## ByteList Class
+
+**Namespace:** `Stimulsoft.Report`  
+**Assembly:** `Stimulsoft.Report`
+
+```csharp
+public class ByteList
+```
+
+### Inheritance
+
+Inherits from: List<byte>  
+Implements: [IStiList](IStiList.md)  
+
+### Constructors
+
+| Constructor | Description |
+| --- | --- |
+| `ByteList()` |  |
+| `ByteList(bytevalues )` |  |
+
+### Methods
+
+| Method | Returns | Description |
+| --- | --- | --- |
+| **AddElement** | void |  |
+| **Contains** *(+1 overloads)* | bool |  |
+| **Equals** | bool |  |
+| **GetHashCode** | int |  |
+| **LoadFromString** | [IStiList](IStiList.md) |  |
+| **SaveToString** | string |  |
+| **ToObjectArray** | object[] |  |
+| **ToQueryString** *(+2 overloads)* | string |  |
+| **ToString** | string |  |
+
+### Fields
+
+| Field | Type | Description |
+| --- | --- | --- |
+| **ListName** | string | Gets specified name of List. List name equal to name of List class. |
+| **ListType** | Type | Gets the type of List items. |

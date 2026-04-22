@@ -1,0 +1,24 @@
+---
+title: "Name Class"
+---
+
+## Name Class
+
+**Namespace:** `Stimulsoft.Base.Drawing`  
+**Assembly:** `Stimulsoft.Base`
+
+```csharp
+public class Name
+```
+
+### Properties
+
+| Property | Type | Description |
+| --- | --- | --- |
+| **Count** | ushort |  |
+| **FontNames** | Hashtable |  |
+| **Format** | ushort |  |
+| **LangTagCount** | ushort |  |
+| **LangTagRecord** | List<[LangTagRecord](LangTagRecord.md)> |  |
+| **NameRecord** | List<[NameRecord](NameRecord.md)> |  |
+| **StringOffset** | ushort |  |

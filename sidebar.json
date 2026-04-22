@@ -1,0 +1,1180 @@
+[
+  {
+    "title": "Stimulsoft.Base",
+    "url": "/Stimulsoft_Base/",
+    "children": [
+      {
+        "title": "Stimulsoft.Base",
+        "url": "/Stimulsoft_Base/"
+      },
+      {
+        "title": "Stimulsoft.Base.AppsDatabase",
+        "url": "/Stimulsoft_Base/AppsDatabase/"
+      },
+      {
+        "title": "Stimulsoft.Base.AppsDatabase.SignalR.Event",
+        "url": "/Stimulsoft_Base/AppsDatabase/SignalR/Event/"
+      },
+      {
+        "title": "Stimulsoft.Base.Blockly",
+        "url": "/Stimulsoft_Base/Blockly/"
+      },
+      {
+        "title": "Stimulsoft.Base.Blocks",
+        "url": "/Stimulsoft_Base/Blocks/"
+      },
+      {
+        "title": "Stimulsoft.Base.BusinessObjects",
+        "url": "/Stimulsoft_Base/BusinessObjects/"
+      },
+      {
+        "title": "Stimulsoft.Base.CompoundDocument",
+        "url": "/Stimulsoft_Base/CompoundDocument/"
+      },
+      {
+        "title": "Stimulsoft.Base.Context",
+        "url": "/Stimulsoft_Base/Context/"
+      },
+      {
+        "title": "Stimulsoft.Base.Crypto",
+        "url": "/Stimulsoft_Base/Crypto/"
+      },
+      {
+        "title": "Stimulsoft.Base.Dashboard",
+        "url": "/Stimulsoft_Base/Dashboard/"
+      },
+      {
+        "title": "Stimulsoft.Base.Data.Connectors",
+        "url": "/Stimulsoft_Base/Data/Connectors/"
+      },
+      {
+        "title": "Stimulsoft.Base.Data.Connectors.Azure",
+        "url": "/Stimulsoft_Base/Data/Connectors/Azure/"
+      },
+      {
+        "title": "Stimulsoft.Base.Data.Connectors.Azure.Helper",
+        "url": "/Stimulsoft_Base/Data/Connectors/Azure/Helper/"
+      },
+      {
+        "title": "Stimulsoft.Base.Data.Connectors.Google",
+        "url": "/Stimulsoft_Base/Data/Connectors/Google/"
+      },
+      {
+        "title": "Stimulsoft.Base.Data.Connectors.OnlineServices",
+        "url": "/Stimulsoft_Base/Data/Connectors/OnlineServices/"
+      },
+      {
+        "title": "Stimulsoft.Base.Data.Connectors.OnlineServices.Helpers",
+        "url": "/Stimulsoft_Base/Data/Connectors/OnlineServices/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Base.Data.Connectors.Rest.Helpers",
+        "url": "/Stimulsoft_Base/Data/Connectors/Rest/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Base.Databases",
+        "url": "/Stimulsoft_Base/Databases/"
+      },
+      {
+        "title": "Stimulsoft.Base.Design",
+        "url": "/Stimulsoft_Base/Design/"
+      },
+      {
+        "title": "Stimulsoft.Base.Drawing",
+        "url": "/Stimulsoft_Base/Drawing/"
+      },
+      {
+        "title": "Stimulsoft.Base.Drawing.Design",
+        "url": "/Stimulsoft_Base/Drawing/Design/"
+      },
+      {
+        "title": "Stimulsoft.Base.Events",
+        "url": "/Stimulsoft_Base/Events/"
+      },
+      {
+        "title": "Stimulsoft.Base.Excel",
+        "url": "/Stimulsoft_Base/Excel/"
+      },
+      {
+        "title": "Stimulsoft.Base.Exceptions",
+        "url": "/Stimulsoft_Base/Exceptions/"
+      },
+      {
+        "title": "Stimulsoft.Base.Extensions",
+        "url": "/Stimulsoft_Base/Extensions/"
+      },
+      {
+        "title": "Stimulsoft.Base.Forms",
+        "url": "/Stimulsoft_Base/Forms/"
+      },
+      {
+        "title": "Stimulsoft.Base.Forms.Toolbox",
+        "url": "/Stimulsoft_Base/Forms/Toolbox/"
+      },
+      {
+        "title": "Stimulsoft.Base.Gis",
+        "url": "/Stimulsoft_Base/Gis/"
+      },
+      {
+        "title": "Stimulsoft.Base.Helpers",
+        "url": "/Stimulsoft_Base/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Base.Import",
+        "url": "/Stimulsoft_Base/Import/"
+      },
+      {
+        "title": "Stimulsoft.Base.Json",
+        "url": "/Stimulsoft_Base/Json/"
+      },
+      {
+        "title": "Stimulsoft.Base.Json.Bson",
+        "url": "/Stimulsoft_Base/Json/Bson/"
+      },
+      {
+        "title": "Stimulsoft.Base.Json.Converters",
+        "url": "/Stimulsoft_Base/Json/Converters/"
+      },
+      {
+        "title": "Stimulsoft.Base.Json.Linq",
+        "url": "/Stimulsoft_Base/Json/Linq/"
+      },
+      {
+        "title": "Stimulsoft.Base.Json.Schema",
+        "url": "/Stimulsoft_Base/Json/Schema/"
+      },
+      {
+        "title": "Stimulsoft.Base.Json.Serialization",
+        "url": "/Stimulsoft_Base/Json/Serialization/"
+      },
+      {
+        "title": "Stimulsoft.Base.Json2",
+        "url": "/Stimulsoft_Base/Json2/"
+      },
+      {
+        "title": "Stimulsoft.Base.Licenses",
+        "url": "/Stimulsoft_Base/Licenses/"
+      },
+      {
+        "title": "Stimulsoft.Base.Localization",
+        "url": "/Stimulsoft_Base/Localization/"
+      },
+      {
+        "title": "Stimulsoft.Base.Map",
+        "url": "/Stimulsoft_Base/Map/"
+      },
+      {
+        "title": "Stimulsoft.Base.Meters",
+        "url": "/Stimulsoft_Base/Meters/"
+      },
+      {
+        "title": "Stimulsoft.Base.Parser",
+        "url": "/Stimulsoft_Base/Parser/"
+      },
+      {
+        "title": "Stimulsoft.Base.Plans",
+        "url": "/Stimulsoft_Base/Plans/"
+      },
+      {
+        "title": "Stimulsoft.Base.RecentFiles",
+        "url": "/Stimulsoft_Base/RecentFiles/"
+      },
+      {
+        "title": "Stimulsoft.Base.Serializing",
+        "url": "/Stimulsoft_Base/Serializing/"
+      },
+      {
+        "title": "Stimulsoft.Base.Server",
+        "url": "/Stimulsoft_Base/Server/"
+      },
+      {
+        "title": "Stimulsoft.Base.Services",
+        "url": "/Stimulsoft_Base/Services/"
+      },
+      {
+        "title": "Stimulsoft.Base.SignatureFonts",
+        "url": "/Stimulsoft_Base/SignatureFonts/"
+      },
+      {
+        "title": "Stimulsoft.Base.StimulAI",
+        "url": "/Stimulsoft_Base/StimulAI/"
+      },
+      {
+        "title": "Stimulsoft.Base.TaskScheduler",
+        "url": "/Stimulsoft_Base/TaskScheduler/"
+      },
+      {
+        "title": "Stimulsoft.Base.Theme",
+        "url": "/Stimulsoft_Base/Theme/"
+      },
+      {
+        "title": "Stimulsoft.Base.Viewer",
+        "url": "/Stimulsoft_Base/Viewer/"
+      },
+      {
+        "title": "Stimulsoft.Base.Wizards",
+        "url": "/Stimulsoft_Base/Wizards/"
+      },
+      {
+        "title": "Stimulsoft.Base.Wpf",
+        "url": "/Stimulsoft_Base/Wpf/"
+      },
+      {
+        "title": "Stimulsoft.Base.Wpf.SaveLoad",
+        "url": "/Stimulsoft_Base/Wpf/SaveLoad/"
+      },
+      {
+        "title": "Stimulsoft.Base.Zip",
+        "url": "/Stimulsoft_Base/Zip/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dashboard.Helpers",
+        "url": "/Stimulsoft_Base/Stimulsoft/Report/Dashboard/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Report.Engine",
+        "url": "/Stimulsoft_Base/Stimulsoft/Report/Engine/"
+      },
+      {
+        "title": "Stimulsoft.Report.Helpers",
+        "url": "/Stimulsoft_Base/Stimulsoft/Report/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Report.Images",
+        "url": "/Stimulsoft_Base/Stimulsoft/Report/Images/"
+      },
+      {
+        "title": "Stimulsoft.Report.SignatureFonts",
+        "url": "/Stimulsoft_Base/Stimulsoft/Report/SignatureFonts/"
+      },
+      {
+        "title": "System",
+        "url": "/Stimulsoft_Base/System/"
+      },
+      {
+        "title": "System.Runtime.Serialization.Formatters",
+        "url": "/Stimulsoft_Base/System/Runtime/Serialization/Formatters/"
+      }
+    ]
+  },
+  {
+    "title": "Stimulsoft.Dashboard",
+    "url": "/Stimulsoft_Dashboard/",
+    "children": [
+      {
+        "title": "Stimulsoft.Base.Localization",
+        "url": "/Stimulsoft_Dashboard/Stimulsoft/Base/Localization/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard",
+        "url": "/Stimulsoft_Dashboard/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components",
+        "url": "/Stimulsoft_Dashboard/Components/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Button",
+        "url": "/Stimulsoft_Dashboard/Components/Button/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Button.Design",
+        "url": "/Stimulsoft_Dashboard/Components/Button/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Cards.Design",
+        "url": "/Stimulsoft_Dashboard/Components/Cards/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Chart",
+        "url": "/Stimulsoft_Dashboard/Components/Chart/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Chart.Design",
+        "url": "/Stimulsoft_Dashboard/Components/Chart/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.ComboBox",
+        "url": "/Stimulsoft_Dashboard/Components/ComboBox/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.DatePicker",
+        "url": "/Stimulsoft_Dashboard/Components/DatePicker/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Design",
+        "url": "/Stimulsoft_Dashboard/Components/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Gauge",
+        "url": "/Stimulsoft_Dashboard/Components/Gauge/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Gauge.Design",
+        "url": "/Stimulsoft_Dashboard/Components/Gauge/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.HeatmapGradient.Design",
+        "url": "/Stimulsoft_Dashboard/Components/HeatmapGradient/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Helpers",
+        "url": "/Stimulsoft_Dashboard/Components/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Image.Design",
+        "url": "/Stimulsoft_Dashboard/Components/Image/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Indicator.Design",
+        "url": "/Stimulsoft_Dashboard/Components/Indicator/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.ListBox",
+        "url": "/Stimulsoft_Dashboard/Components/ListBox/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.ListBox.Design",
+        "url": "/Stimulsoft_Dashboard/Components/ListBox/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.NumberBox",
+        "url": "/Stimulsoft_Dashboard/Components/NumberBox/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.OnlineMap",
+        "url": "/Stimulsoft_Dashboard/Components/OnlineMap/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.PivotTable",
+        "url": "/Stimulsoft_Dashboard/Components/PivotTable/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.PivotTable.Design",
+        "url": "/Stimulsoft_Dashboard/Components/PivotTable/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Progress.Design",
+        "url": "/Stimulsoft_Dashboard/Components/Progress/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.RangeSelector",
+        "url": "/Stimulsoft_Dashboard/Components/RangeSelector/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Table",
+        "url": "/Stimulsoft_Dashboard/Components/Table/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Table.Design",
+        "url": "/Stimulsoft_Dashboard/Components/Table/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.Text.Design",
+        "url": "/Stimulsoft_Dashboard/Components/Text/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Components.TreeView",
+        "url": "/Stimulsoft_Dashboard/Components/TreeView/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Export",
+        "url": "/Stimulsoft_Dashboard/Export/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Helpers",
+        "url": "/Stimulsoft_Dashboard/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Images",
+        "url": "/Stimulsoft_Dashboard/Images/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Interactions",
+        "url": "/Stimulsoft_Dashboard/Interactions/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Interactions.Design",
+        "url": "/Stimulsoft_Dashboard/Interactions/Design/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Options",
+        "url": "/Stimulsoft_Dashboard/Options/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Render",
+        "url": "/Stimulsoft_Dashboard/Render/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Visualizers",
+        "url": "/Stimulsoft_Dashboard/Visualizers/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Visuals",
+        "url": "/Stimulsoft_Dashboard/Visuals/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Visuals.Cards",
+        "url": "/Stimulsoft_Dashboard/Visuals/Cards/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Visuals.Gauge",
+        "url": "/Stimulsoft_Dashboard/Visuals/Gauge/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Visuals.Indicator",
+        "url": "/Stimulsoft_Dashboard/Visuals/Indicator/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Visuals.Progress",
+        "url": "/Stimulsoft_Dashboard/Visuals/Progress/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Visuals.Progress.Helpers",
+        "url": "/Stimulsoft_Dashboard/Visuals/Progress/Helpers/"
+      }
+    ]
+  },
+  {
+    "title": "Stimulsoft.Dashboard.Drawing",
+    "url": "/Stimulsoft_Dashboard_Drawing/",
+    "children": [
+      {
+        "title": "Stimulsoft.Dashboard.Drawing.Atoms",
+        "url": "/Stimulsoft_Dashboard_Drawing/Atoms/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Drawing.Helpers",
+        "url": "/Stimulsoft_Dashboard_Drawing/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Drawing.Painters",
+        "url": "/Stimulsoft_Dashboard_Drawing/Painters/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Drawing.Painters.PivotTable",
+        "url": "/Stimulsoft_Dashboard_Drawing/Painters/PivotTable/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Images",
+        "url": "/Stimulsoft_Dashboard_Drawing/Stimulsoft/Dashboard/Viewer/Images/"
+      },
+      {
+        "title": "Stimulsoft.Report.Painters",
+        "url": "/Stimulsoft_Dashboard_Drawing/Stimulsoft/Report/Painters/"
+      }
+    ]
+  },
+  {
+    "title": "Stimulsoft.Dashboard.Export",
+    "url": "/Stimulsoft_Dashboard_Export/",
+    "children": [
+      {
+        "title": "Stimulsoft.Dashboard.Export",
+        "url": "/Stimulsoft_Dashboard_Export/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Export.Helpers",
+        "url": "/Stimulsoft_Dashboard_Export/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Export.Settings",
+        "url": "/Stimulsoft_Dashboard_Export/Settings/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Export.Tools",
+        "url": "/Stimulsoft_Dashboard_Export/Tools/"
+      }
+    ]
+  },
+  {
+    "title": "Stimulsoft.Dashboard.Viewer",
+    "url": "/Stimulsoft_Dashboard_Viewer/",
+    "children": [
+      {
+        "title": "Stimulsoft.Dashboard.Viewer",
+        "url": "/Stimulsoft_Dashboard_Viewer/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Controls",
+        "url": "/Stimulsoft_Dashboard_Viewer/Controls/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Controls.ComboBox",
+        "url": "/Stimulsoft_Dashboard_Viewer/Controls/ComboBox/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Controls.DatePicker",
+        "url": "/Stimulsoft_Dashboard_Viewer/Controls/DatePicker/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Controls.Helpers",
+        "url": "/Stimulsoft_Dashboard_Viewer/Controls/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Controls.ListBox",
+        "url": "/Stimulsoft_Dashboard_Viewer/Controls/ListBox/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Controls.NumberBox",
+        "url": "/Stimulsoft_Dashboard_Viewer/Controls/NumberBox/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Controls.RangeSelector",
+        "url": "/Stimulsoft_Dashboard_Viewer/Controls/RangeSelector/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Controls.Table",
+        "url": "/Stimulsoft_Dashboard_Viewer/Controls/Table/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Controls.Table.Menu",
+        "url": "/Stimulsoft_Dashboard_Viewer/Controls/Table/Menu/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Controls.TreeView",
+        "url": "/Stimulsoft_Dashboard_Viewer/Controls/TreeView/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.Cards",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/Cards/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.Chart",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/Chart/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.ComboBox",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/ComboBox/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.DatePicker",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/DatePicker/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.Indicator",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/Indicator/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.ListBox",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/ListBox/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.NumberBox",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/NumberBox/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.PivotTable",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/PivotTable/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.Progress",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/Progress/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.RegionMap",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/RegionMap/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.Shape",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/Shape/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.Table",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/Table/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.Text",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/Text/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.TreeView",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/TreeView/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Elements.TreeViewBox",
+        "url": "/Stimulsoft_Dashboard_Viewer/Elements/TreeViewBox/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Export",
+        "url": "/Stimulsoft_Dashboard_Viewer/Export/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Extensions",
+        "url": "/Stimulsoft_Dashboard_Viewer/Extensions/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.FullScreen",
+        "url": "/Stimulsoft_Dashboard_Viewer/FullScreen/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Images",
+        "url": "/Stimulsoft_Dashboard_Viewer/Images/"
+      },
+      {
+        "title": "Stimulsoft.Dashboard.Viewer.Visualizers",
+        "url": "/Stimulsoft_Dashboard_Viewer/Visualizers/"
+      }
+    ]
+  },
+  {
+    "title": "Stimulsoft.Data",
+    "url": "/Stimulsoft_Data/",
+    "children": [
+      {
+        "title": "NCalcLexer",
+        "url": "/Stimulsoft_Data/NCalcLexer"
+      },
+      {
+        "title": "NCalcParser",
+        "url": "/Stimulsoft_Data/NCalcParser"
+      },
+      {
+        "title": "Stimulsoft.Data.Comparers",
+        "url": "/Stimulsoft_Data/Comparers/"
+      },
+      {
+        "title": "Stimulsoft.Data.Design",
+        "url": "/Stimulsoft_Data/Design/"
+      },
+      {
+        "title": "Stimulsoft.Data.Engine",
+        "url": "/Stimulsoft_Data/Engine/"
+      },
+      {
+        "title": "Stimulsoft.Data.Exceptions",
+        "url": "/Stimulsoft_Data/Exceptions/"
+      },
+      {
+        "title": "Stimulsoft.Data.Expressions.Antlr.Runtime",
+        "url": "/Stimulsoft_Data/Expressions/Antlr/Runtime/"
+      },
+      {
+        "title": "Stimulsoft.Data.Expressions.Antlr.Runtime.Misc",
+        "url": "/Stimulsoft_Data/Expressions/Antlr/Runtime/Misc/"
+      },
+      {
+        "title": "Stimulsoft.Data.Expressions.Antlr.Runtime.Tree",
+        "url": "/Stimulsoft_Data/Expressions/Antlr/Runtime/Tree/"
+      },
+      {
+        "title": "Stimulsoft.Data.Expressions.NCalc",
+        "url": "/Stimulsoft_Data/Expressions/NCalc/"
+      },
+      {
+        "title": "Stimulsoft.Data.Expressions.NCalc.Domain",
+        "url": "/Stimulsoft_Data/Expressions/NCalc/Domain/"
+      },
+      {
+        "title": "Stimulsoft.Data.Extensions",
+        "url": "/Stimulsoft_Data/Extensions/"
+      },
+      {
+        "title": "Stimulsoft.Data.Functions",
+        "url": "/Stimulsoft_Data/Functions/"
+      },
+      {
+        "title": "Stimulsoft.Data.Helpers",
+        "url": "/Stimulsoft_Data/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Data.Options",
+        "url": "/Stimulsoft_Data/Options/"
+      },
+      {
+        "title": "Stimulsoft.Data.Parsers",
+        "url": "/Stimulsoft_Data/Parsers/"
+      },
+      {
+        "title": "Stimulsoft.Data.Types",
+        "url": "/Stimulsoft_Data/Types/"
+      }
+    ]
+  },
+  {
+    "title": "Stimulsoft.Drawing",
+    "url": "/Stimulsoft_Drawing/",
+    "children": [
+      {
+        "title": "Stimulsoft.Drawing",
+        "url": "/Stimulsoft_Drawing/"
+      },
+      {
+        "title": "Stimulsoft.Drawing.Drawing2D",
+        "url": "/Stimulsoft_Drawing/Drawing2D/"
+      },
+      {
+        "title": "Stimulsoft.Drawing.Imaging",
+        "url": "/Stimulsoft_Drawing/Imaging/"
+      },
+      {
+        "title": "Stimulsoft.Drawing.Text",
+        "url": "/Stimulsoft_Drawing/Text/"
+      }
+    ]
+  },
+  {
+    "title": "Stimulsoft.Map",
+    "url": "/Stimulsoft_Map/",
+    "children": [
+      {
+        "title": "Stimulsoft.Map",
+        "url": "/Stimulsoft_Map/"
+      },
+      {
+        "title": "Stimulsoft.Map.Gis",
+        "url": "/Stimulsoft_Map/Gis/"
+      },
+      {
+        "title": "Stimulsoft.Map.Gis.Core",
+        "url": "/Stimulsoft_Map/Gis/Core/"
+      },
+      {
+        "title": "Stimulsoft.Map.Gis.Geography",
+        "url": "/Stimulsoft_Map/Gis/Geography/"
+      },
+      {
+        "title": "Stimulsoft.Map.Gis.Providers",
+        "url": "/Stimulsoft_Map/Gis/Providers/"
+      },
+      {
+        "title": "Stimulsoft.Map.Gis.Providers.Helpers",
+        "url": "/Stimulsoft_Map/Gis/Providers/Helpers/"
+      }
+    ]
+  },
+  {
+    "title": "Stimulsoft.Report",
+    "url": "/Stimulsoft_Report/",
+    "children": [
+      {
+        "title": "Stimulsoft.App.Components",
+        "url": "/Stimulsoft_Report/Stimulsoft/App/Components/"
+      },
+      {
+        "title": "Stimulsoft.Base.Context",
+        "url": "/Stimulsoft_Report/Stimulsoft/Base/Context/"
+      },
+      {
+        "title": "Stimulsoft.Base.Context.Animation",
+        "url": "/Stimulsoft_Report/Stimulsoft/Base/Context/Animation/"
+      },
+      {
+        "title": "Stimulsoft.Base.Design",
+        "url": "/Stimulsoft_Report/Stimulsoft/Base/Design/"
+      },
+      {
+        "title": "Stimulsoft.Base.Gauge.GaugeGeoms",
+        "url": "/Stimulsoft_Report/Stimulsoft/Base/Gauge/GaugeGeoms/"
+      },
+      {
+        "title": "Stimulsoft.Base.Indicator",
+        "url": "/Stimulsoft_Report/Stimulsoft/Base/Indicator/"
+      },
+      {
+        "title": "Stimulsoft.Base.Maps.Geoms",
+        "url": "/Stimulsoft_Report/Stimulsoft/Base/Maps/Geoms/"
+      },
+      {
+        "title": "Stimulsoft.Controls",
+        "url": "/Stimulsoft_Report/Stimulsoft/Controls/"
+      },
+      {
+        "title": "Stimulsoft.Gauge.Painters",
+        "url": "/Stimulsoft_Report/Stimulsoft/Gauge/Painters/"
+      },
+      {
+        "title": "Stimulsoft.Report",
+        "url": "/Stimulsoft_Report/"
+      },
+      {
+        "title": "Stimulsoft.Report.App",
+        "url": "/Stimulsoft_Report/App/"
+      },
+      {
+        "title": "Stimulsoft.Report.BarCodes",
+        "url": "/Stimulsoft_Report/BarCodes/"
+      },
+      {
+        "title": "Stimulsoft.Report.BarCodes.Design",
+        "url": "/Stimulsoft_Report/BarCodes/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Chart",
+        "url": "/Stimulsoft_Report/Chart/"
+      },
+      {
+        "title": "Stimulsoft.Report.Chart.Design",
+        "url": "/Stimulsoft_Report/Chart/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Chart.Geoms.Series.Doughnut",
+        "url": "/Stimulsoft_Report/Chart/Geoms/Series/Doughnut/"
+      },
+      {
+        "title": "Stimulsoft.Report.Chart.Geoms.Series.Funnel",
+        "url": "/Stimulsoft_Report/Chart/Geoms/Series/Funnel/"
+      },
+      {
+        "title": "Stimulsoft.Report.Chart.Geoms.Series.Heatmap",
+        "url": "/Stimulsoft_Report/Chart/Geoms/Series/Heatmap/"
+      },
+      {
+        "title": "Stimulsoft.Report.Chart.Geoms.Series.Pie",
+        "url": "/Stimulsoft_Report/Chart/Geoms/Series/Pie/"
+      },
+      {
+        "title": "Stimulsoft.Report.CodeDom",
+        "url": "/Stimulsoft_Report/CodeDom/"
+      },
+      {
+        "title": "Stimulsoft.Report.Components",
+        "url": "/Stimulsoft_Report/Components/"
+      },
+      {
+        "title": "Stimulsoft.Report.Components.Design",
+        "url": "/Stimulsoft_Report/Components/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Components.Gauge",
+        "url": "/Stimulsoft_Report/Components/Gauge/"
+      },
+      {
+        "title": "Stimulsoft.Report.Components.Gauge.Primitives",
+        "url": "/Stimulsoft_Report/Components/Gauge/Primitives/"
+      },
+      {
+        "title": "Stimulsoft.Report.Components.MathFormula",
+        "url": "/Stimulsoft_Report/Components/MathFormula/"
+      },
+      {
+        "title": "Stimulsoft.Report.Components.ShapeTypes",
+        "url": "/Stimulsoft_Report/Components/ShapeTypes/"
+      },
+      {
+        "title": "Stimulsoft.Report.Components.ShapeTypes.Design",
+        "url": "/Stimulsoft_Report/Components/ShapeTypes/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Components.Table",
+        "url": "/Stimulsoft_Report/Components/Table/"
+      },
+      {
+        "title": "Stimulsoft.Report.Components.TextFormats",
+        "url": "/Stimulsoft_Report/Components/TextFormats/"
+      },
+      {
+        "title": "Stimulsoft.Report.Components.TextFormats.Design",
+        "url": "/Stimulsoft_Report/Components/TextFormats/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Controls",
+        "url": "/Stimulsoft_Report/Controls/"
+      },
+      {
+        "title": "Stimulsoft.Report.CrossTab",
+        "url": "/Stimulsoft_Report/CrossTab/"
+      },
+      {
+        "title": "Stimulsoft.Report.CrossTab.Core",
+        "url": "/Stimulsoft_Report/CrossTab/Core/"
+      },
+      {
+        "title": "Stimulsoft.Report.CrossTab.Design",
+        "url": "/Stimulsoft_Report/CrossTab/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dashboard",
+        "url": "/Stimulsoft_Report/Dashboard/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dashboard.Design",
+        "url": "/Stimulsoft_Report/Dashboard/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dashboard.Editor",
+        "url": "/Stimulsoft_Report/Dashboard/Editor/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dashboard.Export",
+        "url": "/Stimulsoft_Report/Dashboard/Export/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dashboard.Helpers",
+        "url": "/Stimulsoft_Report/Dashboard/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dashboard.Styles",
+        "url": "/Stimulsoft_Report/Dashboard/Styles/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dashboard.Styles.Cards",
+        "url": "/Stimulsoft_Report/Dashboard/Styles/Cards/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dashboard.Visuals",
+        "url": "/Stimulsoft_Report/Dashboard/Visuals/"
+      },
+      {
+        "title": "Stimulsoft.Report.Design",
+        "url": "/Stimulsoft_Report/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Design.Forms.Toolbox",
+        "url": "/Stimulsoft_Report/Design/Forms/Toolbox/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dialogs",
+        "url": "/Stimulsoft_Report/Dialogs/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dialogs.Design",
+        "url": "/Stimulsoft_Report/Dialogs/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dictionary",
+        "url": "/Stimulsoft_Report/Dictionary/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dictionary.Adapters.Azure",
+        "url": "/Stimulsoft_Report/Dictionary/Adapters/Azure/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dictionary.Adapters.Google",
+        "url": "/Stimulsoft_Report/Dictionary/Adapters/Google/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dictionary.Adapters.OnlineService",
+        "url": "/Stimulsoft_Report/Dictionary/Adapters/OnlineService/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dictionary.DataSources.Azure",
+        "url": "/Stimulsoft_Report/Dictionary/DataSources/Azure/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dictionary.DataSources.Google",
+        "url": "/Stimulsoft_Report/Dictionary/DataSources/Google/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dictionary.Databases.Azure",
+        "url": "/Stimulsoft_Report/Dictionary/Databases/Azure/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dictionary.Databases.Google",
+        "url": "/Stimulsoft_Report/Dictionary/Databases/Google/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dictionary.Design",
+        "url": "/Stimulsoft_Report/Dictionary/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Dictionary.Helpers",
+        "url": "/Stimulsoft_Report/Dictionary/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Report.Engine",
+        "url": "/Stimulsoft_Report/Engine/"
+      },
+      {
+        "title": "Stimulsoft.Report.Events",
+        "url": "/Stimulsoft_Report/Events/"
+      },
+      {
+        "title": "Stimulsoft.Report.Events.Design",
+        "url": "/Stimulsoft_Report/Events/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Export",
+        "url": "/Stimulsoft_Report/Export/"
+      },
+      {
+        "title": "Stimulsoft.Report.Export.Design",
+        "url": "/Stimulsoft_Report/Export/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Export.Services.Helpers",
+        "url": "/Stimulsoft_Report/Export/Services/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Report.Export.Tools",
+        "url": "/Stimulsoft_Report/Export/Tools/"
+      },
+      {
+        "title": "Stimulsoft.Report.Extensions",
+        "url": "/Stimulsoft_Report/Extensions/"
+      },
+      {
+        "title": "Stimulsoft.Report.Gauge",
+        "url": "/Stimulsoft_Report/Gauge/"
+      },
+      {
+        "title": "Stimulsoft.Report.Gauge.Design",
+        "url": "/Stimulsoft_Report/Gauge/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Gauge.Events",
+        "url": "/Stimulsoft_Report/Gauge/Events/"
+      },
+      {
+        "title": "Stimulsoft.Report.Gauge.Events.Design",
+        "url": "/Stimulsoft_Report/Gauge/Events/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Gauge.GaugeGeoms",
+        "url": "/Stimulsoft_Report/Gauge/GaugeGeoms/"
+      },
+      {
+        "title": "Stimulsoft.Report.Gauge.Helpers",
+        "url": "/Stimulsoft_Report/Gauge/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Report.Gauge.Primitives",
+        "url": "/Stimulsoft_Report/Gauge/Primitives/"
+      },
+      {
+        "title": "Stimulsoft.Report.Gauge.Skins",
+        "url": "/Stimulsoft_Report/Gauge/Skins/"
+      },
+      {
+        "title": "Stimulsoft.Report.Help",
+        "url": "/Stimulsoft_Report/Help/"
+      },
+      {
+        "title": "Stimulsoft.Report.Helpers",
+        "url": "/Stimulsoft_Report/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Report.Images",
+        "url": "/Stimulsoft_Report/Images/"
+      },
+      {
+        "title": "Stimulsoft.Report.Import",
+        "url": "/Stimulsoft_Report/Import/"
+      },
+      {
+        "title": "Stimulsoft.Report.Labels",
+        "url": "/Stimulsoft_Report/Labels/"
+      },
+      {
+        "title": "Stimulsoft.Report.Maps",
+        "url": "/Stimulsoft_Report/Maps/"
+      },
+      {
+        "title": "Stimulsoft.Report.Maps.Design",
+        "url": "/Stimulsoft_Report/Maps/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.Maps.Helpers",
+        "url": "/Stimulsoft_Report/Maps/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Report.Painters",
+        "url": "/Stimulsoft_Report/Painters/"
+      },
+      {
+        "title": "Stimulsoft.Report.Painters.Context.Animation",
+        "url": "/Stimulsoft_Report/Painters/Context/Animation/"
+      },
+      {
+        "title": "Stimulsoft.Report.Print",
+        "url": "/Stimulsoft_Report/Print/"
+      },
+      {
+        "title": "Stimulsoft.Report.Print.Design",
+        "url": "/Stimulsoft_Report/Print/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.PropertyGrid",
+        "url": "/Stimulsoft_Report/PropertyGrid/"
+      },
+      {
+        "title": "Stimulsoft.Report.QuickButtons",
+        "url": "/Stimulsoft_Report/QuickButtons/"
+      },
+      {
+        "title": "Stimulsoft.Report.RecentConnections",
+        "url": "/Stimulsoft_Report/RecentConnections/"
+      },
+      {
+        "title": "Stimulsoft.Report.Render.Rtf",
+        "url": "/Stimulsoft_Report/Render/Rtf/"
+      },
+      {
+        "title": "Stimulsoft.Report.Render.Rtf.Geoms",
+        "url": "/Stimulsoft_Report/Render/Rtf/Geoms/"
+      },
+      {
+        "title": "Stimulsoft.Report.ReportControls",
+        "url": "/Stimulsoft_Report/ReportControls/"
+      },
+      {
+        "title": "Stimulsoft.Report.SaveLoad",
+        "url": "/Stimulsoft_Report/SaveLoad/"
+      },
+      {
+        "title": "Stimulsoft.Report.Styles",
+        "url": "/Stimulsoft_Report/Styles/"
+      },
+      {
+        "title": "Stimulsoft.Report.Styles.Helpers",
+        "url": "/Stimulsoft_Report/Styles/Helpers/"
+      },
+      {
+        "title": "Stimulsoft.Report.Surface",
+        "url": "/Stimulsoft_Report/Surface/"
+      },
+      {
+        "title": "Stimulsoft.Report.Surface.Editor",
+        "url": "/Stimulsoft_Report/Surface/Editor/"
+      },
+      {
+        "title": "Stimulsoft.Report.Toolbox",
+        "url": "/Stimulsoft_Report/Toolbox/"
+      },
+      {
+        "title": "Stimulsoft.Report.Units",
+        "url": "/Stimulsoft_Report/Units/"
+      },
+      {
+        "title": "Stimulsoft.Report.Viewer",
+        "url": "/Stimulsoft_Report/Viewer/"
+      },
+      {
+        "title": "Stimulsoft.Report.Viewer.Design",
+        "url": "/Stimulsoft_Report/Viewer/Design/"
+      },
+      {
+        "title": "Stimulsoft.Report.WCFService",
+        "url": "/Stimulsoft_Report/WCFService/"
+      }
+    ]
+  },
+  {
+    "title": "Stimulsoft.Report.Check",
+    "url": "/Stimulsoft_Report_Check/",
+    "children": [
+      {
+        "title": "Stimulsoft.Report.Check",
+        "url": "/Stimulsoft_Report_Check/"
+      },
+      {
+        "title": "Stimulsoft.Report.Check.Helper",
+        "url": "/Stimulsoft_Report_Check/Helper/"
+      }
+    ]
+  },
+  {
+    "title": "Stimulsoft.Report.Helper",
+    "url": "/Stimulsoft_Report_Helper/",
+    "children": [
+      {
+        "title": "Stimulsoft.Report.Helper",
+        "url": "/Stimulsoft_Report_Helper/"
+      }
+    ]
+  }
+]

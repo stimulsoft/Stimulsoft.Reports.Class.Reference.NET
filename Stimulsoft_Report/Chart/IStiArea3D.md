@@ -1,0 +1,16 @@
+---
+title: "IStiArea3D Interface"
+---
+
+## IStiArea3D Interface
+
+**Namespace:** `Stimulsoft.Report.Chart`  
+**Assembly:** `Stimulsoft.Report`
+
+```csharp
+public interface IStiArea3D
+```
+
+### Inheritance
+
+Implements: IStiArea  

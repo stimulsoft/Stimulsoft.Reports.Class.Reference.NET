@@ -1,0 +1,12 @@
+---
+title: "IStiForeColor Interface"
+---
+
+## IStiForeColor Interface
+
+**Namespace:** `Stimulsoft.Report.Components`  
+**Assembly:** `Stimulsoft.Report`
+
+```csharp
+public interface IStiForeColor
+```
