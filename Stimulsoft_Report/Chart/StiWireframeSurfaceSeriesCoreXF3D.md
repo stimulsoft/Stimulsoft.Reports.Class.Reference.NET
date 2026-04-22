@@ -19,7 +19,7 @@ Inherits from: [StiAreaSeriesCoreXF3D](StiAreaSeriesCoreXF3D.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiWireframeSurfaceSeriesCoreXF3D(IStiSeries series)` |  |
+| **StiWireframeSurfaceSeriesCoreXF3D**(IStiSeries series) |  |
 
 ### Methods
 

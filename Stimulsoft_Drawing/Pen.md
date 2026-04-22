@@ -19,10 +19,10 @@ Implements: ICloneable, IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `Pen([Brush](Brush.md) brush)` |  |
-| `Pen(Color color)` |  |
-| `Pen([Brush](Brush.md) brush, float width)` |  |
-| `Pen(Color color, float width)` |  |
+| **Pen**([Brush](Brush.md) brush) |  |
+| **Pen**(Color color) |  |
+| **Pen**([Brush](Brush.md) brush, float width) |  |
+| **Pen**(Color color, float width) |  |
 
 ### Methods
 

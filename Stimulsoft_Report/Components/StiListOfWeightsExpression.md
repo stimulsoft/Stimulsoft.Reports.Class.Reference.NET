@@ -19,8 +19,8 @@ Inherits from: StiExpression
 
 | Constructor | Description |
 | --- | --- |
-| `StiListOfWeightsExpression()` | Creates a new expression. |
-| `StiListOfWeightsExpression(string value)` | Creates a new expression. |
+| **StiListOfWeightsExpression**() | Creates a new expression. |
+| **StiListOfWeightsExpression**(string value) | Creates a new expression. |
 
 ### Methods
 

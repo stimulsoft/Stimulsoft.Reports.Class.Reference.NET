@@ -17,7 +17,7 @@ public class MD5
 
 | Constructor | Description |
 | --- | --- |
-| `MD5()` | Creates a new instance |
+| **MD5**() | Creates a new instance |
 
 ### Methods
 

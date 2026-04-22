@@ -17,7 +17,7 @@ public class StiConditionsSheet
 
 | Constructor | Description |
 | --- | --- |
-| `StiConditionsSheet(StiConditionsCollection conditions)` | Creates a new object of the type StiConditionsSheet. |
+| **StiConditionsSheet**(StiConditionsCollection conditions) | Creates a new object of the type StiConditionsSheet. |
 
 ### Properties
 

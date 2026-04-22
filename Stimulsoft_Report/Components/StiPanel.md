@@ -19,8 +19,8 @@ Inherits from: StiContainer
 
 | Constructor | Description |
 | --- | --- |
-| `StiPanel()` | Creates a new panel. |
-| `StiPanel([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new panel. |
+| **StiPanel**() | Creates a new panel. |
+| **StiPanel**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new panel. |
 
 ### Properties
 

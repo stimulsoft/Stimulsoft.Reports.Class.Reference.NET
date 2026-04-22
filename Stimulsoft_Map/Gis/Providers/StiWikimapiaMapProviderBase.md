@@ -19,7 +19,7 @@ Inherits from: [StiGisMapProvider](StiGisMapProvider.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiWikimapiaMapProviderBase()` |  |
+| **StiWikimapiaMapProviderBase**() |  |
 
 ### Methods
 

@@ -19,8 +19,8 @@ Inherits from: StiBand
 
 | Constructor | Description |
 | --- | --- |
-| `StiStaticBand()` | Creates a new static band. |
-| `StiStaticBand([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new static band. |
+| **StiStaticBand**() | Creates a new static band. |
+| **StiStaticBand**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new static band. |
 
 ### Methods
 

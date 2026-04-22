@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiGuiModeAttribute([StiGuiMode](StiGuiMode.md) mode)` |  |
+| **StiGuiModeAttribute**([StiGuiMode](StiGuiMode.md) mode) |  |
 
 ### Properties
 

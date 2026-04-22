@@ -19,10 +19,10 @@ Implements: [IStiJsonReportObject](../../Stimulsoft_Base/IStiJsonReportObject.md
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataLink()` |  |
-| `StiDataLink(string key)` |  |
-| `StiDataLink(string parentTable, string childTable, stringparentColumns , stringchildColumns , bool active, [StiDataJoinType](../../Stimulsoft_Base/StiDataJoinType.md) joinType)` |  |
-| `StiDataLink(string parentTable, string childTable, stringparentColumns , stringchildColumns , bool active, [StiDataJoinType](../../Stimulsoft_Base/StiDataJoinType.md) joinType, string key)` |  |
+| **StiDataLink**() |  |
+| **StiDataLink**(string key) |  |
+| **StiDataLink**(string parentTable, string childTable, stringparentColumns , stringchildColumns , bool active, [StiDataJoinType](../../Stimulsoft_Base/StiDataJoinType.md) joinType) |  |
+| **StiDataLink**(string parentTable, string childTable, stringparentColumns , stringchildColumns , bool active, [StiDataJoinType](../../Stimulsoft_Base/StiDataJoinType.md) joinType, string key) |  |
 
 ### Properties
 

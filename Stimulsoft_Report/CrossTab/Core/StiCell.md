@@ -19,9 +19,9 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiCell()` |  |
-| `StiCell(string text, decimal value, StiCrossField field)` |  |
-| `StiCell(string text, decimal value, int width, int height, StiCrossField field)` |  |
+| **StiCell**() |  |
+| **StiCell**(string text, decimal value, StiCrossField field) |  |
+| **StiCell**(string text, decimal value, int width, int height, StiCrossField field) |  |
 
 ### Properties
 

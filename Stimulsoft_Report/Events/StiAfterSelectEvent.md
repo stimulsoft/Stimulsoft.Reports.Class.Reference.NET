@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiAfterSelectEvent()` | Creates a new object of the type StiAfterSelectEvent. |
-| `StiAfterSelectEvent(string script)` | Creates a new object of the type StiAfterSelectEvent with specified arguments. |
-| `StiAfterSelectEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiAfterSelectEvent**() | Creates a new object of the type StiAfterSelectEvent. |
+| **StiAfterSelectEvent**(string script) | Creates a new object of the type StiAfterSelectEvent with specified arguments. |
+| **StiAfterSelectEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

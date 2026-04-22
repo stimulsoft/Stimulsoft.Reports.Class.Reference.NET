@@ -19,7 +19,7 @@ Inherits from: StiAxisArea3D
 
 | Constructor | Description |
 | --- | --- |
-| `StiClusteredColumnArea3D()` |  |
+| **StiClusteredColumnArea3D**() |  |
 
 ### Properties
 

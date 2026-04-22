@@ -15,7 +15,7 @@ public abstract class StiDataParser
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataParser([IStiAppDictionary](../../Stimulsoft_Base/IStiAppDictionary.md) dictionary, DataTable table, List<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)> meters)` |  |
+| **StiDataParser**([IStiAppDictionary](../../Stimulsoft_Base/IStiAppDictionary.md) dictionary, DataTable table, List<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)> meters) |  |
 
 ### Properties
 

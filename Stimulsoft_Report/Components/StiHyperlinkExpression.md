@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiHyperlinkExpression()` | Creates a new expression. |
-| `StiHyperlinkExpression(string value)` | Creates a new expression. |
-| `StiHyperlinkExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiHyperlinkExpression**() | Creates a new expression. |
+| **StiHyperlinkExpression**(string value) | Creates a new expression. |
+| **StiHyperlinkExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

@@ -20,8 +20,8 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `StringRange()` |  |
-| `StringRange(string from, string to)` |  |
+| **StringRange**() |  |
+| **StringRange**(string from, string to) |  |
 
 ### Methods
 

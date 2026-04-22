@@ -17,7 +17,7 @@ public class StiTypeWrapper
 
 | Constructor | Description |
 | --- | --- |
-| `StiTypeWrapper(Type type)` | Creates a new instance of the StiTypeWrapper class. |
+| **StiTypeWrapper**(Type type) | Creates a new instance of the StiTypeWrapper class. |
 
 ### Properties
 

@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiCDataConnectCloudDatabase()` |  |
-| `StiCDataConnectCloudDatabase(string name, string connectionString)` |  |
-| `StiCDataConnectCloudDatabase(string name, string alias, string connectionString)` |  |
-| `StiCDataConnectCloudDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiCDataConnectCloudDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiCDataConnectCloudDatabase**() |  |
+| **StiCDataConnectCloudDatabase**(string name, string connectionString) |  |
+| **StiCDataConnectCloudDatabase**(string name, string alias, string connectionString) |  |
+| **StiCDataConnectCloudDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiCDataConnectCloudDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Methods
 

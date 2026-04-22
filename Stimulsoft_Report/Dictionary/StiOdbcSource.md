@@ -19,11 +19,11 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiOdbcSource()` |  |
-| `StiOdbcSource(string nameInSource, string name)` |  |
-| `StiOdbcSource(string nameInSource, string name, string alias)` |  |
-| `StiOdbcSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
-| `StiOdbcSource(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow, int commandTimeout, string key)` |  |
+| **StiOdbcSource**() |  |
+| **StiOdbcSource**(string nameInSource, string name) |  |
+| **StiOdbcSource**(string nameInSource, string name, string alias) |  |
+| **StiOdbcSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
+| **StiOdbcSource**(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow, int commandTimeout, string key) |  |
 
 ### Methods
 

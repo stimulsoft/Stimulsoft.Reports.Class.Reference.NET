@@ -21,8 +21,8 @@ Inherits from: [StiObjectSchema](StiObjectSchema.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataColumnSchema()` |  |
-| `StiDataColumnSchema(string name, Type type)` |  |
+| **StiDataColumnSchema**() |  |
+| **StiDataColumnSchema**(string name, Type type) |  |
 
 ### Properties
 

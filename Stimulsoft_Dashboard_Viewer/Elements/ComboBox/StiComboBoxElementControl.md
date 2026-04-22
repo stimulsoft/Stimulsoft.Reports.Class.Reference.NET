@@ -19,7 +19,7 @@ Inherits from: StiFilterElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiComboBoxElementControl(IStiElement element)` |  |
+| **StiComboBoxElementControl**(IStiElement element) |  |
 
 ### Methods
 

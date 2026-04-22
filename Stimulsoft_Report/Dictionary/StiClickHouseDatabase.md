@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiClickHouseDatabase()` |  |
-| `StiClickHouseDatabase(string name, string connectionString)` |  |
-| `StiClickHouseDatabase(string name, string alias, string connectionString)` |  |
-| `StiClickHouseDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiClickHouseDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiClickHouseDatabase**() |  |
+| **StiClickHouseDatabase**(string name, string connectionString) |  |
+| **StiClickHouseDatabase**(string name, string alias, string connectionString) |  |
+| **StiClickHouseDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiClickHouseDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Methods
 

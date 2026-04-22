@@ -19,13 +19,13 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `ValueExpression(object value)` |  |
-| `ValueExpression(string value)` |  |
-| `ValueExpression(int value)` |  |
-| `ValueExpression(float value)` |  |
-| `ValueExpression(DateTime value)` |  |
-| `ValueExpression(bool value)` |  |
-| `ValueExpression(object value, [ValueType](ValueType.md) type)` |  |
+| **ValueExpression**(object value) |  |
+| **ValueExpression**(string value) |  |
+| **ValueExpression**(int value) |  |
+| **ValueExpression**(float value) |  |
+| **ValueExpression**(DateTime value) |  |
+| **ValueExpression**(bool value) |  |
+| **ValueExpression**(object value, [ValueType](ValueType.md) type) |  |
 
 ### Properties
 

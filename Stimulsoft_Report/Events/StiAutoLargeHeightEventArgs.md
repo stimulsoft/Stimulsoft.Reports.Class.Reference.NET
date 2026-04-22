@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiAutoLargeHeightEventArgs([StiReport](../StiReport.md) report, StiPage page)` |  |
+| **StiAutoLargeHeightEventArgs**([StiReport](../StiReport.md) report, StiPage page) |  |
 
 ### Properties
 

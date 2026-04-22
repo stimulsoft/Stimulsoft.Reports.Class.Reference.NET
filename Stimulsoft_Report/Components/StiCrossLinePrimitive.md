@@ -19,8 +19,8 @@ Inherits from: [StiLinePrimitive](StiLinePrimitive.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCrossLinePrimitive()` | Creates a new StiCrossLinePrimitive. |
-| `StiCrossLinePrimitive([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiCrossLinePrimitive. |
+| **StiCrossLinePrimitive**() | Creates a new StiCrossLinePrimitive. |
+| **StiCrossLinePrimitive**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiCrossLinePrimitive. |
 
 ### Methods
 

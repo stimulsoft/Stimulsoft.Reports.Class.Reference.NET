@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiVistaDBSource()` |  |
-| `StiVistaDBSource(string nameInSource, string name)` |  |
-| `StiVistaDBSource(string nameInSource, string name, string alias)` |  |
-| `StiVistaDBSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiVistaDBSource**() |  |
+| **StiVistaDBSource**(string nameInSource, string name) |  |
+| **StiVistaDBSource**(string nameInSource, string name, string alias) |  |
+| **StiVistaDBSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

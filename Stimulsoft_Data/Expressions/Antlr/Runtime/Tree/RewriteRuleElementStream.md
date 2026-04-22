@@ -15,9 +15,9 @@ public abstract class RewriteRuleElementStream
 
 | Constructor | Description |
 | --- | --- |
-| `RewriteRuleElementStream([ITreeAdaptor](ITreeAdaptor.md) adaptor, string elementDescription)` |  |
-| `RewriteRuleElementStream([ITreeAdaptor](ITreeAdaptor.md) adaptor, string elementDescription, object oneElement)` |  |
-| `RewriteRuleElementStream([ITreeAdaptor](ITreeAdaptor.md) adaptor, string elementDescription, IList elements)` |  |
+| **RewriteRuleElementStream**([ITreeAdaptor](ITreeAdaptor.md) adaptor, string elementDescription) |  |
+| **RewriteRuleElementStream**([ITreeAdaptor](ITreeAdaptor.md) adaptor, string elementDescription, object oneElement) |  |
+| **RewriteRuleElementStream**([ITreeAdaptor](ITreeAdaptor.md) adaptor, string elementDescription, IList elements) |  |
 
 ### Methods
 

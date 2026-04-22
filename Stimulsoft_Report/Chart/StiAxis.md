@@ -19,7 +19,7 @@ Implements: IStiAxis
 
 | Constructor | Description |
 | --- | --- |
-| `StiAxis()` |  |
+| **StiAxis**() |  |
 
 ### Properties
 

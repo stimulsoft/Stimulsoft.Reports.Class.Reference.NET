@@ -19,10 +19,10 @@ Implements: [IToken](IToken.md)
 
 | Constructor | Description |
 | --- | --- |
-| `ClassicToken(int type)` |  |
-| `ClassicToken([IToken](IToken.md) oldToken)` |  |
-| `ClassicToken(int type, string text)` |  |
-| `ClassicToken(int type, string text, int channel)` |  |
+| **ClassicToken**(int type) |  |
+| **ClassicToken**([IToken](IToken.md) oldToken) |  |
+| **ClassicToken**(int type, string text) |  |
+| **ClassicToken**(int type, string text, int channel) |  |
 
 ### Methods
 

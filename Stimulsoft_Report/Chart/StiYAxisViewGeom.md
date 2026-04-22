@@ -19,7 +19,7 @@ Inherits from: [StiYAxisGeom](StiYAxisGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiYAxisViewGeom([IStiYAxis](IStiYAxis.md) axis, RectangleF clientRectangle, bool isCenterAxis)` |  |
+| **StiYAxisViewGeom**([IStiYAxis](IStiYAxis.md) axis, RectangleF clientRectangle, bool isCenterAxis) |  |
 
 ### Methods
 

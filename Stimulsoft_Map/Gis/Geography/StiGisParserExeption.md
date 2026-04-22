@@ -19,4 +19,4 @@ Inherits from: Exception
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisParserExeption(string command)` |  |
+| **StiGisParserExeption**(string command) |  |

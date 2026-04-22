@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiEngineAttribute([StiEngineVersion](StiEngineVersion.md) version)` |  |
+| **StiEngineAttribute**([StiEngineVersion](StiEngineVersion.md) version) |  |
 
 ### Properties
 

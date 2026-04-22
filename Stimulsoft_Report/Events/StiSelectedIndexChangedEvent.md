@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiSelectedIndexChangedEvent()` | Creates a new object of the type StiSelectedIndexChangedEvent. |
-| `StiSelectedIndexChangedEvent(string script)` | Creates a new object of the type StiSelectedIndexChangedEvent with specified arguments. |
-| `StiSelectedIndexChangedEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiSelectedIndexChangedEvent**() | Creates a new object of the type StiSelectedIndexChangedEvent. |
+| **StiSelectedIndexChangedEvent**(string script) | Creates a new object of the type StiSelectedIndexChangedEvent with specified arguments. |
+| **StiSelectedIndexChangedEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

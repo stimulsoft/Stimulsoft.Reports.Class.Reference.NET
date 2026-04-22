@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiLoadFormEvent()` | Creates a new object of the type StiLoadFormEvent. |
-| `StiLoadFormEvent(string script)` | Creates a new object of the type StiLoadFormEvent with specified arguments. |
-| `StiLoadFormEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiLoadFormEvent**() | Creates a new object of the type StiLoadFormEvent. |
+| **StiLoadFormEvent**(string script) | Creates a new object of the type StiLoadFormEvent with specified arguments. |
+| **StiLoadFormEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

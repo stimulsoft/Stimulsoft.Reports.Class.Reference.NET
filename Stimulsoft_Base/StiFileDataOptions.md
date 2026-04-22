@@ -15,7 +15,7 @@ public abstract class StiFileDataOptions
 
 | Constructor | Description |
 | --- | --- |
-| `StiFileDataOptions(bytecontent )` |  |
+| **StiFileDataOptions**(bytecontent ) |  |
 
 ### Properties
 

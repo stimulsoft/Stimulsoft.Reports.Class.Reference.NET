@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiOrderAttribute(int position)` |  |
+| **StiOrderAttribute**(int position) |  |
 
 ### Properties
 

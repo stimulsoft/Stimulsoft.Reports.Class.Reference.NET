@@ -19,7 +19,7 @@ Inherits from: StiActionButton
 
 | Constructor | Description |
 | --- | --- |
-| `StiResetAllFiltersDashboardActionButton([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position)` |  |
+| **StiResetAllFiltersDashboardActionButton**([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position) |  |
 
 ### Methods
 

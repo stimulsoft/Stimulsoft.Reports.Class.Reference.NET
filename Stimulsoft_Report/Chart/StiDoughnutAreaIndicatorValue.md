@@ -19,8 +19,8 @@ Implements: IStiDoughnutAreaIndicatorValue
 
 | Constructor | Description |
 | --- | --- |
-| `StiDoughnutAreaIndicatorValue()` |  |
-| `StiDoughnutAreaIndicatorValue(string value, Color color)` |  |
+| **StiDoughnutAreaIndicatorValue**() |  |
+| **StiDoughnutAreaIndicatorValue**(string value, Color color) |  |
 
 ### Properties
 

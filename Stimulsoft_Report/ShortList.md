@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `ShortList()` |  |
-| `ShortList(shortvalues )` |  |
+| **ShortList**() |  |
+| **ShortList**(shortvalues ) |  |
 
 ### Methods
 

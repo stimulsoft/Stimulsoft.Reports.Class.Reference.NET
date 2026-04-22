@@ -19,5 +19,5 @@ Inherits from: Exception
 
 | Constructor | Description |
 | --- | --- |
-| `StiException()` |  |
-| `StiException(string value)` |  |
+| **StiException**() |  |
+| **StiException**(string value) |  |

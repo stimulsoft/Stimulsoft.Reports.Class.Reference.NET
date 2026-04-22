@@ -19,11 +19,11 @@ Inherits from: [StiNoSqlDatabase](StiNoSqlDatabase.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMongoDbDatabase()` |  |
-| `StiMongoDbDatabase(string name, string connectionString)` |  |
-| `StiMongoDbDatabase(string name, string alias, string connectionString)` |  |
-| `StiMongoDbDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiMongoDbDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiMongoDbDatabase**() |  |
+| **StiMongoDbDatabase**(string name, string connectionString) |  |
+| **StiMongoDbDatabase**(string name, string alias, string connectionString) |  |
+| **StiMongoDbDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiMongoDbDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Methods
 

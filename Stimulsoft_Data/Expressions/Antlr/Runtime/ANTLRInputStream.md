@@ -19,8 +19,8 @@ Inherits from: [ANTLRReaderStream](ANTLRReaderStream.md)
 
 | Constructor | Description |
 | --- | --- |
-| `ANTLRInputStream(Stream input)` |  |
-| `ANTLRInputStream(Stream input, int size)` |  |
-| `ANTLRInputStream(Stream input, Encoding encoding)` |  |
-| `ANTLRInputStream(Stream input, int size, Encoding encoding)` |  |
-| `ANTLRInputStream(Stream input, int size, int readBufferSize, Encoding encoding)` |  |
+| **ANTLRInputStream**(Stream input) |  |
+| **ANTLRInputStream**(Stream input, int size) |  |
+| **ANTLRInputStream**(Stream input, Encoding encoding) |  |
+| **ANTLRInputStream**(Stream input, int size, Encoding encoding) |  |
+| **ANTLRInputStream**(Stream input, int size, int readBufferSize, Encoding encoding) |  |

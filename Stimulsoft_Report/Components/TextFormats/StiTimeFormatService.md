@@ -19,8 +19,8 @@ Inherits from: StiFormatService
 
 | Constructor | Description |
 | --- | --- |
-| `StiTimeFormatService()` | Creates a new format of the type StiTimeFormatService. |
-| `StiTimeFormatService(string stringFormat)` | Creates a new format of the type StiTimeFormatService. |
+| **StiTimeFormatService**() | Creates a new format of the type StiTimeFormatService. |
+| **StiTimeFormatService**(string stringFormat) | Creates a new format of the type StiTimeFormatService. |
 
 ### Methods
 

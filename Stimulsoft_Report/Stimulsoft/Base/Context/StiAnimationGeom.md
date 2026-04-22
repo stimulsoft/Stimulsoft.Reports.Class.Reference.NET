@@ -19,7 +19,7 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiAnimationGeom([StiAnimation](Animation/StiAnimation.md) animation, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction)` |  |
+| **StiAnimationGeom**([StiAnimation](Animation/StiAnimation.md) animation, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction) |  |
 
 ### Properties
 

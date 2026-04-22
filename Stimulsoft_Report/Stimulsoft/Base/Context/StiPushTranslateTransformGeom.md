@@ -19,7 +19,7 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPushTranslateTransformGeom(float x, float y)` |  |
+| **StiPushTranslateTransformGeom**(float x, float y) |  |
 
 ### Properties
 

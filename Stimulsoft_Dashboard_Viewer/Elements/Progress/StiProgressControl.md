@@ -19,7 +19,7 @@ Inherits from: StiAtomElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiProgressControl(IStiElement element)` |  |
+| **StiProgressControl**(IStiElement element) |  |
 
 ### Properties
 

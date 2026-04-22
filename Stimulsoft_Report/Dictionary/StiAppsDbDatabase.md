@@ -19,11 +19,11 @@ Inherits from: [StiNoSqlDatabase](StiNoSqlDatabase.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiAppsDbDatabase()` |  |
-| `StiAppsDbDatabase(string name, string connectionString)` |  |
-| `StiAppsDbDatabase(string name, string alias, string connectionString)` |  |
-| `StiAppsDbDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiAppsDbDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiAppsDbDatabase**() |  |
+| **StiAppsDbDatabase**(string name, string connectionString) |  |
+| **StiAppsDbDatabase**(string name, string alias, string connectionString) |  |
+| **StiAppsDbDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiAppsDbDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Properties
 

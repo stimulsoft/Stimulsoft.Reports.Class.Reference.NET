@@ -19,7 +19,7 @@ Inherits from: [StiAreaGeom](StiAreaGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTreemapAreaGeom(IStiArea area, RectangleF clientRectangle)` |  |
+| **StiTreemapAreaGeom**(IStiArea area, RectangleF clientRectangle) |  |
 
 ### Methods
 

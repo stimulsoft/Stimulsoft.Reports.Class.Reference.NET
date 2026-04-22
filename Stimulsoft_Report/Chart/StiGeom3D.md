@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiGeom3D([StiRender3D](StiRender3D.md) render)` |  |
+| **StiGeom3D**([StiRender3D](StiRender3D.md) render) |  |
 
 ### Properties
 

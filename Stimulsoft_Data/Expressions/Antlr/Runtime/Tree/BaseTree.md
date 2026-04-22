@@ -19,8 +19,8 @@ Implements: [ITree](ITree.md)
 
 | Constructor | Description |
 | --- | --- |
-| `BaseTree()` |  |
-| `BaseTree([ITree](ITree.md) node)` |  |
+| **BaseTree**() |  |
+| **BaseTree**([ITree](ITree.md) node) |  |
 
 ### Methods
 

@@ -21,7 +21,7 @@ Inherits from: StiCrossField
 
 | Constructor | Description |
 | --- | --- |
-| `StiCrossTotal()` |  |
+| **StiCrossTotal**() |  |
 
 ### Methods
 

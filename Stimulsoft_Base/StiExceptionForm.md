@@ -20,7 +20,7 @@ Implements: IComparer <AssemblyName>
 
 | Constructor | Description |
 | --- | --- |
-| `StiExceptionForm(Exception exception)` |  |
+| **StiExceptionForm**(Exception exception) |  |
 
 ### Methods
 

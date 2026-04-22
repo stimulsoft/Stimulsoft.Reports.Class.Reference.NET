@@ -15,7 +15,7 @@ public class StiSymbolIcon
 
 | Constructor | Description |
 | --- | --- |
-| `StiSymbolIcon(int icon, float size)` |  |
+| **StiSymbolIcon**(int icon, float size) |  |
 
 ### Properties
 

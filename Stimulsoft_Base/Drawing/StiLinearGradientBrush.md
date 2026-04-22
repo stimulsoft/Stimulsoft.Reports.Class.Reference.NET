@@ -19,8 +19,8 @@ Inherits from: [StiBrush](StiBrush.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLinearGradientBrush()` |  |
-| `StiLinearGradientBrush(Colorcolors , floatpositions , double angle)` |  |
+| **StiLinearGradientBrush**() |  |
+| **StiLinearGradientBrush**(Colorcolors , floatpositions , double angle) |  |
 
 ### Properties
 

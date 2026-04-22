@@ -19,9 +19,9 @@ Inherits from: [Stimulsoft.Report.Painters.IStiBarCodePainter](../Painters/IStiB
 
 | Constructor | Description |
 | --- | --- |
-| `StiBarCodeExportPainter([StiSvgGeomWriter](StiSvgGeomWriter.md) geomWriter)` |  |
-| `StiBarCodeExportPainter([StiPdfGeomWriter](StiPdfGeomWriter.md) geomWriter)` |  |
-| `StiBarCodeExportPainter([StiExcel2007GeomWriter](StiExcel2007GeomWriter.md) geomWriter)` |  |
+| **StiBarCodeExportPainter**([StiSvgGeomWriter](StiSvgGeomWriter.md) geomWriter) |  |
+| **StiBarCodeExportPainter**([StiPdfGeomWriter](StiPdfGeomWriter.md) geomWriter) |  |
+| **StiBarCodeExportPainter**([StiExcel2007GeomWriter](StiExcel2007GeomWriter.md) geomWriter) |  |
 
 ### Methods
 

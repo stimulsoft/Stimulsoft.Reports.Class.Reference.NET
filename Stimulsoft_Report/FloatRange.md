@@ -20,8 +20,8 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `FloatRange()` |  |
-| `FloatRange(float from, float to)` |  |
+| **FloatRange**() |  |
+| **FloatRange**(float from, float to) |  |
 
 ### Methods
 

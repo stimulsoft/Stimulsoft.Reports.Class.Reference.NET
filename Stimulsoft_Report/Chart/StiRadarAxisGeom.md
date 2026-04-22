@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiRadarAxisGeom([IStiYRadarAxis](IStiYRadarAxis.md) axis, RectangleF clientRectangle)` |  |
+| **StiRadarAxisGeom**([IStiYRadarAxis](IStiYRadarAxis.md) axis, RectangleF clientRectangle) |  |
 
 ### Methods
 

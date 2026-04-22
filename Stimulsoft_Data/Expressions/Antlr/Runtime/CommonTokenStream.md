@@ -19,9 +19,9 @@ Inherits from: [BufferedTokenStream](BufferedTokenStream.md)
 
 | Constructor | Description |
 | --- | --- |
-| `CommonTokenStream()` |  |
-| `CommonTokenStream([ITokenSource](ITokenSource.md) tokenSource)` |  |
-| `CommonTokenStream([ITokenSource](ITokenSource.md) tokenSource, int channel)` |  |
+| **CommonTokenStream**() |  |
+| **CommonTokenStream**([ITokenSource](ITokenSource.md) tokenSource) |  |
+| **CommonTokenStream**([ITokenSource](ITokenSource.md) tokenSource, int channel) |  |
 
 ### Methods
 

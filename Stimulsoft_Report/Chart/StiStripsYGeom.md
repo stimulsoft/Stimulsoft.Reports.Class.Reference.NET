@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiStripsYGeom(IStiStrips strip, RectangleF clientRectangle)` |  |
+| **StiStripsYGeom**(IStiStrips strip, RectangleF clientRectangle) |  |
 
 ### Methods
 

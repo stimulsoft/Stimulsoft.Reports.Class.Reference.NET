@@ -17,7 +17,7 @@ public class StiEngine
 
 | Constructor | Description |
 | --- | --- |
-| `StiEngine([StiReport](../StiReport.md) report)` |  |
+| **StiEngine**([StiReport](../StiReport.md) report) |  |
 
 ### Properties
 

@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiZipCodeExpression()` | Creates a new expression. |
-| `StiZipCodeExpression(string value)` | Creates a new expression. |
-| `StiZipCodeExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiZipCodeExpression**() | Creates a new expression. |
+| **StiZipCodeExpression**(string value) | Creates a new expression. |
+| **StiZipCodeExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

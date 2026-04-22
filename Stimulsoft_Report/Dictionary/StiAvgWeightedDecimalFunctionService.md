@@ -21,8 +21,8 @@ Inherits from: [StiTwoArgumentAggregateFunctionService](StiTwoArgumentAggregateF
 
 | Constructor | Description |
 | --- | --- |
-| `StiAvgWeightedDecimalFunctionService()` |  |
-| `StiAvgWeightedDecimalFunctionService(bool runningTotal)` |  |
+| **StiAvgWeightedDecimalFunctionService**() |  |
+| **StiAvgWeightedDecimalFunctionService**(bool runningTotal) |  |
 
 ### Methods
 

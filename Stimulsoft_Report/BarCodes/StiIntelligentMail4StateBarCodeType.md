@@ -19,8 +19,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiIntelligentMail4StateBarCodeType()` |  |
-| `StiIntelligentMail4StateBarCodeType(float module, float height)` |  |
+| **StiIntelligentMail4StateBarCodeType**() |  |
+| **StiIntelligentMail4StateBarCodeType**(float module, float height) |  |
 
 ### Properties
 

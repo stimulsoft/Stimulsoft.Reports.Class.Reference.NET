@@ -19,4 +19,4 @@ Inherits from: StiAreaGeom3D
 
 | Constructor | Description |
 | --- | --- |
-| `StiAxisAreaGeom3D([StiRender3D](StiRender3D.md) render)` |  |
+| **StiAxisAreaGeom3D**([StiRender3D](StiRender3D.md) render) |  |

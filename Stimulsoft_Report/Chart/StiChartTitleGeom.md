@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiChartTitleGeom(IStiChartTitle title, RectangleF clientRectangle)` |  |
+| **StiChartTitleGeom**(IStiChartTitle title, RectangleF clientRectangle) |  |
 
 ### Methods
 

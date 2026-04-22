@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGroupConditionExpression()` | Creates a new expression. |
-| `StiGroupConditionExpression(string value)` | Creates a new expression. |
-| `StiGroupConditionExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiGroupConditionExpression**() | Creates a new expression. |
+| **StiGroupConditionExpression**(string value) | Creates a new expression. |
+| **StiGroupConditionExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

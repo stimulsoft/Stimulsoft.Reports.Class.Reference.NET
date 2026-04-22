@@ -19,11 +19,11 @@ Inherits from: [StiNoSqlDatabase](../../StiNoSqlDatabase.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiFirebaseDatabase()` |  |
-| `StiFirebaseDatabase(string name, string connectionString)` |  |
-| `StiFirebaseDatabase(string name, string alias, string connectionString)` |  |
-| `StiFirebaseDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiFirebaseDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiFirebaseDatabase**() |  |
+| **StiFirebaseDatabase**(string name, string connectionString) |  |
+| **StiFirebaseDatabase**(string name, string alias, string connectionString) |  |
+| **StiFirebaseDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiFirebaseDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Methods
 

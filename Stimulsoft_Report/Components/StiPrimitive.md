@@ -19,8 +19,8 @@ Inherits from: StiComponent
 
 | Constructor | Description |
 | --- | --- |
-| `StiPrimitive()` | Creates a new StiPrimitive. |
-| `StiPrimitive([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiPrimitive. |
+| **StiPrimitive**() | Creates a new StiPrimitive. |
+| **StiPrimitive**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiPrimitive. |
 
 ### Methods
 

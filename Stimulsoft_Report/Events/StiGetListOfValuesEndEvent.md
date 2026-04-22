@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetListOfValuesEndEvent()` | Creates a new object of the type StiGetListOfValuesEndEvent. |
-| `StiGetListOfValuesEndEvent(string script)` | Creates a new object of the type StiGetListOfValuesEndEvent with specified arguments. |
-| `StiGetListOfValuesEndEvent(StiComponent parent)` | Creates a new object of the type StiGetListOfValuesEndEvent with specified arguments. |
+| **StiGetListOfValuesEndEvent**() | Creates a new object of the type StiGetListOfValuesEndEvent. |
+| **StiGetListOfValuesEndEvent**(string script) | Creates a new object of the type StiGetListOfValuesEndEvent with specified arguments. |
+| **StiGetListOfValuesEndEvent**(StiComponent parent) | Creates a new object of the type StiGetListOfValuesEndEvent with specified arguments. |
 
 ### Methods
 

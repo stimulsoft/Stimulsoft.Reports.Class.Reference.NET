@@ -15,7 +15,7 @@ public class FontsInfoStore
 
 | Constructor | Description |
 | --- | --- |
-| `FontsInfoStore()` |  |
+| **FontsInfoStore**() |  |
 
 ### Methods
 

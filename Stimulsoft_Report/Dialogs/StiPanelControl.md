@@ -19,8 +19,8 @@ Inherits from: StiReportControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiPanelControl()` | Creates a new StiPanelControl. |
-| `StiPanelControl([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiPanelControl. |
+| **StiPanelControl**() | Creates a new StiPanelControl. |
+| **StiPanelControl**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiPanelControl. |
 
 ### Properties
 

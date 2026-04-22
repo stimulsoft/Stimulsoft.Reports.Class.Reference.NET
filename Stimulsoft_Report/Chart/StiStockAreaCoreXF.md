@@ -19,4 +19,4 @@ Inherits from: [StiCandlestickAreaCoreXF](StiCandlestickAreaCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiStockAreaCoreXF(IStiArea area)` |  |
+| **StiStockAreaCoreXF**(IStiArea area) |  |

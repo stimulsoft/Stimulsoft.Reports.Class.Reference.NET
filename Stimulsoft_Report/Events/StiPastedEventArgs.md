@@ -21,8 +21,8 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiPastedEventArgs(StiComponent comp)` |  |
-| `StiPastedEventArgs(StiComponentsCollection comps)` |  |
+| **StiPastedEventArgs**(StiComponent comp) |  |
+| **StiPastedEventArgs**(StiComponentsCollection comps) |  |
 
 ### Properties
 

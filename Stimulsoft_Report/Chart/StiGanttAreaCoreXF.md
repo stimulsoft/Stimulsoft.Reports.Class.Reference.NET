@@ -19,7 +19,7 @@ Inherits from: [StiClusteredBarAreaCoreXF](StiClusteredBarAreaCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGanttAreaCoreXF(IStiArea area)` |  |
+| **StiGanttAreaCoreXF**(IStiArea area) |  |
 
 ### Methods
 

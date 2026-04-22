@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiInformixSource()` |  |
-| `StiInformixSource(string dataName, string name)` |  |
-| `StiInformixSource(string dataName, string name, string alias)` |  |
-| `StiInformixSource(string dataName, string name, string alias, string sqlCommand)` |  |
+| **StiInformixSource**() |  |
+| **StiInformixSource**(string dataName, string name) |  |
+| **StiInformixSource**(string dataName, string name, string alias) |  |
+| **StiInformixSource**(string dataName, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

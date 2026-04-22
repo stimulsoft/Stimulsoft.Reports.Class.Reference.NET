@@ -19,7 +19,7 @@ Inherits from: [StiClusteredColumnSeriesCoreXF](StiClusteredColumnSeriesCoreXF.m
 
 | Constructor | Description |
 | --- | --- |
-| `StiWaterfallSeriesCoreXF(IStiSeries series)` |  |
+| **StiWaterfallSeriesCoreXF**(IStiSeries series) |  |
 
 ### Methods
 

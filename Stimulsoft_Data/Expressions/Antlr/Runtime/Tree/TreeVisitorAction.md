@@ -15,7 +15,7 @@ public class TreeVisitorAction
 
 | Constructor | Description |
 | --- | --- |
-| `TreeVisitorAction(Misc.Func<object, object> preAction, Misc.Func<object, object> postAction)` |  |
+| **TreeVisitorAction**(Misc.Func<object, object> preAction, Misc.Func<object, object> postAction) |  |
 
 ### Methods
 

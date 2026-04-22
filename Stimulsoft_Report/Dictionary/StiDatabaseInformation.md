@@ -15,9 +15,9 @@ public class StiDatabaseInformation
 
 | Constructor | Description |
 | --- | --- |
-| `StiDatabaseInformation()` |  |
-| `StiDatabaseInformation(List<DataTable> tables)` |  |
-| `StiDatabaseInformation(DataTableCollection tables)` |  |
+| **StiDatabaseInformation**() |  |
+| **StiDatabaseInformation**(List<DataTable> tables) |  |
+| **StiDatabaseInformation**(DataTableCollection tables) |  |
 
 ### Properties
 

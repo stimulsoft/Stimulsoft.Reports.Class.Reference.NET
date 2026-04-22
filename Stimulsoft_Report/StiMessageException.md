@@ -19,5 +19,5 @@ Inherits from: Exception
 
 | Constructor | Description |
 | --- | --- |
-| `StiMessageException()` |  |
-| `StiMessageException(string value)` |  |
+| **StiMessageException**() |  |
+| **StiMessageException**(string value) |  |

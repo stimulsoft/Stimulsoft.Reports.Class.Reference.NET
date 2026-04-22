@@ -19,7 +19,7 @@ Inherits from: System.Windows.Forms.ListBox
 
 | Constructor | Description |
 | --- | --- |
-| `StiListBox()` |  |
+| **StiListBox**() |  |
 
 ### Properties
 

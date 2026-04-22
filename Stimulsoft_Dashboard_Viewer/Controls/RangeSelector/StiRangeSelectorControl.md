@@ -19,7 +19,7 @@ Inherits from: Panel
 
 | Constructor | Description |
 | --- | --- |
-| `StiRangeSelectorControl([StiControlColorCollection](../StiControlColorCollection.md) colors, StiRangeSelectorElement element)` |  |
+| **StiRangeSelectorControl**([StiControlColorCollection](../StiControlColorCollection.md) colors, StiRangeSelectorElement element) |  |
 
 ### Properties
 

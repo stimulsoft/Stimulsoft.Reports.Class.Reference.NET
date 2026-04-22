@@ -19,11 +19,11 @@ Inherits from: [StiNoSqlDatabase](../../StiNoSqlDatabase.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiBigQueryDatabase()` |  |
-| `StiBigQueryDatabase(string name, string connectionString)` |  |
-| `StiBigQueryDatabase(string name, string alias, string connectionString)` |  |
-| `StiBigQueryDatabase(string name, string alias, string connectionString, bool promptUserNameAndPassword)` |  |
-| `StiBigQueryDatabase(string name, string alias, string connectionString, bool promptUserNameAndPassword, string key)` |  |
+| **StiBigQueryDatabase**() |  |
+| **StiBigQueryDatabase**(string name, string connectionString) |  |
+| **StiBigQueryDatabase**(string name, string alias, string connectionString) |  |
+| **StiBigQueryDatabase**(string name, string alias, string connectionString, bool promptUserNameAndPassword) |  |
+| **StiBigQueryDatabase**(string name, string alias, string connectionString, bool promptUserNameAndPassword, string key) |  |
 
 ### Methods
 

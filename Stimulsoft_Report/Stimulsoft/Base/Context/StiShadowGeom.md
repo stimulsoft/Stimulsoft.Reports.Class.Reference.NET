@@ -19,7 +19,7 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiShadowGeom([StiContext](StiContext.md) shadowContext, RectangleF rect, float radius)` |  |
+| **StiShadowGeom**([StiContext](StiContext.md) shadowContext, RectangleF rect, float radius) |  |
 
 ### Properties
 

@@ -21,8 +21,8 @@ Inherits from: [StiObjectSchema](StiObjectSchema.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataSchema()` |  |
-| `StiDataSchema([StiConnectionIdent](StiConnectionIdent.md) ident)` |  |
+| **StiDataSchema**() |  |
+| **StiDataSchema**([StiConnectionIdent](StiConnectionIdent.md) ident) |  |
 
 ### Properties
 

@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiMouseEnterEvent()` | Creates a new object of the type StiMouseEnterEvent. |
-| `StiMouseEnterEvent(string script)` | Creates a new object of the type StiMouseEnterEvent with specified arguments. |
-| `StiMouseEnterEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiMouseEnterEvent**() | Creates a new object of the type StiMouseEnterEvent. |
+| **StiMouseEnterEvent**(string script) | Creates a new object of the type StiMouseEnterEvent with specified arguments. |
+| **StiMouseEnterEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

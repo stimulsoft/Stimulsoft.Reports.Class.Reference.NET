@@ -19,8 +19,8 @@ Inherits from: [StiDataParser](StiDataParser.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDimensionDataParser([IStiAppDictionary](../../Stimulsoft_Base/IStiAppDictionary.md) dictionary, [IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md) meter)` |  |
-| `StiDimensionDataParser([IStiAppDictionary](../../Stimulsoft_Base/IStiAppDictionary.md) dictionary, DataTable table, List<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)> meters)` |  |
+| **StiDimensionDataParser**([IStiAppDictionary](../../Stimulsoft_Base/IStiAppDictionary.md) dictionary, [IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md) meter) |  |
+| **StiDimensionDataParser**([IStiAppDictionary](../../Stimulsoft_Base/IStiAppDictionary.md) dictionary, DataTable table, List<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)> meters) |  |
 
 ### Methods
 

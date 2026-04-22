@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiWaterfallLineGeom(PointF pointStart, PointF pointEnd, [StiPenGeom](../Stimulsoft/Base/Context/StiPenGeom.md) pen, RectangleF clientRectangle, bool animation)` |  |
+| **StiWaterfallLineGeom**(PointF pointStart, PointF pointEnd, [StiPenGeom](../Stimulsoft/Base/Context/StiPenGeom.md) pen, RectangleF clientRectangle, bool animation) |  |
 
 ### Properties
 

@@ -19,8 +19,8 @@ Inherits from: StiReportControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiComboBoxControl()` | Creates a new StiComboBoxControl. |
-| `StiComboBoxControl([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiComboBoxControl. |
+| **StiComboBoxControl**() | Creates a new StiComboBoxControl. |
+| **StiComboBoxControl**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiComboBoxControl. |
 
 ### Properties
 

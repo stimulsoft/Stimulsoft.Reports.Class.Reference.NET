@@ -19,8 +19,8 @@ Inherits from: StiShapeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiTriangleShapeType()` | Creates a new triangle. |
-| `StiTriangleShapeType([StiShapeDirection](StiShapeDirection.md) direction)` | Creates a new triangle with the specified direction. |
+| **StiTriangleShapeType**() | Creates a new triangle. |
+| **StiTriangleShapeType**([StiShapeDirection](StiShapeDirection.md) direction) | Creates a new triangle with the specified direction. |
 
 ### Properties
 

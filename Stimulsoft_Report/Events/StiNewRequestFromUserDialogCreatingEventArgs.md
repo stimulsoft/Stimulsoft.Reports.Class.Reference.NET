@@ -19,8 +19,8 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiNewRequestFromUserDialogCreatingEventArgs(StiVariable variable, int width)` |  |
-| `StiNewRequestFromUserDialogCreatingEventArgs(StiVariable variable, double width)` |  |
+| **StiNewRequestFromUserDialogCreatingEventArgs**(StiVariable variable, int width) |  |
+| **StiNewRequestFromUserDialogCreatingEventArgs**(StiVariable variable, double width) |  |
 
 ### Properties
 

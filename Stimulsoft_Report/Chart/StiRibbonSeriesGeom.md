@@ -19,7 +19,7 @@ Inherits from: [StiSeriesGeom](StiSeriesGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiRibbonSeriesGeom([StiAreaGeom](StiAreaGeom.md) areaGeom, [StiRibbonSeriesMetadata](StiRibbonSeriesMetadata.md) metadata, IStiSeries series, TimeSpan beginTime)` |  |
+| **StiRibbonSeriesGeom**([StiAreaGeom](StiAreaGeom.md) areaGeom, [StiRibbonSeriesMetadata](StiRibbonSeriesMetadata.md) metadata, IStiSeries series, TimeSpan beginTime) |  |
 
 ### Methods
 

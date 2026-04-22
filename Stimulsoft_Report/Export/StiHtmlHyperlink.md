@@ -15,7 +15,7 @@ public class StiHtmlHyperlink
 
 | Constructor | Description |
 | --- | --- |
-| `StiHtmlHyperlink()` |  |
+| **StiHtmlHyperlink**() |  |
 
 ### Fields
 

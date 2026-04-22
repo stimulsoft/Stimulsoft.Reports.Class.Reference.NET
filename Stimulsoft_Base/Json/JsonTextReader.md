@@ -22,7 +22,7 @@ Implements: [IJsonLineInfo](IJsonLineInfo.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JsonTextReader(TextReader reader)` | Initializes a new instance of the JsonReader class with the specified TextReader. |
+| **JsonTextReader**(TextReader reader) | Initializes a new instance of the JsonReader class with the specified TextReader. |
 
 ### Methods
 

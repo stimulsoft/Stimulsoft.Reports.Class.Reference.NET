@@ -19,8 +19,8 @@ Inherits from: [StiGaugeStyleXF27](StiGaugeStyleXF27.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomGaugeStyle()` |  |
-| `StiCustomGaugeStyle(StiGaugeStyle style)` |  |
+| **StiCustomGaugeStyle**() |  |
+| **StiCustomGaugeStyle**(StiGaugeStyle style) |  |
 
 ### Fields
 

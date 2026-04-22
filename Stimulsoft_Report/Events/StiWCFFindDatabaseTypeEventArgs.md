@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiWCFFindDatabaseTypeEventArgs(string databaseType, [IStiDesignerBase](../Design/IStiDesignerBase.md) designer)` |  |
+| **StiWCFFindDatabaseTypeEventArgs**(string databaseType, [IStiDesignerBase](../Design/IStiDesignerBase.md) designer) |  |
 
 ### Fields
 

@@ -15,7 +15,7 @@ public sealed class StiFixedColumnInfo
 
 | Constructor | Description |
 | --- | --- |
-| `StiFixedColumnInfo(DataTable table, DataColumn fixedColumn)` |  |
+| **StiFixedColumnInfo**(DataTable table, DataColumn fixedColumn) |  |
 
 ### Properties
 

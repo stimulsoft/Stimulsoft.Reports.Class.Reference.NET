@@ -15,7 +15,7 @@ public class StiRecordsDeletedArg
 
 | Constructor | Description |
 | --- | --- |
-| `StiRecordsDeletedArg(string tableKey, intindexes )` |  |
+| **StiRecordsDeletedArg**(string tableKey, intindexes ) |  |
 
 ### Properties
 

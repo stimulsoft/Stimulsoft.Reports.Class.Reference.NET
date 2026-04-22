@@ -19,9 +19,9 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCachedShadowGeom(RectangleF rect, [StiShadowSides](../../../../Stimulsoft_Base/Drawing/StiShadowSides.md) sides, bool isPrinting)` |  |
-| `StiCachedShadowGeom(RectangleF rect, [StiShadowSides](../../../../Stimulsoft_Base/Drawing/StiShadowSides.md) sides, bool isPrinting, RectangleF clipRect)` |  |
-| `StiCachedShadowGeom(RectangleF rect, [StiShadowSides](../../../../Stimulsoft_Base/Drawing/StiShadowSides.md) sides, bool isPrinting, RectangleF clipRect, StiCornerRadius cornerRadius)` |  |
+| **StiCachedShadowGeom**(RectangleF rect, [StiShadowSides](../../../../Stimulsoft_Base/Drawing/StiShadowSides.md) sides, bool isPrinting) |  |
+| **StiCachedShadowGeom**(RectangleF rect, [StiShadowSides](../../../../Stimulsoft_Base/Drawing/StiShadowSides.md) sides, bool isPrinting, RectangleF clipRect) |  |
+| **StiCachedShadowGeom**(RectangleF rect, [StiShadowSides](../../../../Stimulsoft_Base/Drawing/StiShadowSides.md) sides, bool isPrinting, RectangleF clipRect, StiCornerRadius cornerRadius) |  |
 
 ### Properties
 

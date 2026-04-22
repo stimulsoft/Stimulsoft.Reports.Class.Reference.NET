@@ -21,11 +21,11 @@ Inherits from: [JContainer](JContainer.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JConstructor()` | Initializes a new instance of the JConstructor class. |
-| `JConstructor([JConstructor](JConstructor.md) other)` | Initializes a new instance of the JConstructor class from another JConstructor object. |
-| `JConstructor(string name)` | Initializes a new instance of the JConstructor class with the specified name. |
-| `JConstructor(string name, objectcontent )` | Initializes a new instance of the JConstructor class with the specified name and content. |
-| `JConstructor(string name, object content)` | Initializes a new instance of the JConstructor class with the specified name and content. |
+| **JConstructor**() | Initializes a new instance of the JConstructor class. |
+| **JConstructor**([JConstructor](JConstructor.md) other) | Initializes a new instance of the JConstructor class from another JConstructor object. |
+| **JConstructor**(string name) | Initializes a new instance of the JConstructor class with the specified name. |
+| **JConstructor**(string name, objectcontent ) | Initializes a new instance of the JConstructor class with the specified name and content. |
+| **JConstructor**(string name, object content) | Initializes a new instance of the JConstructor class with the specified name and content. |
 
 ### Methods
 

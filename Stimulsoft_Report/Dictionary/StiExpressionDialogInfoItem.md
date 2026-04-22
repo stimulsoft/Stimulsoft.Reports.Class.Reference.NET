@@ -19,4 +19,4 @@ Inherits from: StiDialogInfoItem
 
 | Constructor | Description |
 | --- | --- |
-| `StiExpressionDialogInfoItem()` |  |
+| **StiExpressionDialogInfoItem**() |  |

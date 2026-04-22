@@ -19,9 +19,9 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiMaxicodeBarCodeType()` |  |
-| `StiMaxicodeBarCodeType([StiMaxicodeMode](StiMaxicodeMode.md) mode, int structuredAppendPosition, int structuredAppendTotal, bool processTilde)` |  |
-| `StiMaxicodeBarCodeType([StiMaxicodeMode](StiMaxicodeMode.md) mode, int structuredAppendPosition, int structuredAppendTotal, bool processTilde, bool trimExcessData)` |  |
+| **StiMaxicodeBarCodeType**() |  |
+| **StiMaxicodeBarCodeType**([StiMaxicodeMode](StiMaxicodeMode.md) mode, int structuredAppendPosition, int structuredAppendTotal, bool processTilde) |  |
+| **StiMaxicodeBarCodeType**([StiMaxicodeMode](StiMaxicodeMode.md) mode, int structuredAppendPosition, int structuredAppendTotal, bool processTilde, bool trimExcessData) |  |
 
 ### Properties
 

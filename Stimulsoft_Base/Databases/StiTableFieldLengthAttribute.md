@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableFieldLengthAttribute(int length)` |  |
+| **StiTableFieldLengthAttribute**(int length) |  |
 
 ### Properties
 

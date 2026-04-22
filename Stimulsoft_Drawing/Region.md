@@ -19,9 +19,9 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `Region(Rectangle rect)` |  |
-| `Region(RectangleF rect)` |  |
-| `Region([GraphicsPath](Drawing2D/GraphicsPath.md) path)` |  |
+| **Region**(Rectangle rect) |  |
+| **Region**(RectangleF rect) |  |
+| **Region**([GraphicsPath](Drawing2D/GraphicsPath.md) path) |  |
 
 ### Methods
 

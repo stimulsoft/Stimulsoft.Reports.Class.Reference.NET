@@ -19,8 +19,8 @@ Inherits from: StiShapeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiChevronShapeType()` | Creates a new Chevron. |
-| `StiChevronShapeType([StiShapeDirection](StiShapeDirection.md) direction)` | Creates a new Chevron with specified arguments. |
+| **StiChevronShapeType**() | Creates a new Chevron. |
+| **StiChevronShapeType**([StiShapeDirection](StiShapeDirection.md) direction) | Creates a new Chevron with specified arguments. |
 
 ### Properties
 

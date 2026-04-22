@@ -17,7 +17,7 @@ public struct StiNameTypeEntry
 
 | Constructor | Description |
 | --- | --- |
-| `StiNameTypeEntry(string name, Type type)` | Creates a new instance of the StiNameTypeEntry class. |
+| **StiNameTypeEntry**(string name, Type type) | Creates a new instance of the StiNameTypeEntry class. |
 
 ### Properties
 

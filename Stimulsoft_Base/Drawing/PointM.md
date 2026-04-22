@@ -15,7 +15,7 @@ public struct PointM
 
 | Constructor | Description |
 | --- | --- |
-| `PointM(decimal x, decimal y)` | Initializes a new instance of the PointM class with the specified coordinates. |
+| **PointM**(decimal x, decimal y) | Initializes a new instance of the PointM class with the specified coordinates. |
 
 ### Properties
 

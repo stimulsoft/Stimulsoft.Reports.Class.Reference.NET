@@ -21,8 +21,8 @@ Inherits from: CollectionBase
 
 | Constructor | Description |
 | --- | --- |
-| `StiPropertyInfoCollection()` |  |
-| `StiPropertyInfoCollection([StiPropertyInfo](StiPropertyInfo.md) parentPropertyInfo)` |  |
+| **StiPropertyInfoCollection**() |  |
+| **StiPropertyInfoCollection**([StiPropertyInfo](StiPropertyInfo.md) parentPropertyInfo) |  |
 
 ### Methods
 

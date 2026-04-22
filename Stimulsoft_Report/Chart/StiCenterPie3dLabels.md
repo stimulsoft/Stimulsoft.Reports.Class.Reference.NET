@@ -19,7 +19,7 @@ Inherits from: StiPieSeriesLabels
 
 | Constructor | Description |
 | --- | --- |
-| `StiCenterPie3dLabels()` |  |
+| **StiCenterPie3dLabels**() |  |
 
 ### Methods
 

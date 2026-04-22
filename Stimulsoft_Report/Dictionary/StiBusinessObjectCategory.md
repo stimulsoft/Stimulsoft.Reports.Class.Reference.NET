@@ -17,7 +17,7 @@ public class StiBusinessObjectCategory
 
 | Constructor | Description |
 | --- | --- |
-| `StiBusinessObjectCategory(string category)` |  |
+| **StiBusinessObjectCategory**(string category) |  |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Inherits from: [StiAreaGeom](StiAreaGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiHeatmapAreaGeom(IStiArea area, RectangleF clientRectangle)` |  |
+| **StiHeatmapAreaGeom**(IStiArea area, RectangleF clientRectangle) |  |
 
 ### Methods
 

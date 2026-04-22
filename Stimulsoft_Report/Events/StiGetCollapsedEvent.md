@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetCollapsedEvent()` | Creates a new object of the type StiGetCollapsedEvent. |
-| `StiGetCollapsedEvent(string script)` | Creates a new object of the type StiGetCollapsedEvent with specified arguments. |
-| `StiGetCollapsedEvent(StiComponent parent)` | Creates a new object of the type StiGetCollapsedEvent with specified arguments. |
+| **StiGetCollapsedEvent**() | Creates a new object of the type StiGetCollapsedEvent. |
+| **StiGetCollapsedEvent**(string script) | Creates a new object of the type StiGetCollapsedEvent with specified arguments. |
+| **StiGetCollapsedEvent**(StiComponent parent) | Creates a new object of the type StiGetCollapsedEvent with specified arguments. |
 
 ### Methods
 

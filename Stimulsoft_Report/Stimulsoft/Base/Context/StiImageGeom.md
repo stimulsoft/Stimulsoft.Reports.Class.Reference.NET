@@ -19,7 +19,7 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiImageGeom(RectangleF rect, byteimage )` |  |
+| **StiImageGeom**(RectangleF rect, byteimage ) |  |
 
 ### Properties
 

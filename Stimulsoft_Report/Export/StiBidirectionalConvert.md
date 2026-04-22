@@ -15,7 +15,7 @@ public sealed class StiBidirectionalConvert
 
 | Constructor | Description |
 | --- | --- |
-| `StiBidirectionalConvert(Mode mode)` |  |
+| **StiBidirectionalConvert**(Mode mode) |  |
 
 ### Methods
 

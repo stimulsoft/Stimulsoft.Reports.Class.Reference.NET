@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCheckedExpression()` | Creates a new expression. |
-| `StiCheckedExpression(string value)` | Creates a new expression. |
-| `StiCheckedExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiCheckedExpression**() | Creates a new expression. |
+| **StiCheckedExpression**(string value) | Creates a new expression. |
+| **StiCheckedExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

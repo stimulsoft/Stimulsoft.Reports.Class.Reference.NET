@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiEditDataStoreAdapterEventArgs(object designer, [StiDataAdapterService](../Dictionary/StiDataAdapterService.md) adapter, StiDictionary dictionary, StiDataSource dataSource)` |  |
+| **StiEditDataStoreAdapterEventArgs**(object designer, [StiDataAdapterService](../Dictionary/StiDataAdapterService.md) adapter, StiDictionary dictionary, StiDataSource dataSource) |  |
 
 ### Properties
 

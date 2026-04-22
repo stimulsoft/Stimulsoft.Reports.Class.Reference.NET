@@ -21,7 +21,7 @@ Inherits from: [StiVisual](../StiVisual.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiIndicatorVisual(StiIndicatorElement element, List<[StiIndicatorIteration](StiIndicatorIteration.md)> iterations)` |  |
+| **StiIndicatorVisual**(StiIndicatorElement element, List<[StiIndicatorIteration](StiIndicatorIteration.md)> iterations) |  |
 
 ### Properties
 

@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTagExpression()` | Creates a new expression. |
-| `StiTagExpression(string value)` | Creates a new expression. |
-| `StiTagExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiTagExpression**() | Creates a new expression. |
+| **StiTagExpression**(string value) | Creates a new expression. |
+| **StiTagExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

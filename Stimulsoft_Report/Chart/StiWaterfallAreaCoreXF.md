@@ -19,7 +19,7 @@ Inherits from: [StiAxisAreaCoreXF](StiAxisAreaCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiWaterfallAreaCoreXF(IStiArea area)` |  |
+| **StiWaterfallAreaCoreXF**(IStiArea area) |  |
 
 ### Methods
 

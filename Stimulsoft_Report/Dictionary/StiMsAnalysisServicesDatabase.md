@@ -19,11 +19,11 @@ Inherits from: [StiNoSqlDatabase](StiNoSqlDatabase.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMsAnalysisServicesDatabase()` |  |
-| `StiMsAnalysisServicesDatabase(string name, string connectionString)` |  |
-| `StiMsAnalysisServicesDatabase(string name, string alias, string connectionString)` |  |
-| `StiMsAnalysisServicesDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiMsAnalysisServicesDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiMsAnalysisServicesDatabase**() |  |
+| **StiMsAnalysisServicesDatabase**(string name, string connectionString) |  |
+| **StiMsAnalysisServicesDatabase**(string name, string alias, string connectionString) |  |
+| **StiMsAnalysisServicesDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiMsAnalysisServicesDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Methods
 

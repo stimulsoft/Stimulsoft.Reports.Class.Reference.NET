@@ -15,7 +15,7 @@ public struct CharacterRange
 
 | Constructor | Description |
 | --- | --- |
-| `CharacterRange(int first, int length)` |  |
+| **CharacterRange**(int first, int length) |  |
 
 ### Properties
 

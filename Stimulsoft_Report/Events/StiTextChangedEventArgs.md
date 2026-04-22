@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiTextChangedEventArgs(string oldValue, string newValue)` | Creates a new object of the type StiTextChangedEventArgs. |
+| **StiTextChangedEventArgs**(string oldValue, string newValue) | Creates a new object of the type StiTextChangedEventArgs. |
 
 ### Properties
 

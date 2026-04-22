@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetTagEvent()` | Creates a new object of the type StiGetTagEvent. |
-| `StiGetTagEvent(string script)` | Creates a new object of the type StiGetTagEvent with specified arguments. |
-| `StiGetTagEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetTagEvent**() | Creates a new object of the type StiGetTagEvent. |
+| **StiGetTagEvent**(string script) | Creates a new object of the type StiGetTagEvent with specified arguments. |
+| **StiGetTagEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

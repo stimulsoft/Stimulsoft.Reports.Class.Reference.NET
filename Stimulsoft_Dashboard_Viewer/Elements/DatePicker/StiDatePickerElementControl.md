@@ -19,7 +19,7 @@ Inherits from: StiFilterElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiDatePickerElementControl(IStiElement element)` |  |
+| **StiDatePickerElementControl**(IStiElement element) |  |
 
 ### Methods
 

@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiSQLiteDatabase()` | Creates a new object of the type StiSQLiteDatabase. |
-| `StiSQLiteDatabase(string name, string connectionString)` | Creates a new object of the type StiSQLiteDatabase. |
-| `StiSQLiteDatabase(string name, string alias, string connectionString)` | Creates a new object of the type StiSQLiteDatabase. |
-| `StiSQLiteDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` | Creates a new object of the type StiSQLiteDatabase. |
-| `StiSQLiteDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` | Creates a new object of the type StiSQLiteDatabase. |
+| **StiSQLiteDatabase**() | Creates a new object of the type StiSQLiteDatabase. |
+| **StiSQLiteDatabase**(string name, string connectionString) | Creates a new object of the type StiSQLiteDatabase. |
+| **StiSQLiteDatabase**(string name, string alias, string connectionString) | Creates a new object of the type StiSQLiteDatabase. |
+| **StiSQLiteDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiSQLiteDatabase. |
+| **StiSQLiteDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiSQLiteDatabase. |
 
 ### Methods
 

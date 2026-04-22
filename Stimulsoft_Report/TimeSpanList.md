@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `TimeSpanList()` |  |
-| `TimeSpanList(TimeSpanvalues )` |  |
+| **TimeSpanList**() |  |
+| **TimeSpanList**(TimeSpanvalues ) |  |
 
 ### Methods
 

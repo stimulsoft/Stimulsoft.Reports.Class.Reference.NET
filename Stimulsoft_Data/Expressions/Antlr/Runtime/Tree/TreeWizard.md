@@ -15,10 +15,10 @@ public class TreeWizard
 
 | Constructor | Description |
 | --- | --- |
-| `TreeWizard([ITreeAdaptor](ITreeAdaptor.md) adaptor)` |  |
-| `TreeWizard(stringtokenNames )` |  |
-| `TreeWizard([ITreeAdaptor](ITreeAdaptor.md) adaptor, IDictionary<string, int> tokenNameToTypeMap)` |  |
-| `TreeWizard([ITreeAdaptor](ITreeAdaptor.md) adaptor, stringtokenNames )` |  |
+| **TreeWizard**([ITreeAdaptor](ITreeAdaptor.md) adaptor) |  |
+| **TreeWizard**(stringtokenNames ) |  |
+| **TreeWizard**([ITreeAdaptor](ITreeAdaptor.md) adaptor, IDictionary<string, int> tokenNameToTypeMap) |  |
+| **TreeWizard**([ITreeAdaptor](ITreeAdaptor.md) adaptor, stringtokenNames ) |  |
 
 ### Methods
 

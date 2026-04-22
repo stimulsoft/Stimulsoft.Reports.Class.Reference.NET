@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiAxisTitleGeom(IStiAxis axis, RectangleF clientRectangle, float angle, [StiFontGeom](../Stimulsoft/Base/Context/StiFontGeom.md) font)` |  |
+| **StiAxisTitleGeom**(IStiAxis axis, RectangleF clientRectangle, float angle, [StiFontGeom](../Stimulsoft/Base/Context/StiFontGeom.md) font) |  |
 
 ### Properties
 

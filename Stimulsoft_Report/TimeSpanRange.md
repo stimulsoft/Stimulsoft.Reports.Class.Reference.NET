@@ -20,9 +20,9 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `TimeSpanRange()` |  |
-| `TimeSpanRange(TimeSpan from, TimeSpan to)` |  |
-| `TimeSpanRange(TimeSpan? from, TimeSpan? to)` |  |
+| **TimeSpanRange**() |  |
+| **TimeSpanRange**(TimeSpan from, TimeSpan to) |  |
+| **TimeSpanRange**(TimeSpan? from, TimeSpan? to) |  |
 
 ### Methods
 

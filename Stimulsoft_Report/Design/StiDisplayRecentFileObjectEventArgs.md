@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiDisplayRecentFileObjectEventArgs([Stimulsoft.Base.RecentFiles.StiRecentFile](../../Stimulsoft_Base/RecentFiles/StiRecentFile.md) recentFile)` |  |
+| **StiDisplayRecentFileObjectEventArgs**([Stimulsoft.Base.RecentFiles.StiRecentFile](../../Stimulsoft_Base/RecentFiles/StiRecentFile.md) recentFile) |  |
 
 ### Properties
 

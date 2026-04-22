@@ -19,8 +19,8 @@ Inherits from: [StiAnimation](StiAnimation.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiScaleAnimation(TimeSpan duration, TimeSpan beginTime)` |  |
-| `StiScaleAnimation(double StartScaleX, double EndScaleX, double StartScaleY, double EndScaleY, double centerX, double centerY, TimeSpan duration, TimeSpan beginTime)` |  |
+| **StiScaleAnimation**(TimeSpan duration, TimeSpan beginTime) |  |
+| **StiScaleAnimation**(double StartScaleX, double EndScaleX, double StartScaleY, double EndScaleY, double centerX, double centerY, TimeSpan duration, TimeSpan beginTime) |  |
 
 ### Properties
 

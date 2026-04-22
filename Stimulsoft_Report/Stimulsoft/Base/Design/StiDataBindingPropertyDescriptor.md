@@ -21,7 +21,7 @@ Inherits from: [StiPropertyDescriptor](../../../../Stimulsoft_Base/Localization/
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataBindingPropertyDescriptor(PropertyDescriptor propertyDescriptor)` | Initializes a new instance of the PropertyDescriptor class with the name and attributes in the specified PropertyDescriptor. |
+| **StiDataBindingPropertyDescriptor**(PropertyDescriptor propertyDescriptor) | Initializes a new instance of the PropertyDescriptor class with the name and attributes in the specified PropertyDescriptor. |
 
 ### Methods
 

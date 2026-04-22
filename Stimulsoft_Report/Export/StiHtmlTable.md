@@ -15,7 +15,7 @@ public class StiHtmlTable
 
 | Constructor | Description |
 | --- | --- |
-| `StiHtmlTable()` |  |
+| **StiHtmlTable**() |  |
 
 ### Methods
 

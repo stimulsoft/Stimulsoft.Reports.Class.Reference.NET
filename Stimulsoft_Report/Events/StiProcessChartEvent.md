@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiProcessChartEvent()` | Creates a new object of the type StiPostProcessChartEvent. |
-| `StiProcessChartEvent(string script)` | Creates a new object of the type StiPostProcessChartEvent with specified arguments. |
-| `StiProcessChartEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiProcessChartEvent**() | Creates a new object of the type StiPostProcessChartEvent. |
+| **StiProcessChartEvent**(string script) | Creates a new object of the type StiPostProcessChartEvent with specified arguments. |
+| **StiProcessChartEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

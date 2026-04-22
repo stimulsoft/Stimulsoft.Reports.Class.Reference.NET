@@ -20,9 +20,9 @@ Implements: [IStiMaxGaugeMeter](../../../Stimulsoft_Base/Meters/IStiMaxGaugeMete
 
 | Constructor | Description |
 | --- | --- |
-| `StiMaxGaugeMeter()` |  |
-| `StiMaxGaugeMeter(string expression, string label)` |  |
-| `StiMaxGaugeMeter(string key, string expression, string label)` |  |
+| **StiMaxGaugeMeter**() |  |
+| **StiMaxGaugeMeter**(string expression, string label) |  |
+| **StiMaxGaugeMeter**(string key, string expression, string label) |  |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiSuperToolTipTextAttribute(string text)` | Creates a new attribute of the type StiSuperToolTipTextAttribute. |
+| **StiSuperToolTipTextAttribute**(string text) | Creates a new attribute of the type StiSuperToolTipTextAttribute. |
 
 ### Properties
 

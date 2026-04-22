@@ -19,10 +19,10 @@ Inherits from: [StiDataStoreSource](StiDataStoreSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDbUserSource()` | Creates a new object of the type StiEditableUserSource. |
-| `StiDbUserSource(string name)` | Creates a new object of the type StiEditableUserSource. |
-| `StiDbUserSource(string name, string alias)` | Creates a new object of the type StiEditableUserSource. |
-| `StiDbUserSource(string name, string alias, string key)` | Creates a new object of the type StiEditableUserSource. |
+| **StiDbUserSource**() | Creates a new object of the type StiEditableUserSource. |
+| **StiDbUserSource**(string name) | Creates a new object of the type StiEditableUserSource. |
+| **StiDbUserSource**(string name, string alias) | Creates a new object of the type StiEditableUserSource. |
+| **StiDbUserSource**(string name, string alias, string key) | Creates a new object of the type StiEditableUserSource. |
 
 ### Properties
 

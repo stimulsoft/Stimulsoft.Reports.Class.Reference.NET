@@ -19,8 +19,8 @@ Inherits from: [ANTLRStringStream](ANTLRStringStream.md)
 
 | Constructor | Description |
 | --- | --- |
-| `ANTLRFileStream(string fileName)` |  |
-| `ANTLRFileStream(string fileName, Encoding encoding)` |  |
+| **ANTLRFileStream**(string fileName) |  |
+| **ANTLRFileStream**(string fileName, Encoding encoding) |  |
 
 ### Methods
 

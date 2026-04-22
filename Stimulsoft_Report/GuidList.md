@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `GuidList()` |  |
-| `GuidList(Guidvalues )` |  |
+| **GuidList**() |  |
+| **GuidList**(Guidvalues ) |  |
 
 ### Methods
 

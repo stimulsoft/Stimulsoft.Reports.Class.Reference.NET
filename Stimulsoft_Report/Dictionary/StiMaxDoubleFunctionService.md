@@ -21,8 +21,8 @@ Inherits from: StiAggregateFunctionService
 
 | Constructor | Description |
 | --- | --- |
-| `StiMaxDoubleFunctionService()` |  |
-| `StiMaxDoubleFunctionService(bool runningTotal)` |  |
+| **StiMaxDoubleFunctionService**() |  |
+| **StiMaxDoubleFunctionService**(bool runningTotal) |  |
 
 ### Methods
 

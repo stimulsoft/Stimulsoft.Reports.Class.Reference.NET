@@ -15,7 +15,7 @@ public class StiZipWriter20
 
 | Constructor | Description |
 | --- | --- |
-| `StiZipWriter20()` |  |
+| **StiZipWriter20**() |  |
 
 ### Methods
 

@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `DoubleList()` |  |
-| `DoubleList(doublevalues )` |  |
+| **DoubleList**() |  |
+| **DoubleList**(doublevalues ) |  |
 
 ### Methods
 

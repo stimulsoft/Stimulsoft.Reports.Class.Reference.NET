@@ -19,6 +19,6 @@ Inherits from: Exception
 
 | Constructor | Description |
 | --- | --- |
-| `BiffRecordException()` |  |
-| `BiffRecordException(string message)` |  |
-| `BiffRecordException(string message, Exception innerException)` |  |
+| **BiffRecordException**() |  |
+| **BiffRecordException**(string message) |  |
+| **BiffRecordException**(string message, Exception innerException) |  |

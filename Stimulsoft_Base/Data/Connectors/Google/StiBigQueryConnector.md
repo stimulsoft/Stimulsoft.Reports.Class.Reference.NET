@@ -19,7 +19,7 @@ Inherits from: StiDbNoSqlDataConnector
 
 | Constructor | Description |
 | --- | --- |
-| `StiBigQueryConnector(string connectionString)` |  |
+| **StiBigQueryConnector**(string connectionString) |  |
 
 ### Methods
 

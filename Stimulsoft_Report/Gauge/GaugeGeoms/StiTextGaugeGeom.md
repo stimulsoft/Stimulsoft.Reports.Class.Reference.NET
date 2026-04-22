@@ -19,7 +19,7 @@ Inherits from: [StiGaugeGeom](StiGaugeGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTextGaugeGeom(string text, [Font](../../../Stimulsoft_Drawing/Font.md) font, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) foreground, RectangleF rect, [StringFormat](../../../Stimulsoft_Drawing/StringFormat.md) sf)` |  |
+| **StiTextGaugeGeom**(string text, [Font](../../../Stimulsoft_Drawing/Font.md) font, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) foreground, RectangleF rect, [StringFormat](../../../Stimulsoft_Drawing/StringFormat.md) sf) |  |
 
 ### Properties
 

@@ -19,4 +19,4 @@ Inherits from: StiSeriesLabelsCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiFunnelSeriesLabelsCoreXF(IStiSeriesLabels seriesLabels)` |  |
+| **StiFunnelSeriesLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |

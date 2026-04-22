@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiPropertyLevelAttribute()` | Creates a new object of the type StiPropertyLevelAttribute. |
-| `StiPropertyLevelAttribute([StiLevel](../../../../Stimulsoft_Base/StiLevel.md) level)` | Creates a new object of the type StiPropertyLevelAttribute. |
+| **StiPropertyLevelAttribute**() | Creates a new object of the type StiPropertyLevelAttribute. |
+| **StiPropertyLevelAttribute**([StiLevel](../../../../Stimulsoft_Base/StiLevel.md) level) | Creates a new object of the type StiPropertyLevelAttribute. |
 
 ### Properties
 

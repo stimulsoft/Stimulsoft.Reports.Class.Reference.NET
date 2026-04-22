@@ -21,9 +21,9 @@ Inherits from: StiMeasureMeter
 
 | Constructor | Description |
 | --- | --- |
-| `StiIndicatorValueChartMeter()` |  |
-| `StiIndicatorValueChartMeter(string expression, string label)` |  |
-| `StiIndicatorValueChartMeter(string key, string expression, string label)` |  |
+| **StiIndicatorValueChartMeter**() |  |
+| **StiIndicatorValueChartMeter**(string expression, string label) |  |
+| **StiIndicatorValueChartMeter**(string key, string expression, string label) |  |
 
 ### Properties
 

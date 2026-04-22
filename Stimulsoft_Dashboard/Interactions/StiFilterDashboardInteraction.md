@@ -19,7 +19,7 @@ Inherits from: StiDashboardInteraction
 
 | Constructor | Description |
 | --- | --- |
-| `StiFilterDashboardInteraction()` |  |
+| **StiFilterDashboardInteraction**() |  |
 
 ### Properties
 

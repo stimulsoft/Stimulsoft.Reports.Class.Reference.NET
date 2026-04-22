@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDotConnectUniversalSource()` |  |
-| `StiDotConnectUniversalSource(string nameInSource, string name)` |  |
-| `StiDotConnectUniversalSource(string nameInSource, string name, string alias)` |  |
-| `StiDotConnectUniversalSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiDotConnectUniversalSource**() |  |
+| **StiDotConnectUniversalSource**(string nameInSource, string name) |  |
+| **StiDotConnectUniversalSource**(string nameInSource, string name, string alias) |  |
+| **StiDotConnectUniversalSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

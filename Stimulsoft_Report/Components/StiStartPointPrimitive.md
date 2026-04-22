@@ -19,5 +19,5 @@ Inherits from: StiPointPrimitive
 
 | Constructor | Description |
 | --- | --- |
-| `StiStartPointPrimitive()` | Creates a new StiStartPointPrimitive. |
-| `StiStartPointPrimitive([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiStartPointPrimitive. |
+| **StiStartPointPrimitive**() | Creates a new StiStartPointPrimitive. |
+| **StiStartPointPrimitive**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiStartPointPrimitive. |

@@ -17,8 +17,8 @@ public class StiReference
 
 | Constructor | Description |
 | --- | --- |
-| `StiReference([StiPropertyInfo](StiPropertyInfo.md) propInfo)` | Creates a new instance of the StiReference class. |
-| `StiReference([StiPropertyInfo](StiPropertyInfo.md) propInfo, object obj, PropertyInfo propertyInfo)` | Creates a new instance of the StiReference class. |
+| **StiReference**([StiPropertyInfo](StiPropertyInfo.md) propInfo) | Creates a new instance of the StiReference class. |
+| **StiReference**([StiPropertyInfo](StiPropertyInfo.md) propInfo, object obj, PropertyInfo propertyInfo) | Creates a new instance of the StiReference class. |
 
 ### Properties
 

@@ -19,10 +19,10 @@ Inherits from: [JsonException](JsonException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JsonWriterException()` | Initializes a new instance of the JsonWriterException class. |
-| `JsonWriterException(string message)` | Initializes a new instance of the JsonWriterException class with a specified error message. |
-| `JsonWriterException(string message, Exception innerException)` | Initializes a new instance of the JsonWriterException class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-| `JsonWriterException(SerializationInfo info, StreamingContext context)` | Initializes a new instance of the JsonWriterException class. |
+| **JsonWriterException**() | Initializes a new instance of the JsonWriterException class. |
+| **JsonWriterException**(string message) | Initializes a new instance of the JsonWriterException class with a specified error message. |
+| **JsonWriterException**(string message, Exception innerException) | Initializes a new instance of the JsonWriterException class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| **JsonWriterException**(SerializationInfo info, StreamingContext context) | Initializes a new instance of the JsonWriterException class. |
 
 ### Properties
 

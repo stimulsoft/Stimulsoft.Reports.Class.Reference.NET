@@ -19,7 +19,7 @@ Inherits from: [StiPostgreSqlConnector](StiPostgreSqlConnector.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPostgreSqlDevartConnector(string connectionString)` |  |
+| **StiPostgreSqlDevartConnector**(string connectionString) |  |
 
 ### Methods
 

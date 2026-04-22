@@ -19,8 +19,8 @@ Inherits from: StiShapeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiRoundedRectangleShapeType()` | Creates a new rounded rectangle. |
-| `StiRoundedRectangleShapeType(float round)` | Creates a new rounded rectangle with the specified factor of rounding. |
+| **StiRoundedRectangleShapeType**() | Creates a new rounded rectangle. |
+| **StiRoundedRectangleShapeType**(float round) | Creates a new rounded rectangle with the specified factor of rounding. |
 
 ### Methods
 

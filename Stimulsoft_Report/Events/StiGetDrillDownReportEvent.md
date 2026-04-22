@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetDrillDownReportEvent()` | Creates a new object of the type StiGetDrillDownReportEvent. |
-| `StiGetDrillDownReportEvent(string script)` | Creates a new object of the type StiGetDrillDownReportEvent with specified arguments. |
-| `StiGetDrillDownReportEvent(StiComponent parent)` | Creates a new object of the type StiGetDrillDownReportEvent with specified arguments. |
+| **StiGetDrillDownReportEvent**() | Creates a new object of the type StiGetDrillDownReportEvent. |
+| **StiGetDrillDownReportEvent**(string script) | Creates a new object of the type StiGetDrillDownReportEvent with specified arguments. |
+| **StiGetDrillDownReportEvent**(StiComponent parent) | Creates a new object of the type StiGetDrillDownReportEvent with specified arguments. |
 
 ### Methods
 

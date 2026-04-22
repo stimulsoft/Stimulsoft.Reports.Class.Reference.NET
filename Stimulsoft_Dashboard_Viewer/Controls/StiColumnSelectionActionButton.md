@@ -19,7 +19,7 @@ Inherits from: StiActionButton
 
 | Constructor | Description |
 | --- | --- |
-| `StiColumnSelectionActionButton([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position)` |  |
+| **StiColumnSelectionActionButton**([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position) |  |
 
 ### Methods
 

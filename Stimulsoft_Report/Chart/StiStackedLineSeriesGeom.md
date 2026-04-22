@@ -19,7 +19,7 @@ Inherits from: [StiBaseLineSeriesGeom](StiBaseLineSeriesGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiStackedLineSeriesGeom([StiAreaGeom](StiAreaGeom.md) areaGeom, [StiSeriesPointsInfo](StiSeriesPointsInfo.md) pointsInfo, IStiSeries series)` |  |
+| **StiStackedLineSeriesGeom**([StiAreaGeom](StiAreaGeom.md) areaGeom, [StiSeriesPointsInfo](StiSeriesPointsInfo.md) pointsInfo, IStiSeries series) |  |
 
 ### Methods
 

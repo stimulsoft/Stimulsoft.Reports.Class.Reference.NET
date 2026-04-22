@@ -15,8 +15,8 @@ public class StiListBoxItem
 
 | Constructor | Description |
 | --- | --- |
-| `StiListBoxItem(string label)` |  |
-| `StiListBoxItem(string label, object value)` |  |
+| **StiListBoxItem**(string label) |  |
+| **StiListBoxItem**(string label, object value) |  |
 
 ### Properties
 

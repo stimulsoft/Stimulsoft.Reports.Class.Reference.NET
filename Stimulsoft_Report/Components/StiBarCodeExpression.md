@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiBarCodeExpression()` | Creates a new expression. |
-| `StiBarCodeExpression(string value)` | Creates a new expression. |
-| `StiBarCodeExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiBarCodeExpression**() | Creates a new expression. |
+| **StiBarCodeExpression**(string value) | Creates a new expression. |
+| **StiBarCodeExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

@@ -19,8 +19,8 @@ Inherits from: [StiAnimation](StiAnimation.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLabelAnimation(TimeSpan duration, TimeSpan beginTime)` |  |
-| `StiLabelAnimation(double? valueFrom, double? value, PointF pointFrom, PointF point, TimeSpan duration, TimeSpan beginTime)` |  |
+| **StiLabelAnimation**(TimeSpan duration, TimeSpan beginTime) |  |
+| **StiLabelAnimation**(double? valueFrom, double? value, PointF pointFrom, PointF point, TimeSpan duration, TimeSpan beginTime) |  |
 
 ### Properties
 

@@ -19,4 +19,4 @@ Inherits from: Panel
 
 | Constructor | Description |
 | --- | --- |
-| `StiDashboardTabsPanel()` |  |
+| **StiDashboardTabsPanel**() |  |

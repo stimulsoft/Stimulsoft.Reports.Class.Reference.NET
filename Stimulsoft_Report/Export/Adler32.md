@@ -19,7 +19,7 @@ Implements: [IChecksum](IChecksum.md)
 
 | Constructor | Description |
 | --- | --- |
-| `Adler32()` |  |
+| **Adler32**() |  |
 
 ### Methods
 

@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiSaveDocumentEventArgs([StiReport](../StiReport.md) report, string filePath, string fileName)` |  |
+| **StiSaveDocumentEventArgs**([StiReport](../StiReport.md) report, string filePath, string fileName) |  |
 
 ### Properties
 

@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetSummaryExpressionEvent()` | Creates a new object of the type StiGetSummaryExpressionEvent. |
-| `StiGetSummaryExpressionEvent(string script)` | Creates a new object of the type StiGetSummaryExpressionEvent with specified arguments. |
-| `StiGetSummaryExpressionEvent(StiComponent parent)` | Creates a new object of the type StiGetSummaryExpressionEvent with specified arguments. |
+| **StiGetSummaryExpressionEvent**() | Creates a new object of the type StiGetSummaryExpressionEvent. |
+| **StiGetSummaryExpressionEvent**(string script) | Creates a new object of the type StiGetSummaryExpressionEvent with specified arguments. |
+| **StiGetSummaryExpressionEvent**(StiComponent parent) | Creates a new object of the type StiGetSummaryExpressionEvent with specified arguments. |
 
 ### Methods
 

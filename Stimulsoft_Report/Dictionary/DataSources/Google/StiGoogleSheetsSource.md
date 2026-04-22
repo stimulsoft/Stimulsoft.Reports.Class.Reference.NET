@@ -19,9 +19,9 @@ Inherits from: [StiDataStoreSource](../../StiDataStoreSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGoogleSheetsSource()` | Creates a new object of the type StiGoogleSheetsSource. |
-| `StiGoogleSheetsSource(string nameInSource, string name)` |  |
-| `StiGoogleSheetsSource(string nameInSource, string name, string alias, string key)` |  |
+| **StiGoogleSheetsSource**() | Creates a new object of the type StiGoogleSheetsSource. |
+| **StiGoogleSheetsSource**(string nameInSource, string name) |  |
+| **StiGoogleSheetsSource**(string nameInSource, string name, string alias, string key) |  |
 
 ### Methods
 

@@ -15,7 +15,7 @@ public class StiAppsRecord
 
 | Constructor | Description |
 | --- | --- |
-| `StiAppsRecord(int index, int position, List<object> values)` |  |
+| **StiAppsRecord**(int index, int position, List<object> values) |  |
 
 ### Properties
 

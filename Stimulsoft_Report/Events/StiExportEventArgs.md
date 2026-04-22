@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiExportEventArgs([StiExportFormat](../StiExportFormat.md) format)` |  |
+| **StiExportEventArgs**([StiExportFormat](../StiExportFormat.md) format) |  |
 
 ### Properties
 

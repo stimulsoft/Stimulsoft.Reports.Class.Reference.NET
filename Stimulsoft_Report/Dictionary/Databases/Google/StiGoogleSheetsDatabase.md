@@ -19,8 +19,8 @@ Inherits from: StiDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiGoogleSheetsDatabase()` |  |
-| `StiGoogleSheetsDatabase(string name, string alias, string key, string clientId, string clientSecret, string spreadsheetId, bool firstRowIsHeader)` |  |
+| **StiGoogleSheetsDatabase**() |  |
+| **StiGoogleSheetsDatabase**(string name, string alias, string key, string clientId, string clientSecret, string spreadsheetId, bool firstRowIsHeader) |  |
 
 ### Properties
 

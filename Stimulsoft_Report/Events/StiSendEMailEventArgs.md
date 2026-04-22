@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiSendEMailEventArgs([StiReport](../StiReport.md) report, string recipient, string subject, string body, string filePath)` |  |
+| **StiSendEMailEventArgs**([StiReport](../StiReport.md) report, string recipient, string subject, string body, string filePath) |  |
 
 ### Properties
 

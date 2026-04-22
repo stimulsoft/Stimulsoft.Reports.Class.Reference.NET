@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiBookmarkExpression()` | Creates a new expression. |
-| `StiBookmarkExpression(string val)` | Creates a new expression. |
-| `StiBookmarkExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiBookmarkExpression**() | Creates a new expression. |
+| **StiBookmarkExpression**(string val) | Creates a new expression. |
+| **StiBookmarkExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

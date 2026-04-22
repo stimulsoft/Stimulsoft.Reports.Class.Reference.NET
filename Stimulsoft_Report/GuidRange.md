@@ -20,8 +20,8 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `GuidRange()` |  |
-| `GuidRange(Guid from, Guid to)` |  |
+| **GuidRange**() |  |
+| **GuidRange**(Guid from, Guid to) |  |
 
 ### Methods
 

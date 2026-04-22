@@ -15,7 +15,7 @@ public class StiPdfEmbeddedFileData
 
 | Constructor | Description |
 | --- | --- |
-| `StiPdfEmbeddedFileData(string name, string description, bytedata , string mimeType)` |  |
+| **StiPdfEmbeddedFileData**(string name, string description, bytedata , string mimeType) |  |
 
 ### Properties
 

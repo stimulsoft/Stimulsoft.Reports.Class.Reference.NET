@@ -19,11 +19,11 @@ Inherits from: TreeNode
 
 | Constructor | Description |
 | --- | --- |
-| `StiTreeNode()` |  |
-| `StiTreeNode(string text)` |  |
-| `StiTreeNode(string text, StiTreeNodechilds )` |  |
-| `StiTreeNode(string text, int imageIndex, int selectedImageIndex)` |  |
-| `StiTreeNode(string text, int imageIndex, int selectedImageIndex, StiTreeNodechilds )` |  |
+| **StiTreeNode**() |  |
+| **StiTreeNode**(string text) |  |
+| **StiTreeNode**(string text, StiTreeNodechilds ) |  |
+| **StiTreeNode**(string text, int imageIndex, int selectedImageIndex) |  |
+| **StiTreeNode**(string text, int imageIndex, int selectedImageIndex, StiTreeNodechilds ) |  |
 
 ### Methods
 

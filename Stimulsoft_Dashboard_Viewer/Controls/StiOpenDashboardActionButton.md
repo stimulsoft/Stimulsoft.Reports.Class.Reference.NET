@@ -19,7 +19,7 @@ Inherits from: StiActionButton
 
 | Constructor | Description |
 | --- | --- |
-| `StiOpenDashboardActionButton([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position)` |  |
+| **StiOpenDashboardActionButton**([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position) |  |
 
 ### Methods
 

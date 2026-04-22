@@ -19,7 +19,7 @@ Inherits from: [StiNumberFormatService](StiNumberFormatService.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCurrencyFormatService()` | Creates a new format of the type StiCurrencyFormatService. |
+| **StiCurrencyFormatService**() | Creates a new format of the type StiCurrencyFormatService. |
 
 ### Properties
 

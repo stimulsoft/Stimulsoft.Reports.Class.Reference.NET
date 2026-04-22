@@ -19,7 +19,7 @@ Inherits from: StiAtomElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiGaugeControl(IStiElement element)` |  |
+| **StiGaugeControl**(IStiElement element) |  |
 
 ### Properties
 

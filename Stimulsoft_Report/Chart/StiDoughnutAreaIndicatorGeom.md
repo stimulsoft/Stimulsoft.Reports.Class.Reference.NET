@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiDoughnutAreaIndicatorGeom(RectangleF clientRectangle, string valueText, string titleText, IStiDoughnutAreaIndicator indicator)` |  |
+| **StiDoughnutAreaIndicatorGeom**(RectangleF clientRectangle, string valueText, string titleText, IStiDoughnutAreaIndicator indicator) |  |
 
 ### Properties
 

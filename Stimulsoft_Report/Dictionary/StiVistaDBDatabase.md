@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiVistaDBDatabase()` | Creates a new object of the type StiVistaDBDatabase. |
-| `StiVistaDBDatabase(string name, string connectionString)` | Creates a new object of the type StiVistaDBDatabase. |
-| `StiVistaDBDatabase(string name, string alias, string connectionString)` | Creates a new object of the type StiVistaDBDatabase. |
-| `StiVistaDBDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` | Creates a new object of the type StiVistaDBDatabase. |
-| `StiVistaDBDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` | Creates a new object of the type StiVistaDBDatabase. |
+| **StiVistaDBDatabase**() | Creates a new object of the type StiVistaDBDatabase. |
+| **StiVistaDBDatabase**(string name, string connectionString) | Creates a new object of the type StiVistaDBDatabase. |
+| **StiVistaDBDatabase**(string name, string alias, string connectionString) | Creates a new object of the type StiVistaDBDatabase. |
+| **StiVistaDBDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiVistaDBDatabase. |
+| **StiVistaDBDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiVistaDBDatabase. |
 
 ### Methods
 

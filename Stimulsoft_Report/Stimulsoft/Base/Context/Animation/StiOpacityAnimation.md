@@ -19,4 +19,4 @@ Inherits from: [StiAnimation](StiAnimation.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiOpacityAnimation(TimeSpan duration, TimeSpan beginTime)` |  |
+| **StiOpacityAnimation**(TimeSpan duration, TimeSpan beginTime) |  |

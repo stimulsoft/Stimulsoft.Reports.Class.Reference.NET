@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetImageURLEvent()` | Creates a new object of the type StiGetImageURLEvent. |
-| `StiGetImageURLEvent(string script)` | Creates a new object of the type StiGetImageURLEvent with specified arguments. |
-| `StiGetImageURLEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetImageURLEvent**() | Creates a new object of the type StiGetImageURLEvent. |
+| **StiGetImageURLEvent**(string script) | Creates a new object of the type StiGetImageURLEvent with specified arguments. |
+| **StiGetImageURLEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

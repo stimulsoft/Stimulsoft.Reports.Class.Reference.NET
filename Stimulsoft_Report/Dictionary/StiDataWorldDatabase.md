@@ -19,11 +19,11 @@ Inherits from: [StiNoSqlDatabase](StiNoSqlDatabase.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataWorldDatabase()` |  |
-| `StiDataWorldDatabase(string name, string connectionString)` |  |
-| `StiDataWorldDatabase(string name, string alias, string connectionString)` |  |
-| `StiDataWorldDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiDataWorldDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiDataWorldDatabase**() |  |
+| **StiDataWorldDatabase**(string name, string connectionString) |  |
+| **StiDataWorldDatabase**(string name, string alias, string connectionString) |  |
+| **StiDataWorldDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiDataWorldDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Methods
 

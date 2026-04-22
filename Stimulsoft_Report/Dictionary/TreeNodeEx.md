@@ -19,5 +19,5 @@ Inherits from: TreeNode
 
 | Constructor | Description |
 | --- | --- |
-| `TreeNodeEx()` |  |
-| `TreeNodeEx(string text)` |  |
+| **TreeNodeEx**() |  |
+| **TreeNodeEx**(string text) |  |

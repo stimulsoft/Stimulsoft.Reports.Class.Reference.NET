@@ -19,4 +19,4 @@ Inherits from: StiDashboardExportSettings
 
 | Constructor | Description |
 | --- | --- |
-| `StiDocumentDashboardExportSettings()` |  |
+| **StiDocumentDashboardExportSettings**() |  |

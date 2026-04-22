@@ -19,9 +19,9 @@ Inherits from: [Lexer](Expressions/Antlr/Runtime/Lexer.md)
 
 | Constructor | Description |
 | --- | --- |
-| `NCalcLexer()` |  |
-| `NCalcLexer([ICharStream](Expressions/Antlr/Runtime/ICharStream.md) input)` |  |
-| `NCalcLexer([ICharStream](Expressions/Antlr/Runtime/ICharStream.md) input, [RecognizerSharedState](Expressions/Antlr/Runtime/RecognizerSharedState.md) state)` |  |
+| **NCalcLexer**() |  |
+| **NCalcLexer**([ICharStream](Expressions/Antlr/Runtime/ICharStream.md) input) |  |
+| **NCalcLexer**([ICharStream](Expressions/Antlr/Runtime/ICharStream.md) input, [RecognizerSharedState](Expressions/Antlr/Runtime/RecognizerSharedState.md) state) |  |
 
 ### Properties
 

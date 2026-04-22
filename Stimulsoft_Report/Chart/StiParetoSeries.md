@@ -20,7 +20,7 @@ Implements: IStiParetoSeries
 
 | Constructor | Description |
 | --- | --- |
-| `StiParetoSeries()` |  |
+| **StiParetoSeries**() |  |
 
 ### Properties
 

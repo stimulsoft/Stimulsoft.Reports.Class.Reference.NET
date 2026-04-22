@@ -19,7 +19,7 @@ Inherits from: StiElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisElementControl(IStiElement element)` |  |
+| **StiGisElementControl**(IStiElement element) |  |
 
 ### Methods
 

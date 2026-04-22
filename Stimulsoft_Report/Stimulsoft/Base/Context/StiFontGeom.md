@@ -19,9 +19,9 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiFontGeom([Font](../../../../Stimulsoft_Drawing/Font.md) font)` |  |
-| `StiFontGeom(string fontName, float fontSize, FontStyle style, GraphicsUnit unit, byte gdiCharSet, bool gdiVerticalFont)` |  |
-| `StiFontGeom([FontFamily](../../../../Stimulsoft_Drawing/FontFamily.md) fontFamily, string fontName, float fontSize, FontStyle style, GraphicsUnit unit, byte gdiCharSet, bool gdiVerticalFont)` |  |
+| **StiFontGeom**([Font](../../../../Stimulsoft_Drawing/Font.md) font) |  |
+| **StiFontGeom**(string fontName, float fontSize, FontStyle style, GraphicsUnit unit, byte gdiCharSet, bool gdiVerticalFont) |  |
+| **StiFontGeom**([FontFamily](../../../../Stimulsoft_Drawing/FontFamily.md) fontFamily, string fontName, float fontSize, FontStyle style, GraphicsUnit unit, byte gdiCharSet, bool gdiVerticalFont) |  |
 
 ### Properties
 

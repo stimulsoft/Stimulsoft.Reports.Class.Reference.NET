@@ -19,7 +19,7 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiEAN13BarCodeType()` |  |
+| **StiEAN13BarCodeType**() |  |
 
 ### Properties
 

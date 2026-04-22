@@ -17,7 +17,7 @@ public class StiPropertyInfo
 
 | Constructor | Description |
 | --- | --- |
-| `StiPropertyInfo(string name, object value, bool isKey, bool isReference, bool isList, string typeName)` | Creates a new instance of the StiPropertyInfo class. |
+| **StiPropertyInfo**(string name, object value, bool isKey, bool isReference, bool isList, string typeName) | Creates a new instance of the StiPropertyInfo class. |
 
 ### Properties
 

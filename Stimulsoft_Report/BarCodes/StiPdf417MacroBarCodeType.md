@@ -19,7 +19,7 @@ Inherits from: [StiPdf417BarCodeType](StiPdf417BarCodeType.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPdf417MacroBarCodeType()` |  |
+| **StiPdf417MacroBarCodeType**() |  |
 
 ### Properties
 

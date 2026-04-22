@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiLocalizationKeyAttribute(string category, string key)` | Initializes a new instance of the StiCategoryAttribute class using the category name Default. |
+| **StiLocalizationKeyAttribute**(string category, string key) | Initializes a new instance of the StiCategoryAttribute class using the category name Default. |
 
 ### Properties
 

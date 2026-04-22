@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiPositionChangedEvent()` | Creates a new object of the type StiPositionChangedEvent. |
-| `StiPositionChangedEvent(string script)` | Creates a new object of the type StiPositionChangedEvent with specified arguments. |
-| `StiPositionChangedEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiPositionChangedEvent**() | Creates a new object of the type StiPositionChangedEvent. |
+| **StiPositionChangedEvent**(string script) | Creates a new object of the type StiPositionChangedEvent with specified arguments. |
+| **StiPositionChangedEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

@@ -19,5 +19,5 @@ Inherits from: StiForm
 
 | Constructor | Description |
 | --- | --- |
-| `StiDatabaseExceptionForm([StiDatabaseErrorInfo](Exceptions/StiDatabaseErrorInfo.md) erroInfo, Exception ex)` |  |
-| `StiDatabaseExceptionForm(Exception ex, [StiDatabaseExceptionDetails](StiDatabaseExceptionDetails.md) details)` |  |
+| **StiDatabaseExceptionForm**([StiDatabaseErrorInfo](Exceptions/StiDatabaseErrorInfo.md) erroInfo, Exception ex) |  |
+| **StiDatabaseExceptionForm**(Exception ex, [StiDatabaseExceptionDetails](StiDatabaseExceptionDetails.md) details) |  |

@@ -19,4 +19,4 @@ Inherits from: [StiStackedColumnSeriesCoreXF3D](StiStackedColumnSeriesCoreXF3D.m
 
 | Constructor | Description |
 | --- | --- |
-| `StiFullStackedColumnSeriesCoreXF3D(IStiSeries series)` |  |
+| **StiFullStackedColumnSeriesCoreXF3D**(IStiSeries series) |  |

@@ -17,7 +17,7 @@ public class StiIsoCountry
 
 | Constructor | Description |
 | --- | --- |
-| `StiIsoCountry(stringnames )` |  |
+| **StiIsoCountry**(stringnames ) |  |
 
 ### Properties
 

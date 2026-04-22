@@ -19,7 +19,7 @@ Inherits from: [StiElementAtom](StiElementAtom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiProgressAtom(IStiElement element, [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) location, [StiDataTable](../../Stimulsoft_Data/Engine/StiDataTable.md) dataTable)` |  |
+| **StiProgressAtom**(IStiElement element, [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) location, [StiDataTable](../../Stimulsoft_Data/Engine/StiDataTable.md) dataTable) |  |
 
 ### Methods
 

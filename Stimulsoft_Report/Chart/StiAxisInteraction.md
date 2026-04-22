@@ -19,7 +19,7 @@ Implements: IStiAxisInteraction
 
 | Constructor | Description |
 | --- | --- |
-| `StiAxisInteraction()` |  |
+| **StiAxisInteraction**() |  |
 
 ### Properties
 

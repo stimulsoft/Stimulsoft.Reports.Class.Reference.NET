@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetValueEventArgs()` |  |
+| **StiGetValueEventArgs**() |  |
 
 ### Properties
 

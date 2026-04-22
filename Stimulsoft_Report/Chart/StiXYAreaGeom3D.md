@@ -19,4 +19,4 @@ Inherits from: StiAreaGeom3D
 
 | Constructor | Description |
 | --- | --- |
-| `StiXYAreaGeom3D(double width, double height, [StiRender3D](StiRender3D.md) render)` |  |
+| **StiXYAreaGeom3D**(double width, double height, [StiRender3D](StiRender3D.md) render) |  |

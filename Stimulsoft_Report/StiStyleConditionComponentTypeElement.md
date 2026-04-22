@@ -19,8 +19,8 @@ Inherits from: [StiStyleConditionElement](StiStyleConditionElement.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiStyleConditionComponentTypeElement([StiStyleComponentType](StiStyleComponentType.md) componentType)` |  |
-| `StiStyleConditionComponentTypeElement([StiStyleComponentType](StiStyleComponentType.md) componentType, [StiStyleConditionOperation](StiStyleConditionOperation.md) operationComponentType)` |  |
+| **StiStyleConditionComponentTypeElement**([StiStyleComponentType](StiStyleComponentType.md) componentType) |  |
+| **StiStyleConditionComponentTypeElement**([StiStyleComponentType](StiStyleComponentType.md) componentType, [StiStyleConditionOperation](StiStyleConditionOperation.md) operationComponentType) |  |
 
 ### Properties
 

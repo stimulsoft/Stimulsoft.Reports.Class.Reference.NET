@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiPasteDataInViewerEventArgs([IStiViewerControl](../Viewer/IStiViewerControl.md) viewer, Point pos, StiComponent comp)` |  |
+| **StiPasteDataInViewerEventArgs**([IStiViewerControl](../Viewer/IStiViewerControl.md) viewer, Point pos, StiComponent comp) |  |
 
 ### Properties
 

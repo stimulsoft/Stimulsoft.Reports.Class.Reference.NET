@@ -19,7 +19,7 @@ Inherits from: [StiIndicatorGeom](StiIndicatorGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGraphicsPathIndicatorGeom(RectangleF rect, PointF startPoint, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth)` |  |
+| **StiGraphicsPathIndicatorGeom**(RectangleF rect, PointF startPoint, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth) |  |
 
 ### Properties
 

@@ -19,8 +19,8 @@ Implements: ISerializable, ICloneable, IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `Icon(Stream stream)` |  |
-| `Icon(Stream stream, int width, int height)` |  |
+| **Icon**(Stream stream) |  |
+| **Icon**(Stream stream, int width, int height) |  |
 
 ### Methods
 

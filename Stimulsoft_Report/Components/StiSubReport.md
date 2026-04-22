@@ -19,8 +19,8 @@ Inherits from: StiContainer
 
 | Constructor | Description |
 | --- | --- |
-| `StiSubReport()` | Creates a new component of the type StiSubReport. |
-| `StiSubReport([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new component of the type StiSubReport. |
+| **StiSubReport**() | Creates a new component of the type StiSubReport. |
+| **StiSubReport**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new component of the type StiSubReport. |
 
 ### Properties
 

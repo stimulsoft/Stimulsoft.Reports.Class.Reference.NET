@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `IntList()` |  |
-| `IntList(intvalues )` |  |
+| **IntList**() |  |
+| **IntList**(intvalues ) |  |
 
 ### Methods
 

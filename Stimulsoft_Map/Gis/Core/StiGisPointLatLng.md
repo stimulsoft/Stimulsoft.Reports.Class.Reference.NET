@@ -15,7 +15,7 @@ public struct StiGisPointLatLng
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisPointLatLng(double lat, double lng)` |  |
+| **StiGisPointLatLng**(double lat, double lng) |  |
 
 ### Properties
 

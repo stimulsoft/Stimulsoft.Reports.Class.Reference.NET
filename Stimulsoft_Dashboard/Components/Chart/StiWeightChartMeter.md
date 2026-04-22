@@ -21,9 +21,9 @@ Inherits from: StiMeasureMeter
 
 | Constructor | Description |
 | --- | --- |
-| `StiWeightChartMeter()` |  |
-| `StiWeightChartMeter(string expression, string label)` |  |
-| `StiWeightChartMeter(string key, string expression, string label)` |  |
+| **StiWeightChartMeter**() |  |
+| **StiWeightChartMeter**(string expression, string label) |  |
+| **StiWeightChartMeter**(string key, string expression, string label) |  |
 
 ### Properties
 

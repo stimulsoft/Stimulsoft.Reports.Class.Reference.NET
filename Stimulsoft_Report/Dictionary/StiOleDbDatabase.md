@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiOleDbDatabase()` | Creates a new object of the type StiOleDbDatabase. |
-| `StiOleDbDatabase(string name, string connectionString)` | Creates a new object of the type StiOleDbDatabase. |
-| `StiOleDbDatabase(string name, string alias, string connectionString)` | Creates a new object of the type StiOleDbDatabase. |
-| `StiOleDbDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` | Creates a new object of the type StiOleDbDatabase. |
-| `StiOleDbDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` | Creates a new object of the type StiOleDbDatabase. |
+| **StiOleDbDatabase**() | Creates a new object of the type StiOleDbDatabase. |
+| **StiOleDbDatabase**(string name, string connectionString) | Creates a new object of the type StiOleDbDatabase. |
+| **StiOleDbDatabase**(string name, string alias, string connectionString) | Creates a new object of the type StiOleDbDatabase. |
+| **StiOleDbDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiOleDbDatabase. |
+| **StiOleDbDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiOleDbDatabase. |
 
 ### Methods
 

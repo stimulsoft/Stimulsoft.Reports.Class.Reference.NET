@@ -21,7 +21,7 @@ Inherits from: [JsonContainerContract](JsonContainerContract.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JsonDictionaryContract(Type underlyingType)` | Initializes a new instance of the JsonDictionaryContract class. |
+| **JsonDictionaryContract**(Type underlyingType) | Initializes a new instance of the JsonDictionaryContract class. |
 
 ### Properties
 

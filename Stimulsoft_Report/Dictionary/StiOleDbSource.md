@@ -19,11 +19,11 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiOleDbSource()` | Creates a new object of the type StiDataViewSource. |
-| `StiOleDbSource(string nameInSource, string name)` | Creates a new object of the type StiOleDbSource. |
-| `StiOleDbSource(string nameInSource, string name, string alias)` | Creates a new object of the type StiOleDbSource. |
-| `StiOleDbSource(string nameInSource, string name, string alias, string sqlCommand)` | Creates a new object of the type StiOleDbSource. |
-| `StiOleDbSource(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow, int commandTimeout, string key)` |  |
+| **StiOleDbSource**() | Creates a new object of the type StiDataViewSource. |
+| **StiOleDbSource**(string nameInSource, string name) | Creates a new object of the type StiOleDbSource. |
+| **StiOleDbSource**(string nameInSource, string name, string alias) | Creates a new object of the type StiOleDbSource. |
+| **StiOleDbSource**(string nameInSource, string name, string alias, string sqlCommand) | Creates a new object of the type StiOleDbSource. |
+| **StiOleDbSource**(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow, int commandTimeout, string key) |  |
 
 ### Methods
 

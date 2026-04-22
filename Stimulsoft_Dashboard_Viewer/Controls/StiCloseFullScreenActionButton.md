@@ -19,7 +19,7 @@ Inherits from: StiActionButton
 
 | Constructor | Description |
 | --- | --- |
-| `StiCloseFullScreenActionButton([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position)` |  |
+| **StiCloseFullScreenActionButton**([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position) |  |
 
 ### Methods
 

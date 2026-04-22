@@ -19,7 +19,7 @@ Inherits from: ToolTip
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisMapToolTip()` |  |
+| **StiGisMapToolTip**() |  |
 
 ### Properties
 

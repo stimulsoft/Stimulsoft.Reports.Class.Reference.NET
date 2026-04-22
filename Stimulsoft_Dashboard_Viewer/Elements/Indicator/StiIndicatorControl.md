@@ -19,7 +19,7 @@ Inherits from: StiAtomElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiIndicatorControl(IStiElement element)` |  |
+| **StiIndicatorControl**(IStiElement element) |  |
 
 ### Properties
 

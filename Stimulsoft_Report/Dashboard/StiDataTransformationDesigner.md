@@ -21,7 +21,7 @@ Inherits from: [StiComponentDesigner](../Components/Design/StiComponentDesigner.
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataTransformationDesigner([IStiDesignerBase](../Design/IStiDesignerBase.md) designer)` |  |
+| **StiDataTransformationDesigner**([IStiDesignerBase](../Design/IStiDesignerBase.md) designer) |  |
 
 ### Methods
 

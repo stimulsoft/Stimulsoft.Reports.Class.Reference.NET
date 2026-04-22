@@ -19,7 +19,7 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiRepositoryItems([StiService](Services/StiService.md) service)` |  |
+| **StiRepositoryItems**([StiService](Services/StiService.md) service) |  |
 
 ### Methods
 

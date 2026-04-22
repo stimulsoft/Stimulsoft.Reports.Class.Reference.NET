@@ -19,8 +19,8 @@ Inherits from: StiShapeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiFlowchartOffPageConnectorShapeType()` | Creates a new FlowchartOffPageConnector. |
-| `StiFlowchartOffPageConnectorShapeType([StiShapeDirection](StiShapeDirection.md) direction)` | Creates a new FlowchartOffPageConnector with specified arguments. |
+| **StiFlowchartOffPageConnectorShapeType**() | Creates a new FlowchartOffPageConnector. |
+| **StiFlowchartOffPageConnectorShapeType**([StiShapeDirection](StiShapeDirection.md) direction) | Creates a new FlowchartOffPageConnector with specified arguments. |
 
 ### Properties
 

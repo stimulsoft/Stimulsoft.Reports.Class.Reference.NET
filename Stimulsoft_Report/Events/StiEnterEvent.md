@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiEnterEvent()` | Creates a new object of the type StiEnterEvent. |
-| `StiEnterEvent(string script)` | Creates a new object of the type StiEnterEvent with specified arguments. |
-| `StiEnterEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiEnterEvent**() | Creates a new object of the type StiEnterEvent. |
+| **StiEnterEvent**(string script) | Creates a new object of the type StiEnterEvent with specified arguments. |
+| **StiEnterEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

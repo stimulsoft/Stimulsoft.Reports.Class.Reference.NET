@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetBookmarkEvent()` | Creates a new object of the type StiGetBookmarkEvent. |
-| `StiGetBookmarkEvent(string script)` | Creates a new object of the type StiGetBookmarkEvent with specified arguments. |
-| `StiGetBookmarkEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetBookmarkEvent**() | Creates a new object of the type StiGetBookmarkEvent. |
+| **StiGetBookmarkEvent**(string script) | Creates a new object of the type StiGetBookmarkEvent with specified arguments. |
+| **StiGetBookmarkEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

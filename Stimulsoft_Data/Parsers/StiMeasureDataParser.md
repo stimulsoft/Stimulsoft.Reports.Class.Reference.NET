@@ -19,7 +19,7 @@ Inherits from: [StiDataParser](StiDataParser.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMeasureDataParser([IStiAppDictionary](../../Stimulsoft_Base/IStiAppDictionary.md) dictionary, [IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md) meter)` |  |
+| **StiMeasureDataParser**([IStiAppDictionary](../../Stimulsoft_Base/IStiAppDictionary.md) dictionary, [IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md) meter) |  |
 
 ### Methods
 

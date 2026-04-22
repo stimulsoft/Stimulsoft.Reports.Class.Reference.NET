@@ -19,9 +19,9 @@ Inherits from: [RewriteCardinalityException](RewriteCardinalityException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `RewriteEarlyExitException()` |  |
-| `RewriteEarlyExitException(string elementDescription)` |  |
-| `RewriteEarlyExitException(string elementDescription, Exception innerException)` |  |
-| `RewriteEarlyExitException(string message, string elementDescription)` |  |
-| `RewriteEarlyExitException(SerializationInfo info, StreamingContext context)` |  |
-| `RewriteEarlyExitException(string message, string elementDescription, Exception innerException)` |  |
+| **RewriteEarlyExitException**() |  |
+| **RewriteEarlyExitException**(string elementDescription) |  |
+| **RewriteEarlyExitException**(string elementDescription, Exception innerException) |  |
+| **RewriteEarlyExitException**(string message, string elementDescription) |  |
+| **RewriteEarlyExitException**(SerializationInfo info, StreamingContext context) |  |
+| **RewriteEarlyExitException**(string message, string elementDescription, Exception innerException) |  |

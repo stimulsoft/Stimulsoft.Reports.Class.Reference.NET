@@ -15,7 +15,7 @@ public class StiColumnUpdatedArg
 
 | Constructor | Description |
 | --- | --- |
-| `StiColumnUpdatedArg(string tableKey, string columnName, [StiAppsColumn](../../StiAppsColumn.md) column)` |  |
+| **StiColumnUpdatedArg**(string tableKey, string columnName, [StiAppsColumn](../../StiAppsColumn.md) column) |  |
 
 ### Properties
 

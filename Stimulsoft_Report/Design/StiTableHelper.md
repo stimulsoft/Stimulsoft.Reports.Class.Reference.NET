@@ -15,7 +15,7 @@ public class StiTableHelper
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableHelper([IStiDesignerBase](IStiDesignerBase.md) designer, bool altKeyMode)` |  |
+| **StiTableHelper**([IStiDesignerBase](IStiDesignerBase.md) designer, bool altKeyMode) |  |
 
 ### Methods
 

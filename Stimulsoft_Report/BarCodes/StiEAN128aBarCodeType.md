@@ -21,8 +21,8 @@ Inherits from: [StiCode128BarCodeType](StiCode128BarCodeType.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiEAN128aBarCodeType()` |  |
-| `StiEAN128aBarCodeType(float module, float height)` |  |
+| **StiEAN128aBarCodeType**() |  |
+| **StiEAN128aBarCodeType**(float module, float height) |  |
 
 ### Methods
 

@@ -19,8 +19,8 @@ Implements: [ITokenStream](ITokenStream.md), [ITokenStreamInformation](ITokenStr
 
 | Constructor | Description |
 | --- | --- |
-| `BufferedTokenStream()` |  |
-| `BufferedTokenStream([ITokenSource](ITokenSource.md) tokenSource)` |  |
+| **BufferedTokenStream**() |  |
+| **BufferedTokenStream**([ITokenSource](ITokenSource.md) tokenSource) |  |
 
 ### Methods
 

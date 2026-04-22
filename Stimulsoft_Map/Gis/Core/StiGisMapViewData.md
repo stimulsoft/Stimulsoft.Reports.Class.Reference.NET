@@ -19,7 +19,7 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisMapViewData([StiGisCore](StiGisCore.md) core)` |  |
+| **StiGisMapViewData**([StiGisCore](StiGisCore.md) core) |  |
 
 ### Methods
 

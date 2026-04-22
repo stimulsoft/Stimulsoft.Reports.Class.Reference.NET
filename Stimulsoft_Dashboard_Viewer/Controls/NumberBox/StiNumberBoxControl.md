@@ -19,7 +19,7 @@ Inherits from: Panel
 
 | Constructor | Description |
 | --- | --- |
-| `StiNumberBoxControl([StiControlColorCollection](../StiControlColorCollection.md) colors, StiNumberBoxElement element, [StiNumberSelectionMode](../../../Stimulsoft_Report/Dashboard/StiNumberSelectionMode.md) mode)` |  |
+| **StiNumberBoxControl**([StiControlColorCollection](../StiControlColorCollection.md) colors, StiNumberBoxElement element, [StiNumberSelectionMode](../../../Stimulsoft_Report/Dashboard/StiNumberSelectionMode.md) mode) |  |
 
 ### Properties
 

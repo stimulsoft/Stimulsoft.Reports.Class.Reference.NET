@@ -19,7 +19,7 @@ Inherits from: [StiVisual](../StiVisual.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCardsVisual(StiCardsElement element, [StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md) dataTable)` |  |
+| **StiCardsVisual**(StiCardsElement element, [StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md) dataTable) |  |
 
 ### Properties
 

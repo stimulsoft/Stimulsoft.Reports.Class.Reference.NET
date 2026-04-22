@@ -19,6 +19,6 @@ Inherits from: [JsonContainerAttribute](JsonContainerAttribute.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JsonObjectAttribute()` | Initializes a new instance of the JsonObjectAttribute class. |
-| `JsonObjectAttribute([MemberSerialization](MemberSerialization.md) memberSerialization)` | Initializes a new instance of the JsonObjectAttribute class with the specified member serialization. |
-| `JsonObjectAttribute(string id)` | Initializes a new instance of the JsonObjectAttribute class with the specified container Id. |
+| **JsonObjectAttribute**() | Initializes a new instance of the JsonObjectAttribute class. |
+| **JsonObjectAttribute**([MemberSerialization](MemberSerialization.md) memberSerialization) | Initializes a new instance of the JsonObjectAttribute class with the specified member serialization. |
+| **JsonObjectAttribute**(string id) | Initializes a new instance of the JsonObjectAttribute class with the specified container Id. |

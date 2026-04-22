@@ -19,4 +19,4 @@ Inherits from: [StiCenterAxisLabelsCoreXF3D](StiCenterAxisLabelsCoreXF3D.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiOutsideAxisLabelsCoreXF3D(IStiSeriesLabels seriesLabels)` |  |
+| **StiOutsideAxisLabelsCoreXF3D**(IStiSeriesLabels seriesLabels) |  |

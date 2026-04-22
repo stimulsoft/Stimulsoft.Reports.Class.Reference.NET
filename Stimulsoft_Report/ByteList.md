@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `ByteList()` |  |
-| `ByteList(bytevalues )` |  |
+| **ByteList**() |  |
+| **ByteList**(bytevalues ) |  |
 
 ### Methods
 

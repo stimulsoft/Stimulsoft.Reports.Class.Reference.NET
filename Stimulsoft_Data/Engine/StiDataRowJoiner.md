@@ -15,7 +15,7 @@ public class StiDataRowJoiner
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataRowJoiner(DataTable resultTable, DataTable table1, DataTable table2)` | While this instance is used, 's columns (their number, types, names and order) MUST NOT be changed. |
+| **StiDataRowJoiner**(DataTable resultTable, DataTable table1, DataTable table2) | While this instance is used, 's columns (their number, types, names and order) MUST NOT be changed. |
 
 ### Methods
 

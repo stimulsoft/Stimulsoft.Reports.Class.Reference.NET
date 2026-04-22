@@ -19,10 +19,10 @@ Inherits from: [StiNoSqlSource](../../StiNoSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCosmosDbSource()` |  |
-| `StiCosmosDbSource(string nameInSource, string name)` |  |
-| `StiCosmosDbSource(string nameInSource, string name, string alias)` |  |
-| `StiCosmosDbSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiCosmosDbSource**() |  |
+| **StiCosmosDbSource**(string nameInSource, string name) |  |
+| **StiCosmosDbSource**(string nameInSource, string name, string alias) |  |
+| **StiCosmosDbSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

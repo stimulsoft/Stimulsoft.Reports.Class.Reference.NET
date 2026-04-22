@@ -19,7 +19,7 @@ Implements: ICloneable, [IStiApplyStyle](IStiApplyStyle.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiChartTableCore(IStiChartTable table)` |  |
+| **StiChartTableCore**(IStiChartTable table) |  |
 
 ### Properties
 

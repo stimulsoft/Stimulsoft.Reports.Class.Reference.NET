@@ -19,8 +19,8 @@ Inherits from: [TreeParser](TreeParser.md)
 
 | Constructor | Description |
 | --- | --- |
-| `TreeRewriter([ITreeNodeStream](ITreeNodeStream.md) input)` |  |
-| `TreeRewriter([ITreeNodeStream](ITreeNodeStream.md) input, [RecognizerSharedState](../RecognizerSharedState.md) state)` |  |
+| **TreeRewriter**([ITreeNodeStream](ITreeNodeStream.md) input) |  |
+| **TreeRewriter**([ITreeNodeStream](ITreeNodeStream.md) input, [RecognizerSharedState](../RecognizerSharedState.md) state) |  |
 
 ### Methods
 

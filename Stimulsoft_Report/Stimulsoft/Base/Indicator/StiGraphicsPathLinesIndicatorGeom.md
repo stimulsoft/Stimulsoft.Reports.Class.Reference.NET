@@ -19,7 +19,7 @@ Inherits from: [StiIndicatorGeom](StiIndicatorGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGraphicsPathLinesIndicatorGeom(PointFpoints )` |  |
+| **StiGraphicsPathLinesIndicatorGeom**(PointFpoints ) |  |
 
 ### Properties
 

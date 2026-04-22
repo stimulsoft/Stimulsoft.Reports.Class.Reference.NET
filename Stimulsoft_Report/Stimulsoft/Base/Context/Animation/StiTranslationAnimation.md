@@ -19,8 +19,8 @@ Inherits from: [StiAnimation](StiAnimation.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTranslationAnimation(TimeSpan duration, TimeSpan beginTime)` |  |
-| `StiTranslationAnimation(PointF startPoint, PointF endPoint, TimeSpan duration, TimeSpan beginTime)` |  |
+| **StiTranslationAnimation**(TimeSpan duration, TimeSpan beginTime) |  |
+| **StiTranslationAnimation**(PointF startPoint, PointF endPoint, TimeSpan duration, TimeSpan beginTime) |  |
 
 ### Properties
 

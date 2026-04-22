@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `DateTimeList()` |  |
-| `DateTimeList(DateTimevalues )` |  |
+| **DateTimeList**() |  |
+| **DateTimeList**(DateTimevalues ) |  |
 
 ### Methods
 

@@ -19,4 +19,4 @@ Inherits from: [StiXAxisCoreXF](StiXAxisCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiXBottomAxisCoreXF(IStiAxis axis)` |  |
+| **StiXBottomAxisCoreXF**(IStiAxis axis) |  |

@@ -21,4 +21,4 @@ Inherits from: StiHtmlExportSettings
 
 | Constructor | Description |
 | --- | --- |
-| `StiHtml5ExportSettings()` |  |
+| **StiHtml5ExportSettings**() |  |

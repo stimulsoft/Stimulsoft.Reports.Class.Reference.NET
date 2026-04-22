@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiConnectedEvent()` | Creates a new object of the type StiConnectedEvent. |
-| `StiConnectedEvent(string script)` | Creates a new object of the type StiConnectedEvent with specified arguments. |
-| `StiConnectedEvent(StiComponent parent)` | Creates a new object of the type StiConnectedEvent with specified arguments. |
+| **StiConnectedEvent**() | Creates a new object of the type StiConnectedEvent. |
+| **StiConnectedEvent**(string script) | Creates a new object of the type StiConnectedEvent with specified arguments. |
+| **StiConnectedEvent**(StiComponent parent) | Creates a new object of the type StiConnectedEvent with specified arguments. |
 
 ### Methods
 

@@ -19,7 +19,7 @@ Inherits from: [StiCenterAxisLabelsGeom3D](StiCenterAxisLabelsGeom3D.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiOutsideAxisLabelsGeom3D(IStiSeriesLabels seriesLabels, IStiSeries series, int index, double value, string labelText, Color labelColor, Color labelBorderColor, [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) seriesBrush, [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) seriesLabelsBrush, Color seriesBorderColor, [StiFontGeom](../Stimulsoft/Base/Context/StiFontGeom.md) font, [StiPoint3D](StiPoint3D.md) point3D, [StiRender3D](StiRender3D.md) render3D)` |  |
+| **StiOutsideAxisLabelsGeom3D**(IStiSeriesLabels seriesLabels, IStiSeries series, int index, double value, string labelText, Color labelColor, Color labelBorderColor, [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) seriesBrush, [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) seriesLabelsBrush, Color seriesBorderColor, [StiFontGeom](../Stimulsoft/Base/Context/StiFontGeom.md) font, [StiPoint3D](StiPoint3D.md) point3D, [StiRender3D](StiRender3D.md) render3D) |  |
 
 ### Methods
 

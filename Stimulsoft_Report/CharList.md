@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `CharList()` |  |
-| `CharList(charvalues )` |  |
+| **CharList**() |  |
+| **CharList**(charvalues ) |  |
 
 ### Methods
 

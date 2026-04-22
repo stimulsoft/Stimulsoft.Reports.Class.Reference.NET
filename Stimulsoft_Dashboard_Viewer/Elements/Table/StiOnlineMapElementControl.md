@@ -19,7 +19,7 @@ Inherits from: StiElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiOnlineMapElementControl(IStiElement element)` |  |
+| **StiOnlineMapElementControl**(IStiElement element) |  |
 
 ### Methods
 

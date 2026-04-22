@@ -21,10 +21,10 @@ Inherits from: [JsonReader](../JsonReader.md)
 
 | Constructor | Description |
 | --- | --- |
-| `BsonReader(Stream stream)` | Initializes a new instance of the BsonReader class. |
-| `BsonReader(BinaryReader reader)` | Initializes a new instance of the BsonReader class. |
-| `BsonReader(Stream stream, bool readRootValueAsArray, DateTimeKind dateTimeKindHandling)` | Initializes a new instance of the BsonReader class. |
-| `BsonReader(BinaryReader reader, bool readRootValueAsArray, DateTimeKind dateTimeKindHandling)` | Initializes a new instance of the BsonReader class. |
+| **BsonReader**(Stream stream) | Initializes a new instance of the BsonReader class. |
+| **BsonReader**(BinaryReader reader) | Initializes a new instance of the BsonReader class. |
+| **BsonReader**(Stream stream, bool readRootValueAsArray, DateTimeKind dateTimeKindHandling) | Initializes a new instance of the BsonReader class. |
+| **BsonReader**(BinaryReader reader, bool readRootValueAsArray, DateTimeKind dateTimeKindHandling) | Initializes a new instance of the BsonReader class. |
 
 ### Methods
 

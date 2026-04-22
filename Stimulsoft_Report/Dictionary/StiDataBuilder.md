@@ -17,8 +17,8 @@ public class StiDataBuilder
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataBuilder()` | Creates a new object of the type StiDataBuilder. |
-| `StiDataBuilder([StiTreeView](../../Stimulsoft_Dashboard_Viewer/Controls/TreeView/StiTreeView.md) treeView)` | Creates a new object of the type StiDataBuilder. |
+| **StiDataBuilder**() | Creates a new object of the type StiDataBuilder. |
+| **StiDataBuilder**([StiTreeView](../../Stimulsoft_Dashboard_Viewer/Controls/TreeView/StiTreeView.md) treeView) | Creates a new object of the type StiDataBuilder. |
 
 ### Properties
 

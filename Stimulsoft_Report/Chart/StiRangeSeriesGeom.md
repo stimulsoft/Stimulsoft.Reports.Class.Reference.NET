@@ -19,7 +19,7 @@ Inherits from: [StiLineSeriesGeom](StiLineSeriesGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiRangeSeriesGeom([StiAreaGeom](StiAreaGeom.md) areaGeom, [StiSeriesPointsInfo](StiSeriesPointsInfo.md) pointsInfo, IStiSeries series)` |  |
+| **StiRangeSeriesGeom**([StiAreaGeom](StiAreaGeom.md) areaGeom, [StiSeriesPointsInfo](StiSeriesPointsInfo.md) pointsInfo, IStiSeries series) |  |
 
 ### Properties
 

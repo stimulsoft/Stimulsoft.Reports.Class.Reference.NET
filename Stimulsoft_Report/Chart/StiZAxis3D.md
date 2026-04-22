@@ -19,4 +19,4 @@ Inherits from: [StiAxis3D](StiAxis3D.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiZAxis3D()` |  |
+| **StiZAxis3D**() |  |

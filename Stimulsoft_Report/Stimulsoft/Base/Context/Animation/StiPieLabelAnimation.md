@@ -19,7 +19,7 @@ Inherits from: [StiAnimation](StiAnimation.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPieLabelAnimation(double? valueFrom, double? value, float angleFrom, float angle, RectangleF clientRect, RectangleF rectLabelFrom, RectangleF rectLabel, TimeSpan duration, TimeSpan beginTime)` |  |
+| **StiPieLabelAnimation**(double? valueFrom, double? value, float angleFrom, float angle, RectangleF clientRect, RectangleF rectLabelFrom, RectangleF rectLabel, TimeSpan duration, TimeSpan beginTime) |  |
 
 ### Properties
 

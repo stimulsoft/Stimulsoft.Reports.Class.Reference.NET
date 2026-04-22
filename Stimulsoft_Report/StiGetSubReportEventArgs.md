@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetSubReportEventArgs(string subReportName)` | Creates a new object of the type StiGetSubReportEventArgs. |
+| **StiGetSubReportEventArgs**(string subReportName) | Creates a new object of the type StiGetSubReportEventArgs. |
 
 ### Properties
 

@@ -15,7 +15,7 @@ public struct StiGlyphInfo
 
 | Constructor | Description |
 | --- | --- |
-| `StiGlyphInfo(ushort glyphId, int cluster)` |  |
+| **StiGlyphInfo**(ushort glyphId, int cluster) |  |
 
 ### Methods
 

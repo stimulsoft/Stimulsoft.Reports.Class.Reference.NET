@@ -19,5 +19,5 @@ Inherits from: StiHeaderBand
 
 | Constructor | Description |
 | --- | --- |
-| `StiColumnHeaderBand()` | Creates a new component of the type StiColumnHeaderBand. |
-| `StiColumnHeaderBand([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new component of the type StiColumnHeaderBand with specified location. |
+| **StiColumnHeaderBand**() | Creates a new component of the type StiColumnHeaderBand. |
+| **StiColumnHeaderBand**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new component of the type StiColumnHeaderBand with specified location. |

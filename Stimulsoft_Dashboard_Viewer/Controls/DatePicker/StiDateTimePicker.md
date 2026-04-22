@@ -19,7 +19,7 @@ Inherits from: Control
 
 | Constructor | Description |
 | --- | --- |
-| `StiDateTimePicker(StiDatePickerElement element)` |  |
+| **StiDateTimePicker**(StiDatePickerElement element) |  |
 
 ### Properties
 

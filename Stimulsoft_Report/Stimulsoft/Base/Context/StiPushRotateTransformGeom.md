@@ -19,7 +19,7 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPushRotateTransformGeom(float angle)` |  |
+| **StiPushRotateTransformGeom**(float angle) |  |
 
 ### Properties
 

@@ -21,8 +21,8 @@ Inherits from: [StiEnumConverter](../../Stimulsoft_Base/Localization/StiEnumConv
 
 | Constructor | Description |
 | --- | --- |
-| `StiCalculationModeConverter()` |  |
-| `StiCalculationModeConverter(Type type)` |  |
+| **StiCalculationModeConverter**() |  |
+| **StiCalculationModeConverter**(Type type) |  |
 
 ### Methods
 

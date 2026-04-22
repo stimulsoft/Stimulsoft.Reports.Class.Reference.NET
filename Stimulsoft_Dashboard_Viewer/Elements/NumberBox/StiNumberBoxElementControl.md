@@ -19,7 +19,7 @@ Inherits from: StiFilterElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiNumberBoxElementControl(IStiElement element)` |  |
+| **StiNumberBoxElementControl**(IStiElement element) |  |
 
 ### Methods
 

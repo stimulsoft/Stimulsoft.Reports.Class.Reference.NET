@@ -19,7 +19,7 @@ Inherits from: [StiTableGeom](StiTableGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableRectangleGeom(Color color, RectangleF rect)` |  |
+| **StiTableRectangleGeom**(Color color, RectangleF rect) |  |
 
 ### Properties
 

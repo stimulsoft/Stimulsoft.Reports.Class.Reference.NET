@@ -19,7 +19,7 @@ Inherits from: CheckBox
 
 | Constructor | Description |
 | --- | --- |
-| `StiActionCheckBox([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position)` |  |
+| **StiActionCheckBox**([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position) |  |
 
 ### Properties
 

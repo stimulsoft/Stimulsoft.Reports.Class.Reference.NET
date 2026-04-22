@@ -19,8 +19,8 @@ Inherits from: StiChartGridLines
 
 | Constructor | Description |
 | --- | --- |
-| `StiVertChartGridLines()` |  |
-| `StiVertChartGridLines(Color color, bool visible)` |  |
+| **StiVertChartGridLines**() |  |
+| **StiVertChartGridLines**(Color color, bool visible) |  |
 
 ### Properties
 

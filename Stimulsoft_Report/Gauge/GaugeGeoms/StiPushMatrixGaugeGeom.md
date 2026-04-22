@@ -19,7 +19,7 @@ Inherits from: [StiGaugeGeom](StiGaugeGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPushMatrixGaugeGeom(float angle, PointF centerPoint)` |  |
+| **StiPushMatrixGaugeGeom**(float angle, PointF centerPoint) |  |
 
 ### Properties
 

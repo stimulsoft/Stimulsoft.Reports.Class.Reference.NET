@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiLeaveEvent()` | Creates a new object of the type StiLeaveEvent. |
-| `StiLeaveEvent(string script)` | Creates a new object of the type StiLeaveEvent with specified arguments. |
-| `StiLeaveEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiLeaveEvent**() | Creates a new object of the type StiLeaveEvent. |
+| **StiLeaveEvent**(string script) | Creates a new object of the type StiLeaveEvent with specified arguments. |
+| **StiLeaveEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

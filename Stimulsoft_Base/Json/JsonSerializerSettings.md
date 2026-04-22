@@ -17,7 +17,7 @@ public class JsonSerializerSettings
 
 | Constructor | Description |
 | --- | --- |
-| `JsonSerializerSettings()` | Initializes a new instance of the JsonSerializerSettings class. |
+| **JsonSerializerSettings**() | Initializes a new instance of the JsonSerializerSettings class. |
 
 ### Properties
 

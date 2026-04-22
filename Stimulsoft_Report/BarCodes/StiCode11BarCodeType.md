@@ -19,8 +19,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiCode11BarCodeType()` |  |
-| `StiCode11BarCodeType(float module, float height, [StiCode11CheckSum](StiCode11CheckSum.md) checksum)` |  |
+| **StiCode11BarCodeType**() |  |
+| **StiCode11BarCodeType**(float module, float height, [StiCode11CheckSum](StiCode11CheckSum.md) checksum) |  |
 
 ### Properties
 

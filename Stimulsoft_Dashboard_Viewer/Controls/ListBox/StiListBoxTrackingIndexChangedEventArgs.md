@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiListBoxTrackingIndexChangedEventArgs(int itemIndex)` |  |
+| **StiListBoxTrackingIndexChangedEventArgs**(int itemIndex) |  |
 
 ### Properties
 

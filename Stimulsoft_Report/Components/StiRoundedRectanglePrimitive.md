@@ -19,8 +19,8 @@ Inherits from: StiRectanglePrimitive
 
 | Constructor | Description |
 | --- | --- |
-| `StiRoundedRectanglePrimitive()` | Creates a new StiRoundedRectanglePrimitive. |
-| `StiRoundedRectanglePrimitive([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiRoundedRectanglePrimitive. |
+| **StiRoundedRectanglePrimitive**() | Creates a new StiRoundedRectanglePrimitive. |
+| **StiRoundedRectanglePrimitive**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiRoundedRectanglePrimitive. |
 
 ### Methods
 

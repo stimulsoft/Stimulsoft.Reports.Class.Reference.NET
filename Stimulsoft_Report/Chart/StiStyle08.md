@@ -19,7 +19,7 @@ Inherits from: [StiStyle03](StiStyle03.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiStyle08()` |  |
+| **StiStyle08**() |  |
 
 ### Methods
 

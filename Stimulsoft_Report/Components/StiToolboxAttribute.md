@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiToolboxAttribute(bool enable)` | Creates a new object of the type StiToolboxAttribute. |
+| **StiToolboxAttribute**(bool enable) | Creates a new object of the type StiToolboxAttribute. |
 
 ### Properties
 

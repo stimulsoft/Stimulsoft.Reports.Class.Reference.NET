@@ -19,8 +19,8 @@ Inherits from: StiShapeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiOctagonShapeType()` | Creates a new octagon. |
-| `StiOctagonShapeType(bool autoSize, float bevel)` | Creates a new octagon with specified arguments. |
+| **StiOctagonShapeType**() | Creates a new octagon. |
+| **StiOctagonShapeType**(bool autoSize, float bevel) | Creates a new octagon with specified arguments. |
 
 ### Properties
 

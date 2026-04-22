@@ -15,7 +15,7 @@ public class StiPivotTableCell
 
 | Constructor | Description |
 | --- | --- |
-| `StiPivotTableCell([StiPivotTableContainer](StiPivotTableContainer.md) container)` |  |
+| **StiPivotTableCell**([StiPivotTableContainer](StiPivotTableContainer.md) container) |  |
 
 ### Properties
 

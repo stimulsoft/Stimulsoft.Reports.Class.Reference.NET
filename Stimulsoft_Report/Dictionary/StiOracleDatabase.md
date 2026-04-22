@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiOracleDatabase()` | Creates a new object of the type StiOracleDatabase. |
-| `StiOracleDatabase(string name, string connectionString)` | Creates a new object of the type StiOracleDatabase. |
-| `StiOracleDatabase(string name, string alias, string connectionString)` | Creates a new object of the type StiOracleDatabase. |
-| `StiOracleDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` | Creates a new object of the type StiOracleDatabase. |
-| `StiOracleDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` | Creates a new object of the type StiOracleDatabase. |
+| **StiOracleDatabase**() | Creates a new object of the type StiOracleDatabase. |
+| **StiOracleDatabase**(string name, string connectionString) | Creates a new object of the type StiOracleDatabase. |
+| **StiOracleDatabase**(string name, string alias, string connectionString) | Creates a new object of the type StiOracleDatabase. |
+| **StiOracleDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiOracleDatabase. |
+| **StiOracleDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiOracleDatabase. |
 
 ### Methods
 

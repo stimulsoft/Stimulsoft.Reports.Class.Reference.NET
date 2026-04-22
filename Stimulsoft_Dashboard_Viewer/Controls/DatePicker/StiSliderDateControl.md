@@ -19,7 +19,7 @@ Inherits from: Panel
 
 | Constructor | Description |
 | --- | --- |
-| `StiSliderDateControl([StiControlColorCollection](../StiControlColorCollection.md) colors, StiDatePickerElement element)` |  |
+| **StiSliderDateControl**([StiControlColorCollection](../StiControlColorCollection.md) colors, StiDatePickerElement element) |  |
 
 ### Properties
 

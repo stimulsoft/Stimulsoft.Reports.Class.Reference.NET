@@ -17,7 +17,7 @@ public class StiParameterInfo
 
 | Constructor | Description |
 | --- | --- |
-| `StiParameterInfo(Type type, string name)` | Creates a new instance of the StiParameterInfo class. |
+| **StiParameterInfo**(Type type, string name) | Creates a new instance of the StiParameterInfo class. |
 
 ### Properties
 

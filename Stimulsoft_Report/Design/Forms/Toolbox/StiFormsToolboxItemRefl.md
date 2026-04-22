@@ -15,7 +15,7 @@ public class StiFormsToolboxItemRefl
 
 | Constructor | Description |
 | --- | --- |
-| `StiFormsToolboxItemRefl(object baseObject)` |  |
+| **StiFormsToolboxItemRefl**(object baseObject) |  |
 
 ### Methods
 

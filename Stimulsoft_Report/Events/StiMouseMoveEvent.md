@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiMouseMoveEvent()` | Creates a new object of the type StiMouseMoveEvent. |
-| `StiMouseMoveEvent(string script)` | Creates a new object of the type StiMouseMoveEvent with specified arguments. |
-| `StiMouseMoveEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiMouseMoveEvent**() | Creates a new object of the type StiMouseMoveEvent. |
+| **StiMouseMoveEvent**(string script) | Creates a new object of the type StiMouseMoveEvent with specified arguments. |
+| **StiMouseMoveEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

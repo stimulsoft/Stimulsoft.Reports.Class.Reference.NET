@@ -19,8 +19,8 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLinesSegmentGeom(PointFpoints )` |  |
-| `StiLinesSegmentGeom(PointFpoints , [StiAnimation](Animation/StiAnimation.md) animation)` |  |
+| **StiLinesSegmentGeom**(PointFpoints ) |  |
+| **StiLinesSegmentGeom**(PointFpoints , [StiAnimation](Animation/StiAnimation.md) animation) |  |
 
 ### Properties
 

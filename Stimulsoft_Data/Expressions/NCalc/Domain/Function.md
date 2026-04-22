@@ -19,7 +19,7 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `Function([Identifier](Identifier.md) identifier, LogicalExpressionexpressions )` |  |
+| **Function**([Identifier](Identifier.md) identifier, LogicalExpressionexpressions ) |  |
 
 ### Properties
 

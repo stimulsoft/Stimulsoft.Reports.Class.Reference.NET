@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiTeradataDatabase()` | Creates a new object of the type StiTeradataDatabase. |
-| `StiTeradataDatabase(string name, string connectionString)` | Creates a new object of the type StiTeradataDatabase. |
-| `StiTeradataDatabase(string name, string alias, string connectionString)` | Creates a new object of the type StiTeradataDatabase. |
-| `StiTeradataDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` | Creates a new object of the type StiTeradataDatabase. |
-| `StiTeradataDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` | Creates a new object of the type StiTeradataDatabase. |
+| **StiTeradataDatabase**() | Creates a new object of the type StiTeradataDatabase. |
+| **StiTeradataDatabase**(string name, string connectionString) | Creates a new object of the type StiTeradataDatabase. |
+| **StiTeradataDatabase**(string name, string alias, string connectionString) | Creates a new object of the type StiTeradataDatabase. |
+| **StiTeradataDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiTeradataDatabase. |
+| **StiTeradataDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiTeradataDatabase. |
 
 ### Methods
 

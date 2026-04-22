@@ -19,8 +19,8 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiArcSegmentGeom(RectangleF rect, float startAngle, float sweepAngle)` |  |
-| `StiArcSegmentGeom(RectangleF rect, float startAngle, float sweepAngle, float realStartAngle, float realSweepAngle)` |  |
+| **StiArcSegmentGeom**(RectangleF rect, float startAngle, float sweepAngle) |  |
+| **StiArcSegmentGeom**(RectangleF rect, float startAngle, float sweepAngle, float realStartAngle, float realSweepAngle) |  |
 
 ### Properties
 

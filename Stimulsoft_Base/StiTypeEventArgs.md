@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiTypeEventArgs(string typeName)` |  |
+| **StiTypeEventArgs**(string typeName) |  |
 
 ### Properties
 

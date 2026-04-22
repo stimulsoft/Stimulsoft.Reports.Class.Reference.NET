@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiRefreshingEvent()` | Creates a new object of the type StiRefreshingEvent. |
-| `StiRefreshingEvent(string script)` | Creates a new object of the type StiRefreshingEvent with specified arguments. |
-| `StiRefreshingEvent(StiComponent parent)` | Creates a new object of the type StiRefreshingEvent with specified arguments. |
+| **StiRefreshingEvent**() | Creates a new object of the type StiRefreshingEvent. |
+| **StiRefreshingEvent**(string script) | Creates a new object of the type StiRefreshingEvent with specified arguments. |
+| **StiRefreshingEvent**(StiComponent parent) | Creates a new object of the type StiRefreshingEvent with specified arguments. |
 
 ### Methods
 

@@ -21,7 +21,7 @@ Inherits from: [StiComponentDesigner](../Components/Design/StiComponentDesigner.
 
 | Constructor | Description |
 | --- | --- |
-| `StiElementInteractionDesigner([IStiDesignerBase](../Design/IStiDesignerBase.md) designer)` |  |
+| **StiElementInteractionDesigner**([IStiDesignerBase](../Design/IStiDesignerBase.md) designer) |  |
 
 ### Methods
 

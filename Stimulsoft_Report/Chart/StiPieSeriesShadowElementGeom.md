@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiPieSeriesShadowElementGeom(IStiPieSeries series, RectangleF clientRectangle, float radius, [StiContext](../Stimulsoft/Base/Context/StiContext.md) shadowContext, TimeSpan duration, TimeSpan beginTime)` |  |
+| **StiPieSeriesShadowElementGeom**(IStiPieSeries series, RectangleF clientRectangle, float radius, [StiContext](../Stimulsoft/Base/Context/StiContext.md) shadowContext, TimeSpan duration, TimeSpan beginTime) |  |
 
 ### Methods
 

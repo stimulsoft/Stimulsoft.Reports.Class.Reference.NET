@@ -19,4 +19,4 @@ Inherits from: [StiPictorialStackedLabelsCoreXF](StiPictorialStackedLabelsCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiCenterPictorialStackedLabelsCoreXF(IStiSeriesLabels seriesLabels)` |  |
+| **StiCenterPictorialStackedLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |

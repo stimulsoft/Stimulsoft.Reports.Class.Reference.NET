@@ -21,4 +21,4 @@ Inherits from: [StiDataException](StiDataException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSystemVariableNotRecognizedException(string name)` |  |
+| **StiSystemVariableNotRecognizedException**(string name) |  |

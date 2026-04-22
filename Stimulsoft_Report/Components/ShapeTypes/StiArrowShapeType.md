@@ -19,8 +19,8 @@ Inherits from: StiShapeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiArrowShapeType()` | Creates a new arrow. |
-| `StiArrowShapeType([StiShapeDirection](StiShapeDirection.md) direction, float arrowWidth, float arrowHeight)` | Creates a new arrow with specified arguments. |
+| **StiArrowShapeType**() | Creates a new arrow. |
+| **StiArrowShapeType**([StiShapeDirection](StiShapeDirection.md) direction, float arrowWidth, float arrowHeight) | Creates a new arrow with specified arguments. |
 
 ### Properties
 

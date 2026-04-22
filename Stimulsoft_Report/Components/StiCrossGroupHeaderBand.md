@@ -19,8 +19,8 @@ Inherits from: StiGroupHeaderBand
 
 | Constructor | Description |
 | --- | --- |
-| `StiCrossGroupHeaderBand()` | Creates a new component of the type StiCrossGroupHeaderBand. |
-| `StiCrossGroupHeaderBand([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new component of the type StiCrossGroupHeaderBand with specified location. |
+| **StiCrossGroupHeaderBand**() | Creates a new component of the type StiCrossGroupHeaderBand. |
+| **StiCrossGroupHeaderBand**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new component of the type StiCrossGroupHeaderBand with specified location. |
 
 ### Methods
 

@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetBarCodeEvent()` | Creates a new object of the type StiBarCodeEvent. |
-| `StiGetBarCodeEvent(string script)` | Creates a new object of the type StiGetBarCodeEvent with specified arguments. |
-| `StiGetBarCodeEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetBarCodeEvent**() | Creates a new object of the type StiBarCodeEvent. |
+| **StiGetBarCodeEvent**(string script) | Creates a new object of the type StiGetBarCodeEvent with specified arguments. |
+| **StiGetBarCodeEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

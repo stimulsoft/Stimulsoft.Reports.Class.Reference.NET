@@ -19,8 +19,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiFIMBarCodeType()` |  |
-| `StiFIMBarCodeType(float module, float height, bool addClearZone)` |  |
+| **StiFIMBarCodeType**() |  |
+| **StiFIMBarCodeType**(float module, float height, bool addClearZone) |  |
 
 ### Properties
 

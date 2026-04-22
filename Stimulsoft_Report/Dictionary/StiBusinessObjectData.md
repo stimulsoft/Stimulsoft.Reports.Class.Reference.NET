@@ -17,8 +17,8 @@ public class StiBusinessObjectData
 
 | Constructor | Description |
 | --- | --- |
-| `StiBusinessObjectData(string category, string name, object value)` | Creates new instance of StiBusinessObject class. |
-| `StiBusinessObjectData(string category, string name, string alias, object value)` | Creates new instance of StiBusinessObject class. |
+| **StiBusinessObjectData**(string category, string name, object value) | Creates new instance of StiBusinessObject class. |
+| **StiBusinessObjectData**(string category, string name, string alias, object value) | Creates new instance of StiBusinessObject class. |
 
 ### Properties
 

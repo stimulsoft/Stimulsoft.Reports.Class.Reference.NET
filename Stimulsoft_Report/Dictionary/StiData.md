@@ -15,9 +15,9 @@ public class StiData
 
 | Constructor | Description |
 | --- | --- |
-| `StiData(string name, object data)` | Creates a new object of the type StiData. |
-| `StiData(string name, string alias, object data)` | Creates a new object of the type StiData. |
-| `StiData(string name, object data, object viewData)` | Creates a new object of the type StiData. |
+| **StiData**(string name, object data) | Creates a new object of the type StiData. |
+| **StiData**(string name, string alias, object data) | Creates a new object of the type StiData. |
+| **StiData**(string name, object data, object viewData) | Creates a new object of the type StiData. |
 
 ### Properties
 

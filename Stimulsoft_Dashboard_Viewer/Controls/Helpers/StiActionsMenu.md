@@ -15,7 +15,7 @@ public class StiActionsMenu
 
 | Constructor | Description |
 | --- | --- |
-| `StiActionsMenu(StiContextMenu expressionMenu, Control control, IStiElement element)` |  |
+| **StiActionsMenu**(StiContextMenu expressionMenu, Control control, IStiElement element) |  |
 
 ### Properties
 

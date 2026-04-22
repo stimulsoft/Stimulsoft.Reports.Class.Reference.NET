@@ -15,7 +15,7 @@ public class FormatReader
 
 | Constructor | Description |
 | --- | --- |
-| `FormatReader()` |  |
+| **FormatReader**() |  |
 
 ### Properties
 

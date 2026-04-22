@@ -19,7 +19,7 @@ Implements: [IStiPivotTableElementCondition](../../../Stimulsoft_Report/Dashboar
 
 | Constructor | Description |
 | --- | --- |
-| `StiPivotTableElementCondition()` |  |
+| **StiPivotTableElementCondition**() |  |
 
 ### Properties
 

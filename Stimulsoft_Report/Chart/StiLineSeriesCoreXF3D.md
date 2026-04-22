@@ -19,7 +19,7 @@ Inherits from: [StiSeriesCoreXF3D](StiSeriesCoreXF3D.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLineSeriesCoreXF3D(IStiSeries series)` |  |
+| **StiLineSeriesCoreXF3D**(IStiSeries series) |  |
 
 ### Methods
 

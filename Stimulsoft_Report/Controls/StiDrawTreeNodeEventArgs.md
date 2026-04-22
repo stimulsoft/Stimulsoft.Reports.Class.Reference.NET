@@ -17,7 +17,7 @@ public class StiDrawTreeNodeEventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiDrawTreeNodeEventArgs([Graphics](../../Stimulsoft_Drawing/Graphics.md) graphics, TreeNode node, Rectangle bounds)` |  |
+| **StiDrawTreeNodeEventArgs**([Graphics](../../Stimulsoft_Drawing/Graphics.md) graphics, TreeNode node, Rectangle bounds) |  |
 
 ### Properties
 

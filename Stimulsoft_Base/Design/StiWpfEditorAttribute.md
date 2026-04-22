@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiWpfEditorAttribute([StiWpfEditorType](StiWpfEditorType.md) editorType)` |  |
+| **StiWpfEditorAttribute**([StiWpfEditorType](StiWpfEditorType.md) editorType) |  |
 
 ### Properties
 

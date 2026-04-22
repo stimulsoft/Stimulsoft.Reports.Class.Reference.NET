@@ -17,7 +17,7 @@ public class JsonSerializer
 
 | Constructor | Description |
 | --- | --- |
-| `JsonSerializer()` | Initializes a new instance of the JsonSerializer class. |
+| **JsonSerializer**() | Initializes a new instance of the JsonSerializer class. |
 
 ### Methods
 

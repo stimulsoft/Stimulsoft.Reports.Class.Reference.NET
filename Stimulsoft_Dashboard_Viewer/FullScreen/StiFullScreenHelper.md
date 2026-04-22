@@ -15,7 +15,7 @@ public abstract class StiFullScreenHelper
 
 | Constructor | Description |
 | --- | --- |
-| `StiFullScreenHelper([StiDashboardViewerControl](../StiDashboardViewerControl.md) viewer)` |  |
+| **StiFullScreenHelper**([StiDashboardViewerControl](../StiDashboardViewerControl.md) viewer) |  |
 
 ### Properties
 

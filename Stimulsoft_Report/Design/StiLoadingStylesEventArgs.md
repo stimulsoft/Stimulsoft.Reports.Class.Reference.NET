@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiLoadingStylesEventArgs(StiStylesCollection styles)` |  |
+| **StiLoadingStylesEventArgs**(StiStylesCollection styles) |  |
 
 ### Properties
 

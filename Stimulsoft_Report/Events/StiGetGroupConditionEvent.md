@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetGroupConditionEvent()` | Creates a new object of the type StiGetGroupConditionEvent. |
-| `StiGetGroupConditionEvent(string script)` | Creates a new object of the type StiGetGroupConditionEvent with specified arguments. |
-| `StiGetGroupConditionEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetGroupConditionEvent**() | Creates a new object of the type StiGetGroupConditionEvent. |
+| **StiGetGroupConditionEvent**(string script) | Creates a new object of the type StiGetGroupConditionEvent with specified arguments. |
+| **StiGetGroupConditionEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

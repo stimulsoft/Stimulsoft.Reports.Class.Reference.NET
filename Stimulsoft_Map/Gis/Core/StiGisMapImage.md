@@ -19,7 +19,7 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisMapImage(bytedata )` |  |
+| **StiGisMapImage**(bytedata ) |  |
 
 ### Methods
 

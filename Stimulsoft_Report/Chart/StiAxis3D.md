@@ -19,7 +19,7 @@ Implements: IStiAxis3D
 
 | Constructor | Description |
 | --- | --- |
-| `StiAxis3D()` |  |
+| **StiAxis3D**() |  |
 
 ### Properties
 

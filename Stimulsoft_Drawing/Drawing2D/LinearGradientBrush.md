@@ -19,9 +19,9 @@ Inherits from: [Brush](../Brush.md)
 
 | Constructor | Description |
 | --- | --- |
-| `LinearGradientBrush(PointF point1, PointF point2, Color color1, Color color2)` |  |
-| `LinearGradientBrush(Rectangle rect, Color color1, Color color2, float angle)` |  |
-| `LinearGradientBrush(RectangleF rect, Color color1, Color color2, float angle)` |  |
+| **LinearGradientBrush**(PointF point1, PointF point2, Color color1, Color color2) |  |
+| **LinearGradientBrush**(Rectangle rect, Color color1, Color color2, float angle) |  |
+| **LinearGradientBrush**(RectangleF rect, Color color1, Color color2, float angle) |  |
 
 ### Properties
 

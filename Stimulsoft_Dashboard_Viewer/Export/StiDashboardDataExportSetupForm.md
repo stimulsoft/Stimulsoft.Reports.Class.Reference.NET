@@ -19,7 +19,7 @@ Inherits from: StiForm
 
 | Constructor | Description |
 | --- | --- |
-| `StiDashboardDataExportSetupForm()` |  |
+| **StiDashboardDataExportSetupForm**() |  |
 
 ### Methods
 

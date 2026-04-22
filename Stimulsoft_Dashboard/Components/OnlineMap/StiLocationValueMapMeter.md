@@ -21,9 +21,9 @@ Inherits from: StiDimensionMeter
 
 | Constructor | Description |
 | --- | --- |
-| `StiLocationValueMapMeter()` |  |
-| `StiLocationValueMapMeter(string expression, string label)` |  |
-| `StiLocationValueMapMeter(string key, string expression, string label)` |  |
+| **StiLocationValueMapMeter**() |  |
+| **StiLocationValueMapMeter**(string expression, string label) |  |
+| **StiLocationValueMapMeter**(string key, string expression, string label) |  |
 
 ### Properties
 

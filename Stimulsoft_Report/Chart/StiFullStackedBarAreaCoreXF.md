@@ -19,4 +19,4 @@ Inherits from: [StiStackedBarAreaCoreXF](StiStackedBarAreaCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiFullStackedBarAreaCoreXF(IStiArea area)` |  |
+| **StiFullStackedBarAreaCoreXF**(IStiArea area) |  |

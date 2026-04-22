@@ -19,10 +19,10 @@ Inherits from: [StiFileDataOptions](StiFileDataOptions.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDBaseOptions(bytecontent , int codePage)` |  |
-| `StiDBaseOptions(string path, int codePage)` |  |
-| `StiDBaseOptions(bytecontent , string tableName, int codePage)` |  |
-| `StiDBaseOptions(string path, string tableName, int codePage)` |  |
+| **StiDBaseOptions**(bytecontent , int codePage) |  |
+| **StiDBaseOptions**(string path, int codePage) |  |
+| **StiDBaseOptions**(bytecontent , string tableName, int codePage) |  |
+| **StiDBaseOptions**(string path, string tableName, int codePage) |  |
 
 ### Properties
 

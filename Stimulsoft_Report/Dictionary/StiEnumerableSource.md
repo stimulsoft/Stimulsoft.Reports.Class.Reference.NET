@@ -21,8 +21,8 @@ Inherits from: [StiBusinessObjectSource](StiBusinessObjectSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiEnumerableSource()` | Creates a new object of the type StiEnumerableSource. |
-| `StiEnumerableSource(string nameInSource, string name)` | Creates a new object of the type StiEnumerableSource. |
-| `StiEnumerableSource(string nameInSource, string name, string alias)` | Creates a new object of the type StiEnumerableSource. |
-| `StiEnumerableSource(string nameInSource, string name, string alias, string key)` | Creates a new object of the type StiEnumerableSource. |
-| `StiEnumerableSource(string nameInSource, string name, string alias, string key, bool reconnectOnEachRow)` | Creates a new object of the type StiEnumerableSource. |
+| **StiEnumerableSource**() | Creates a new object of the type StiEnumerableSource. |
+| **StiEnumerableSource**(string nameInSource, string name) | Creates a new object of the type StiEnumerableSource. |
+| **StiEnumerableSource**(string nameInSource, string name, string alias) | Creates a new object of the type StiEnumerableSource. |
+| **StiEnumerableSource**(string nameInSource, string name, string alias, string key) | Creates a new object of the type StiEnumerableSource. |
+| **StiEnumerableSource**(string nameInSource, string name, string alias, string key, bool reconnectOnEachRow) | Creates a new object of the type StiEnumerableSource. |

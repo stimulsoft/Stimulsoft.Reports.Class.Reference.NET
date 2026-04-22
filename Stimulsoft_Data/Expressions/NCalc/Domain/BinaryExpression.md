@@ -19,7 +19,7 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `BinaryExpression([BinaryExpressionType](BinaryExpressionType.md) type, [LogicalExpression](LogicalExpression.md) leftExpression, [LogicalExpression](LogicalExpression.md) rightExpression)` |  |
+| **BinaryExpression**([BinaryExpressionType](BinaryExpressionType.md) type, [LogicalExpression](LogicalExpression.md) leftExpression, [LogicalExpression](LogicalExpression.md) rightExpression) |  |
 
 ### Properties
 

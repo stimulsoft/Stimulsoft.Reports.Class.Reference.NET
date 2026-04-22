@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiElementInteractionDesignerAttribute(string designerTypeName)` |  |
-| `StiElementInteractionDesignerAttribute(Type type)` |  |
+| **StiElementInteractionDesignerAttribute**(string designerTypeName) |  |
+| **StiElementInteractionDesignerAttribute**(Type type) |  |
 
 ### Properties
 

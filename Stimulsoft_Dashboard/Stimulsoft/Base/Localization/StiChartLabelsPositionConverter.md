@@ -21,8 +21,8 @@ Inherits from: [StiEnumConverter](../../../../Stimulsoft_Base/Localization/StiEn
 
 | Constructor | Description |
 | --- | --- |
-| `StiChartLabelsPositionConverter()` |  |
-| `StiChartLabelsPositionConverter(Type type)` |  |
+| **StiChartLabelsPositionConverter**() |  |
+| **StiChartLabelsPositionConverter**(Type type) |  |
 
 ### Methods
 

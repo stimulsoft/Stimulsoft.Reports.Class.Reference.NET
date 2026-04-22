@@ -15,7 +15,7 @@ public class StiDataWorldHelper
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataWorldHelper(string connectionString)` |  |
+| **StiDataWorldHelper**(string connectionString) |  |
 
 ### Properties
 

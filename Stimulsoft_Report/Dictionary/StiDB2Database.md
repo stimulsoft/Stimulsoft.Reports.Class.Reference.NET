@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiDB2Database()` | Creates a new object of the type StiDB2Database. |
-| `StiDB2Database(string name, string connectionString)` | Creates a new object of the type StiDB2Database. |
-| `StiDB2Database(string name, string alias, string connectionString)` | Creates a new object of the type StiDB2Database. |
-| `StiDB2Database(string name, string alias, string connectionString, bool promptUserNameAndpassword)` | Creates a new object of the type StiDB2Database. |
-| `StiDB2Database(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` | Creates a new object of the type StiDB2Database. |
+| **StiDB2Database**() | Creates a new object of the type StiDB2Database. |
+| **StiDB2Database**(string name, string connectionString) | Creates a new object of the type StiDB2Database. |
+| **StiDB2Database**(string name, string alias, string connectionString) | Creates a new object of the type StiDB2Database. |
+| **StiDB2Database**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiDB2Database. |
+| **StiDB2Database**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiDB2Database. |
 
 ### Methods
 

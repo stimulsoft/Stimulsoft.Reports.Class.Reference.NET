@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiSaveLoadPageEventArgs(StiPage page, int pageIndex, string cachePath)` |  |
+| **StiSaveLoadPageEventArgs**(StiPage page, int pageIndex, string cachePath) |  |
 
 ### Properties
 

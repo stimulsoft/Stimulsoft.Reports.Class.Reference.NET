@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetValueLowEvent()` | Creates a new object of the type StiGetTitleEvent. |
-| `StiGetValueLowEvent(string script)` | Creates a new object of the type StiGetTitleEvent with specified arguments. |
-| `StiGetValueLowEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetValueLowEvent**() | Creates a new object of the type StiGetTitleEvent. |
+| **StiGetValueLowEvent**(string script) | Creates a new object of the type StiGetTitleEvent with specified arguments. |
+| **StiGetValueLowEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

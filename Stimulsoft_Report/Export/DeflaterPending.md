@@ -19,4 +19,4 @@ Inherits from: [PendingBuffer](PendingBuffer.md)
 
 | Constructor | Description |
 | --- | --- |
-| `DeflaterPending()` |  |
+| **DeflaterPending**() |  |

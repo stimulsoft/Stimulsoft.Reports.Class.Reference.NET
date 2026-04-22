@@ -20,8 +20,8 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `DecimalRange()` |  |
-| `DecimalRange(decimal from, decimal to)` |  |
+| **DecimalRange**() |  |
+| **DecimalRange**(decimal from, decimal to) |  |
 
 ### Methods
 

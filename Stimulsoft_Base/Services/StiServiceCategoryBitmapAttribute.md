@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiServiceCategoryBitmapAttribute(Type type, string bitmapName)` | Creates a new attribute of the type StiServiceCategoryBitmapAttribute. |
-| `StiServiceCategoryBitmapAttribute(Type type, string bitmapName, string bigBitmapName)` | Creates a new attribute of the type StiServiceCategoryBitmapAttribute. |
+| **StiServiceCategoryBitmapAttribute**(Type type, string bitmapName) | Creates a new attribute of the type StiServiceCategoryBitmapAttribute. |
+| **StiServiceCategoryBitmapAttribute**(Type type, string bitmapName, string bigBitmapName) | Creates a new attribute of the type StiServiceCategoryBitmapAttribute. |
 
 ### Properties
 

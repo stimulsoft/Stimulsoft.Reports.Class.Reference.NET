@@ -21,8 +21,8 @@ Inherits from: [JsonWriter](../JsonWriter.md)
 
 | Constructor | Description |
 | --- | --- |
-| `BsonWriter(Stream stream)` | Initializes a new instance of the BsonWriter class. |
-| `BsonWriter(BinaryWriter writer)` | Initializes a new instance of the BsonWriter class. |
+| **BsonWriter**(Stream stream) | Initializes a new instance of the BsonWriter class. |
+| **BsonWriter**(BinaryWriter writer) | Initializes a new instance of the BsonWriter class. |
 
 ### Methods
 

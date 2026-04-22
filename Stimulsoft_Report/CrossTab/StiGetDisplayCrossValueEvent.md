@@ -19,8 +19,8 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetDisplayCrossValueEvent()` | Creates a new object of the type StiGetDisplayCrossValueEvent. |
-| `StiGetDisplayCrossValueEvent(string script)` | Creates a new object of the type StiGetDisplayCrossValueEvent with specified arguments. |
+| **StiGetDisplayCrossValueEvent**() | Creates a new object of the type StiGetDisplayCrossValueEvent. |
+| **StiGetDisplayCrossValueEvent**(string script) | Creates a new object of the type StiGetDisplayCrossValueEvent with specified arguments. |
 
 ### Methods
 

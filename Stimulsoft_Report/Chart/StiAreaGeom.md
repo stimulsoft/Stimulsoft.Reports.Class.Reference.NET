@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiAreaGeom(IStiArea area, RectangleF clientRectangle)` |  |
+| **StiAreaGeom**(IStiArea area, RectangleF clientRectangle) |  |
 
 ### Properties
 

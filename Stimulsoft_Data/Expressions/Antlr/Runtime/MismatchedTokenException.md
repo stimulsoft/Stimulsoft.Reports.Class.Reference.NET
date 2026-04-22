@@ -19,14 +19,14 @@ Inherits from: [RecognitionException](RecognitionException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `MismatchedTokenException()` |  |
-| `MismatchedTokenException(string message)` |  |
-| `MismatchedTokenException(string message, Exception innerException)` |  |
-| `MismatchedTokenException(int expecting, [IIntStream](IIntStream.md) input)` |  |
-| `MismatchedTokenException(SerializationInfo info, StreamingContext context)` |  |
-| `MismatchedTokenException(int expecting, [IIntStream](IIntStream.md) input, IList<string> tokenNames)` |  |
-| `MismatchedTokenException(string message, int expecting, [IIntStream](IIntStream.md) input, IList<string> tokenNames)` |  |
-| `MismatchedTokenException(string message, int expecting, [IIntStream](IIntStream.md) input, IList<string> tokenNames, Exception innerException)` |  |
+| **MismatchedTokenException**() |  |
+| **MismatchedTokenException**(string message) |  |
+| **MismatchedTokenException**(string message, Exception innerException) |  |
+| **MismatchedTokenException**(int expecting, [IIntStream](IIntStream.md) input) |  |
+| **MismatchedTokenException**(SerializationInfo info, StreamingContext context) |  |
+| **MismatchedTokenException**(int expecting, [IIntStream](IIntStream.md) input, IList<string> tokenNames) |  |
+| **MismatchedTokenException**(string message, int expecting, [IIntStream](IIntStream.md) input, IList<string> tokenNames) |  |
+| **MismatchedTokenException**(string message, int expecting, [IIntStream](IIntStream.md) input, IList<string> tokenNames, Exception innerException) |  |
 
 ### Methods
 

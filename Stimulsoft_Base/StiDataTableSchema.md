@@ -21,9 +21,9 @@ Inherits from: [StiObjectSchema](StiObjectSchema.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataTableSchema()` |  |
-| `StiDataTableSchema(DataTable table)` |  |
-| `StiDataTableSchema(string name, string query)` |  |
+| **StiDataTableSchema**() |  |
+| **StiDataTableSchema**(DataTable table) |  |
+| **StiDataTableSchema**(string name, string query) |  |
 
 ### Properties
 

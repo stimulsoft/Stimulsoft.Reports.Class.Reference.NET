@@ -17,7 +17,7 @@ public sealed class StiLexer
 
 | Constructor | Description |
 | --- | --- |
-| `StiLexer(string textValue)` | Creates a new instance of the StiLexer class. |
+| **StiLexer**(string textValue) | Creates a new instance of the StiLexer class. |
 
 ### Properties
 

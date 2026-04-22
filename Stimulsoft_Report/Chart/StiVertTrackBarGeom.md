@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiVertTrackBarGeom([IStiYAxis](IStiYAxis.md) axis, RectangleF clientRectangle, [StiVertScrollBarGeom](StiVertScrollBarGeom.md) scrollBar)` |  |
+| **StiVertTrackBarGeom**([IStiYAxis](IStiYAxis.md) axis, RectangleF clientRectangle, [StiVertScrollBarGeom](StiVertScrollBarGeom.md) scrollBar) |  |
 
 ### Methods
 

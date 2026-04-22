@@ -15,7 +15,7 @@ public class JsonSchema
 
 | Constructor | Description |
 | --- | --- |
-| `JsonSchema()` | Initializes a new instance of the JsonSchema class. |
+| **JsonSchema**() | Initializes a new instance of the JsonSchema class. |
 
 ### Properties
 

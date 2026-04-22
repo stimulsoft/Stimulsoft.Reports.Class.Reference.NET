@@ -19,7 +19,7 @@ Inherits from: ScrollableControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiScrollableControl(IStiElement element)` |  |
+| **StiScrollableControl**(IStiElement element) |  |
 
 ### Properties
 

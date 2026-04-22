@@ -19,7 +19,7 @@ Inherits from: [StiSimpleDashboardInteraction](StiSimpleDashboardInteraction.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiImageDashboardInteraction()` |  |
+| **StiImageDashboardInteraction**() |  |
 
 ### Properties
 

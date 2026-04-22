@@ -21,8 +21,8 @@ Inherits from: PropertyDescriptor
 
 | Constructor | Description |
 | --- | --- |
-| `StiPropertyDescriptor(PropertyDescriptor propertyDescriptor)` | Initializes a new instance of the StiPropertyDescriptor class with the name and attributes in the specified PropertyDescriptor. |
-| `StiPropertyDescriptor(PropertyDescriptor propertyDescriptor, bool isEventDescriptor)` | Initializes a new instance of the StiPropertyDescriptor class with the name and attributes in the specified StiPropertyDescriptor. |
+| **StiPropertyDescriptor**(PropertyDescriptor propertyDescriptor) | Initializes a new instance of the StiPropertyDescriptor class with the name and attributes in the specified PropertyDescriptor. |
+| **StiPropertyDescriptor**(PropertyDescriptor propertyDescriptor, bool isEventDescriptor) | Initializes a new instance of the StiPropertyDescriptor class with the name and attributes in the specified StiPropertyDescriptor. |
 
 ### Properties
 

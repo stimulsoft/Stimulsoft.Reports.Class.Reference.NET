@@ -19,7 +19,7 @@ Inherits from: StiSeriesCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiHeatmapSeriesCoreXF(IStiSeries series)` |  |
+| **StiHeatmapSeriesCoreXF**(IStiSeries series) |  |
 
 ### Methods
 

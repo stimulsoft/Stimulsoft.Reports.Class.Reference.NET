@@ -21,7 +21,7 @@ Implements: [ITraceWriter](ITraceWriter.md)
 
 | Constructor | Description |
 | --- | --- |
-| `MemoryTraceWriter()` | Initializes a new instance of the MemoryTraceWriter class. |
+| **MemoryTraceWriter**() | Initializes a new instance of the MemoryTraceWriter class. |
 
 ### Properties
 

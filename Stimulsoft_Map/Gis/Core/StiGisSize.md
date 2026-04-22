@@ -15,8 +15,8 @@ public struct StiGisSize
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisSize([StiGisPoint](StiGisPoint.md) pt)` |  |
-| `StiGisSize(int width, int height)` |  |
+| **StiGisSize**([StiGisPoint](StiGisPoint.md) pt) |  |
+| **StiGisSize**(int width, int height) |  |
 
 ### Properties
 

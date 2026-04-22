@@ -19,8 +19,8 @@ Inherits from: [Brush](Brush.md)
 
 | Constructor | Description |
 | --- | --- |
-| `TextureBrush([Image](Image.md) bitmap)` |  |
-| `TextureBrush([Image](Image.md) bitmap, RectangleF rect)` |  |
+| **TextureBrush**([Image](Image.md) bitmap) |  |
+| **TextureBrush**([Image](Image.md) bitmap, RectangleF rect) |  |
 
 ### Methods
 

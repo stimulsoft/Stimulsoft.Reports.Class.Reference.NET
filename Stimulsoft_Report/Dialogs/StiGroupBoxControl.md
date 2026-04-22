@@ -19,8 +19,8 @@ Inherits from: StiReportControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiGroupBoxControl()` | Creates a new StiGroupBoxControl. |
-| `StiGroupBoxControl([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiGroupBoxControl. |
+| **StiGroupBoxControl**() | Creates a new StiGroupBoxControl. |
+| **StiGroupBoxControl**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiGroupBoxControl. |
 
 ### Properties
 

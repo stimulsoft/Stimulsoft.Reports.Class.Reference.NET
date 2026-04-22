@@ -19,7 +19,7 @@ Inherits from: [StiRestDataConnector](StiRestDataConnector.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiODataConnector(string connectionString, NameValueCollection headers)` |  |
+| **StiODataConnector**(string connectionString, NameValueCollection headers) |  |
 
 ### Properties
 

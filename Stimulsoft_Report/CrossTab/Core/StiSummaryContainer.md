@@ -15,7 +15,7 @@ public class StiSummaryContainer
 
 | Constructor | Description |
 | --- | --- |
-| `StiSummaryContainer(int level)` |  |
+| **StiSummaryContainer**(int level) |  |
 
 ### Methods
 

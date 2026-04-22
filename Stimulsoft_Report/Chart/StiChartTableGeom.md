@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiChartTableGeom(RectangleF clientRectangle, stringtable , float widthCellLegendTableChart, float heightCellHeader, float widthSpace, IStiChartTable chartTable)` |  |
+| **StiChartTableGeom**(RectangleF clientRectangle, stringtable , float widthCellLegendTableChart, float heightCellHeader, float widthSpace, IStiChartTable chartTable) |  |
 
 ### Methods
 

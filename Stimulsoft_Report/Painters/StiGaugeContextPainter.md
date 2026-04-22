@@ -15,7 +15,7 @@ public abstract class StiGaugeContextPainter
 
 | Constructor | Description |
 | --- | --- |
-| `StiGaugeContextPainter(StiGauge gauge, RectangleF rect, float zoom)` |  |
+| **StiGaugeContextPainter**(StiGauge gauge, RectangleF rect, float zoom) |  |
 
 ### Properties
 

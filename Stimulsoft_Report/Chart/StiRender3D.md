@@ -15,7 +15,7 @@ public class StiRender3D
 
 | Constructor | Description |
 | --- | --- |
-| `StiRender3D(double width, double height)` |  |
+| **StiRender3D**(double width, double height) |  |
 
 ### Properties
 

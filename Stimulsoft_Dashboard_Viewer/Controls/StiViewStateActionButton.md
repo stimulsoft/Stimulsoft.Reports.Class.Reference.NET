@@ -19,7 +19,7 @@ Inherits from: StiActionButton
 
 | Constructor | Description |
 | --- | --- |
-| `StiViewStateActionButton([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position, bool isDarkStyle, StiUserViewState state)` |  |
+| **StiViewStateActionButton**([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position, bool isDarkStyle, StiUserViewState state) |  |
 
 ### Methods
 

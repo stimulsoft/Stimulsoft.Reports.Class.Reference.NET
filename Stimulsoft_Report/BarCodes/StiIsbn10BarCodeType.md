@@ -19,8 +19,8 @@ Inherits from: [StiIsbn13BarCodeType](StiIsbn13BarCodeType.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiIsbn10BarCodeType()` |  |
-| `StiIsbn10BarCodeType(float module, float height, [StiEanSupplementType](StiEanSupplementType.md) supplementType, string supplementCodeValue, bool showQuietZoneIndicator)` |  |
+| **StiIsbn10BarCodeType**() |  |
+| **StiIsbn10BarCodeType**(float module, float height, [StiEanSupplementType](StiEanSupplementType.md) supplementType, string supplementCodeValue, bool showQuietZoneIndicator) |  |
 
 ### Methods
 

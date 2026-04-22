@@ -19,8 +19,8 @@ Inherits from: StiShapeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiFlowchartCollateShapeType()` | Creates a new FlowchartCollate. |
-| `StiFlowchartCollateShapeType([StiShapeDirection](StiShapeDirection.md) direction)` | Creates a new FlowchartCollate with specified arguments. |
+| **StiFlowchartCollateShapeType**() | Creates a new FlowchartCollate. |
+| **StiFlowchartCollateShapeType**([StiShapeDirection](StiShapeDirection.md) direction) | Creates a new FlowchartCollate with specified arguments. |
 
 ### Properties
 

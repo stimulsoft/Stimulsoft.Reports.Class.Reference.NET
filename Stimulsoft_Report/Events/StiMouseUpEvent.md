@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiMouseUpEvent()` | Creates a new object of the type StiMouseUpEvent. |
-| `StiMouseUpEvent(string script)` | Creates a new object of the type StiMouseUpEvent with specified arguments. |
-| `StiMouseUpEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiMouseUpEvent**() | Creates a new object of the type StiMouseUpEvent. |
+| **StiMouseUpEvent**(string script) | Creates a new object of the type StiMouseUpEvent with specified arguments. |
+| **StiMouseUpEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

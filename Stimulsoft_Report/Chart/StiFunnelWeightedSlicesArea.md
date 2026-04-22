@@ -19,7 +19,7 @@ Inherits from: StiFunnelArea
 
 | Constructor | Description |
 | --- | --- |
-| `StiFunnelWeightedSlicesArea()` |  |
+| **StiFunnelWeightedSlicesArea**() |  |
 
 ### Methods
 

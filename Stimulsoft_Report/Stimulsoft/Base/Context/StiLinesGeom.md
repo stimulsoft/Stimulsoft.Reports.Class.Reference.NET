@@ -19,7 +19,7 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLinesGeom([StiPenGeom](StiPenGeom.md) pen, PointFpoints )` |  |
+| **StiLinesGeom**([StiPenGeom](StiPenGeom.md) pen, PointFpoints ) |  |
 
 ### Properties
 

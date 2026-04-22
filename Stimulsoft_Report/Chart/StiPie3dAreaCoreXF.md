@@ -19,7 +19,7 @@ Inherits from: [StiPieAreaCoreXF](StiPieAreaCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPie3dAreaCoreXF(IStiArea area)` |  |
+| **StiPie3dAreaCoreXF**(IStiArea area) |  |
 
 ### Methods
 

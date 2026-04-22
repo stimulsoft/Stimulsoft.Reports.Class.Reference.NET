@@ -19,7 +19,7 @@ Inherits from: [StiAnimationGeom](StiAnimationGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCurveAnimationGeom([StiPenGeom](StiPenGeom.md) pen, PointFpoints , float tension, [StiAnimation](Animation/StiAnimation.md) animation)` |  |
+| **StiCurveAnimationGeom**([StiPenGeom](StiPenGeom.md) pen, PointFpoints , float tension, [StiAnimation](Animation/StiAnimation.md) animation) |  |
 
 ### Properties
 

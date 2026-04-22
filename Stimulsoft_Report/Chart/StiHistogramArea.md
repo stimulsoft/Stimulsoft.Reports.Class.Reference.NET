@@ -19,7 +19,7 @@ Inherits from: StiAxisArea
 
 | Constructor | Description |
 | --- | --- |
-| `StiHistogramArea()` |  |
+| **StiHistogramArea**() |  |
 
 ### Methods
 

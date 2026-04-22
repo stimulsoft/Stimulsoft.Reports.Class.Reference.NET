@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiSybaseAdsDatabase()` | Creates a new object of the type StiSybaseAdsDatabase. |
-| `StiSybaseAdsDatabase(string name, string connectionString)` | Creates a new object of the type StiSybaseAdsDatabase. |
-| `StiSybaseAdsDatabase(string name, string alias, string connectionString)` | Creates a new object of the type StiSybaseAdsDatabase. |
-| `StiSybaseAdsDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` | Creates a new object of the type StiSybaseAdsDatabase. |
-| `StiSybaseAdsDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` | Creates a new object of the type StiSybaseAdsDatabase. |
+| **StiSybaseAdsDatabase**() | Creates a new object of the type StiSybaseAdsDatabase. |
+| **StiSybaseAdsDatabase**(string name, string connectionString) | Creates a new object of the type StiSybaseAdsDatabase. |
+| **StiSybaseAdsDatabase**(string name, string alias, string connectionString) | Creates a new object of the type StiSybaseAdsDatabase. |
+| **StiSybaseAdsDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiSybaseAdsDatabase. |
+| **StiSybaseAdsDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiSybaseAdsDatabase. |
 
 ### Methods
 

@@ -19,8 +19,8 @@ Inherits from: StiReportControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiListBoxControl()` | Creates a new StiListBoxControl. |
-| `StiListBoxControl([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiListBoxControl. |
+| **StiListBoxControl**() | Creates a new StiListBoxControl. |
+| **StiListBoxControl**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiListBoxControl. |
 
 ### Properties
 

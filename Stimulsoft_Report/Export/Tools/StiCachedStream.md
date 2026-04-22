@@ -19,7 +19,7 @@ Inherits from: MemoryStream
 
 | Constructor | Description |
 | --- | --- |
-| `StiCachedStream()` |  |
+| **StiCachedStream**() |  |
 
 ### Properties
 

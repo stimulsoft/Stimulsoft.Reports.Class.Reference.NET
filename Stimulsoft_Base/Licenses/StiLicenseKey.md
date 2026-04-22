@@ -20,7 +20,7 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiLicenseKey()` |  |
+| **StiLicenseKey**() |  |
 
 ### Properties
 

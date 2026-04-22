@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiHeatmapLegendMarkerGeom(IStiLegend legend, Colorcolors , RectangleF clientRectangle)` |  |
+| **StiHeatmapLegendMarkerGeom**(IStiLegend legend, Colorcolors , RectangleF clientRectangle) |  |
 
 ### Properties
 

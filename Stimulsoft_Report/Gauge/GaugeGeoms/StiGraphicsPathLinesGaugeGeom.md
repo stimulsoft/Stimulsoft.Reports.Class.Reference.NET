@@ -19,7 +19,7 @@ Inherits from: [StiGaugeGeom](StiGaugeGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGraphicsPathLinesGaugeGeom(PointFpoints )` |  |
+| **StiGraphicsPathLinesGaugeGeom**(PointFpoints ) |  |
 
 ### Properties
 

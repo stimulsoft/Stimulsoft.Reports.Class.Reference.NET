@@ -19,7 +19,7 @@ Inherits from: [LogicalExpressionVisitor](LogicalExpressionVisitor.md)
 
 | Constructor | Description |
 | --- | --- |
-| `SerializationVisitor()` |  |
+| **SerializationVisitor**() |  |
 
 ### Properties
 

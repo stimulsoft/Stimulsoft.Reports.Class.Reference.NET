@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiFillParametersEvent()` | Creates a new object of the type StiFillParametersEvent. |
-| `StiFillParametersEvent(string script)` | Creates a new object of the type StiFillParametersEvent with specified arguments. |
-| `StiFillParametersEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiFillParametersEvent**() | Creates a new object of the type StiFillParametersEvent. |
+| **StiFillParametersEvent**(string script) | Creates a new object of the type StiFillParametersEvent with specified arguments. |
+| **StiFillParametersEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

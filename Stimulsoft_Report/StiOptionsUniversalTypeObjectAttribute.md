@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiOptionsUniversalTypeObjectAttribute([StiOptionsUniversalType](StiOptionsUniversalType.md) universalType, string type)` |  |
+| **StiOptionsUniversalTypeObjectAttribute**([StiOptionsUniversalType](StiOptionsUniversalType.md) universalType, string type) |  |
 
 ### Properties
 

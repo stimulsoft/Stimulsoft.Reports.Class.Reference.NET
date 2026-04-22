@@ -19,7 +19,7 @@ Inherits from: [StiSimpleAtomElementControl](../StiSimpleAtomElementControl.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTextElementControl(IStiElement element)` |  |
+| **StiTextElementControl**(IStiElement element) |  |
 
 ### Methods
 

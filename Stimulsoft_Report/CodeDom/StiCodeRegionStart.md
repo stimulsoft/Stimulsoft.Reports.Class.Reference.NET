@@ -21,7 +21,7 @@ Inherits from: CodeCommentStatement
 
 | Constructor | Description |
 | --- | --- |
-| `StiCodeRegionStart(string text)` |  |
+| **StiCodeRegionStart**(string text) |  |
 
 ### Properties
 

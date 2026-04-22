@@ -15,4 +15,4 @@ public class StiMatrixBorderSidesXCollection
 
 | Constructor | Description |
 | --- | --- |
-| `StiMatrixBorderSidesXCollection([StiMatrixCacheManager](StiMatrixCacheManager.md) manager, [StiMatrix](StiMatrix.md) matrix)` |  |
+| **StiMatrixBorderSidesXCollection**([StiMatrixCacheManager](StiMatrixCacheManager.md) manager, [StiMatrix](StiMatrix.md) matrix) |  |

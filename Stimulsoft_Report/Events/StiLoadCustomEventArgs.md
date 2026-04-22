@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiLoadCustomEventArgs(string ident)` |  |
+| **StiLoadCustomEventArgs**(string ident) |  |
 
 ### Properties
 

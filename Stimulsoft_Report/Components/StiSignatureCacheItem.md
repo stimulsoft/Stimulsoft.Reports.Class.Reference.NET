@@ -15,8 +15,8 @@ public sealed class StiSignatureCacheItem
 
 | Constructor | Description |
 | --- | --- |
-| `StiSignatureCacheItem()` |  |
-| `StiSignatureCacheItem([StiElectronicSignature](StiElectronicSignature.md) signature)` |  |
+| **StiSignatureCacheItem**() |  |
+| **StiSignatureCacheItem**([StiElectronicSignature](StiElectronicSignature.md) signature) |  |
 
 ### Properties
 

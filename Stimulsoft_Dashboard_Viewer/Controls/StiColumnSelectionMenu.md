@@ -15,7 +15,7 @@ public class StiColumnSelectionMenu
 
 | Constructor | Description |
 | --- | --- |
-| `StiColumnSelectionMenu(StiContextMenu expressionMenu, Control control, IStiElement element)` |  |
+| **StiColumnSelectionMenu**(StiContextMenu expressionMenu, Control control, IStiElement element) |  |
 
 ### Properties
 

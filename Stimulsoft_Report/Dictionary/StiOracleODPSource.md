@@ -19,7 +19,7 @@ Inherits from: [StiOracleSource](StiOracleSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiOracleODPSource()` |  |
-| `StiOracleODPSource(string nameInSource, string name)` |  |
-| `StiOracleODPSource(string nameInSource, string name, string alias)` |  |
-| `StiOracleODPSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiOracleODPSource**() |  |
+| **StiOracleODPSource**(string nameInSource, string name) |  |
+| **StiOracleODPSource**(string nameInSource, string name, string alias) |  |
+| **StiOracleODPSource**(string nameInSource, string name, string alias, string sqlCommand) |  |

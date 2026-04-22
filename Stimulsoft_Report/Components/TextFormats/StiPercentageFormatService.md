@@ -19,7 +19,7 @@ Inherits from: [StiCurrencyFormatService](StiCurrencyFormatService.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPercentageFormatService()` | Creates a new format of the type StiPercentageFormatService. |
+| **StiPercentageFormatService**() | Creates a new format of the type StiPercentageFormatService. |
 
 ### Methods
 

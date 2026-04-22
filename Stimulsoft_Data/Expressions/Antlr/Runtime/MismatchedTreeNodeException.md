@@ -19,13 +19,13 @@ Inherits from: [RecognitionException](RecognitionException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `MismatchedTreeNodeException()` |  |
-| `MismatchedTreeNodeException(string message)` |  |
-| `MismatchedTreeNodeException(string message, Exception innerException)` |  |
-| `MismatchedTreeNodeException(int expecting, Tree.ITreeNodeStream input)` |  |
-| `MismatchedTreeNodeException(SerializationInfo info, StreamingContext context)` |  |
-| `MismatchedTreeNodeException(string message, int expecting, Tree.ITreeNodeStream input)` |  |
-| `MismatchedTreeNodeException(string message, int expecting, Tree.ITreeNodeStream input, Exception innerException)` |  |
+| **MismatchedTreeNodeException**() |  |
+| **MismatchedTreeNodeException**(string message) |  |
+| **MismatchedTreeNodeException**(string message, Exception innerException) |  |
+| **MismatchedTreeNodeException**(int expecting, Tree.ITreeNodeStream input) |  |
+| **MismatchedTreeNodeException**(SerializationInfo info, StreamingContext context) |  |
+| **MismatchedTreeNodeException**(string message, int expecting, Tree.ITreeNodeStream input) |  |
+| **MismatchedTreeNodeException**(string message, int expecting, Tree.ITreeNodeStream input, Exception innerException) |  |
 
 ### Methods
 

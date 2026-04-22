@@ -19,7 +19,7 @@ Inherits from: StiDbNoSqlDataConnector
 
 | Constructor | Description |
 | --- | --- |
-| `StiGraphQLConnector(string connectionString)` |  |
+| **StiGraphQLConnector**(string connectionString) |  |
 
 ### Methods
 

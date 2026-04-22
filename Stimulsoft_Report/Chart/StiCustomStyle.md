@@ -19,8 +19,8 @@ Inherits from: [StiStyle01](StiStyle01.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomStyle()` |  |
-| `StiCustomStyle(string reportStyleName)` |  |
+| **StiCustomStyle**() |  |
+| **StiCustomStyle**(string reportStyleName) |  |
 
 ### Fields
 

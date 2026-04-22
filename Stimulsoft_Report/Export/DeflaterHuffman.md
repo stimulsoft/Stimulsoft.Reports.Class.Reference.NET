@@ -15,7 +15,7 @@ public class DeflaterHuffman
 
 | Constructor | Description |
 | --- | --- |
-| `DeflaterHuffman([DeflaterPending](DeflaterPending.md) pending)` |  |
+| **DeflaterHuffman**([DeflaterPending](DeflaterPending.md) pending) |  |
 
 ### Methods
 

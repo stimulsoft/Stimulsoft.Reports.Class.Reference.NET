@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiExportingEventArgs(int value, int maximum, int currentPass, int maximumPass)` |  |
+| **StiExportingEventArgs**(int value, int maximum, int currentPass, int maximumPass) |  |
 
 ### Properties
 

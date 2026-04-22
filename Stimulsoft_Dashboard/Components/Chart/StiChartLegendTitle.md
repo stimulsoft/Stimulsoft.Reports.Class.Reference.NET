@@ -19,8 +19,8 @@ Implements: [IStiExpressionParentComponent](../../../Stimulsoft_Report/Component
 
 | Constructor | Description |
 | --- | --- |
-| `StiChartLegendTitle()` |  |
-| `StiChartLegendTitle([Font](../../../Stimulsoft_Drawing/Font.md) font, string text, Color color)` |  |
+| **StiChartLegendTitle**() |  |
+| **StiChartLegendTitle**([Font](../../../Stimulsoft_Drawing/Font.md) font, string text, Color color) |  |
 
 ### Properties
 

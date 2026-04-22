@@ -21,7 +21,7 @@ Inherits from: StiBorder
 
 | Constructor | Description |
 | --- | --- |
-| `StiAdvancedBorder()` | Creates a new instance of the StiAdvancedBorder class. |
+| **StiAdvancedBorder**() | Creates a new instance of the StiAdvancedBorder class. |
 
 ### Properties
 

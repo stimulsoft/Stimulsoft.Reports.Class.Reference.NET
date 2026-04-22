@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDB2Source()` |  |
-| `StiDB2Source(string dataName, string name)` |  |
-| `StiDB2Source(string dataName, string name, string alias)` |  |
-| `StiDB2Source(string dataName, string name, string alias, string sqlCommand)` |  |
+| **StiDB2Source**() |  |
+| **StiDB2Source**(string dataName, string name) |  |
+| **StiDB2Source**(string dataName, string name, string alias) |  |
+| **StiDB2Source**(string dataName, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

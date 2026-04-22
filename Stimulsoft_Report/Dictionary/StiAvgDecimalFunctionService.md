@@ -21,8 +21,8 @@ Inherits from: StiAggregateFunctionService
 
 | Constructor | Description |
 | --- | --- |
-| `StiAvgDecimalFunctionService()` |  |
-| `StiAvgDecimalFunctionService(bool runningTotal)` |  |
+| **StiAvgDecimalFunctionService**() |  |
+| **StiAvgDecimalFunctionService**(bool runningTotal) |  |
 
 ### Methods
 

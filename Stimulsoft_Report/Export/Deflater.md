@@ -15,9 +15,9 @@ public class Deflater
 
 | Constructor | Description |
 | --- | --- |
-| `Deflater()` |  |
-| `Deflater(int lvl)` |  |
-| `Deflater(int lvl, bool nowrap)` |  |
+| **Deflater**() |  |
+| **Deflater**(int lvl) |  |
+| **Deflater**(int lvl, bool nowrap) |  |
 
 ### Methods
 

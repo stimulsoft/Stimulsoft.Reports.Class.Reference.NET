@@ -15,7 +15,7 @@ public class StiRecordMovedArg
 
 | Constructor | Description |
 | --- | --- |
-| `StiRecordMovedArg(string tableKey, int index, int newPosition)` |  |
+| **StiRecordMovedArg**(string tableKey, int index, int newPosition) |  |
 
 ### Properties
 

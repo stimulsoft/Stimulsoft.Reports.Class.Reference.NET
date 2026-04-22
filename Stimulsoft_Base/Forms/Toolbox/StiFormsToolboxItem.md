@@ -15,7 +15,7 @@ public class StiFormsToolboxItem
 
 | Constructor | Description |
 | --- | --- |
-| `StiFormsToolboxItem(object baseObject)` |  |
+| **StiFormsToolboxItem**(object baseObject) |  |
 
 ### Methods
 

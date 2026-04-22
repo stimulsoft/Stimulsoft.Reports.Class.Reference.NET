@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTeradataSource()` |  |
-| `StiTeradataSource(string dataName, string name)` |  |
-| `StiTeradataSource(string dataName, string name, string alias)` |  |
-| `StiTeradataSource(string dataName, string name, string alias, string sqlCommand)` |  |
+| **StiTeradataSource**() |  |
+| **StiTeradataSource**(string dataName, string name) |  |
+| **StiTeradataSource**(string dataName, string name, string alias) |  |
+| **StiTeradataSource**(string dataName, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

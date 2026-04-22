@@ -21,7 +21,7 @@ Inherits from: [StiObject](StiObject.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiKeyObject()` |  |
+| **StiKeyObject**() |  |
 
 ### Properties
 

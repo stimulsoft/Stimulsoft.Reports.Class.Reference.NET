@@ -19,7 +19,7 @@ Inherits from: UserControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableFooterControl([StiTableViewControl](StiTableViewControl.md) tableViewControl, StiTableElement tableElement, StiTableElementStyle style)` |  |
+| **StiTableFooterControl**([StiTableViewControl](StiTableViewControl.md) tableViewControl, StiTableElement tableElement, StiTableElementStyle style) |  |
 
 ### Methods
 

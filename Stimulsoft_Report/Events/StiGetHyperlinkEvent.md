@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetHyperlinkEvent()` | Creates a new object of the type StiGetHyperlinkEvent. |
-| `StiGetHyperlinkEvent(string script)` | Creates a new object of the type StiGetHyperlinkEvent with specified arguments. |
-| `StiGetHyperlinkEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetHyperlinkEvent**() | Creates a new object of the type StiGetHyperlinkEvent. |
+| **StiGetHyperlinkEvent**(string script) | Creates a new object of the type StiGetHyperlinkEvent with specified arguments. |
+| **StiGetHyperlinkEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

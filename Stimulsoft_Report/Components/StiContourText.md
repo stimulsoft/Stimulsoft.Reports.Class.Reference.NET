@@ -19,9 +19,9 @@ Inherits from: StiText
 
 | Constructor | Description |
 | --- | --- |
-| `StiContourText()` | Creates a new contour text. |
-| `StiContourText([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new contour text. |
-| `StiContourText([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect, string text)` | Creates a new contour text. |
+| **StiContourText**() | Creates a new contour text. |
+| **StiContourText**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new contour text. |
+| **StiContourText**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect, string text) | Creates a new contour text. |
 
 ### Properties
 

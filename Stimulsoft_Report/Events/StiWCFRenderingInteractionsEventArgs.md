@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiWCFRenderingInteractionsEventArgs(bytedata , [StiInteractionType](../StiInteractionType.md) interactionType, [IStiViewerControl](../Viewer/IStiViewerControl.md) viewer)` |  |
+| **StiWCFRenderingInteractionsEventArgs**(bytedata , [StiInteractionType](../StiInteractionType.md) interactionType, [IStiViewerControl](../Viewer/IStiViewerControl.md) viewer) |  |
 
 ### Properties
 

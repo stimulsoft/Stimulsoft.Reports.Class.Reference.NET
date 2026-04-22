@@ -19,8 +19,8 @@ Inherits from: StiReportControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiNumericUpDownControl()` | Creates a new StiNumericUpDownControl. |
-| `StiNumericUpDownControl([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiNumericUpDownControl. |
+| **StiNumericUpDownControl**() | Creates a new StiNumericUpDownControl. |
+| **StiNumericUpDownControl**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiNumericUpDownControl. |
 
 ### Methods
 

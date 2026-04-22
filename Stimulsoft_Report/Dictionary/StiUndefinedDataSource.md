@@ -19,8 +19,8 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiUndefinedDataSource()` | Creates a new object of the type StiUndefinedDataSource. |
-| `StiUndefinedDataSource(string nameInSource, string name)` | Creates a new object of the type StiUndefinedDataSource. |
-| `StiUndefinedDataSource(string nameInSource, string name, string alias)` | Creates a new object of the type StiSqlSource. |
-| `StiUndefinedDataSource(string nameInSource, string name, string alias, string sqlCommand)` | Creates a new object of the type StiSqlSource. |
-| `StiUndefinedDataSource(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow, int commandTimeout, string key)` |  |
+| **StiUndefinedDataSource**() | Creates a new object of the type StiUndefinedDataSource. |
+| **StiUndefinedDataSource**(string nameInSource, string name) | Creates a new object of the type StiUndefinedDataSource. |
+| **StiUndefinedDataSource**(string nameInSource, string name, string alias) | Creates a new object of the type StiSqlSource. |
+| **StiUndefinedDataSource**(string nameInSource, string name, string alias, string sqlCommand) | Creates a new object of the type StiSqlSource. |
+| **StiUndefinedDataSource**(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow, int commandTimeout, string key) |  |

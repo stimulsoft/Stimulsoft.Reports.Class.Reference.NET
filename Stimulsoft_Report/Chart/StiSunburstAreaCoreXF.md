@@ -19,7 +19,7 @@ Inherits from: StiAreaCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiSunburstAreaCoreXF(IStiArea area)` |  |
+| **StiSunburstAreaCoreXF**(IStiArea area) |  |
 
 ### Methods
 

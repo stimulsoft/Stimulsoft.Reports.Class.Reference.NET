@@ -19,7 +19,7 @@ Inherits from: [BaseTree](BaseTree.md)
 
 | Constructor | Description |
 | --- | --- |
-| `ParseTree(object label)` |  |
+| **ParseTree**(object label) |  |
 
 ### Methods
 

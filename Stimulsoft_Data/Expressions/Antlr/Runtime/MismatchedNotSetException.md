@@ -19,13 +19,13 @@ Inherits from: [MismatchedSetException](MismatchedSetException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `MismatchedNotSetException()` |  |
-| `MismatchedNotSetException(string message)` |  |
-| `MismatchedNotSetException(string message, Exception innerException)` |  |
-| `MismatchedNotSetException([BitSet](BitSet.md) expecting, [IIntStream](IIntStream.md) input)` |  |
-| `MismatchedNotSetException(SerializationInfo info, StreamingContext context)` |  |
-| `MismatchedNotSetException(string message, [BitSet](BitSet.md) expecting, [IIntStream](IIntStream.md) input)` |  |
-| `MismatchedNotSetException(string message, [BitSet](BitSet.md) expecting, [IIntStream](IIntStream.md) input, Exception innerException)` |  |
+| **MismatchedNotSetException**() |  |
+| **MismatchedNotSetException**(string message) |  |
+| **MismatchedNotSetException**(string message, Exception innerException) |  |
+| **MismatchedNotSetException**([BitSet](BitSet.md) expecting, [IIntStream](IIntStream.md) input) |  |
+| **MismatchedNotSetException**(SerializationInfo info, StreamingContext context) |  |
+| **MismatchedNotSetException**(string message, [BitSet](BitSet.md) expecting, [IIntStream](IIntStream.md) input) |  |
+| **MismatchedNotSetException**(string message, [BitSet](BitSet.md) expecting, [IIntStream](IIntStream.md) input, Exception innerException) |  |
 
 ### Methods
 

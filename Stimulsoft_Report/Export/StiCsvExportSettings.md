@@ -21,4 +21,4 @@ Inherits from: StiDataExportSettings
 
 | Constructor | Description |
 | --- | --- |
-| `StiCsvExportSettings()` |  |
+| **StiCsvExportSettings**() |  |

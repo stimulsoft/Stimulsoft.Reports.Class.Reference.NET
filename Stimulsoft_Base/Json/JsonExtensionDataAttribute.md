@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `JsonExtensionDataAttribute()` | Initializes a new instance of the JsonExtensionDataAttribute class. |
+| **JsonExtensionDataAttribute**() | Initializes a new instance of the JsonExtensionDataAttribute class. |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiCloseDrillDownPageEventArgs(int tabIndex)` |  |
+| **StiCloseDrillDownPageEventArgs**(int tabIndex) |  |
 
 ### Properties
 

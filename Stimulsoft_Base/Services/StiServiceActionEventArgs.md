@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiServiceActionEventArgs([StiServiceActionType](StiServiceActionType.md) type)` |  |
+| **StiServiceActionEventArgs**([StiServiceActionType](StiServiceActionType.md) type) |  |
 
 ### Properties
 

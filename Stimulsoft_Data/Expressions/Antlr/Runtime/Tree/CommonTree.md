@@ -19,9 +19,9 @@ Inherits from: [BaseTree](BaseTree.md)
 
 | Constructor | Description |
 | --- | --- |
-| `CommonTree()` |  |
-| `CommonTree([CommonTree](CommonTree.md) node)` |  |
-| `CommonTree([IToken](../IToken.md) t)` |  |
+| **CommonTree**() |  |
+| **CommonTree**([CommonTree](CommonTree.md) node) |  |
+| **CommonTree**([IToken](../IToken.md) t) |  |
 
 ### Methods
 

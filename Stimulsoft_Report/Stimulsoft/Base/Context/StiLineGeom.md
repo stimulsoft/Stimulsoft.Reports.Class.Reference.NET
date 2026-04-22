@@ -19,7 +19,7 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLineGeom([StiPenGeom](StiPenGeom.md) pen, float x1, float y1, float x2, float y2)` |  |
+| **StiLineGeom**([StiPenGeom](StiPenGeom.md) pen, float x1, float y1, float x2, float y2) |  |
 
 ### Properties
 

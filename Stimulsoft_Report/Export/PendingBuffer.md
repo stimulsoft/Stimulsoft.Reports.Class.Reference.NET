@@ -15,8 +15,8 @@ public class PendingBuffer
 
 | Constructor | Description |
 | --- | --- |
-| `PendingBuffer()` |  |
-| `PendingBuffer(int bufsize)` |  |
+| **PendingBuffer**() |  |
+| **PendingBuffer**(int bufsize) |  |
 
 ### Methods
 

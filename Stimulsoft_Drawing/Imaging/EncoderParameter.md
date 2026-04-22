@@ -19,7 +19,7 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `EncoderParameter([Encoder](Encoder.md) encoder, long value)` |  |
+| **EncoderParameter**([Encoder](Encoder.md) encoder, long value) |  |
 
 ### Methods
 

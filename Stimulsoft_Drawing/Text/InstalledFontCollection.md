@@ -19,4 +19,4 @@ Inherits from: [FontCollection](FontCollection.md)
 
 | Constructor | Description |
 | --- | --- |
-| `InstalledFontCollection()` |  |
+| **InstalledFontCollection**() |  |

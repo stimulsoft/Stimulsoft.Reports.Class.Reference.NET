@@ -15,8 +15,8 @@ public class StiDesignerInfo
 
 | Constructor | Description |
 | --- | --- |
-| `StiDesignerInfo()` | Creates a new object of the type StiDesignerInfo. |
-| `StiDesignerInfo([StiReport](../StiReport.md) report)` | Creates a new object of the type StiDesignerInfo. |
+| **StiDesignerInfo**() | Creates a new object of the type StiDesignerInfo. |
+| **StiDesignerInfo**([StiReport](../StiReport.md) report) | Creates a new object of the type StiDesignerInfo. |
 
 ### Properties
 

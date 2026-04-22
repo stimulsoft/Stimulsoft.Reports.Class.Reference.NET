@@ -21,7 +21,7 @@ Implements: [IValueProvider](IValueProvider.md)
 
 | Constructor | Description |
 | --- | --- |
-| `DynamicValueProvider(MemberInfo memberInfo)` | Initializes a new instance of the DynamicValueProvider class. |
+| **DynamicValueProvider**(MemberInfo memberInfo) | Initializes a new instance of the DynamicValueProvider class. |
 
 ### Methods
 

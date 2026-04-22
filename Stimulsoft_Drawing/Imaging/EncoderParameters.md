@@ -19,8 +19,8 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `EncoderParameters()` |  |
-| `EncoderParameters(int count)` |  |
+| **EncoderParameters**() |  |
+| **EncoderParameters**(int count) |  |
 
 ### Methods
 

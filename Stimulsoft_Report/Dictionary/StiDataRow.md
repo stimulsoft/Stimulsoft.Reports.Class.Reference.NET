@@ -17,8 +17,8 @@ public class StiDataRow
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataRow([StiDataRow](StiDataRow.md) dataRow)` | Creates a new object of the type StiDataRow. |
-| `StiDataRow(StiDataSource dataSource, DataRow dataRow)` | Creates a new object of the type StiDataRow. |
+| **StiDataRow**([StiDataRow](StiDataRow.md) dataRow) | Creates a new object of the type StiDataRow. |
+| **StiDataRow**(StiDataSource dataSource, DataRow dataRow) | Creates a new object of the type StiDataRow. |
 
 ### Properties
 

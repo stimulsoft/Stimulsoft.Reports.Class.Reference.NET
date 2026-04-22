@@ -19,7 +19,7 @@ Inherits from: [StiClusteredColumnAreaCoreXF](StiClusteredColumnAreaCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiRangeAreaCoreXF(IStiArea area)` |  |
+| **StiRangeAreaCoreXF**(IStiArea area) |  |
 
 ### Methods
 

@@ -19,7 +19,7 @@ Inherits from: StiSeriesCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiRadarSeriesCoreXF(IStiSeries series)` |  |
+| **StiRadarSeriesCoreXF**(IStiSeries series) |  |
 
 ### Methods
 

@@ -15,7 +15,7 @@ public class StiColumn
 
 | Constructor | Description |
 | --- | --- |
-| `StiColumn(object value, object displayValue)` |  |
+| **StiColumn**(object value, object displayValue) |  |
 
 ### Properties
 

@@ -21,11 +21,11 @@ Inherits from: [StiDataStoreSource](StiDataStoreSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataViewSource()` | Creates a new object of the type StiDataViewSource. |
-| `StiDataViewSource(string nameInSource, string name)` | Creates a new object of the type StiDataViewSource. |
-| `StiDataViewSource(string nameInSource, string name, string alias)` | Creates a new object of the type StiDataViewSource. |
-| `StiDataViewSource(string nameInSource, string name, string alias, string key)` | Creates a new object of the type StiDataViewSource. |
-| `StiDataViewSource(string nameInSource, string name, string alias, string key, bool reconnectOnEachRow)` | Creates a new object of the type StiDataViewSource. |
+| **StiDataViewSource**() | Creates a new object of the type StiDataViewSource. |
+| **StiDataViewSource**(string nameInSource, string name) | Creates a new object of the type StiDataViewSource. |
+| **StiDataViewSource**(string nameInSource, string name, string alias) | Creates a new object of the type StiDataViewSource. |
+| **StiDataViewSource**(string nameInSource, string name, string alias, string key) | Creates a new object of the type StiDataViewSource. |
+| **StiDataViewSource**(string nameInSource, string name, string alias, string key, bool reconnectOnEachRow) | Creates a new object of the type StiDataViewSource. |
 
 ### Methods
 

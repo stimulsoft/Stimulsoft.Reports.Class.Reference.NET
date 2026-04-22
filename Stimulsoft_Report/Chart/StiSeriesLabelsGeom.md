@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiSeriesLabelsGeom(IStiSeriesLabels seriesLabels, IStiSeries series, int index, double value, RectangleF clientRectangle)` |  |
+| **StiSeriesLabelsGeom**(IStiSeriesLabels seriesLabels, IStiSeries series, int index, double value, RectangleF clientRectangle) |  |
 
 ### Properties
 

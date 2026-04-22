@@ -19,7 +19,7 @@ Implements: [IStiGlobalizationManager](IStiGlobalizationManager.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiNullGlobalizationManager()` |  |
+| **StiNullGlobalizationManager**() |  |
 
 ### Properties
 

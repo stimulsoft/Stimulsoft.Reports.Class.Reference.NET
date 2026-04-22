@@ -19,7 +19,7 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiBezierSegmentGeom(PointF pt1, PointF pt2, PointF pt3, PointF pt4, [StiAnimation](Animation/StiAnimation.md) animation)` |  |
+| **StiBezierSegmentGeom**(PointF pt1, PointF pt2, PointF pt3, PointF pt4, [StiAnimation](Animation/StiAnimation.md) animation) |  |
 
 ### Properties
 

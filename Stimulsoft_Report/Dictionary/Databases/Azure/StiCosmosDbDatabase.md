@@ -19,11 +19,11 @@ Inherits from: [StiNoSqlDatabase](../../StiNoSqlDatabase.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCosmosDbDatabase()` |  |
-| `StiCosmosDbDatabase(string name, string connectionString)` |  |
-| `StiCosmosDbDatabase(string name, string alias, string connectionString)` |  |
-| `StiCosmosDbDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiCosmosDbDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiCosmosDbDatabase**() |  |
+| **StiCosmosDbDatabase**(string name, string connectionString) |  |
+| **StiCosmosDbDatabase**(string name, string alias, string connectionString) |  |
+| **StiCosmosDbDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiCosmosDbDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Methods
 

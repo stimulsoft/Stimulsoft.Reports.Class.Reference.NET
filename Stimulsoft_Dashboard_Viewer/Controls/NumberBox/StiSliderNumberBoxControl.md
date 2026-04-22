@@ -19,7 +19,7 @@ Inherits from: Panel
 
 | Constructor | Description |
 | --- | --- |
-| `StiSliderNumberBoxControl([StiControlColorCollection](../StiControlColorCollection.md) colors, StiNumberBoxElement element)` |  |
+| **StiSliderNumberBoxControl**([StiControlColorCollection](../StiControlColorCollection.md) colors, StiNumberBoxElement element) |  |
 
 ### Properties
 

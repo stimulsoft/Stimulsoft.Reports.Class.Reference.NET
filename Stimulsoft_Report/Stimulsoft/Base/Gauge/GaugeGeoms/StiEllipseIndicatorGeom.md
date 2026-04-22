@@ -19,7 +19,7 @@ Inherits from: [StiIndicatorGeom](../../Indicator/StiIndicatorGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiEllipseIndicatorGeom(RectangleF rect, [StiBrush](../../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth)` |  |
+| **StiEllipseIndicatorGeom**(RectangleF rect, [StiBrush](../../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth) |  |
 
 ### Fields
 

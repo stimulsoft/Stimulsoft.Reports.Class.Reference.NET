@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiSybaseDatabase()` | Creates a new object of the type StiSybaseDatabase. |
-| `StiSybaseDatabase(string name, string connectionString)` | Creates a new object of the type StiSybaseDatabase. |
-| `StiSybaseDatabase(string name, string alias, string connectionString)` | Creates a new object of the type StiSybaseDatabase. |
-| `StiSybaseDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` | Creates a new object of the type StiSybaseDatabase. |
-| `StiSybaseDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` | Creates a new object of the type StiSybaseDatabase. |
+| **StiSybaseDatabase**() | Creates a new object of the type StiSybaseDatabase. |
+| **StiSybaseDatabase**(string name, string connectionString) | Creates a new object of the type StiSybaseDatabase. |
+| **StiSybaseDatabase**(string name, string alias, string connectionString) | Creates a new object of the type StiSybaseDatabase. |
+| **StiSybaseDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiSybaseDatabase. |
+| **StiSybaseDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiSybaseDatabase. |
 
 ### Methods
 

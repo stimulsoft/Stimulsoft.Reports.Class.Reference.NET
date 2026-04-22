@@ -19,7 +19,7 @@ Inherits from: MaskedTextBox
 
 | Constructor | Description |
 | --- | --- |
-| `StiDateTimeInput()` |  |
+| **StiDateTimeInput**() |  |
 
 ### Methods
 

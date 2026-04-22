@@ -21,7 +21,7 @@ Inherits from: TypeDelegator
 
 | Constructor | Description |
 | --- | --- |
-| `StiUndefinedType(string type)` | Creates a new instance of the StiUndefinedType class. |
+| **StiUndefinedType**(string type) | Creates a new instance of the StiUndefinedType class. |
 
 ### Properties
 

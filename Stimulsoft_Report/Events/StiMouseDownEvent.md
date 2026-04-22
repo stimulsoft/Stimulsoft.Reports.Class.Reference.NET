@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiMouseDownEvent()` | Creates a new object of the type StiMouseDownEvent. |
-| `StiMouseDownEvent(string script)` | Creates a new object of the type StiMouseDownEvent with specified arguments. |
-| `StiMouseDownEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiMouseDownEvent**() | Creates a new object of the type StiMouseDownEvent. |
+| **StiMouseDownEvent**(string script) | Creates a new object of the type StiMouseDownEvent with specified arguments. |
+| **StiMouseDownEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

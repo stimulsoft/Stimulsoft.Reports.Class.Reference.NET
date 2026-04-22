@@ -19,8 +19,8 @@ Inherits from: [StiFileDataOptions](StiFileDataOptions.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiXmlOptions(bytecontent )` |  |
-| `StiXmlOptions(byteschema , bytecontent , bool isAdoNet)` |  |
+| **StiXmlOptions**(bytecontent ) |  |
+| **StiXmlOptions**(byteschema , bytecontent , bool isAdoNet) |  |
 
 ### Properties
 

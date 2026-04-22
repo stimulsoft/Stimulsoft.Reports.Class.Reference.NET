@@ -20,7 +20,7 @@ Implements: [IStiFunnelWeightedSlicesSeries](IStiFunnelWeightedSlicesSeries.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiFunnelWeightedSlicesSeries()` |  |
+| **StiFunnelWeightedSlicesSeries**() |  |
 
 ### Methods
 

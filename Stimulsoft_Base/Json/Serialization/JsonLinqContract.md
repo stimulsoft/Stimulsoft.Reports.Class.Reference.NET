@@ -21,4 +21,4 @@ Inherits from: [JsonContract](JsonContract.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JsonLinqContract(Type underlyingType)` | Initializes a new instance of the JsonLinqContract class. |
+| **JsonLinqContract**(Type underlyingType) | Initializes a new instance of the JsonLinqContract class. |

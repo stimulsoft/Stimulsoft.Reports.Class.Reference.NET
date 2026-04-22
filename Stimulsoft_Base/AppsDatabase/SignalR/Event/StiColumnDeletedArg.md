@@ -15,7 +15,7 @@ public class StiColumnDeletedArg
 
 | Constructor | Description |
 | --- | --- |
-| `StiColumnDeletedArg(string tableKey, string columnName)` |  |
+| **StiColumnDeletedArg**(string tableKey, string columnName) |  |
 
 ### Properties
 

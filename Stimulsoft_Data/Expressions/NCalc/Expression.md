@@ -15,10 +15,10 @@ public class Expression
 
 | Constructor | Description |
 | --- | --- |
-| `Expression(string expression)` |  |
-| `Expression([LogicalExpression](Domain/LogicalExpression.md) expression)` |  |
-| `Expression(string expression, [EvaluateOptions](EvaluateOptions.md) options)` |  |
-| `Expression([LogicalExpression](Domain/LogicalExpression.md) expression, [EvaluateOptions](EvaluateOptions.md) options)` |  |
+| **Expression**(string expression) |  |
+| **Expression**([LogicalExpression](Domain/LogicalExpression.md) expression) |  |
+| **Expression**(string expression, [EvaluateOptions](EvaluateOptions.md) options) |  |
+| **Expression**([LogicalExpression](Domain/LogicalExpression.md) expression, [EvaluateOptions](EvaluateOptions.md) options) |  |
 
 ### Properties
 

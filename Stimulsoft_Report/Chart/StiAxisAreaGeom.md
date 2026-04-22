@@ -19,7 +19,7 @@ Inherits from: [StiAreaGeom](StiAreaGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiAxisAreaGeom([StiAxisAreaViewGeom](StiAxisAreaViewGeom.md) view, IStiArea area, RectangleF clientRectangle)` |  |
+| **StiAxisAreaGeom**([StiAxisAreaViewGeom](StiAxisAreaViewGeom.md) view, IStiArea area, RectangleF clientRectangle) |  |
 
 ### Properties
 

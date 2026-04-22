@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataSortDesignerAttribute(string designerTypeName)` |  |
-| `StiDataSortDesignerAttribute(Type type)` |  |
+| **StiDataSortDesignerAttribute**(string designerTypeName) |  |
+| **StiDataSortDesignerAttribute**(Type type) |  |
 
 ### Properties
 

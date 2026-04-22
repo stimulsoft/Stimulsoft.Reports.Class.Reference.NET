@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiReportControlUpdateEventArgs(string propertyName)` | Creates a new object of the type StiReportControlUpdateEventArgs. |
+| **StiReportControlUpdateEventArgs**(string propertyName) | Creates a new object of the type StiReportControlUpdateEventArgs. |
 
 ### Properties
 

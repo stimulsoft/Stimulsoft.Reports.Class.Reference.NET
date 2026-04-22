@@ -17,7 +17,7 @@ public class StiDocument
 
 | Constructor | Description |
 | --- | --- |
-| `StiDocument([StiReport](../StiReport.md) report)` | Creates a new object of the type StiDocument. |
+| **StiDocument**([StiReport](../StiReport.md) report) | Creates a new object of the type StiDocument. |
 
 ### Properties
 

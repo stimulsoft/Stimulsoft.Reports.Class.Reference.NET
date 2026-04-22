@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiLegendGeom(IStiLegend legend, RectangleF clientRectangle, List<[StiLegendItemCoreXF](StiLegendItemCoreXF.md)> seriesItems)` |  |
+| **StiLegendGeom**(IStiLegend legend, RectangleF clientRectangle, List<[StiLegendItemCoreXF](StiLegendItemCoreXF.md)> seriesItems) |  |
 
 ### Methods
 

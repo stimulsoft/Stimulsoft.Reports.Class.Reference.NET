@@ -19,7 +19,7 @@ Inherits from: [DeflaterConstants](DeflaterConstants.md)
 
 | Constructor | Description |
 | --- | --- |
-| `DeflaterEngine([DeflaterPending](DeflaterPending.md) pending)` |  |
+| **DeflaterEngine**([DeflaterPending](DeflaterPending.md) pending) |  |
 
 ### Methods
 

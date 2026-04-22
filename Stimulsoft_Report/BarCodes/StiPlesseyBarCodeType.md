@@ -19,8 +19,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiPlesseyBarCodeType()` |  |
-| `StiPlesseyBarCodeType(float module, float height, [StiPlesseyCheckSum](StiPlesseyCheckSum.md) checkSum1, [StiPlesseyCheckSum](StiPlesseyCheckSum.md) checkSum2)` |  |
+| **StiPlesseyBarCodeType**() |  |
+| **StiPlesseyBarCodeType**(float module, float height, [StiPlesseyCheckSum](StiPlesseyCheckSum.md) checkSum1, [StiPlesseyCheckSum](StiPlesseyCheckSum.md) checkSum2) |  |
 
 ### Methods
 

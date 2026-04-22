@@ -15,7 +15,7 @@ public class StiHtmlImageHost
 
 | Constructor | Description |
 | --- | --- |
-| `StiHtmlImageHost([StiHtmlExportService](StiHtmlExportService.md) htmlExport)` |  |
+| **StiHtmlImageHost**([StiHtmlExportService](StiHtmlExportService.md) htmlExport) |  |
 
 ### Properties
 

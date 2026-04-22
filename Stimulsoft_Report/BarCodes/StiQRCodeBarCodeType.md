@@ -21,10 +21,10 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiQRCodeBarCodeType()` |  |
-| `StiQRCodeBarCodeType(float module, [StiQRCodeErrorCorrectionLevel](StiQRCodeErrorCorrectionLevel.md) errorCorrectionLevel, [StiQRCodeSize](StiQRCodeSize.md) matrixSize)` |  |
-| `StiQRCodeBarCodeType(float module, [StiQRCodeErrorCorrectionLevel](StiQRCodeErrorCorrectionLevel.md) errorCorrectionLevel, [StiQRCodeSize](StiQRCodeSize.md) matrixSize, [Image](../../Stimulsoft_Drawing/Image.md) image)` |  |
-| `StiQRCodeBarCodeType(float module, [StiQRCodeErrorCorrectionLevel](StiQRCodeErrorCorrectionLevel.md) errorCorrectionLevel, [StiQRCodeSize](StiQRCodeSize.md) matrixSize, [Image](../../Stimulsoft_Drawing/Image.md) image, double imageMultipleFactor)` |  |
+| **StiQRCodeBarCodeType**() |  |
+| **StiQRCodeBarCodeType**(float module, [StiQRCodeErrorCorrectionLevel](StiQRCodeErrorCorrectionLevel.md) errorCorrectionLevel, [StiQRCodeSize](StiQRCodeSize.md) matrixSize) |  |
+| **StiQRCodeBarCodeType**(float module, [StiQRCodeErrorCorrectionLevel](StiQRCodeErrorCorrectionLevel.md) errorCorrectionLevel, [StiQRCodeSize](StiQRCodeSize.md) matrixSize, [Image](../../Stimulsoft_Drawing/Image.md) image) |  |
+| **StiQRCodeBarCodeType**(float module, [StiQRCodeErrorCorrectionLevel](StiQRCodeErrorCorrectionLevel.md) errorCorrectionLevel, [StiQRCodeSize](StiQRCodeSize.md) matrixSize, [Image](../../Stimulsoft_Drawing/Image.md) image, double imageMultipleFactor) |  |
 
 ### Properties
 

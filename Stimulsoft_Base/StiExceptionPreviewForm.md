@@ -19,4 +19,4 @@ Inherits from: StiForm
 
 | Constructor | Description |
 | --- | --- |
-| `StiExceptionPreviewForm(Exception ex)` |  |
+| **StiExceptionPreviewForm**(Exception ex) |  |

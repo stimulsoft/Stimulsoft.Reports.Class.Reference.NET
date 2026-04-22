@@ -19,7 +19,7 @@ Inherits from: [StiPieSeriesCoreXF](StiPieSeriesCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDoughnutSeriesCoreXF(IStiSeries series)` |  |
+| **StiDoughnutSeriesCoreXF**(IStiSeries series) |  |
 
 ### Methods
 

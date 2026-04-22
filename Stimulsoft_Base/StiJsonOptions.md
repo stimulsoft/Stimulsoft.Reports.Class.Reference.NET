@@ -19,7 +19,7 @@ Inherits from: [StiFileDataOptions](StiFileDataOptions.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiJsonOptions(bytecontent , [StiRelationDirection](StiRelationDirection.md) relationDirection)` |  |
+| **StiJsonOptions**(bytecontent , [StiRelationDirection](StiRelationDirection.md) relationDirection) |  |
 
 ### Properties
 

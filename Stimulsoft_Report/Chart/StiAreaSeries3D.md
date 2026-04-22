@@ -19,7 +19,7 @@ Inherits from: StiLineSeries3D
 
 | Constructor | Description |
 | --- | --- |
-| `StiAreaSeries3D()` |  |
+| **StiAreaSeries3D**() |  |
 
 ### Methods
 

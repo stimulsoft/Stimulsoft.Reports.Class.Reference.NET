@@ -21,8 +21,8 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiFilterEventArgs()` | Creates a new object of the type StiFilterEventArgs. |
-| `StiFilterEventArgs(bool value)` | Creates a new object of the type StiFilterEventArgs with specified arguments. |
+| **StiFilterEventArgs**() | Creates a new object of the type StiFilterEventArgs. |
+| **StiFilterEventArgs**(bool value) | Creates a new object of the type StiFilterEventArgs with specified arguments. |
 
 ### Properties
 

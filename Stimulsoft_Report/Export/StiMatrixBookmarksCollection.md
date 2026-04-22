@@ -15,7 +15,7 @@ public class StiMatrixBookmarksCollection
 
 | Constructor | Description |
 | --- | --- |
-| `StiMatrixBookmarksCollection([StiMatrixCacheManager](StiMatrixCacheManager.md) manager, [StiMatrix](StiMatrix.md) matrix)` |  |
+| **StiMatrixBookmarksCollection**([StiMatrixCacheManager](StiMatrixCacheManager.md) manager, [StiMatrix](StiMatrix.md) matrix) |  |
 
 ### Properties
 

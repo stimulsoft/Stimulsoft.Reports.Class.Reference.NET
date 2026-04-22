@@ -15,7 +15,7 @@ public sealed class StiPdfImageCache
 
 | Constructor | Description |
 | --- | --- |
-| `StiPdfImageCache()` |  |
+| **StiPdfImageCache**() |  |
 
 ### Methods
 

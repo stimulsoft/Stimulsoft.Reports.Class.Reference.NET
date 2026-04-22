@@ -17,7 +17,7 @@ public struct StiPosition
 
 | Constructor | Description |
 | --- | --- |
-| `StiPosition(int line, int column)` | Creates position in text. |
+| **StiPosition**(int line, int column) | Creates position in text. |
 
 ### Properties
 

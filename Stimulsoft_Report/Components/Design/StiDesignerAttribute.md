@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiDesignerAttribute(string designerTypeName)` |  |
-| `StiDesignerAttribute(Type type)` |  |
+| **StiDesignerAttribute**(string designerTypeName) |  |
+| **StiDesignerAttribute**(Type type) |  |
 
 ### Properties
 

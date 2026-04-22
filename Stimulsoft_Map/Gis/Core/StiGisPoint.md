@@ -15,7 +15,7 @@ public struct StiGisPoint
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisPoint(int x, int y)` |  |
+| **StiGisPoint**(int x, int y) |  |
 
 ### Properties
 

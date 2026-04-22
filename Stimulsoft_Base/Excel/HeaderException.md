@@ -19,6 +19,6 @@ Inherits from: Exception
 
 | Constructor | Description |
 | --- | --- |
-| `HeaderException()` |  |
-| `HeaderException(string message)` |  |
-| `HeaderException(string message, Exception innerException)` |  |
+| **HeaderException**() |  |
+| **HeaderException**(string message) |  |
+| **HeaderException**(string message, Exception innerException) |  |

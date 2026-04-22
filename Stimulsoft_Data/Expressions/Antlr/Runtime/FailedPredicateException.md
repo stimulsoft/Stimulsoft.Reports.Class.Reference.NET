@@ -19,13 +19,13 @@ Inherits from: [RecognitionException](RecognitionException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `FailedPredicateException()` |  |
-| `FailedPredicateException(string message)` |  |
-| `FailedPredicateException(string message, Exception innerException)` |  |
-| `FailedPredicateException(SerializationInfo info, StreamingContext context)` |  |
-| `FailedPredicateException([IIntStream](IIntStream.md) input, string ruleName, string predicateText)` |  |
-| `FailedPredicateException(string message, [IIntStream](IIntStream.md) input, string ruleName, string predicateText)` |  |
-| `FailedPredicateException(string message, [IIntStream](IIntStream.md) input, string ruleName, string predicateText, Exception innerException)` |  |
+| **FailedPredicateException**() |  |
+| **FailedPredicateException**(string message) |  |
+| **FailedPredicateException**(string message, Exception innerException) |  |
+| **FailedPredicateException**(SerializationInfo info, StreamingContext context) |  |
+| **FailedPredicateException**([IIntStream](IIntStream.md) input, string ruleName, string predicateText) |  |
+| **FailedPredicateException**(string message, [IIntStream](IIntStream.md) input, string ruleName, string predicateText) |  |
+| **FailedPredicateException**(string message, [IIntStream](IIntStream.md) input, string ruleName, string predicateText, Exception innerException) |  |
 
 ### Methods
 

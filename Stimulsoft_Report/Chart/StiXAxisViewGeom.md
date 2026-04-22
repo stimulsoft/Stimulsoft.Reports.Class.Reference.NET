@@ -19,7 +19,7 @@ Inherits from: StiXAxisGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiXAxisViewGeom([IStiXAxis](IStiXAxis.md) axis, RectangleF clientRectangle, bool isCenterAxis)` |  |
+| **StiXAxisViewGeom**([IStiXAxis](IStiXAxis.md) axis, RectangleF clientRectangle, bool isCenterAxis) |  |
 
 ### Methods
 

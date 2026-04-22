@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiBeforePrintEvent()` | Creates a new object of the type StiBeforePrintEvent. |
-| `StiBeforePrintEvent(string script)` | Creates a new object of the type StiBeforePrintEvent with specified arguments. |
-| `StiBeforePrintEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiBeforePrintEvent**() | Creates a new object of the type StiBeforePrintEvent. |
+| **StiBeforePrintEvent**(string script) | Creates a new object of the type StiBeforePrintEvent with specified arguments. |
+| **StiBeforePrintEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

@@ -15,7 +15,7 @@ public class StiDragDropFromDictionaryEventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiDragDropFromDictionaryEventArgs(string text, string textLabel, bool cancel)` |  |
+| **StiDragDropFromDictionaryEventArgs**(string text, string textLabel, bool cancel) |  |
 
 ### Properties
 

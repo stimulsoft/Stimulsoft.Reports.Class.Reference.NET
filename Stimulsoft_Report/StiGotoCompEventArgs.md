@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiGotoCompEventArgs(StiComponent component)` | Creates a new object of the type StiGotoCompArgs. |
+| **StiGotoCompEventArgs**(StiComponent component) | Creates a new object of the type StiGotoCompArgs. |
 
 ### Properties
 

@@ -21,7 +21,7 @@ Inherits from: [StiProgressVisual](StiProgressVisual.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataBarsProgressVisual(StiProgressElement element, List<[StiProgressIteration](StiProgressIteration.md)> iterations)` |  |
+| **StiDataBarsProgressVisual**(StiProgressElement element, List<[StiProgressIteration](StiProgressIteration.md)> iterations) |  |
 
 ### Methods
 

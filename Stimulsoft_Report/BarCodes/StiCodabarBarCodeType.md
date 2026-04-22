@@ -19,8 +19,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiCodabarBarCodeType()` |  |
-| `StiCodabarBarCodeType(float module, float height, float ratio)` |  |
+| **StiCodabarBarCodeType**() |  |
+| **StiCodabarBarCodeType**(float module, float height, float ratio) |  |
 
 ### Methods
 

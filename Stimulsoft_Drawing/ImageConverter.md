@@ -19,7 +19,7 @@ Inherits from: TypeConverter
 
 | Constructor | Description |
 | --- | --- |
-| `ImageConverter()` |  |
+| **ImageConverter**() |  |
 
 ### Methods
 

@@ -19,7 +19,7 @@ Implements: [IStiExportGeomWriter](IStiExportGeomWriter.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiExcel2007GeomWriter()` |  |
+| **StiExcel2007GeomWriter**() |  |
 
 ### Methods
 

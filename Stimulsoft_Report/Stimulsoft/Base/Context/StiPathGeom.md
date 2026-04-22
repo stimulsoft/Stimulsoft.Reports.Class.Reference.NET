@@ -19,8 +19,8 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPathGeom([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiPenGeom](StiPenGeom.md) pen, List<[StiSegmentGeom](StiSegmentGeom.md)> geoms, object rect, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, int elementIndex, object tag)` |  |
-| `StiPathGeom([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiPenGeom](StiPenGeom.md) pen, List<[StiSegmentGeom](StiSegmentGeom.md)> geoms, object rect, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, int elementIndex, string toolTip, object tag)` |  |
+| **StiPathGeom**([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiPenGeom](StiPenGeom.md) pen, List<[StiSegmentGeom](StiSegmentGeom.md)> geoms, object rect, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, int elementIndex, object tag) |  |
+| **StiPathGeom**([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiPenGeom](StiPenGeom.md) pen, List<[StiSegmentGeom](StiSegmentGeom.md)> geoms, object rect, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, int elementIndex, string toolTip, object tag) |  |
 
 ### Properties
 

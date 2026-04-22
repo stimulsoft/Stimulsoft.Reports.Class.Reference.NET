@@ -19,8 +19,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiRoyalMail4StateBarCodeType()` |  |
-| `StiRoyalMail4StateBarCodeType(float module, float height, [StiCheckSum](StiCheckSum.md) checkSum)` |  |
+| **StiRoyalMail4StateBarCodeType**() |  |
+| **StiRoyalMail4StateBarCodeType**(float module, float height, [StiCheckSum](StiCheckSum.md) checkSum) |  |
 
 ### Properties
 

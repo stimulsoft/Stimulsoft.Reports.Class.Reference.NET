@@ -19,7 +19,7 @@ Inherits from: StiDataGridView
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableViewControl(StiTableElement element, [StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md) dataTable)` |  |
+| **StiTableViewControl**(StiTableElement element, [StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md) dataTable) |  |
 
 ### Methods
 

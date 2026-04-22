@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiV1BuilderAttribute(string builderTypeName)` |  |
-| `StiV1BuilderAttribute(Type builderType)` |  |
+| **StiV1BuilderAttribute**(string builderTypeName) |  |
+| **StiV1BuilderAttribute**(Type builderType) |  |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Inherits from: StiSeriesCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiFunnelSeriesCoreXF(IStiSeries series)` |  |
+| **StiFunnelSeriesCoreXF**(IStiSeries series) |  |
 
 ### Methods
 

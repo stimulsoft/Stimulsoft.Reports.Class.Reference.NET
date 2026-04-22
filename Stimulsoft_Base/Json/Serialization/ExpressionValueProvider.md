@@ -21,7 +21,7 @@ Implements: [IValueProvider](IValueProvider.md)
 
 | Constructor | Description |
 | --- | --- |
-| `ExpressionValueProvider(MemberInfo memberInfo)` | Initializes a new instance of the ExpressionValueProvider class. |
+| **ExpressionValueProvider**(MemberInfo memberInfo) | Initializes a new instance of the ExpressionValueProvider class. |
 
 ### Methods
 

@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetListOfValuesHighEvent()` | Creates a new object of the type StiGetListOfValuesHighEvent. |
-| `StiGetListOfValuesHighEvent(string script)` | Creates a new object of the type StiGetListOfValuesHighEvent with specified arguments. |
-| `StiGetListOfValuesHighEvent(StiComponent parent)` | Creates a new object of the type StiGetListOfValuesHighEvent with specified arguments. |
+| **StiGetListOfValuesHighEvent**() | Creates a new object of the type StiGetListOfValuesHighEvent. |
+| **StiGetListOfValuesHighEvent**(string script) | Creates a new object of the type StiGetListOfValuesHighEvent with specified arguments. |
+| **StiGetListOfValuesHighEvent**(StiComponent parent) | Creates a new object of the type StiGetListOfValuesHighEvent with specified arguments. |
 
 ### Methods
 

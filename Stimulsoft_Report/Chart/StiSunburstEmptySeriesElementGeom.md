@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiSunburstEmptySeriesElementGeom(RectangleF clientRectangle)` |  |
+| **StiSunburstEmptySeriesElementGeom**(RectangleF clientRectangle) |  |
 
 ### Methods
 

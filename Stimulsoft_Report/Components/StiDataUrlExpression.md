@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataUrlExpression()` | Creates a new expression. |
-| `StiDataUrlExpression(string value)` | Creates a new expression. |
-| `StiDataUrlExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiDataUrlExpression**() | Creates a new expression. |
+| **StiDataUrlExpression**(string value) | Creates a new expression. |
+| **StiDataUrlExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

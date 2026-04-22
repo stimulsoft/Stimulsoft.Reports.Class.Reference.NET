@@ -19,8 +19,8 @@ Inherits from: StiDataBand
 
 | Constructor | Description |
 | --- | --- |
-| `StiHierarchicalBand()` | Creates an object of the type StiHierarchicalBand. |
-| `StiHierarchicalBand([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates an object of the type StiHierarchicalBand. |
+| **StiHierarchicalBand**() | Creates an object of the type StiHierarchicalBand. |
+| **StiHierarchicalBand**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates an object of the type StiHierarchicalBand. |
 
 ### Properties
 

@@ -15,7 +15,7 @@ public class StiSummary
 
 | Constructor | Description |
 | --- | --- |
-| `StiSummary(int level)` |  |
+| **StiSummary**(int level) |  |
 
 ### Properties
 

@@ -20,8 +20,8 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `DoubleRange()` |  |
-| `DoubleRange(double from, double to)` |  |
+| **DoubleRange**() |  |
+| **DoubleRange**(double from, double to) |  |
 
 ### Methods
 

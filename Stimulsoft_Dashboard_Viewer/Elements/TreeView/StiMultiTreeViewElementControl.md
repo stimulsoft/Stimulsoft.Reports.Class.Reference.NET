@@ -19,7 +19,7 @@ Inherits from: [StiTreeViewElementControl](StiTreeViewElementControl.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMultiTreeViewElementControl(IStiElement element)` |  |
+| **StiMultiTreeViewElementControl**(IStiElement element) |  |
 
 ### Methods
 

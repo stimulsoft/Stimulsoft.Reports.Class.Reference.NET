@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiDoughnutEmptySeriesElementGeom(RectangleF clientRectangle)` |  |
+| **StiDoughnutEmptySeriesElementGeom**(RectangleF clientRectangle) |  |
 
 ### Methods
 

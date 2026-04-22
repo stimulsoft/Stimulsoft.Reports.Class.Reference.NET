@@ -19,11 +19,11 @@ Inherits from: [StiDataTableSource](StiDataTableSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSqlSource()` | Creates a new object of the type StiSqlSource. |
-| `StiSqlSource(string nameInSource, string name)` | Creates a new object of the type StiSqlSource. |
-| `StiSqlSource(string nameInSource, string name, string alias)` | Creates a new object of the type StiSqlSource. |
-| `StiSqlSource(string nameInSource, string name, string alias, string sqlCommand)` | Creates a new object of the type StiSqlSource. |
-| `StiSqlSource(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow, int commandTimeout, string key)` |  |
+| **StiSqlSource**() | Creates a new object of the type StiSqlSource. |
+| **StiSqlSource**(string nameInSource, string name) | Creates a new object of the type StiSqlSource. |
+| **StiSqlSource**(string nameInSource, string name, string alias) | Creates a new object of the type StiSqlSource. |
+| **StiSqlSource**(string nameInSource, string name, string alias, string sqlCommand) | Creates a new object of the type StiSqlSource. |
+| **StiSqlSource**(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow, int commandTimeout, string key) |  |
 
 ### Properties
 

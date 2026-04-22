@@ -19,7 +19,7 @@ Inherits from: StiClusteredBarSeriesCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiGanttSeriesCoreXF(IStiSeries series)` |  |
+| **StiGanttSeriesCoreXF**(IStiSeries series) |  |
 
 ### Methods
 

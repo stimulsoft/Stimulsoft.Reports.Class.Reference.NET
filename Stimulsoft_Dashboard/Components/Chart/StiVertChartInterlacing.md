@@ -19,5 +19,5 @@ Inherits from: StiChartInterlacing
 
 | Constructor | Description |
 | --- | --- |
-| `StiVertChartInterlacing()` |  |
-| `StiVertChartInterlacing(Color color, bool visible)` |  |
+| **StiVertChartInterlacing**() |  |
+| **StiVertChartInterlacing**(Color color, bool visible) |  |

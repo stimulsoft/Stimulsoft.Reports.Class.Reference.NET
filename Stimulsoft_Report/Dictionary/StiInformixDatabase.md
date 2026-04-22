@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiInformixDatabase()` | Creates a new object of the type StiInformixDatabase. |
-| `StiInformixDatabase(string name, string connectionString)` | Creates a new object of the type StiInformixDatabase. |
-| `StiInformixDatabase(string name, string alias, string connectionString)` | Creates a new object of the type StiInformixDatabase. |
-| `StiInformixDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` | Creates a new object of the type StiInformixDatabase. |
-| `StiInformixDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` | Creates a new object of the type StiInformixDatabase. |
+| **StiInformixDatabase**() | Creates a new object of the type StiInformixDatabase. |
+| **StiInformixDatabase**(string name, string connectionString) | Creates a new object of the type StiInformixDatabase. |
+| **StiInformixDatabase**(string name, string alias, string connectionString) | Creates a new object of the type StiInformixDatabase. |
+| **StiInformixDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiInformixDatabase. |
+| **StiInformixDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiInformixDatabase. |
 
 ### Methods
 

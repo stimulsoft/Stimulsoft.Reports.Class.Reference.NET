@@ -17,8 +17,8 @@ public class StiPageParamView
 
 | Constructor | Description |
 | --- | --- |
-| `StiPageParamView()` | Creates a new object of the type StiPageParamView. |
-| `StiPageParamView(int x, int y, int width, int height, int line)` | Creates a new object of the type StiPageParamView. |
+| **StiPageParamView**() | Creates a new object of the type StiPageParamView. |
+| **StiPageParamView**(int x, int y, int width, int height, int line) | Creates a new object of the type StiPageParamView. |
 
 ### Properties
 

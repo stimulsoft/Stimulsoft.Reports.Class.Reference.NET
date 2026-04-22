@@ -19,7 +19,7 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `FontV(string name, bytecontent , string path, string extension, bool allowFileCache, string hash, [PrivateFontCollection](../../Stimulsoft_Drawing/Text/PrivateFontCollection.md) masterFontCollection)` |  |
+| **FontV**(string name, bytecontent , string path, string extension, bool allowFileCache, string hash, [PrivateFontCollection](../../Stimulsoft_Drawing/Text/PrivateFontCollection.md) masterFontCollection) |  |
 
 ### Properties
 

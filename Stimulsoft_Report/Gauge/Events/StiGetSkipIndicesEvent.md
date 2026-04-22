@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetSkipIndicesEvent()` | Creates a new object of the type StiGetSkipIndicesEvent. |
-| `StiGetSkipIndicesEvent(string script)` | Creates a new object of the type StiGetSkipIndicesEvent with specified arguments. |
-| `StiGetSkipIndicesEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetSkipIndicesEvent**() | Creates a new object of the type StiGetSkipIndicesEvent. |
+| **StiGetSkipIndicesEvent**(string script) | Creates a new object of the type StiGetSkipIndicesEvent with specified arguments. |
+| **StiGetSkipIndicesEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

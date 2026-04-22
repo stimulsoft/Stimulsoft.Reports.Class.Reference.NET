@@ -21,4 +21,4 @@ Inherits from: StiForm
 
 | Constructor | Description |
 | --- | --- |
-| `StiTextEditorForm(string text)` |  |
+| **StiTextEditorForm**(string text) |  |

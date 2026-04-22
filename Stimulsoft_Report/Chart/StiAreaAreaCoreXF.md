@@ -21,4 +21,4 @@ Inherits from: [StiClusteredColumnAreaCoreXF](StiClusteredColumnAreaCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiAreaAreaCoreXF(IStiArea area)` |  |
+| **StiAreaAreaCoreXF**(IStiArea area) |  |

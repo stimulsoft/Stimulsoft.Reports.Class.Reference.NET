@@ -20,8 +20,8 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `ShortRange()` |  |
-| `ShortRange(short from, short to)` |  |
+| **ShortRange**() |  |
+| **ShortRange**(short from, short to) |  |
 
 ### Methods
 

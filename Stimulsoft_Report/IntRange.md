@@ -20,8 +20,8 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `IntRange()` |  |
-| `IntRange(int from, int to)` |  |
+| **IntRange**() |  |
+| **IntRange**(int from, int to) |  |
 
 ### Methods
 

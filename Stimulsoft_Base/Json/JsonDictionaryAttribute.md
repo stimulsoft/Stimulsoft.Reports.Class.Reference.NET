@@ -19,5 +19,5 @@ Inherits from: [JsonContainerAttribute](JsonContainerAttribute.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JsonDictionaryAttribute()` | Initializes a new instance of the JsonDictionaryAttribute class. |
-| `JsonDictionaryAttribute(string id)` | Initializes a new instance of the JsonDictionaryAttribute class with the specified container Id. |
+| **JsonDictionaryAttribute**() | Initializes a new instance of the JsonDictionaryAttribute class. |
+| **JsonDictionaryAttribute**(string id) | Initializes a new instance of the JsonDictionaryAttribute class with the specified container Id. |

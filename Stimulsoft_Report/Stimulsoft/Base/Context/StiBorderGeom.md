@@ -19,9 +19,9 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiBorderGeom([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) backgroundMouseOver, [StiPenGeom](StiPenGeom.md) borderPen, object rect, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, int elementIndex)` |  |
-| `StiBorderGeom([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) backgroundMouseOver, [StiPenGeom](StiPenGeom.md) borderPen, object rect, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, int elementIndex, float angle, [StiRotationMode](../../../../Stimulsoft_Base/Drawing/StiRotationMode.md) rotationMode)` |  |
-| `StiBorderGeom([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) backgroundMouseOver, [StiPenGeom](StiPenGeom.md) borderPen, object rect, StiCornerRadius cornerRadius, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, string tooltip, int elementIndex)` |  |
+| **StiBorderGeom**([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) backgroundMouseOver, [StiPenGeom](StiPenGeom.md) borderPen, object rect, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, int elementIndex) |  |
+| **StiBorderGeom**([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) backgroundMouseOver, [StiPenGeom](StiPenGeom.md) borderPen, object rect, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, int elementIndex, float angle, [StiRotationMode](../../../../Stimulsoft_Base/Drawing/StiRotationMode.md) rotationMode) |  |
+| **StiBorderGeom**([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) backgroundMouseOver, [StiPenGeom](StiPenGeom.md) borderPen, object rect, StiCornerRadius cornerRadius, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, string tooltip, int elementIndex) |  |
 
 ### Properties
 

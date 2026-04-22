@@ -19,8 +19,8 @@ Inherits from: StiDataBand
 
 | Constructor | Description |
 | --- | --- |
-| `StiCrossDataBand()` | Creates a new component of the type StiCrossDataBand. |
-| `StiCrossDataBand([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new component of the type StiCrossDataBand with specified location. |
+| **StiCrossDataBand**() | Creates a new component of the type StiCrossDataBand. |
+| **StiCrossDataBand**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new component of the type StiCrossDataBand with specified location. |
 
 ### Methods
 

@@ -21,9 +21,9 @@ Inherits from: StiDimensionMeter
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisMapDescriptionMeter()` |  |
-| `StiGisMapDescriptionMeter(string expression, string label)` |  |
-| `StiGisMapDescriptionMeter(string key, string expression, string label)` |  |
+| **StiGisMapDescriptionMeter**() |  |
+| **StiGisMapDescriptionMeter**(string expression, string label) |  |
+| **StiGisMapDescriptionMeter**(string key, string expression, string label) |  |
 
 ### Properties
 

@@ -19,11 +19,11 @@ Implements: [IToken](IToken.md)
 
 | Constructor | Description |
 | --- | --- |
-| `CommonToken()` |  |
-| `CommonToken(int type)` |  |
-| `CommonToken([IToken](IToken.md) oldToken)` |  |
-| `CommonToken(int type, string text)` |  |
-| `CommonToken([ICharStream](ICharStream.md) input, int type, int channel, int start, int stop)` |  |
+| **CommonToken**() |  |
+| **CommonToken**(int type) |  |
+| **CommonToken**([IToken](IToken.md) oldToken) |  |
+| **CommonToken**(int type, string text) |  |
+| **CommonToken**([ICharStream](ICharStream.md) input, int type, int channel, int start, int stop) |  |
 
 ### Methods
 

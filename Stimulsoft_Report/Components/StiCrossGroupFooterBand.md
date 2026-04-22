@@ -19,8 +19,8 @@ Inherits from: StiGroupFooterBand
 
 | Constructor | Description |
 | --- | --- |
-| `StiCrossGroupFooterBand()` | Creates a new component of the type StiCrossGroupFooterBand. |
-| `StiCrossGroupFooterBand([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new component of the type StiCrossGroupFooterBand with the specified location. |
+| **StiCrossGroupFooterBand**() | Creates a new component of the type StiCrossGroupFooterBand. |
+| **StiCrossGroupFooterBand**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new component of the type StiCrossGroupFooterBand with the specified location. |
 
 ### Methods
 

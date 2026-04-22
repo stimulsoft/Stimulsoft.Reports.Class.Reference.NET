@@ -19,7 +19,7 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiCode128BarCodeType(float module, float height)` |  |
+| **StiCode128BarCodeType**(float module, float height) |  |
 
 ### Methods
 

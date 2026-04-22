@@ -17,9 +17,9 @@ public class StiTreeItem
 
 | Constructor | Description |
 | --- | --- |
-| `StiTreeItem()` |  |
-| `StiTreeItem(object key)` |  |
-| `StiTreeItem(object key, [IStiMeter](../../../Stimulsoft_Base/Meters/IStiMeter.md) meter)` |  |
+| **StiTreeItem**() |  |
+| **StiTreeItem**(object key) |  |
+| **StiTreeItem**(object key, [IStiMeter](../../../Stimulsoft_Base/Meters/IStiMeter.md) meter) |  |
 
 ### Properties
 

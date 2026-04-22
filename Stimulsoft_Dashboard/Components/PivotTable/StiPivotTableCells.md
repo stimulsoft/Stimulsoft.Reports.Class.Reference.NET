@@ -19,7 +19,7 @@ Inherits from: StiTableCells
 
 | Constructor | Description |
 | --- | --- |
-| `StiPivotTableCells()` |  |
+| **StiPivotTableCells**() |  |
 
 ### Methods
 

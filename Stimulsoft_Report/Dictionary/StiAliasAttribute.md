@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiAliasAttribute(string alias)` | Initializes a new instance of the StiAliasAttribute. |
+| **StiAliasAttribute**(string alias) | Initializes a new instance of the StiAliasAttribute. |
 
 ### Properties
 

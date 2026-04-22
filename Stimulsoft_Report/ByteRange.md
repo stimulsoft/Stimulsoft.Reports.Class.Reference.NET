@@ -20,8 +20,8 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `ByteRange()` |  |
-| `ByteRange(byte from, byte to)` |  |
+| **ByteRange**() |  |
+| **ByteRange**(byte from, byte to) |  |
 
 ### Methods
 

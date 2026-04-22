@@ -21,8 +21,8 @@ Inherits from: TypeConverter
 
 | Constructor | Description |
 | --- | --- |
-| `StiNullableEnumConverter()` |  |
-| `StiNullableEnumConverter(Type type)` |  |
+| **StiNullableEnumConverter**() |  |
+| **StiNullableEnumConverter**(Type type) |  |
 
 ### Properties
 

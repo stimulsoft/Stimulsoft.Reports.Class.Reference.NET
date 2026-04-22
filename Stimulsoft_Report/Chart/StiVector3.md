@@ -15,7 +15,7 @@ public class StiVector3
 
 | Constructor | Description |
 | --- | --- |
-| `StiVector3(double x, double y, double z)` |  |
+| **StiVector3**(double x, double y, double z) |  |
 
 ### Properties
 

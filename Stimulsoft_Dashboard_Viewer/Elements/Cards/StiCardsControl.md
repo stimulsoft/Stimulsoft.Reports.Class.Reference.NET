@@ -19,7 +19,7 @@ Inherits from: StiAtomElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiCardsControl(IStiElement element)` |  |
+| **StiCardsControl**(IStiElement element) |  |
 
 ### Properties
 

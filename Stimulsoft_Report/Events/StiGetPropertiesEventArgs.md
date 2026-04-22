@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetPropertiesEventArgs(objectselectedObjects , PropertyDescriptorCollection properties, System.Windows.Forms.PropertySort propertySort, Base.StiGuiMode guiMode)` |  |
+| **StiGetPropertiesEventArgs**(objectselectedObjects , PropertyDescriptorCollection properties, System.Windows.Forms.PropertySort propertySort, Base.StiGuiMode guiMode) |  |
 
 ### Properties
 

@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPostgreSQLSource()` |  |
-| `StiPostgreSQLSource(string nameInSource, string name)` |  |
-| `StiPostgreSQLSource(string nameInSource, string name, string alias)` |  |
-| `StiPostgreSQLSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiPostgreSQLSource**() |  |
+| **StiPostgreSQLSource**(string nameInSource, string name) |  |
+| **StiPostgreSQLSource**(string nameInSource, string name, string alias) |  |
+| **StiPostgreSQLSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

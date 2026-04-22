@@ -19,11 +19,11 @@ Inherits from: [StiNoSqlDatabase](StiNoSqlDatabase.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGraphQLDatabase()` |  |
-| `StiGraphQLDatabase(string name, string connectionString)` |  |
-| `StiGraphQLDatabase(string name, string alias, string connectionString)` |  |
-| `StiGraphQLDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiGraphQLDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiGraphQLDatabase**() |  |
+| **StiGraphQLDatabase**(string name, string connectionString) |  |
+| **StiGraphQLDatabase**(string name, string alias, string connectionString) |  |
+| **StiGraphQLDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiGraphQLDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Methods
 

@@ -19,8 +19,8 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPieSegmentGeom(RectangleF rect, float startAngle, float sweepAngle, [StiAnimation](Animation/StiAnimation.md) animation)` |  |
-| `StiPieSegmentGeom(RectangleF rect, float startAngle, float sweepAngle, float realStartAngle, float realSweepAngle, [StiAnimation](Animation/StiAnimation.md) animation)` |  |
+| **StiPieSegmentGeom**(RectangleF rect, float startAngle, float sweepAngle, [StiAnimation](Animation/StiAnimation.md) animation) |  |
+| **StiPieSegmentGeom**(RectangleF rect, float startAngle, float sweepAngle, float realStartAngle, float realSweepAngle, [StiAnimation](Animation/StiAnimation.md) animation) |  |
 
 ### Properties
 

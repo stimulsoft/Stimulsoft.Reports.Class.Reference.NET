@@ -19,7 +19,7 @@ Inherits from: [StiIndicatorGeom](../../Indicator/StiIndicatorGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiRectangleIndicatorGeom(RectangleF rect, [StiBrush](../../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth)` |  |
+| **StiRectangleIndicatorGeom**(RectangleF rect, [StiBrush](../../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth) |  |
 
 ### Properties
 

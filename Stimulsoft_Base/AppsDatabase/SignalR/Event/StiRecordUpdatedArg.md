@@ -15,7 +15,7 @@ public class StiRecordUpdatedArg
 
 | Constructor | Description |
 | --- | --- |
-| `StiRecordUpdatedArg(string tableKey, int index, stringcolumnNames , objectvalues )` |  |
+| **StiRecordUpdatedArg**(string tableKey, int index, stringcolumnNames , objectvalues ) |  |
 
 ### Properties
 

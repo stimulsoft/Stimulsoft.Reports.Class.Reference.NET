@@ -19,8 +19,8 @@ Inherits from: StiExpression
 
 | Constructor | Description |
 | --- | --- |
-| `StiTitleExpression()` | Creates a new expression. |
-| `StiTitleExpression(string value)` | Creates a new expression. |
+| **StiTitleExpression**() | Creates a new expression. |
+| **StiTitleExpression**(string value) | Creates a new expression. |
 
 ### Methods
 

@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiDotConnectUniversalDatabase()` | Creates a new object of the type StiDotConnectUniversalDatabase. |
-| `StiDotConnectUniversalDatabase(string name, string connectionString)` | Creates a new object of the type StiDotConnectUniversalDatabase. |
-| `StiDotConnectUniversalDatabase(string name, string alias, string connectionString)` | Creates a new object of the type StiDotConnectUniversalDatabase. |
-| `StiDotConnectUniversalDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` | Creates a new object of the type StiDotConnectUniversalDatabase. |
-| `StiDotConnectUniversalDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` | Creates a new object of the type StiDotConnectUniversalDatabase. |
+| **StiDotConnectUniversalDatabase**() | Creates a new object of the type StiDotConnectUniversalDatabase. |
+| **StiDotConnectUniversalDatabase**(string name, string connectionString) | Creates a new object of the type StiDotConnectUniversalDatabase. |
+| **StiDotConnectUniversalDatabase**(string name, string alias, string connectionString) | Creates a new object of the type StiDotConnectUniversalDatabase. |
+| **StiDotConnectUniversalDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiDotConnectUniversalDatabase. |
+| **StiDotConnectUniversalDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiDotConnectUniversalDatabase. |
 
 ### Methods
 

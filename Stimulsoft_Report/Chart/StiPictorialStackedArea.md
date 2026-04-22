@@ -19,7 +19,7 @@ Inherits from: StiArea
 
 | Constructor | Description |
 | --- | --- |
-| `StiPictorialStackedArea()` |  |
+| **StiPictorialStackedArea**() |  |
 
 ### Properties
 

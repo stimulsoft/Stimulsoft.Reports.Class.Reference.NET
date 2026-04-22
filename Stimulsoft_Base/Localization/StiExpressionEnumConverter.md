@@ -21,8 +21,8 @@ Inherits from: [StiEnumConverter](StiEnumConverter.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiExpressionEnumConverter()` |  |
-| `StiExpressionEnumConverter(Type type)` |  |
+| **StiExpressionEnumConverter**() |  |
+| **StiExpressionEnumConverter**(Type type) |  |
 
 ### Methods
 

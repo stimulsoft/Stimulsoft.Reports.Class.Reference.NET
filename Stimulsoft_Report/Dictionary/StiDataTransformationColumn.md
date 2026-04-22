@@ -21,9 +21,9 @@ Inherits from: StiDataColumn
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataTransformationColumn()` | Creates a new object of the type StiCalcDataColumn. |
-| `StiDataTransformationColumn(string name, string alias, Type type, string expression)` |  |
-| `StiDataTransformationColumn(string name, string alias, Type type, string expression, string key, [StiDataTransformationMode](StiDataTransformationMode.md) mode)` | Creates a new object of the type StiCalcDataColumn. |
+| **StiDataTransformationColumn**() | Creates a new object of the type StiCalcDataColumn. |
+| **StiDataTransformationColumn**(string name, string alias, Type type, string expression) |  |
+| **StiDataTransformationColumn**(string name, string alias, Type type, string expression, string key, [StiDataTransformationMode](StiDataTransformationMode.md) mode) | Creates a new object of the type StiCalcDataColumn. |
 
 ### Properties
 

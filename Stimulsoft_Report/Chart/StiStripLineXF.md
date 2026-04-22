@@ -19,7 +19,7 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiStripLineXF(object valueObject, double value)` |  |
+| **StiStripLineXF**(object valueObject, double value) |  |
 
 ### Methods
 

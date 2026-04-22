@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `JsonPropertyAttribute()` | Initializes a new instance of the JsonPropertyAttribute class. |
-| `JsonPropertyAttribute(string propertyName)` | Initializes a new instance of the JsonPropertyAttribute class with the specified name. |
+| **JsonPropertyAttribute**() | Initializes a new instance of the JsonPropertyAttribute class. |
+| **JsonPropertyAttribute**(string propertyName) | Initializes a new instance of the JsonPropertyAttribute class with the specified name. |
 
 ### Properties
 

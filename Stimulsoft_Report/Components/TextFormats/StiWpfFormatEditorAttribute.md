@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiWpfFormatEditorAttribute(string editorTypeName)` |  |
-| `StiWpfFormatEditorAttribute(Type type)` |  |
+| **StiWpfFormatEditorAttribute**(string editorTypeName) |  |
+| **StiWpfFormatEditorAttribute**(Type type) |  |
 
 ### Properties
 

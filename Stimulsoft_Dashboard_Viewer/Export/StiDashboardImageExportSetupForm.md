@@ -19,8 +19,8 @@ Inherits from: StiForm
 
 | Constructor | Description |
 | --- | --- |
-| `StiDashboardImageExportSetupForm()` |  |
-| `StiDashboardImageExportSetupForm(IStiElement element)` |  |
+| **StiDashboardImageExportSetupForm**() |  |
+| **StiDashboardImageExportSetupForm**(IStiElement element) |  |
 
 ### Methods
 

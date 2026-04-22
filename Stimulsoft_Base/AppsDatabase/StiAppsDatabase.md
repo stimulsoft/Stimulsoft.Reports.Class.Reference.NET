@@ -19,7 +19,7 @@ Inherits from: [StiKeyObject](../StiKeyObject.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiAppsDatabase()` |  |
+| **StiAppsDatabase**() |  |
 
 ### Properties
 

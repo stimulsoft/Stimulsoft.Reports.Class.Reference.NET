@@ -15,7 +15,7 @@ public sealed class StiAppDatabaseRecords
 
 | Constructor | Description |
 | --- | --- |
-| `StiAppDatabaseRecords(List<[StiAppsRecord](../AppsDatabase/StiAppsRecord.md)> records, long totalCount)` |  |
+| **StiAppDatabaseRecords**(List<[StiAppsRecord](../AppsDatabase/StiAppsRecord.md)> records, long totalCount) |  |
 
 ### Properties
 

@@ -19,11 +19,11 @@ Inherits from: [StiNoSqlDatabase](../../StiNoSqlDatabase.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGoogleAnalyticsDatabase()` |  |
-| `StiGoogleAnalyticsDatabase(string name, string connectionString)` |  |
-| `StiGoogleAnalyticsDatabase(string name, string alias, string connectionString)` |  |
-| `StiGoogleAnalyticsDatabase(string name, string alias, string connectionString, bool promptUserNameAndPassword)` |  |
-| `StiGoogleAnalyticsDatabase(string name, string alias, string connectionString, bool promptUserNameAndPassword, string key)` |  |
+| **StiGoogleAnalyticsDatabase**() |  |
+| **StiGoogleAnalyticsDatabase**(string name, string connectionString) |  |
+| **StiGoogleAnalyticsDatabase**(string name, string alias, string connectionString) |  |
+| **StiGoogleAnalyticsDatabase**(string name, string alias, string connectionString, bool promptUserNameAndPassword) |  |
+| **StiGoogleAnalyticsDatabase**(string name, string alias, string connectionString, bool promptUserNameAndPassword, string key) |  |
 
 ### Methods
 

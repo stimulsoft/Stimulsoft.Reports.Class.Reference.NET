@@ -19,8 +19,8 @@ Implements: [IStiJsonReportObject](../../Stimulsoft_Base/IStiJsonReportObject.md
 
 | Constructor | Description |
 | --- | --- |
-| `StiIconSetItem()` | Creates a new object of the type StiIconSetItem. |
-| `StiIconSetItem([StiIcon](StiIcon.md) icon, [StiIconSetOperation](StiIconSetOperation.md) operation, [StiIconSetValueType](StiIconSetValueType.md) valueType, float value)` | Creates a new object of the type StiIconSetItem. |
+| **StiIconSetItem**() | Creates a new object of the type StiIconSetItem. |
+| **StiIconSetItem**([StiIcon](StiIcon.md) icon, [StiIconSetOperation](StiIconSetOperation.md) operation, [StiIconSetValueType](StiIconSetValueType.md) valueType, float value) | Creates a new object of the type StiIconSetItem. |
 
 ### Properties
 

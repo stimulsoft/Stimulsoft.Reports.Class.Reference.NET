@@ -19,8 +19,8 @@ Inherits from: [StiStyleConditionElement](StiStyleConditionElement.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiStyleConditionLocationElement([StiStyleLocation](StiStyleLocation.md) location)` |  |
-| `StiStyleConditionLocationElement([StiStyleLocation](StiStyleLocation.md) location, [StiStyleConditionOperation](StiStyleConditionOperation.md) operationLocation)` |  |
+| **StiStyleConditionLocationElement**([StiStyleLocation](StiStyleLocation.md) location) |  |
+| **StiStyleConditionLocationElement**([StiStyleLocation](StiStyleLocation.md) location, [StiStyleConditionOperation](StiStyleConditionOperation.md) operationLocation) |  |
 
 ### Properties
 

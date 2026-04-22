@@ -19,8 +19,8 @@ Inherits from: [StiAnimation](StiAnimation.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPointsAnimation(PointFpointsFrom , TimeSpan duration, TimeSpan beginTime)` |  |
-| `StiPointsAnimation(PointFpointsFrom , PointFpointsTo , stringpointsIds , TimeSpan duration, TimeSpan beginTime)` |  |
+| **StiPointsAnimation**(PointFpointsFrom , TimeSpan duration, TimeSpan beginTime) |  |
+| **StiPointsAnimation**(PointFpointsFrom , PointFpointsTo , stringpointsIds , TimeSpan duration, TimeSpan beginTime) |  |
 
 ### Properties
 

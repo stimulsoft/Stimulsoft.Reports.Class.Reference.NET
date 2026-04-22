@@ -21,4 +21,4 @@ Inherits from: [DefaultContractResolver](DefaultContractResolver.md)
 
 | Constructor | Description |
 | --- | --- |
-| `CamelCasePropertyNamesContractResolver()` | Initializes a new instance of the CamelCasePropertyNamesContractResolver class. |
+| **CamelCasePropertyNamesContractResolver**() | Initializes a new instance of the CamelCasePropertyNamesContractResolver class. |

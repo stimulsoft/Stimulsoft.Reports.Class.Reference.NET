@@ -21,5 +21,5 @@ Inherits from: [StiEnumConverter](../../../../Stimulsoft_Base/Localization/StiEn
 
 | Constructor | Description |
 | --- | --- |
-| `StiListBoxElementSelectionTypeConverter()` |  |
-| `StiListBoxElementSelectionTypeConverter(Type type)` |  |
+| **StiListBoxElementSelectionTypeConverter**() |  |
+| **StiListBoxElementSelectionTypeConverter**(Type type) |  |

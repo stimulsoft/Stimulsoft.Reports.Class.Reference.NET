@@ -19,9 +19,9 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiPdf417BarCodeType()` |  |
-| `StiPdf417BarCodeType(float module, [StiPdf417EncodingMode](StiPdf417EncodingMode.md) encodingMode, [StiPdf417ErrorsCorrectionLevel](StiPdf417ErrorsCorrectionLevel.md) errorsCorrectionLevel, int dataColumns, int dataRows, bool autoDataColumns, bool autoDataRows, float aspectRatio, int ratioY)` |  |
-| `StiPdf417BarCodeType(float module, [StiPdf417EncodingMode](StiPdf417EncodingMode.md) encodingMode, [StiPdf417ErrorsCorrectionLevel](StiPdf417ErrorsCorrectionLevel.md) errorsCorrectionLevel, int dataColumns, int dataRows, bool autoDataColumns, bool autoDataRows, float aspectRatio, int ratioY, bool processTilde)` |  |
+| **StiPdf417BarCodeType**() |  |
+| **StiPdf417BarCodeType**(float module, [StiPdf417EncodingMode](StiPdf417EncodingMode.md) encodingMode, [StiPdf417ErrorsCorrectionLevel](StiPdf417ErrorsCorrectionLevel.md) errorsCorrectionLevel, int dataColumns, int dataRows, bool autoDataColumns, bool autoDataRows, float aspectRatio, int ratioY) |  |
+| **StiPdf417BarCodeType**(float module, [StiPdf417EncodingMode](StiPdf417EncodingMode.md) encodingMode, [StiPdf417ErrorsCorrectionLevel](StiPdf417ErrorsCorrectionLevel.md) errorsCorrectionLevel, int dataColumns, int dataRows, bool autoDataColumns, bool autoDataRows, float aspectRatio, int ratioY, bool processTilde) |  |
 
 ### Properties
 

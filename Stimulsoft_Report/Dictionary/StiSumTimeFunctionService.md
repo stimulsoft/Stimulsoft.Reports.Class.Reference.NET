@@ -21,8 +21,8 @@ Inherits from: StiAggregateFunctionService
 
 | Constructor | Description |
 | --- | --- |
-| `StiSumTimeFunctionService()` |  |
-| `StiSumTimeFunctionService(bool runningTotal)` |  |
+| **StiSumTimeFunctionService**() |  |
+| **StiSumTimeFunctionService**(bool runningTotal) |  |
 
 ### Methods
 

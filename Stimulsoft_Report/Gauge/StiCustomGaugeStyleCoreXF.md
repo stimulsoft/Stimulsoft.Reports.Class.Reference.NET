@@ -19,7 +19,7 @@ Inherits from: [StiGaugeStyleCoreXF25](StiGaugeStyleCoreXF25.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomGaugeStyleCoreXF(StiGaugeStyle style)` |  |
+| **StiCustomGaugeStyleCoreXF**(StiGaugeStyle style) |  |
 
 ### Properties
 

@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiQuickBooksDatabase()` |  |
-| `StiQuickBooksDatabase(string name, string connectionString)` |  |
-| `StiQuickBooksDatabase(string name, string alias, string connectionString)` |  |
-| `StiQuickBooksDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiQuickBooksDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiQuickBooksDatabase**() |  |
+| **StiQuickBooksDatabase**(string name, string connectionString) |  |
+| **StiQuickBooksDatabase**(string name, string alias, string connectionString) |  |
+| **StiQuickBooksDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiQuickBooksDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Methods
 

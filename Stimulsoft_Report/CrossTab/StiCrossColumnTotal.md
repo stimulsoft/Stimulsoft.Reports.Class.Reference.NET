@@ -21,4 +21,4 @@ Inherits from: [StiCrossTotal](StiCrossTotal.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCrossColumnTotal()` |  |
+| **StiCrossColumnTotal**() |  |

@@ -19,7 +19,7 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `StiMapInteractionContainer(Dictionary<string, [StiMapSvg](../Maps/StiMapSvg.md)> hashPaths, double mapGeomWidth, double mapGeomHeight)` |  |
+| **StiMapInteractionContainer**(Dictionary<string, [StiMapSvg](../Maps/StiMapSvg.md)> hashPaths, double mapGeomWidth, double mapGeomHeight) |  |
 
 ### Properties
 

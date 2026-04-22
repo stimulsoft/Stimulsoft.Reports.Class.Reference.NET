@@ -19,8 +19,8 @@ Inherits from: StiSignature
 
 | Constructor | Description |
 | --- | --- |
-| `StiElectronicSignature()` | Creates a new component of the type StiElectronicSignature. |
-| `StiElectronicSignature([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new component of the type StiElectronicSignature. |
+| **StiElectronicSignature**() | Creates a new component of the type StiElectronicSignature. |
+| **StiElectronicSignature**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new component of the type StiElectronicSignature. |
 
 ### Properties
 

@@ -21,9 +21,9 @@ Inherits from: StiDimensionMeter
 
 | Constructor | Description |
 | --- | --- |
-| `StiLatitudeMapMeter()` |  |
-| `StiLatitudeMapMeter(string expression, string label)` |  |
-| `StiLatitudeMapMeter(string key, string expression, string label)` |  |
+| **StiLatitudeMapMeter**() |  |
+| **StiLatitudeMapMeter**(string expression, string label) |  |
+| **StiLatitudeMapMeter**(string key, string expression, string label) |  |
 
 ### Properties
 

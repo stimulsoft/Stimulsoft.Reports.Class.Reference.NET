@@ -21,7 +21,7 @@ Inherits from: StiDashboardInteraction
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableColumnDashboardInteraction()` |  |
+| **StiTableColumnDashboardInteraction**() |  |
 
 ### Properties
 

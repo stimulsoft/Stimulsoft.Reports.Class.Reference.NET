@@ -19,7 +19,7 @@ Inherits from: [StiGaugeGeom](StiGaugeGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiEllipseGaugeGeom(RectangleF rect, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth)` |  |
+| **StiEllipseGaugeGeom**(RectangleF rect, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth) |  |
 
 ### Properties
 

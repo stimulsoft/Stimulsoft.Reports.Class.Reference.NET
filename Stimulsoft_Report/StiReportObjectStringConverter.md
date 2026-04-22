@@ -21,8 +21,8 @@ Inherits from: [StiObjectStringConverter](../Stimulsoft_Base/StiObjectStringConv
 
 | Constructor | Description |
 | --- | --- |
-| `StiReportObjectStringConverter()` |  |
-| `StiReportObjectStringConverter(bool allowLoadOptimization)` |  |
+| **StiReportObjectStringConverter**() |  |
+| **StiReportObjectStringConverter**(bool allowLoadOptimization) |  |
 
 ### Methods
 

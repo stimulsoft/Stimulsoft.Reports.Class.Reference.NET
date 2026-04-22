@@ -19,7 +19,7 @@ Inherits from: [StiPieSeriesLabelsCoreXF](StiPieSeriesLabelsCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCenterPieLabelsCoreXF(IStiSeriesLabels seriesLabels)` |  |
+| **StiCenterPieLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |
 
 ### Methods
 

@@ -19,8 +19,8 @@ Inherits from: [Parser](Expressions/Antlr/Runtime/Parser.md)
 
 | Constructor | Description |
 | --- | --- |
-| `NCalcParser([ITokenStream](Expressions/Antlr/Runtime/ITokenStream.md) input)` |  |
-| `NCalcParser([ITokenStream](Expressions/Antlr/Runtime/ITokenStream.md) input, [RecognizerSharedState](Expressions/Antlr/Runtime/RecognizerSharedState.md) state)` |  |
+| **NCalcParser**([ITokenStream](Expressions/Antlr/Runtime/ITokenStream.md) input) |  |
+| **NCalcParser**([ITokenStream](Expressions/Antlr/Runtime/ITokenStream.md) input, [RecognizerSharedState](Expressions/Antlr/Runtime/RecognizerSharedState.md) state) |  |
 
 ### Properties
 

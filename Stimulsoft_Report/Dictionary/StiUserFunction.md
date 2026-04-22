@@ -19,10 +19,10 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiUserFunction()` | Creates an object of the type StiUserFunction. |
-| `StiUserFunction(string name)` | Creates an object of the type StiUserFunction. |
-| `StiUserFunction(string name, [StiFunctionCategory](StiFunctionCategory.md) category)` | Creates an object of the type StiUserFunction. |
-| `StiUserFunction(string name, [StiFunctionCategory](StiFunctionCategory.md) category, [StiUserFunctionArgumentType](StiUserFunctionArgumentType.md) returnType)` | Creates an object of the type StiUserFunction. |
+| **StiUserFunction**() | Creates an object of the type StiUserFunction. |
+| **StiUserFunction**(string name) | Creates an object of the type StiUserFunction. |
+| **StiUserFunction**(string name, [StiFunctionCategory](StiFunctionCategory.md) category) | Creates an object of the type StiUserFunction. |
+| **StiUserFunction**(string name, [StiFunctionCategory](StiFunctionCategory.md) category, [StiUserFunctionArgumentType](StiUserFunctionArgumentType.md) returnType) | Creates an object of the type StiUserFunction. |
 
 ### Properties
 

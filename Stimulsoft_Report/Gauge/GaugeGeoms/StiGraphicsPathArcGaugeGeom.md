@@ -19,7 +19,7 @@ Inherits from: [StiGaugeGeom](StiGaugeGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGraphicsPathArcGaugeGeom(float x, float y, float width, float height, float startAngle, float sweepAngle)` |  |
+| **StiGraphicsPathArcGaugeGeom**(float x, float y, float width, float height, float startAngle, float sweepAngle) |  |
 
 ### Properties
 

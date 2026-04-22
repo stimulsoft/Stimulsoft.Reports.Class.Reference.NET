@@ -19,8 +19,8 @@ Inherits from: [StiInteractionData](StiInteractionData.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSeriesInteractionData()` |  |
-| `StiSeriesInteractionData(IStiArea area, IStiSeries series, int pointIndex)` |  |
+| **StiSeriesInteractionData**() |  |
+| **StiSeriesInteractionData**(IStiArea area, IStiSeries series, int pointIndex) |  |
 
 ### Properties
 

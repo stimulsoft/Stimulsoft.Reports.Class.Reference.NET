@@ -15,7 +15,7 @@ public class StiMatrixLineData
 
 | Constructor | Description |
 | --- | --- |
-| `StiMatrixLineData(int size)` |  |
+| **StiMatrixLineData**(int size) |  |
 
 ### Fields
 

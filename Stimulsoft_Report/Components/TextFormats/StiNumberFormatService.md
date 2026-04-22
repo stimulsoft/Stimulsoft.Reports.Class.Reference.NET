@@ -19,7 +19,7 @@ Inherits from: StiFormatService
 
 | Constructor | Description |
 | --- | --- |
-| `StiNumberFormatService()` | Creates a new format of the type StiNumberFormatService. |
+| **StiNumberFormatService**() | Creates a new format of the type StiNumberFormatService. |
 
 ### Methods
 

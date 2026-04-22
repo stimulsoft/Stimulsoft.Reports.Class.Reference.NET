@@ -19,10 +19,10 @@ Inherits from: [JsonException](../JsonException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JsonSchemaException()` | Initializes a new instance of the JsonSchemaException class. |
-| `JsonSchemaException(string message)` | Initializes a new instance of the JsonSchemaException class with a specified error message. |
-| `JsonSchemaException(string message, Exception innerException)` | Initializes a new instance of the JsonSchemaException class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-| `JsonSchemaException(SerializationInfo info, StreamingContext context)` | Initializes a new instance of the JsonSchemaException class. |
+| **JsonSchemaException**() | Initializes a new instance of the JsonSchemaException class. |
+| **JsonSchemaException**(string message) | Initializes a new instance of the JsonSchemaException class with a specified error message. |
+| **JsonSchemaException**(string message, Exception innerException) | Initializes a new instance of the JsonSchemaException class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| **JsonSchemaException**(SerializationInfo info, StreamingContext context) | Initializes a new instance of the JsonSchemaException class. |
 
 ### Properties
 

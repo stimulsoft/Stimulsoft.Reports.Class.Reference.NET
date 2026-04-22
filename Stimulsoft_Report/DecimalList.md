@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `DecimalList()` |  |
-| `DecimalList(decimalvalues )` |  |
+| **DecimalList**() |  |
+| **DecimalList**(decimalvalues ) |  |
 
 ### Methods
 

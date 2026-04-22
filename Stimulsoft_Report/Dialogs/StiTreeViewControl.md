@@ -19,8 +19,8 @@ Inherits from: StiReportControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiTreeViewControl()` | Creates a new StiTreeViewControl. |
-| `StiTreeViewControl([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiTreeViewControl. |
+| **StiTreeViewControl**() | Creates a new StiTreeViewControl. |
+| **StiTreeViewControl**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiTreeViewControl. |
 
 ### Methods
 

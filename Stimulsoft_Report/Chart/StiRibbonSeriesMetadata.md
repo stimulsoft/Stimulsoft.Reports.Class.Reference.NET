@@ -15,7 +15,7 @@ public class StiRibbonSeriesMetadata
 
 | Constructor | Description |
 | --- | --- |
-| `StiRibbonSeriesMetadata([StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) brush, Color borderColor)` |  |
+| **StiRibbonSeriesMetadata**([StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) brush, Color borderColor) |  |
 
 ### Properties
 

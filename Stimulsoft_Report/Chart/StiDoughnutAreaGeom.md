@@ -19,4 +19,4 @@ Inherits from: [StiPieAreaGeom](StiPieAreaGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDoughnutAreaGeom(IStiArea area, RectangleF clientRectangle)` |  |
+| **StiDoughnutAreaGeom**(IStiArea area, RectangleF clientRectangle) |  |

@@ -15,7 +15,7 @@ public class StiODataHelperV2
 
 | Constructor | Description |
 | --- | --- |
-| `StiODataHelperV2(string connectionString, string nuGetVersion, CookieContainer cookieContainer, NameValueCollection headers)` |  |
+| **StiODataHelperV2**(string connectionString, string nuGetVersion, CookieContainer cookieContainer, NameValueCollection headers) |  |
 
 ### Properties
 

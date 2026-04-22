@@ -19,7 +19,7 @@ Inherits from: StiBaseElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiPivotTableContainerControl(Control grid, StiPivotTableElement element)` |  |
+| **StiPivotTableContainerControl**(Control grid, StiPivotTableElement element) |  |
 
 ### Methods
 

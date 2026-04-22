@@ -15,8 +15,8 @@ public class DFA
 
 | Constructor | Description |
 | --- | --- |
-| `DFA()` |  |
-| `DFA(SpecialStateTransitionHandler specialStateTransition)` |  |
+| **DFA**() |  |
+| **DFA**(SpecialStateTransitionHandler specialStateTransition) |  |
 
 ### Methods
 

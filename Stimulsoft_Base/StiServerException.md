@@ -21,10 +21,10 @@ Inherits from: Exception
 
 | Constructor | Description |
 | --- | --- |
-| `StiServerException(Exception innerException)` |  |
-| `StiServerException(string message, Exception innerException)` |  |
-| `StiServerException([StiNoticeIdent](StiNoticeIdent.md) noticeIdent, Exception innerException)` |  |
-| `StiServerException([StiNotice](StiNotice.md) notice, Exception innerException)` |  |
+| **StiServerException**(Exception innerException) |  |
+| **StiServerException**(string message, Exception innerException) |  |
+| **StiServerException**([StiNoticeIdent](StiNoticeIdent.md) noticeIdent, Exception innerException) |  |
+| **StiServerException**([StiNotice](StiNotice.md) notice, Exception innerException) |  |
 
 ### Properties
 

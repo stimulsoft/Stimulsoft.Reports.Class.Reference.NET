@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiCheckedChangedEvent()` | Creates a new object of the type StiCheckedChangedEvent. |
-| `StiCheckedChangedEvent(string script)` | Creates a new object of the type StiCheckedChangedEvent with specified arguments. |
-| `StiCheckedChangedEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiCheckedChangedEvent**() | Creates a new object of the type StiCheckedChangedEvent. |
+| **StiCheckedChangedEvent**(string script) | Creates a new object of the type StiCheckedChangedEvent with specified arguments. |
+| **StiCheckedChangedEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

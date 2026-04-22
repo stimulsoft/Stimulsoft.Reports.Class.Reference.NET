@@ -19,10 +19,10 @@ Inherits from: [StiNoSqlSource](StiNoSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiAzureTableStorageSource()` |  |
-| `StiAzureTableStorageSource(string nameInSource, string name)` |  |
-| `StiAzureTableStorageSource(string nameInSource, string name, string alias)` |  |
-| `StiAzureTableStorageSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiAzureTableStorageSource**() |  |
+| **StiAzureTableStorageSource**(string nameInSource, string name) |  |
+| **StiAzureTableStorageSource**(string nameInSource, string name, string alias) |  |
+| **StiAzureTableStorageSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

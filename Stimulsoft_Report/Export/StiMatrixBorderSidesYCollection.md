@@ -15,4 +15,4 @@ public class StiMatrixBorderSidesYCollection
 
 | Constructor | Description |
 | --- | --- |
-| `StiMatrixBorderSidesYCollection([StiMatrixCacheManager](StiMatrixCacheManager.md) manager, [StiMatrix](StiMatrix.md) matrix)` |  |
+| **StiMatrixBorderSidesYCollection**([StiMatrixCacheManager](StiMatrixCacheManager.md) manager, [StiMatrix](StiMatrix.md) matrix) |  |

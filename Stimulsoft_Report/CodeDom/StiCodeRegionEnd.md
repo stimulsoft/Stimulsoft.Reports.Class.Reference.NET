@@ -21,8 +21,8 @@ Inherits from: CodeCommentStatement
 
 | Constructor | Description |
 | --- | --- |
-| `StiCodeRegionEnd()` |  |
-| `StiCodeRegionEnd(string text)` |  |
+| **StiCodeRegionEnd**() |  |
+| **StiCodeRegionEnd**(string text) |  |
 
 ### Properties
 

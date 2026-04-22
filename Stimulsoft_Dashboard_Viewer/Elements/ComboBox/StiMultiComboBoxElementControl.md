@@ -19,7 +19,7 @@ Inherits from: [StiComboBoxElementControl](StiComboBoxElementControl.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMultiComboBoxElementControl(IStiElement element)` |  |
+| **StiMultiComboBoxElementControl**(IStiElement element) |  |
 
 ### Methods
 

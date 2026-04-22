@@ -21,9 +21,9 @@ Inherits from: StiDimensionMeter
 
 | Constructor | Description |
 | --- | --- |
-| `StiLocationColorMapMeter()` |  |
-| `StiLocationColorMapMeter(string expression, string label)` |  |
-| `StiLocationColorMapMeter(string key, string expression, string label)` |  |
+| **StiLocationColorMapMeter**() |  |
+| **StiLocationColorMapMeter**(string expression, string label) |  |
+| **StiLocationColorMapMeter**(string key, string expression, string label) |  |
 
 ### Properties
 

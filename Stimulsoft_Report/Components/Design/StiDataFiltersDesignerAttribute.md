@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataFiltersDesignerAttribute(string designerTypeName)` |  |
-| `StiDataFiltersDesignerAttribute(Type type)` |  |
+| **StiDataFiltersDesignerAttribute**(string designerTypeName) |  |
+| **StiDataFiltersDesignerAttribute**(Type type) |  |
 
 ### Properties
 

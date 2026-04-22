@@ -19,8 +19,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiITF14BarCodeType()` |  |
-| `StiITF14BarCodeType(float module, float height, float ratio, bool printVerticalBars)` |  |
+| **StiITF14BarCodeType**() |  |
+| **StiITF14BarCodeType**(float module, float height, float ratio, bool printVerticalBars) |  |
 
 ### Properties
 

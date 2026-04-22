@@ -19,7 +19,7 @@ Inherits from: [StiAnimationGeom](StiAnimationGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLinesAnimationGeom([StiPenGeom](StiPenGeom.md) pen, PointFpoints , [StiAnimation](Animation/StiAnimation.md) animation)` |  |
+| **StiLinesAnimationGeom**([StiPenGeom](StiPenGeom.md) pen, PointFpoints , [StiAnimation](Animation/StiAnimation.md) animation) |  |
 
 ### Properties
 

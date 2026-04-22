@@ -21,8 +21,8 @@ Inherits from: TypeConverter
 
 | Constructor | Description |
 | --- | --- |
-| `StiEnumConverter()` |  |
-| `StiEnumConverter(Type type)` |  |
+| **StiEnumConverter**() |  |
+| **StiEnumConverter**(Type type) |  |
 
 ### Properties
 

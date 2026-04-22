@@ -19,7 +19,7 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiNoSqlSource()` |  |
-| `StiNoSqlSource(string nameInSource, string name)` |  |
-| `StiNoSqlSource(string nameInSource, string name, string alias)` |  |
-| `StiNoSqlSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiNoSqlSource**() |  |
+| **StiNoSqlSource**(string nameInSource, string name) |  |
+| **StiNoSqlSource**(string nameInSource, string name, string alias) |  |
+| **StiNoSqlSource**(string nameInSource, string name, string alias, string sqlCommand) |  |

@@ -15,8 +15,8 @@ public class ColorBlend
 
 | Constructor | Description |
 | --- | --- |
-| `ColorBlend()` |  |
-| `ColorBlend(int count)` |  |
+| **ColorBlend**() |  |
+| **ColorBlend**(int count) |  |
 
 ### Properties
 

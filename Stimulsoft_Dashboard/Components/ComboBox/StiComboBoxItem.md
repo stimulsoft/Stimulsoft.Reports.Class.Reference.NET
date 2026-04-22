@@ -15,8 +15,8 @@ public class StiComboBoxItem
 
 | Constructor | Description |
 | --- | --- |
-| `StiComboBoxItem(string label)` |  |
-| `StiComboBoxItem(string label, object value)` |  |
+| **StiComboBoxItem**(string label) |  |
+| **StiComboBoxItem**(string label, object value) |  |
 
 ### Properties
 

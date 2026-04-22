@@ -19,7 +19,7 @@ Inherits from: [LogicalExpressionVisitor](LogicalExpressionVisitor.md)
 
 | Constructor | Description |
 | --- | --- |
-| `EvaluationVisitor([EvaluateOptions](../EvaluateOptions.md) options)` |  |
+| **EvaluationVisitor**([EvaluateOptions](../EvaluateOptions.md) options) |  |
 
 ### Properties
 

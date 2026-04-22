@@ -15,7 +15,7 @@ public class StiSeriesPointsInfo
 
 | Constructor | Description |
 | --- | --- |
-| `StiSeriesPointsInfo()` |  |
+| **StiSeriesPointsInfo**() |  |
 
 ### Properties
 

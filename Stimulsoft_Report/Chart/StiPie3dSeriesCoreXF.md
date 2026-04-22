@@ -19,7 +19,7 @@ Inherits from: [StiPieSeriesCoreXF](StiPieSeriesCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPie3dSeriesCoreXF(IStiSeries series)` |  |
+| **StiPie3dSeriesCoreXF**(IStiSeries series) |  |
 
 ### Methods
 

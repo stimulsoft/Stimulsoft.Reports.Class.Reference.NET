@@ -19,8 +19,8 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `StiZipReader20(string path)` |  |
-| `StiZipReader20(Stream stream)` |  |
+| **StiZipReader20**(string path) |  |
+| **StiZipReader20**(Stream stream) |  |
 
 ### Methods
 

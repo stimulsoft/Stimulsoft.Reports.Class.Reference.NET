@@ -19,8 +19,8 @@ Inherits from: [StiAnimation](StiAnimation.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPieSegmentAnimation(RectangleF rectFrom, RectangleF rectTo, float startAngleFrom, float endAngleFrom, float startAngleTo, float endAngleTo, TimeSpan duration, TimeSpan beginTime)` |  |
-| `StiPieSegmentAnimation(RectangleF rectFrom, RectangleF rectTo, RectangleF rectDtFrom, RectangleF rectDtTo, float startAngleFrom, float endAngleFrom, float startAngleTo, float endAngleTo, TimeSpan duration, TimeSpan beginTime)` |  |
+| **StiPieSegmentAnimation**(RectangleF rectFrom, RectangleF rectTo, float startAngleFrom, float endAngleFrom, float startAngleTo, float endAngleTo, TimeSpan duration, TimeSpan beginTime) |  |
+| **StiPieSegmentAnimation**(RectangleF rectFrom, RectangleF rectTo, RectangleF rectDtFrom, RectangleF rectDtTo, float startAngleFrom, float endAngleFrom, float startAngleTo, float endAngleTo, TimeSpan duration, TimeSpan beginTime) |  |
 
 ### Properties
 

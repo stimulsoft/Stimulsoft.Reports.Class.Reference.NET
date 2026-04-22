@@ -21,9 +21,9 @@ Inherits from: StiAggregateFunctionService
 
 | Constructor | Description |
 | --- | --- |
-| `StiRankFunctionService()` |  |
-| `StiRankFunctionService(bool runningTotal)` |  |
-| `StiRankFunctionService(bool runningTotal, bool dense, [StiRankOrder](../StiRankOrder.md) sortOrder)` |  |
+| **StiRankFunctionService**() |  |
+| **StiRankFunctionService**(bool runningTotal) |  |
+| **StiRankFunctionService**(bool runningTotal, bool dense, [StiRankOrder](../StiRankOrder.md) sortOrder) |  |
 
 ### Methods
 

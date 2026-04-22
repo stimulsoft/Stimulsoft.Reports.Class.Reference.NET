@@ -19,7 +19,7 @@ Implements: IEnumerable, IEnumerator
 
 | Constructor | Description |
 | --- | --- |
-| `StiRowsCollection(StiDataSource dataSource)` |  |
+| **StiRowsCollection**(StiDataSource dataSource) |  |
 
 ### Fields
 

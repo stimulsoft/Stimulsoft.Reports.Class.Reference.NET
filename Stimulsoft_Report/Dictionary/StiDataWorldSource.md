@@ -19,10 +19,10 @@ Inherits from: [StiNoSqlSource](StiNoSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataWorldSource()` |  |
-| `StiDataWorldSource(string nameInSource, string name)` |  |
-| `StiDataWorldSource(string nameInSource, string name, string alias)` |  |
-| `StiDataWorldSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiDataWorldSource**() |  |
+| **StiDataWorldSource**(string nameInSource, string name) |  |
+| **StiDataWorldSource**(string nameInSource, string name, string alias) |  |
+| **StiDataWorldSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

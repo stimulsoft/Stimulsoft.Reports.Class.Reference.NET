@@ -15,7 +15,7 @@ public class JsonSchemaResolver
 
 | Constructor | Description |
 | --- | --- |
-| `JsonSchemaResolver()` | Initializes a new instance of the JsonSchemaResolver class. |
+| **JsonSchemaResolver**() | Initializes a new instance of the JsonSchemaResolver class. |
 
 ### Properties
 

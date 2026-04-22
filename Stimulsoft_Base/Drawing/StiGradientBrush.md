@@ -19,8 +19,8 @@ Inherits from: [StiBrush](StiBrush.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGradientBrush()` | Creates a new instance of the StiGradientBrush class. |
-| `StiGradientBrush(Color startColor, Color endColor, double angle)` | Creates a new instance of the StiGradientBrush class. |
+| **StiGradientBrush**() | Creates a new instance of the StiGradientBrush class. |
+| **StiGradientBrush**(Color startColor, Color endColor, double angle) | Creates a new instance of the StiGradientBrush class. |
 
 ### Properties
 

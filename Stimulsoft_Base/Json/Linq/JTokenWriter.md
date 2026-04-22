@@ -21,8 +21,8 @@ Inherits from: [JsonWriter](../JsonWriter.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JTokenWriter()` | Initializes a new instance of the JTokenWriter class. |
-| `JTokenWriter([JContainer](JContainer.md) container)` | Initializes a new instance of the JTokenWriter class writing to the given JContainer. |
+| **JTokenWriter**() | Initializes a new instance of the JTokenWriter class. |
+| **JTokenWriter**([JContainer](JContainer.md) container) | Initializes a new instance of the JTokenWriter class writing to the given JContainer. |
 
 ### Methods
 

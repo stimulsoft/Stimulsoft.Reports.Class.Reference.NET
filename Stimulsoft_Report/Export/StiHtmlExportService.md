@@ -19,7 +19,7 @@ Inherits from: [StiExportService](StiExportService.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiHtmlExportService()` | Creates an instance of the class for the HTML export. |
+| **StiHtmlExportService**() | Creates an instance of the class for the HTML export. |
 
 ### Properties
 

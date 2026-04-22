@@ -15,7 +15,7 @@ public class StiHtmlTableCell
 
 | Constructor | Description |
 | --- | --- |
-| `StiHtmlTableCell()` |  |
+| **StiHtmlTableCell**() |  |
 
 ### Fields
 

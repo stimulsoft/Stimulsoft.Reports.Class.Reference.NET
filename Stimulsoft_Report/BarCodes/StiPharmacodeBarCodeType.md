@@ -19,8 +19,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiPharmacodeBarCodeType()` |  |
-| `StiPharmacodeBarCodeType(float module, float height)` |  |
+| **StiPharmacodeBarCodeType**() |  |
+| **StiPharmacodeBarCodeType**(float module, float height) |  |
 
 ### Methods
 

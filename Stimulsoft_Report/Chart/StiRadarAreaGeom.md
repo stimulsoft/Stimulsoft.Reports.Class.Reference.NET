@@ -19,7 +19,7 @@ Inherits from: [StiAreaGeom](StiAreaGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiRadarAreaGeom(IStiArea area, RectangleF clientRectangle, int valuesCount)` |  |
+| **StiRadarAreaGeom**(IStiArea area, RectangleF clientRectangle, int valuesCount) |  |
 
 ### Methods
 

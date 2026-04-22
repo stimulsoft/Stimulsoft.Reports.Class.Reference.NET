@@ -19,4 +19,4 @@ Inherits from: [Brush](../Brush.md)
 
 | Constructor | Description |
 | --- | --- |
-| `HatchBrush(System.Drawing.Drawing2D.HatchStyle hatchStyle, Color foregroundColor, Color backgroundColor)` |  |
+| **HatchBrush**(System.Drawing.Drawing2D.HatchStyle hatchStyle, Color foregroundColor, Color backgroundColor) |  |

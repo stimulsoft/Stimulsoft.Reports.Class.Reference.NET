@@ -19,7 +19,7 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `SimpleValue(object value)` |  |
+| **SimpleValue**(object value) |  |
 
 ### Properties
 

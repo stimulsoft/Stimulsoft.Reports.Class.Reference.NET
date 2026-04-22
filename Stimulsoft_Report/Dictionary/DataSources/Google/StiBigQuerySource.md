@@ -19,10 +19,10 @@ Inherits from: [StiNoSqlSource](../../StiNoSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiBigQuerySource()` | Creates a new object of the type StiBigQuerySource. |
-| `StiBigQuerySource(string nameInSource, string name)` |  |
-| `StiBigQuerySource(string nameInSource, string name, string alias)` |  |
-| `StiBigQuerySource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiBigQuerySource**() | Creates a new object of the type StiBigQuerySource. |
+| **StiBigQuerySource**(string nameInSource, string name) |  |
+| **StiBigQuerySource**(string nameInSource, string name, string alias) |  |
+| **StiBigQuerySource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

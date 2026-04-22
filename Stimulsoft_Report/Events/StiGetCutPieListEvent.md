@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetCutPieListEvent()` | Creates a new object of the type StiGetCutPieListEvent. |
-| `StiGetCutPieListEvent(string script)` | Creates a new object of the type StiGetCutPieListEvent with specified arguments. |
-| `StiGetCutPieListEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetCutPieListEvent**() | Creates a new object of the type StiGetCutPieListEvent. |
+| **StiGetCutPieListEvent**(string script) | Creates a new object of the type StiGetCutPieListEvent with specified arguments. |
+| **StiGetCutPieListEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

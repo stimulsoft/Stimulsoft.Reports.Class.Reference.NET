@@ -19,8 +19,8 @@ Inherits from: CollectionBase
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataBindingsCollection()` |  |
-| `StiDataBindingsCollection(object control)` |  |
+| **StiDataBindingsCollection**() |  |
+| **StiDataBindingsCollection**(object control) |  |
 
 ### Properties
 

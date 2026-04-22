@@ -19,7 +19,7 @@ Inherits from: [StiHtmlImageHost](StiHtmlImageHost.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMhtImageHost([StiHtmlExportService](StiHtmlExportService.md) htmlExport)` |  |
+| **StiMhtImageHost**([StiHtmlExportService](StiHtmlExportService.md) htmlExport) |  |
 
 ### Methods
 

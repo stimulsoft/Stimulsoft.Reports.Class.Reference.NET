@@ -21,9 +21,9 @@ Inherits from: StiDimensionMeter
 
 | Constructor | Description |
 | --- | --- |
-| `StiXChartMeter()` |  |
-| `StiXChartMeter(string expression, string label)` |  |
-| `StiXChartMeter(string key, string expression, string label)` |  |
+| **StiXChartMeter**() |  |
+| **StiXChartMeter**(string expression, string label) |  |
+| **StiXChartMeter**(string key, string expression, string label) |  |
 
 ### Properties
 

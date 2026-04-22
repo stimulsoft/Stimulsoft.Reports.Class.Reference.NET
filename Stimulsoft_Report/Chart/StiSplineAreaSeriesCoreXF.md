@@ -19,7 +19,7 @@ Inherits from: [StiSplineSeriesCoreXF](StiSplineSeriesCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSplineAreaSeriesCoreXF(IStiSeries series)` |  |
+| **StiSplineAreaSeriesCoreXF**(IStiSeries series) |  |
 
 ### Methods
 

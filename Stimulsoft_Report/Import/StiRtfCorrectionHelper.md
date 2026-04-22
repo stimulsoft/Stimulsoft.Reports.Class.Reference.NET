@@ -17,7 +17,7 @@ public class StiRtfCorrectionHelper
 
 | Constructor | Description |
 | --- | --- |
-| `StiRtfCorrectionHelper(TextReader rtfReader)` |  |
+| **StiRtfCorrectionHelper**(TextReader rtfReader) |  |
 
 ### Methods
 

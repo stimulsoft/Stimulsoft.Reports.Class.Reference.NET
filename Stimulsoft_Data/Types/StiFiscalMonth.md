@@ -19,7 +19,7 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `StiFiscalMonth([StiMonth](../Functions/StiMonth.md) month, [StiMonth](../Functions/StiMonth.md) startMonth)` |  |
+| **StiFiscalMonth**([StiMonth](../Functions/StiMonth.md) month, [StiMonth](../Functions/StiMonth.md) startMonth) |  |
 
 ### Properties
 

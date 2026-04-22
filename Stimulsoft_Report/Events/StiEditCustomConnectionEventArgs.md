@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiEditCustomConnectionEventArgs(StiDatabase database, StiDictionary dictionary, object designer, bool isNewConnection)` |  |
+| **StiEditCustomConnectionEventArgs**(StiDatabase database, StiDictionary dictionary, object designer, bool isNewConnection) |  |
 
 ### Properties
 

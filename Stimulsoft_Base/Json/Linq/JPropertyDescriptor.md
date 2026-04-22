@@ -21,7 +21,7 @@ Inherits from: PropertyDescriptor
 
 | Constructor | Description |
 | --- | --- |
-| `JPropertyDescriptor(string name)` | Initializes a new instance of the JPropertyDescriptor class. |
+| **JPropertyDescriptor**(string name) | Initializes a new instance of the JPropertyDescriptor class. |
 
 ### Methods
 

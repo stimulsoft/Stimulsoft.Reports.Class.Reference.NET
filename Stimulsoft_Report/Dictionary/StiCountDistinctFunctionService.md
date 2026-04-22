@@ -21,8 +21,8 @@ Inherits from: StiAggregateFunctionService
 
 | Constructor | Description |
 | --- | --- |
-| `StiCountDistinctFunctionService()` |  |
-| `StiCountDistinctFunctionService(bool runningTotal)` |  |
+| **StiCountDistinctFunctionService**() |  |
+| **StiCountDistinctFunctionService**(bool runningTotal) |  |
 
 ### Methods
 

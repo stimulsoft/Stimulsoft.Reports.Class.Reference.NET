@@ -19,8 +19,8 @@ Inherits from: [StiAnimationGeom](StiAnimationGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiShadowAnimationGeom(RectangleF rect, int shadowWidth, StiCornerRadius cornerRadius, [StiAnimation](Animation/StiAnimation.md) animation)` |  |
-| `StiShadowAnimationGeom(RectangleF rect, double radiusX, double radiusY, int shadowWidth, [StiAnimation](Animation/StiAnimation.md) animation)` |  |
+| **StiShadowAnimationGeom**(RectangleF rect, int shadowWidth, StiCornerRadius cornerRadius, [StiAnimation](Animation/StiAnimation.md) animation) |  |
+| **StiShadowAnimationGeom**(RectangleF rect, double radiusX, double radiusY, int shadowWidth, [StiAnimation](Animation/StiAnimation.md) animation) |  |
 
 ### Properties
 

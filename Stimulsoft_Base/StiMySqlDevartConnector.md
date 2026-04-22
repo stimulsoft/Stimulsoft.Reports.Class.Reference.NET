@@ -19,7 +19,7 @@ Inherits from: [StiMySqlConnector](StiMySqlConnector.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMySqlDevartConnector(string connectionString)` |  |
+| **StiMySqlDevartConnector**(string connectionString) |  |
 
 ### Methods
 

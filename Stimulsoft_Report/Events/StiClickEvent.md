@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiClickEvent()` | Creates a new object of the type StiClickEvent. |
-| `StiClickEvent(string script)` | Creates a new object of the type StiClickEvent with specified arguments. |
-| `StiClickEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiClickEvent**() | Creates a new object of the type StiClickEvent. |
+| **StiClickEvent**(string script) | Creates a new object of the type StiClickEvent with specified arguments. |
+| **StiClickEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

@@ -15,7 +15,7 @@ public sealed class StiGisMapData
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisMapData([StiFontIcons](../Stimulsoft/Report/Helpers/StiFontIcons.md) icon, Color iconColor)` |  |
+| **StiGisMapData**([StiFontIcons](../Stimulsoft/Report/Helpers/StiFontIcons.md) icon, Color iconColor) |  |
 
 ### Properties
 

@@ -19,8 +19,8 @@ Inherits from: [StiTableZoneControl](StiTableZoneControl.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableElementFilterZoneControl()` |  |
-| `StiTableElementFilterZoneControl([IStiDesignerBase](../../../../Stimulsoft_Report/Design/IStiDesignerBase.md) designer, Type columnType)` |  |
+| **StiTableElementFilterZoneControl**() |  |
+| **StiTableElementFilterZoneControl**([IStiDesignerBase](../../../../Stimulsoft_Report/Design/IStiDesignerBase.md) designer, Type columnType) |  |
 
 ### Methods
 

@@ -21,4 +21,4 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiNewAutoSeriesEventArgs(int seriesIndex, IStiSeries series, object color)` | Creates a new object of the type StiNewAutoSeriesEventArgs. |
+| **StiNewAutoSeriesEventArgs**(int seriesIndex, IStiSeries series, object color) | Creates a new object of the type StiNewAutoSeriesEventArgs. |

@@ -15,8 +15,8 @@ public abstract class StiAnimation
 
 | Constructor | Description |
 | --- | --- |
-| `StiAnimation(TimeSpan duration)` |  |
-| `StiAnimation(TimeSpan duration, TimeSpan beginTime)` |  |
+| **StiAnimation**(TimeSpan duration) |  |
+| **StiAnimation**(TimeSpan duration, TimeSpan beginTime) |  |
 
 ### Properties
 

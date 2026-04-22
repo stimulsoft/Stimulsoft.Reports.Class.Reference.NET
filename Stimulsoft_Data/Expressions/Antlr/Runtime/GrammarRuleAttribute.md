@@ -19,4 +19,4 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `GrammarRuleAttribute(string name)` |  |
+| **GrammarRuleAttribute**(string name) |  |

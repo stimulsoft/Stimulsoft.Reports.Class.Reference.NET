@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiListBoxItemSelectionChangedEventArgs([StiListBoxItem](../../../Stimulsoft_Dashboard/Components/ListBox/StiListBoxItem.md) item, int itemIndex)` |  |
+| **StiListBoxItemSelectionChangedEventArgs**([StiListBoxItem](../../../Stimulsoft_Dashboard/Components/ListBox/StiListBoxItem.md) item, int itemIndex) |  |
 
 ### Properties
 

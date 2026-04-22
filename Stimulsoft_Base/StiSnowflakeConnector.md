@@ -19,7 +19,7 @@ Inherits from: [StiSqlDataConnector](StiSqlDataConnector.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSnowflakeConnector(string connectionString)` |  |
+| **StiSnowflakeConnector**(string connectionString) |  |
 
 ### Properties
 

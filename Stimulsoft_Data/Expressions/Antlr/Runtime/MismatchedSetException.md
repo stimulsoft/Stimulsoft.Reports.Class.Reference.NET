@@ -19,13 +19,13 @@ Inherits from: [RecognitionException](RecognitionException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `MismatchedSetException()` |  |
-| `MismatchedSetException(string message)` |  |
-| `MismatchedSetException(string message, Exception innerException)` |  |
-| `MismatchedSetException([BitSet](BitSet.md) expecting, [IIntStream](IIntStream.md) input)` |  |
-| `MismatchedSetException(SerializationInfo info, StreamingContext context)` |  |
-| `MismatchedSetException(string message, [BitSet](BitSet.md) expecting, [IIntStream](IIntStream.md) input)` |  |
-| `MismatchedSetException(string message, [BitSet](BitSet.md) expecting, [IIntStream](IIntStream.md) input, Exception innerException)` |  |
+| **MismatchedSetException**() |  |
+| **MismatchedSetException**(string message) |  |
+| **MismatchedSetException**(string message, Exception innerException) |  |
+| **MismatchedSetException**([BitSet](BitSet.md) expecting, [IIntStream](IIntStream.md) input) |  |
+| **MismatchedSetException**(SerializationInfo info, StreamingContext context) |  |
+| **MismatchedSetException**(string message, [BitSet](BitSet.md) expecting, [IIntStream](IIntStream.md) input) |  |
+| **MismatchedSetException**(string message, [BitSet](BitSet.md) expecting, [IIntStream](IIntStream.md) input, Exception innerException) |  |
 
 ### Methods
 

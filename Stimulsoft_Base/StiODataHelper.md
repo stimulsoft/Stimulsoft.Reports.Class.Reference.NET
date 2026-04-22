@@ -15,7 +15,7 @@ public class StiODataHelper
 
 | Constructor | Description |
 | --- | --- |
-| `StiODataHelper(string connectionString, NameValueCollection headers)` |  |
+| **StiODataHelper**(string connectionString, NameValueCollection headers) |  |
 
 ### Properties
 

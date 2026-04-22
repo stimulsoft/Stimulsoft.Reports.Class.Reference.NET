@@ -15,7 +15,7 @@ public class StiRecentConnections
 
 | Constructor | Description |
 | --- | --- |
-| `StiRecentConnections()` |  |
+| **StiRecentConnections**() |  |
 
 ### Properties
 

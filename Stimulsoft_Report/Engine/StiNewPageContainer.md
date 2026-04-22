@@ -19,4 +19,4 @@ Inherits from: StiContainer
 
 | Constructor | Description |
 | --- | --- |
-| `StiNewPageContainer()` |  |
+| **StiNewPageContainer**() |  |

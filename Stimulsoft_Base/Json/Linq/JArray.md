@@ -22,10 +22,10 @@ Implements: IList<[JToken](JToken.md)>
 
 | Constructor | Description |
 | --- | --- |
-| `JArray()` | Initializes a new instance of the JArray class. |
-| `JArray([JArray](JArray.md) other)` | Initializes a new instance of the JArray class from another JArray object. |
-| `JArray(objectcontent )` | Initializes a new instance of the JArray class with the specified content. |
-| `JArray(object content)` | Initializes a new instance of the JArray class with the specified content. |
+| **JArray**() | Initializes a new instance of the JArray class. |
+| **JArray**([JArray](JArray.md) other) | Initializes a new instance of the JArray class from another JArray object. |
+| **JArray**(objectcontent ) | Initializes a new instance of the JArray class with the specified content. |
+| **JArray**(object content) | Initializes a new instance of the JArray class with the specified content. |
 
 ### Methods
 

@@ -21,7 +21,7 @@ Inherits from: [JsonConverter](../JsonConverter.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StringEnumConverter()` | Initializes a new instance of the StringEnumConverter class. |
+| **StringEnumConverter**() | Initializes a new instance of the StringEnumConverter class. |
 
 ### Properties
 

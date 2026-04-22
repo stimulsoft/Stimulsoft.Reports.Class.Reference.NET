@@ -19,7 +19,7 @@ Inherits from: [StiProgressElementStyle](StiProgressElementStyle.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomProgressElementStyle(StiProgressStyle style)` |  |
+| **StiCustomProgressElementStyle**(StiProgressStyle style) |  |
 
 ### Properties
 

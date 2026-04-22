@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiDisconnectedEvent()` | Creates a new object of the type StiDisconnectedEvent. |
-| `StiDisconnectedEvent(string script)` | Creates a new object of the type StiDisconnectedEvent with specified arguments. |
-| `StiDisconnectedEvent(StiComponent parent)` | Creates a new object of the type StiDisconnectedEvent with specified arguments. |
+| **StiDisconnectedEvent**() | Creates a new object of the type StiDisconnectedEvent. |
+| **StiDisconnectedEvent**(string script) | Creates a new object of the type StiDisconnectedEvent with specified arguments. |
+| **StiDisconnectedEvent**(StiComponent parent) | Creates a new object of the type StiDisconnectedEvent with specified arguments. |
 
 ### Methods
 

@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetListOfYValuesEvent()` | Creates a new object of the type StiGetListOfYValuesEvent. |
-| `StiGetListOfYValuesEvent(string script)` | Creates a new object of the type StiGetListOfYValuesEvent with specified arguments. |
-| `StiGetListOfYValuesEvent(StiComponent parent)` | Creates a new object of the type StiGetListOfYValuesEvent with specified arguments. |
+| **StiGetListOfYValuesEvent**() | Creates a new object of the type StiGetListOfYValuesEvent. |
+| **StiGetListOfYValuesEvent**(string script) | Creates a new object of the type StiGetListOfYValuesEvent with specified arguments. |
+| **StiGetListOfYValuesEvent**(StiComponent parent) | Creates a new object of the type StiGetListOfYValuesEvent with specified arguments. |
 
 ### Methods
 

@@ -19,7 +19,7 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `StiShadowGraphics(RectangleF rect)` |  |
+| **StiShadowGraphics**(RectangleF rect) |  |
 
 ### Properties
 

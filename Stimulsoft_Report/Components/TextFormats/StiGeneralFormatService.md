@@ -19,7 +19,7 @@ Inherits from: StiFormatService
 
 | Constructor | Description |
 | --- | --- |
-| `StiGeneralFormatService()` | Creates format by default. |
+| **StiGeneralFormatService**() | Creates format by default. |
 
 ### Methods
 

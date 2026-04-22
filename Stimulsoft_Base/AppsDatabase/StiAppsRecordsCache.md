@@ -15,7 +15,7 @@ public class StiAppsRecordsCache
 
 | Constructor | Description |
 | --- | --- |
-| `StiAppsRecordsCache([IStiAppDatabaseConnector](../Server/IStiAppDatabaseConnector.md) dataSource, string cloudTableKey)` |  |
+| **StiAppsRecordsCache**([IStiAppDatabaseConnector](../Server/IStiAppDatabaseConnector.md) dataSource, string cloudTableKey) |  |
 
 ### Properties
 

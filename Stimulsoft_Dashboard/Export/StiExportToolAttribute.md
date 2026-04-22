@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiExportToolAttribute(string exportToolTypeName)` |  |
-| `StiExportToolAttribute(Type exportToolType)` |  |
+| **StiExportToolAttribute**(string exportToolTypeName) |  |
+| **StiExportToolAttribute**(Type exportToolType) |  |
 
 ### Properties
 

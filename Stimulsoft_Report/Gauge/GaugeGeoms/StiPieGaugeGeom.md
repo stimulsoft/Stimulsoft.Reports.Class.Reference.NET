@@ -19,7 +19,7 @@ Inherits from: [StiGaugeGeom](StiGaugeGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPieGaugeGeom(RectangleF rect, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth, float startAngle, float sweepAngle)` |  |
+| **StiPieGaugeGeom**(RectangleF rect, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth, float startAngle, float sweepAngle) |  |
 
 ### Properties
 

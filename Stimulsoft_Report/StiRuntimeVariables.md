@@ -21,7 +21,7 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiRuntimeVariables([StiReport](StiReport.md) report)` | Creates a new instance of the StiRuntimeVariables class. |
+| **StiRuntimeVariables**([StiReport](StiReport.md) report) | Creates a new instance of the StiRuntimeVariables class. |
 
 ### Properties
 

@@ -15,8 +15,8 @@ public class StiUserNameAndPassword
 
 | Constructor | Description |
 | --- | --- |
-| `StiUserNameAndPassword(string userName, string password)` |  |
-| `StiUserNameAndPassword(string userName, string password, bool cacheData)` |  |
+| **StiUserNameAndPassword**(string userName, string password) |  |
+| **StiUserNameAndPassword**(string userName, string password, bool cacheData) |  |
 
 ### Properties
 

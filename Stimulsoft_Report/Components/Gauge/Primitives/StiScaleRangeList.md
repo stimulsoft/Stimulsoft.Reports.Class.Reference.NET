@@ -19,7 +19,7 @@ Inherits from: StiGaugeElement
 
 | Constructor | Description |
 | --- | --- |
-| `StiScaleRangeList()` |  |
+| **StiScaleRangeList**() |  |
 
 ### Properties
 

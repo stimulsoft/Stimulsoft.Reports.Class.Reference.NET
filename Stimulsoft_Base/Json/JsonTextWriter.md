@@ -21,7 +21,7 @@ Inherits from: [JsonWriter](JsonWriter.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JsonTextWriter(TextWriter textWriter)` | Creates an instance of the `JsonWriter` class using the specified TextWriter. |
+| **JsonTextWriter**(TextWriter textWriter) | Creates an instance of the `JsonWriter` class using the specified TextWriter. |
 
 ### Methods
 

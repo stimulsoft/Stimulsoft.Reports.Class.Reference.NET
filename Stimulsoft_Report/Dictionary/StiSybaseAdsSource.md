@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSybaseAdsSource()` |  |
-| `StiSybaseAdsSource(string nameInSource, string name)` |  |
-| `StiSybaseAdsSource(string nameInSource, string name, string alias)` |  |
-| `StiSybaseAdsSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiSybaseAdsSource**() |  |
+| **StiSybaseAdsSource**(string nameInSource, string name) |  |
+| **StiSybaseAdsSource**(string nameInSource, string name, string alias) |  |
+| **StiSybaseAdsSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

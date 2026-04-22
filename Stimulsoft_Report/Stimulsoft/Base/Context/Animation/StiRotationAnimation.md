@@ -19,7 +19,7 @@ Inherits from: [StiAnimation](StiAnimation.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiRotationAnimation(double startAngle, double endAngle, PointF centerPoint, TimeSpan duration, TimeSpan beginTime)` |  |
+| **StiRotationAnimation**(double startAngle, double endAngle, PointF centerPoint, TimeSpan duration, TimeSpan beginTime) |  |
 
 ### Properties
 

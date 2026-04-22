@@ -22,7 +22,7 @@ Implements: [IJsonLineInfo](../IJsonLineInfo.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JTokenReader([JToken](JToken.md) token)` | Initializes a new instance of the JTokenReader class. |
+| **JTokenReader**([JToken](JToken.md) token) | Initializes a new instance of the JTokenReader class. |
 
 ### Methods
 

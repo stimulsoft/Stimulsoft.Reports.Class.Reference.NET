@@ -19,8 +19,8 @@ Inherits from: [StiBrush](StiBrush.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiHatchBrush()` | Creates a new instance of the StiHatchBrush class. |
-| `StiHatchBrush(HatchStyle style, Color foreColor, Color backColor)` | Creates a new instance of the StiHatchBrush class. |
+| **StiHatchBrush**() | Creates a new instance of the StiHatchBrush class. |
+| **StiHatchBrush**(HatchStyle style, Color foreColor, Color backColor) | Creates a new instance of the StiHatchBrush class. |
 
 ### Properties
 

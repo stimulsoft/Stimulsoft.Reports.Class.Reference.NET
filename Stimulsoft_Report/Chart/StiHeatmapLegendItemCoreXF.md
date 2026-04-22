@@ -15,7 +15,7 @@ public class StiHeatmapLegendItemCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiHeatmapLegendItemCoreXF(string text, IStiSeries series, Color color)` |  |
+| **StiHeatmapLegendItemCoreXF**(string text, IStiSeries series, Color color) |  |
 
 ### Properties
 

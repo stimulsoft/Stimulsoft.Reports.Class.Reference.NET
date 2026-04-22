@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetSkipValuesEvent()` | Creates a new object of the type StiGetListOfArgumentsEvent. |
-| `StiGetSkipValuesEvent(string script)` | Creates a new object of the type StiGetListOfArgumentsEvent with specified arguments. |
-| `StiGetSkipValuesEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetSkipValuesEvent**() | Creates a new object of the type StiGetListOfArgumentsEvent. |
+| **StiGetSkipValuesEvent**(string script) | Creates a new object of the type StiGetListOfArgumentsEvent with specified arguments. |
+| **StiGetSkipValuesEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

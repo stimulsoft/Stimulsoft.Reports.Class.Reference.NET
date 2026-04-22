@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiRadarAreaSeriesGeom(IStiSeries series, [StiSeriesPointsInfo](StiSeriesPointsInfo.md) pointsInfo)` |  |
+| **StiRadarAreaSeriesGeom**(IStiSeries series, [StiSeriesPointsInfo](StiSeriesPointsInfo.md) pointsInfo) |  |
 
 ### Properties
 

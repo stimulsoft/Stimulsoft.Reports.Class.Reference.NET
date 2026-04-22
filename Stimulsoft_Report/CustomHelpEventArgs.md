@@ -15,7 +15,7 @@ public class CustomHelpEventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `CustomHelpEventArgs(string url)` |  |
+| **CustomHelpEventArgs**(string url) |  |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `ZipWorker()` |  |
+| **ZipWorker**() |  |
 
 ### Methods
 

@@ -19,10 +19,10 @@ Inherits from: [StiFileDataSource](StiFileDataSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCsvSource()` | Creates a new object of the type StiCsvSource. |
-| `StiCsvSource(string path, string name, string alias, int codePage)` |  |
-| `StiCsvSource(string path, string name, string alias, int codePage, string separator)` |  |
-| `StiCsvSource(string path, string name, string alias, int codePage, string separator, string key)` |  |
+| **StiCsvSource**() | Creates a new object of the type StiCsvSource. |
+| **StiCsvSource**(string path, string name, string alias, int codePage) |  |
+| **StiCsvSource**(string path, string name, string alias, int codePage, string separator) |  |
+| **StiCsvSource**(string path, string name, string alias, int codePage, string separator, string key) |  |
 
 ### Properties
 

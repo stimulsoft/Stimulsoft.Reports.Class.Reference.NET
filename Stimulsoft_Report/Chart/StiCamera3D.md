@@ -15,7 +15,7 @@ public class StiCamera3D
 
 | Constructor | Description |
 | --- | --- |
-| `StiCamera3D([StiRender3D](StiRender3D.md) render, [StiVector3](StiVector3.md) point)` |  |
+| **StiCamera3D**([StiRender3D](StiRender3D.md) render, [StiVector3](StiVector3.md) point) |  |
 
 ### Properties
 

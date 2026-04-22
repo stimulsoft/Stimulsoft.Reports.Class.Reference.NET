@@ -21,7 +21,7 @@ Inherits from: [StiExportEventArgs](StiExportEventArgs.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiProcessExportEventArgs([StiExportFormat](../StiExportFormat.md) format, [StiExportService](../Export/StiExportService.md) exportService, Stream stream, [StiExportSettings](../Export/StiExportSettings.md) settings)` |  |
+| **StiProcessExportEventArgs**([StiExportFormat](../StiExportFormat.md) format, [StiExportService](../Export/StiExportService.md) exportService, Stream stream, [StiExportSettings](../Export/StiExportSettings.md) settings) |  |
 
 ### Properties
 

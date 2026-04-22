@@ -15,8 +15,8 @@ public class StiAppsColumnSortRule
 
 | Constructor | Description |
 | --- | --- |
-| `StiAppsColumnSortRule()` |  |
-| `StiAppsColumnSortRule(string columnName, [StiAppsColumnSortDirection](StiAppsColumnSortDirection.md) direction)` |  |
+| **StiAppsColumnSortRule**() |  |
+| **StiAppsColumnSortRule**(string columnName, [StiAppsColumnSortDirection](StiAppsColumnSortDirection.md) direction) |  |
 
 ### Properties
 

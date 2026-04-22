@@ -21,8 +21,8 @@ Inherits from: [StiCode39BarCodeType](StiCode39BarCodeType.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCode39ExtBarCodeType()` |  |
-| `StiCode39ExtBarCodeType(float module, float height, float ratio, [StiCheckSum](StiCheckSum.md) checkSum)` |  |
+| **StiCode39ExtBarCodeType**() |  |
+| **StiCode39ExtBarCodeType**(float module, float height, float ratio, [StiCheckSum](StiCheckSum.md) checkSum) |  |
 
 ### Methods
 

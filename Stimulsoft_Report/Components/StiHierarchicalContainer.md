@@ -21,8 +21,8 @@ Inherits from: StiContainer
 
 | Constructor | Description |
 | --- | --- |
-| `StiHierarchicalContainer()` | Creates a new hierarchical container. |
-| `StiHierarchicalContainer([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new hierarchical container. |
+| **StiHierarchicalContainer**() | Creates a new hierarchical container. |
+| **StiHierarchicalContainer**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new hierarchical container. |
 
 ### Properties
 

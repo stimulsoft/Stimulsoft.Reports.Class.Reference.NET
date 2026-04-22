@@ -19,4 +19,4 @@ Inherits from: StiSeriesLabelsCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiCenterTreemapLabelsCoreXF(IStiSeriesLabels seriesLabels)` |  |
+| **StiCenterTreemapLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |

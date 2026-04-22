@@ -15,9 +15,9 @@ public class StiAppsColumn
 
 | Constructor | Description |
 | --- | --- |
-| `StiAppsColumn()` |  |
-| `StiAppsColumn(string name, [StiAppsColumnType](StiAppsColumnType.md) type)` |  |
-| `StiAppsColumn(string name, [StiAppsColumnType](StiAppsColumnType.md) type, bool isNull)` |  |
+| **StiAppsColumn**() |  |
+| **StiAppsColumn**(string name, [StiAppsColumnType](StiAppsColumnType.md) type) |  |
+| **StiAppsColumn**(string name, [StiAppsColumnType](StiAppsColumnType.md) type, bool isNull) |  |
 
 ### Properties
 

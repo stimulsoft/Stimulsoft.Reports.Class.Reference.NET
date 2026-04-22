@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiTreemapEmptySeriesElementGeom(RectangleF clientRectangle)` |  |
+| **StiTreemapEmptySeriesElementGeom**(RectangleF clientRectangle) |  |
 
 ### Methods
 

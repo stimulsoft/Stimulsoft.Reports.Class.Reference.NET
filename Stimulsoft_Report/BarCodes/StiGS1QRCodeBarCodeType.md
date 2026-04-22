@@ -19,8 +19,8 @@ Inherits from: [StiQRCodeBarCodeType](StiQRCodeBarCodeType.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGS1QRCodeBarCodeType()` |  |
-| `StiGS1QRCodeBarCodeType(float module, [StiQRCodeErrorCorrectionLevel](StiQRCodeErrorCorrectionLevel.md) errorCorrectionLevel, [StiQRCodeSize](StiQRCodeSize.md) matrixSize)` |  |
+| **StiGS1QRCodeBarCodeType**() |  |
+| **StiGS1QRCodeBarCodeType**(float module, [StiQRCodeErrorCorrectionLevel](StiQRCodeErrorCorrectionLevel.md) errorCorrectionLevel, [StiQRCodeSize](StiQRCodeSize.md) matrixSize) |  |
 
 ### Properties
 

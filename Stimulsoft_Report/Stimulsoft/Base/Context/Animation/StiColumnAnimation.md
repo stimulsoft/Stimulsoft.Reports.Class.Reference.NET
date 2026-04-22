@@ -19,7 +19,7 @@ Inherits from: [StiAnimation](StiAnimation.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiColumnAnimation(RectangleF rectFrom, RectangleF rectTo, TimeSpan duration, TimeSpan beginTime)` |  |
+| **StiColumnAnimation**(RectangleF rectFrom, RectangleF rectTo, TimeSpan duration, TimeSpan beginTime) |  |
 
 ### Properties
 

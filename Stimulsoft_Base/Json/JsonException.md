@@ -19,7 +19,7 @@ Inherits from: Exception
 
 | Constructor | Description |
 | --- | --- |
-| `JsonException()` | Initializes a new instance of the JsonException class. |
-| `JsonException(string message)` | Initializes a new instance of the JsonException class with a specified error message. |
-| `JsonException(string message, Exception innerException)` | Initializes a new instance of the JsonException class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-| `JsonException(SerializationInfo info, StreamingContext context)` | Initializes a new instance of the JsonException class. |
+| **JsonException**() | Initializes a new instance of the JsonException class. |
+| **JsonException**(string message) | Initializes a new instance of the JsonException class with a specified error message. |
+| **JsonException**(string message, Exception innerException) | Initializes a new instance of the JsonException class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| **JsonException**(SerializationInfo info, StreamingContext context) | Initializes a new instance of the JsonException class. |

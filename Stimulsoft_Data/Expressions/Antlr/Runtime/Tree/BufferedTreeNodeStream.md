@@ -19,9 +19,9 @@ Implements: [ITreeNodeStream](ITreeNodeStream.md), [ITokenStreamInformation](../
 
 | Constructor | Description |
 | --- | --- |
-| `BufferedTreeNodeStream(object tree)` |  |
-| `BufferedTreeNodeStream([ITreeAdaptor](ITreeAdaptor.md) adaptor, object tree)` |  |
-| `BufferedTreeNodeStream([ITreeAdaptor](ITreeAdaptor.md) adaptor, object tree, int initialBufferSize)` |  |
+| **BufferedTreeNodeStream**(object tree) |  |
+| **BufferedTreeNodeStream**([ITreeAdaptor](ITreeAdaptor.md) adaptor, object tree) |  |
+| **BufferedTreeNodeStream**([ITreeAdaptor](ITreeAdaptor.md) adaptor, object tree, int initialBufferSize) |  |
 
 ### Methods
 

@@ -19,8 +19,8 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiProcessCellEvent()` | Creates a new object of the type StiProcessCellEvent. |
-| `StiProcessCellEvent(string script)` | Creates a new object of the type StiProcessCellEvent with specified arguments. |
+| **StiProcessCellEvent**() | Creates a new object of the type StiProcessCellEvent. |
+| **StiProcessCellEvent**(string script) | Creates a new object of the type StiProcessCellEvent with specified arguments. |
 
 ### Methods
 

@@ -19,9 +19,9 @@ Inherits from: [StiObject](StiObject.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCID(string cid)` |  |
-| `StiCID(string machineName, string machineAddress, string machineUserName)` |  |
-| `StiCID(string machineName, string machineAddress, string machineUserName, string machineGuid)` |  |
+| **StiCID**(string cid) |  |
+| **StiCID**(string machineName, string machineAddress, string machineUserName) |  |
+| **StiCID**(string machineName, string machineAddress, string machineUserName, string machineGuid) |  |
 
 ### Properties
 

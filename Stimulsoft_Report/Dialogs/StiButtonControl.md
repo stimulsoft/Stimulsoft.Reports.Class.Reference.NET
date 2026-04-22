@@ -19,8 +19,8 @@ Inherits from: StiReportControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiButtonControl()` | Creates a new StiButtonControl. |
-| `StiButtonControl([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiButtonControl. |
+| **StiButtonControl**() | Creates a new StiButtonControl. |
+| **StiButtonControl**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiButtonControl. |
 
 ### Properties
 

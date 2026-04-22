@@ -19,8 +19,8 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiWCFEventArgs(bytedata , [IStiViewerControl](../Viewer/IStiViewerControl.md) viewer)` |  |
-| `StiWCFEventArgs(bytedata , [IStiDesignerBase](../Design/IStiDesignerBase.md) designer)` |  |
+| **StiWCFEventArgs**(bytedata , [IStiViewerControl](../Viewer/IStiViewerControl.md) viewer) |  |
+| **StiWCFEventArgs**(bytedata , [IStiDesignerBase](../Design/IStiDesignerBase.md) designer) |  |
 
 ### Fields
 

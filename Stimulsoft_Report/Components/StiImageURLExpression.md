@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiImageURLExpression()` | Creates a new expression. |
-| `StiImageURLExpression(string value)` | Creates a new expression. |
-| `StiImageURLExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiImageURLExpression**() | Creates a new expression. |
+| **StiImageURLExpression**(string value) | Creates a new expression. |
+| **StiImageURLExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

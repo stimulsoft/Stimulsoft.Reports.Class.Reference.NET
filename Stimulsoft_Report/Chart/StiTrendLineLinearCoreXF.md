@@ -19,7 +19,7 @@ Inherits from: StiTrendLineCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiTrendLineLinearCoreXF(IStiTrendLine trendLine)` |  |
+| **StiTrendLineLinearCoreXF**(IStiTrendLine trendLine) |  |
 
 ### Methods
 

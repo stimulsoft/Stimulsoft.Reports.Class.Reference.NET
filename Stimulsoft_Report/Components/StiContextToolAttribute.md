@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiContextToolAttribute(Type type)` | Creates a new attribute of the type StiContextToolAttribute. |
+| **StiContextToolAttribute**(Type type) | Creates a new attribute of the type StiContextToolAttribute. |
 
 ### Properties
 

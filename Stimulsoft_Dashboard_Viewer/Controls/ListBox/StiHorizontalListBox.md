@@ -19,7 +19,7 @@ Inherits from: Panel
 
 | Constructor | Description |
 | --- | --- |
-| `StiHorizontalListBox()` |  |
+| **StiHorizontalListBox**() |  |
 
 ### Properties
 

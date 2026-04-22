@@ -19,7 +19,7 @@ Inherits from: [StiDataConnector](StiDataConnector.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiNoSqlDataConnector(string connectionString)` |  |
+| **StiNoSqlDataConnector**(string connectionString) |  |
 
 ### Properties
 

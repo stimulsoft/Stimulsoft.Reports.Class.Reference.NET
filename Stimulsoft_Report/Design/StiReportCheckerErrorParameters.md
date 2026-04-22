@@ -15,8 +15,8 @@ public class StiReportCheckerErrorParameters
 
 | Constructor | Description |
 | --- | --- |
-| `StiReportCheckerErrorParameters(string compName, string propName)` |  |
-| `StiReportCheckerErrorParameters(string compName, string propName, object component)` |  |
+| **StiReportCheckerErrorParameters**(string compName, string propName) |  |
+| **StiReportCheckerErrorParameters**(string compName, string propName, object component) |  |
 
 ### Properties
 

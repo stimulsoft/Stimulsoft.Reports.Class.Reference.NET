@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetDataUrlEvent()` | Creates a new object of the type StiGetDataUrlEvent. |
-| `StiGetDataUrlEvent(string script)` | Creates a new object of the type StiGetDataUrlEvent with specified arguments. |
-| `StiGetDataUrlEvent(StiComponent parent)` | Creates a new object of the type StiGetDataUrlEvent with specified arguments. |
+| **StiGetDataUrlEvent**() | Creates a new object of the type StiGetDataUrlEvent. |
+| **StiGetDataUrlEvent**(string script) | Creates a new object of the type StiGetDataUrlEvent with specified arguments. |
+| **StiGetDataUrlEvent**(StiComponent parent) | Creates a new object of the type StiGetDataUrlEvent with specified arguments. |
 
 ### Methods
 

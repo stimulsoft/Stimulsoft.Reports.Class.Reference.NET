@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiDefaultStringValueAttribute(string value)` |  |
+| **StiDefaultStringValueAttribute**(string value) |  |
 
 ### Properties
 

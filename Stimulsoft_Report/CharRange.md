@@ -20,8 +20,8 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `CharRange()` |  |
-| `CharRange(char from, char to)` |  |
+| **CharRange**() |  |
+| **CharRange**(char from, char to) |  |
 
 ### Properties
 

@@ -21,7 +21,7 @@ Inherits from: Exception
 
 | Constructor | Description |
 | --- | --- |
-| `StiWebDataException(Exception innerException)` |  |
+| **StiWebDataException**(Exception innerException) |  |
 
 ### Properties
 

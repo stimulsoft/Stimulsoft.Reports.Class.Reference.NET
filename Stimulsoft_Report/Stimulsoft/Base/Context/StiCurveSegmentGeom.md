@@ -19,8 +19,8 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCurveSegmentGeom(PointFpoints , float tension)` |  |
-| `StiCurveSegmentGeom(PointFpoints , float tension, [StiAnimation](Animation/StiAnimation.md) animation)` |  |
+| **StiCurveSegmentGeom**(PointFpoints , float tension) |  |
+| **StiCurveSegmentGeom**(PointFpoints , float tension, [StiAnimation](Animation/StiAnimation.md) animation) |  |
 
 ### Properties
 

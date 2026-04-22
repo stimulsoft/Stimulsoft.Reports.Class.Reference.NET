@@ -19,7 +19,7 @@ Inherits from: RichTextBox
 
 | Constructor | Description |
 | --- | --- |
-| `StiRichBoxControl()` |  |
+| **StiRichBoxControl**() |  |
 
 ### Properties
 

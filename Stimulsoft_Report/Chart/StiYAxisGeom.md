@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiYAxisGeom([IStiYAxis](IStiYAxis.md) axis, RectangleF clientRectangle, bool isCenterAxis)` |  |
+| **StiYAxisGeom**([IStiYAxis](IStiYAxis.md) axis, RectangleF clientRectangle, bool isCenterAxis) |  |
 
 ### Methods
 

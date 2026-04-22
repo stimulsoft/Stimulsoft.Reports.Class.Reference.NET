@@ -21,8 +21,8 @@ Inherits from: [StiTwoArgumentAggregateFunctionService](StiTwoArgumentAggregateF
 
 | Constructor | Description |
 | --- | --- |
-| `StiSumDistinctDecimalFunctionService()` |  |
-| `StiSumDistinctDecimalFunctionService(bool runningTotal)` |  |
+| **StiSumDistinctDecimalFunctionService**() |  |
+| **StiSumDistinctDecimalFunctionService**(bool runningTotal) |  |
 
 ### Methods
 

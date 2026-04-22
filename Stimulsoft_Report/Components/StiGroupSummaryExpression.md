@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGroupSummaryExpression()` | Creates a new expression. |
-| `StiGroupSummaryExpression(string value)` | Creates a new expression. |
-| `StiGroupSummaryExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiGroupSummaryExpression**() | Creates a new expression. |
+| **StiGroupSummaryExpression**(string value) | Creates a new expression. |
+| **StiGroupSummaryExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

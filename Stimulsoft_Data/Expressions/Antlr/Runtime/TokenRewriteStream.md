@@ -19,9 +19,9 @@ Inherits from: [CommonTokenStream](CommonTokenStream.md)
 
 | Constructor | Description |
 | --- | --- |
-| `TokenRewriteStream()` |  |
-| `TokenRewriteStream([ITokenSource](ITokenSource.md) tokenSource)` |  |
-| `TokenRewriteStream([ITokenSource](ITokenSource.md) tokenSource, int channel)` |  |
+| **TokenRewriteStream**() |  |
+| **TokenRewriteStream**([ITokenSource](ITokenSource.md) tokenSource) |  |
+| **TokenRewriteStream**([ITokenSource](ITokenSource.md) tokenSource, int channel) |  |
 
 ### Methods
 

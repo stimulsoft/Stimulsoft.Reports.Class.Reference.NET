@@ -15,7 +15,7 @@ public sealed class StiFilterTag
 
 | Constructor | Description |
 | --- | --- |
-| `StiFilterTag(string text, string filter, bool allowCloud)` |  |
+| **StiFilterTag**(string text, string filter, bool allowCloud) |  |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Inherits from: StiDbNoSqlDataConnector
 
 | Constructor | Description |
 | --- | --- |
-| `StiGoogleAnalyticsConnector(string connectionString)` |  |
+| **StiGoogleAnalyticsConnector**(string connectionString) |  |
 
 ### Methods
 

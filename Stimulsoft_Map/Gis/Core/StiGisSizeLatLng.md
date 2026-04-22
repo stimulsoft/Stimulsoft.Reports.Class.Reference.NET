@@ -15,9 +15,9 @@ public struct StiGisSizeLatLng
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisSizeLatLng([StiGisSizeLatLng](StiGisSizeLatLng.md) size)` |  |
-| `StiGisSizeLatLng([StiGisPointLatLng](StiGisPointLatLng.md) pt)` |  |
-| `StiGisSizeLatLng(double heightLat, double widthLng)` |  |
+| **StiGisSizeLatLng**([StiGisSizeLatLng](StiGisSizeLatLng.md) size) |  |
+| **StiGisSizeLatLng**([StiGisPointLatLng](StiGisPointLatLng.md) pt) |  |
+| **StiGisSizeLatLng**(double heightLat, double widthLng) |  |
 
 ### Properties
 

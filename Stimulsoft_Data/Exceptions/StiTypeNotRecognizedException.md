@@ -21,4 +21,4 @@ Inherits from: [StiDataException](StiDataException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTypeNotRecognizedException(object type)` |  |
+| **StiTypeNotRecognizedException**(object type) |  |

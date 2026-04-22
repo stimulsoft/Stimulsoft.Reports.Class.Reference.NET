@@ -19,7 +19,7 @@ Inherits from: StiFormatService
 
 | Constructor | Description |
 | --- | --- |
-| `StiDateFormatService()` | Creates a new format of the type StiDateFormatService. |
+| **StiDateFormatService**() | Creates a new format of the type StiDateFormatService. |
 
 ### Properties
 

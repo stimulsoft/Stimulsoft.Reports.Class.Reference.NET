@@ -21,8 +21,8 @@ Inherits from: StiAggregateFunctionService
 
 | Constructor | Description |
 | --- | --- |
-| `StiMedianDoubleFunctionService()` |  |
-| `StiMedianDoubleFunctionService(bool runningTotal)` |  |
+| **StiMedianDoubleFunctionService**() |  |
+| **StiMedianDoubleFunctionService**(bool runningTotal) |  |
 
 ### Methods
 

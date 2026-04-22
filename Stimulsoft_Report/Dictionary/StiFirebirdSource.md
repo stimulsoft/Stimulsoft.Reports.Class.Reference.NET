@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiFirebirdSource()` |  |
-| `StiFirebirdSource(string nameInSource, string name)` |  |
-| `StiFirebirdSource(string nameInSource, string name, string alias)` |  |
-| `StiFirebirdSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiFirebirdSource**() |  |
+| **StiFirebirdSource**(string nameInSource, string name) |  |
+| **StiFirebirdSource**(string nameInSource, string name, string alias) |  |
+| **StiFirebirdSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

@@ -19,7 +19,7 @@ Inherits from: StiFormatService
 
 | Constructor | Description |
 | --- | --- |
-| `StiBooleanFormatService()` | Creates a new format of the type StiBooleanFormatService. |
+| **StiBooleanFormatService**() | Creates a new format of the type StiBooleanFormatService. |
 
 ### Methods
 

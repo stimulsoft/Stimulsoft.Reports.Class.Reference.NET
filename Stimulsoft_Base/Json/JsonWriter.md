@@ -21,7 +21,7 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `JsonWriter()` | Creates an instance of the `JsonWriter` class. |
+| **JsonWriter**() | Creates an instance of the `JsonWriter` class. |
 
 ### Properties
 

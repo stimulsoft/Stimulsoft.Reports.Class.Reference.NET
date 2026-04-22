@@ -19,10 +19,10 @@ Inherits from: StiDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiFileDatabase()` |  |
-| `StiFileDatabase(string name, string pathData)` |  |
-| `StiFileDatabase(string name, string pathData, string key)` |  |
-| `StiFileDatabase(string name, string pathData, string key, [StiColumnTypeProcessing](StiColumnTypeProcessing.md) castToColumnType)` |  |
+| **StiFileDatabase**() |  |
+| **StiFileDatabase**(string name, string pathData) |  |
+| **StiFileDatabase**(string name, string pathData, string key) |  |
+| **StiFileDatabase**(string name, string pathData, string key, [StiColumnTypeProcessing](StiColumnTypeProcessing.md) castToColumnType) |  |
 
 ### Properties
 

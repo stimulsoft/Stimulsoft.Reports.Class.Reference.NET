@@ -15,8 +15,8 @@ public class StiEditableItem
 
 | Constructor | Description |
 | --- | --- |
-| `StiEditableItem()` |  |
-| `StiEditableItem(int pageIndex, int position, string componentName, string textValue)` |  |
+| **StiEditableItem**() |  |
+| **StiEditableItem**(int pageIndex, int position, string componentName, string textValue) |  |
 
 ### Properties
 

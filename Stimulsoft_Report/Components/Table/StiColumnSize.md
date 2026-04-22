@@ -15,7 +15,7 @@ public class StiColumnSize
 
 | Constructor | Description |
 | --- | --- |
-| `StiColumnSize(int size)` |  |
+| **StiColumnSize**(int size) |  |
 
 ### Methods
 

@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiHyperlinkClickEventArgs(string hyperlink)` |  |
+| **StiHyperlinkClickEventArgs**(string hyperlink) |  |
 
 ### Properties
 

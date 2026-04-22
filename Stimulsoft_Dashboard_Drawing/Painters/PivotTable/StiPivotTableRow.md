@@ -15,7 +15,7 @@ public class StiPivotTableRow
 
 | Constructor | Description |
 | --- | --- |
-| `StiPivotTableRow([StiPivotTableContainer](StiPivotTableContainer.md) container, double height)` |  |
+| **StiPivotTableRow**([StiPivotTableContainer](StiPivotTableContainer.md) container, double height) |  |
 
 ### Properties
 

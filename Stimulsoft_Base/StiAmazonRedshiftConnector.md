@@ -19,7 +19,7 @@ Inherits from: [StiPostgreSqlConnector](StiPostgreSqlConnector.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiAmazonRedshiftConnector(string connectionString)` |  |
+| **StiAmazonRedshiftConnector**(string connectionString) |  |
 
 ### Methods
 

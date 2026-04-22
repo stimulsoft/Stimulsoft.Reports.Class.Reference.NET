@@ -19,7 +19,7 @@ Inherits from: System.Windows.Forms.TreeView
 
 | Constructor | Description |
 | --- | --- |
-| `StiTreeView()` |  |
+| **StiTreeView**() |  |
 
 ### Properties
 

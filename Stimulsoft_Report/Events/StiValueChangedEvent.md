@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiValueChangedEvent()` | Creates a new object of the type StiValueChangedEvent. |
-| `StiValueChangedEvent(string script)` | Creates a new object of the type StiValueChangedEvent with specified arguments. |
-| `StiValueChangedEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiValueChangedEvent**() | Creates a new object of the type StiValueChangedEvent. |
+| **StiValueChangedEvent**(string script) | Creates a new object of the type StiValueChangedEvent with specified arguments. |
+| **StiValueChangedEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

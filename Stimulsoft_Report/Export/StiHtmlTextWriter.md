@@ -15,7 +15,7 @@ public class StiHtmlTextWriter
 
 | Constructor | Description |
 | --- | --- |
-| `StiHtmlTextWriter(TextWriter baseStream)` |  |
+| **StiHtmlTextWriter**(TextWriter baseStream) |  |
 
 ### Methods
 

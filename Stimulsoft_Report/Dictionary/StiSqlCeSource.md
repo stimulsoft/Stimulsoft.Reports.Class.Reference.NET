@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSqlCeSource()` |  |
-| `StiSqlCeSource(string nameInSource, string name)` |  |
-| `StiSqlCeSource(string nameInSource, string name, string alias)` |  |
-| `StiSqlCeSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiSqlCeSource**() |  |
+| **StiSqlCeSource**(string nameInSource, string name) |  |
+| **StiSqlCeSource**(string nameInSource, string name, string alias) |  |
+| **StiSqlCeSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

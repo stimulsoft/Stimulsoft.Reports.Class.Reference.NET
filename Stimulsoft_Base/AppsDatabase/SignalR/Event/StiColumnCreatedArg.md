@@ -15,7 +15,7 @@ public class StiColumnCreatedArg
 
 | Constructor | Description |
 | --- | --- |
-| `StiColumnCreatedArg(string tableKey, [StiAppsColumn](../../StiAppsColumn.md) column)` |  |
+| **StiColumnCreatedArg**(string tableKey, [StiAppsColumn](../../StiAppsColumn.md) column) |  |
 
 ### Properties
 

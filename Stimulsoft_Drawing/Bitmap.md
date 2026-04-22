@@ -19,12 +19,12 @@ Implements: [Image](Image.md)
 
 | Constructor | Description |
 | --- | --- |
-| `Bitmap(Stream stream)` |  |
-| `Bitmap([Bitmap](Bitmap.md) bitmap)` |  |
-| `Bitmap([Image](Image.md) image)` |  |
-| `Bitmap(int width, int height)` |  |
-| `Bitmap(int width, int height, System.Drawing.Imaging.PixelFormat format)` |  |
-| `Bitmap(int width, int height, [Graphics](Graphics.md) g)` |  |
+| **Bitmap**(Stream stream) |  |
+| **Bitmap**([Bitmap](Bitmap.md) bitmap) |  |
+| **Bitmap**([Image](Image.md) image) |  |
+| **Bitmap**(int width, int height) |  |
+| **Bitmap**(int width, int height, System.Drawing.Imaging.PixelFormat format) |  |
+| **Bitmap**(int width, int height, [Graphics](Graphics.md) g) |  |
 
 ### Methods
 

@@ -19,17 +19,17 @@ Inherits from: [RecognitionException](RecognitionException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `NoViableAltException()` |  |
-| `NoViableAltException(string grammarDecisionDescription)` |  |
-| `NoViableAltException(string message, string grammarDecisionDescription)` |  |
-| `NoViableAltException(SerializationInfo info, StreamingContext context)` |  |
-| `NoViableAltException(string message, string grammarDecisionDescription, Exception innerException)` |  |
-| `NoViableAltException(string grammarDecisionDescription, int decisionNumber, int stateNumber, [IIntStream](IIntStream.md) input)` |  |
-| `NoViableAltException(string grammarDecisionDescription, int decisionNumber, int stateNumber, [IIntStream](IIntStream.md) input, int k)` |  |
-| `NoViableAltException(string message, string grammarDecisionDescription, int decisionNumber, int stateNumber, [IIntStream](IIntStream.md) input)` |  |
-| `NoViableAltException(string message, string grammarDecisionDescription, int decisionNumber, int stateNumber, [IIntStream](IIntStream.md) input, int k)` |  |
-| `NoViableAltException(string message, string grammarDecisionDescription, int decisionNumber, int stateNumber, [IIntStream](IIntStream.md) input, Exception innerException)` |  |
-| `NoViableAltException(string message, string grammarDecisionDescription, int decisionNumber, int stateNumber, [IIntStream](IIntStream.md) input, int k, Exception innerException)` |  |
+| **NoViableAltException**() |  |
+| **NoViableAltException**(string grammarDecisionDescription) |  |
+| **NoViableAltException**(string message, string grammarDecisionDescription) |  |
+| **NoViableAltException**(SerializationInfo info, StreamingContext context) |  |
+| **NoViableAltException**(string message, string grammarDecisionDescription, Exception innerException) |  |
+| **NoViableAltException**(string grammarDecisionDescription, int decisionNumber, int stateNumber, [IIntStream](IIntStream.md) input) |  |
+| **NoViableAltException**(string grammarDecisionDescription, int decisionNumber, int stateNumber, [IIntStream](IIntStream.md) input, int k) |  |
+| **NoViableAltException**(string message, string grammarDecisionDescription, int decisionNumber, int stateNumber, [IIntStream](IIntStream.md) input) |  |
+| **NoViableAltException**(string message, string grammarDecisionDescription, int decisionNumber, int stateNumber, [IIntStream](IIntStream.md) input, int k) |  |
+| **NoViableAltException**(string message, string grammarDecisionDescription, int decisionNumber, int stateNumber, [IIntStream](IIntStream.md) input, Exception innerException) |  |
+| **NoViableAltException**(string message, string grammarDecisionDescription, int decisionNumber, int stateNumber, [IIntStream](IIntStream.md) input, int k, Exception innerException) |  |
 
 ### Methods
 

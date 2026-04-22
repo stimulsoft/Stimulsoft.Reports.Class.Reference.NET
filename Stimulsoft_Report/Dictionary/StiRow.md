@@ -15,4 +15,4 @@ public class StiRow
 
 | Constructor | Description |
 | --- | --- |
-| `StiRow(StiDataSource dataSource, int rowIndex)` |  |
+| **StiRow**(StiDataSource dataSource, int rowIndex) |  |

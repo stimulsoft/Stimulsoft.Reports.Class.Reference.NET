@@ -19,8 +19,8 @@ Implements: IDisposable, ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StringFormat()` |  |
-| `StringFormat([StringFormat](StringFormat.md) format)` |  |
+| **StringFormat**() |  |
+| **StringFormat**([StringFormat](StringFormat.md) format) |  |
 
 ### Properties
 

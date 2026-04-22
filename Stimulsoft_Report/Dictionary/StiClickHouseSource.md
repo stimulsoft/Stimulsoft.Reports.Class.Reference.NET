@@ -19,14 +19,14 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiClickHouseSource()` |  |
-| `StiClickHouseSource(string nameInSource, string name)` |  |
-| `StiClickHouseSource(string nameInSource, string name, string alias)` |  |
-| `StiClickHouseSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
-| `StiClickHouseSource(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart)` |  |
-| `StiClickHouseSource(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow)` |  |
-| `StiClickHouseSource(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow, int commandTimeout)` |  |
-| `StiClickHouseSource(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow, int commandTimeout, string key)` |  |
+| **StiClickHouseSource**() |  |
+| **StiClickHouseSource**(string nameInSource, string name) |  |
+| **StiClickHouseSource**(string nameInSource, string name, string alias) |  |
+| **StiClickHouseSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
+| **StiClickHouseSource**(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart) |  |
+| **StiClickHouseSource**(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow) |  |
+| **StiClickHouseSource**(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow, int commandTimeout) |  |
+| **StiClickHouseSource**(string nameInSource, string name, string alias, string sqlCommand, bool connectOnStart, bool reconnectOnEachRow, int commandTimeout, string key) |  |
 
 ### Methods
 

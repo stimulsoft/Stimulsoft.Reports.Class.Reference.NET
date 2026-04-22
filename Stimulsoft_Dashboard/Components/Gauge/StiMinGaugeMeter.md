@@ -20,9 +20,9 @@ Implements: [IStiMinGaugeMeter](../../../Stimulsoft_Base/Meters/IStiMinGaugeMete
 
 | Constructor | Description |
 | --- | --- |
-| `StiMinGaugeMeter()` |  |
-| `StiMinGaugeMeter(string expression, string label)` |  |
-| `StiMinGaugeMeter(string key, string expression, string label)` |  |
+| **StiMinGaugeMeter**() |  |
+| **StiMinGaugeMeter**(string expression, string label) |  |
+| **StiMinGaugeMeter**(string key, string expression, string label) |  |
 
 ### Properties
 

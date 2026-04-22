@@ -19,10 +19,10 @@ Inherits from: [StiNoSqlSource](StiNoSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGraphQLSource()` | Creates a new object of the type StiGraphQLSource. |
-| `StiGraphQLSource(string nameInSource, string name)` |  |
-| `StiGraphQLSource(string nameInSource, string name, string alias)` |  |
-| `StiGraphQLSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiGraphQLSource**() | Creates a new object of the type StiGraphQLSource. |
+| **StiGraphQLSource**(string nameInSource, string name) |  |
+| **StiGraphQLSource**(string nameInSource, string name, string alias) |  |
+| **StiGraphQLSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

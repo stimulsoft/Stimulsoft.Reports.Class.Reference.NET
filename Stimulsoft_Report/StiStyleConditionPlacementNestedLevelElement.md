@@ -19,8 +19,8 @@ Inherits from: [StiStyleConditionElement](StiStyleConditionElement.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiStyleConditionPlacementNestedLevelElement(int placementNestedLevel)` |  |
-| `StiStyleConditionPlacementNestedLevelElement(int placementNestedLevel, [StiStyleConditionOperation](StiStyleConditionOperation.md) operationPlacementNestedLevel)` |  |
+| **StiStyleConditionPlacementNestedLevelElement**(int placementNestedLevel) |  |
+| **StiStyleConditionPlacementNestedLevelElement**(int placementNestedLevel, [StiStyleConditionOperation](StiStyleConditionOperation.md) operationPlacementNestedLevel) |  |
 
 ### Properties
 

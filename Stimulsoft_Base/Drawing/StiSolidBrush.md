@@ -19,9 +19,9 @@ Inherits from: [StiBrush](StiBrush.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSolidBrush()` | Creates a new instance of the StiSolidBrush class. |
-| `StiSolidBrush(Color color)` | Creates a new instance of the StiSolidBrush class. |
-| `StiSolidBrush(string color)` | Creates a new instance of the StiSolidBrush class. |
+| **StiSolidBrush**() | Creates a new instance of the StiSolidBrush class. |
+| **StiSolidBrush**(Color color) | Creates a new instance of the StiSolidBrush class. |
+| **StiSolidBrush**(string color) | Creates a new instance of the StiSolidBrush class. |
 
 ### Properties
 

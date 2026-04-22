@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiMoveFooterToBottomEvent()` | Creates a new object of the type StiMoveFooterToBottomEvent. |
-| `StiMoveFooterToBottomEvent(string script)` | Creates a new object of the type StiMoveFooterToBottomEvent with specified arguments. |
-| `StiMoveFooterToBottomEvent(StiComponent parent)` | Creates a new object of the type StiMoveFooterToBottomEvent with specified arguments. |
+| **StiMoveFooterToBottomEvent**() | Creates a new object of the type StiMoveFooterToBottomEvent. |
+| **StiMoveFooterToBottomEvent**(string script) | Creates a new object of the type StiMoveFooterToBottomEvent with specified arguments. |
+| **StiMoveFooterToBottomEvent**(StiComponent parent) | Creates a new object of the type StiMoveFooterToBottomEvent with specified arguments. |
 
 ### Methods
 

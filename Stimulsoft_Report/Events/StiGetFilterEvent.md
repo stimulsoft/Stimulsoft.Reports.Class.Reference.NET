@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetFilterEvent()` | Creates a new object of the type StiGetFilterEvent. |
-| `StiGetFilterEvent(string script)` | Creates a new object of the type StiGetFilterEvent with specified arguments. |
-| `StiGetFilterEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetFilterEvent**() | Creates a new object of the type StiGetFilterEvent. |
+| **StiGetFilterEvent**(string script) | Creates a new object of the type StiGetFilterEvent with specified arguments. |
+| **StiGetFilterEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

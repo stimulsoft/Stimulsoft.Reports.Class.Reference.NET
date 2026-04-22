@@ -19,7 +19,7 @@ Implements: [IStiDefault](../Design/IStiDefault.md)
 
 | Constructor | Description |
 | --- | --- |
-| `SizeM(decimal width, decimal height)` | Initializes a new instance of the SizeM class from the specified dimensions. |
+| **SizeM**(decimal width, decimal height) | Initializes a new instance of the SizeM class from the specified dimensions. |
 
 ### Properties
 

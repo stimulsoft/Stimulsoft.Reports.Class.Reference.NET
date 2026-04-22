@@ -17,7 +17,7 @@ public class StiUserGetDataEventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiUserGetDataEventArgs([StiUserSource](StiUserSource.md) userSource, int position, string columnName)` | Creates a new object of the type StiUserGetDataEventArgs. |
+| **StiUserGetDataEventArgs**([StiUserSource](StiUserSource.md) userSource, int position, string columnName) | Creates a new object of the type StiUserGetDataEventArgs. |
 
 ### Properties
 

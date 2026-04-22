@@ -19,10 +19,10 @@ Inherits from: [StiNoSqlSource](../../StiNoSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGoogleAnalyticsSource()` | Creates a new object of the type StiGoogleAnalyticsSource. |
-| `StiGoogleAnalyticsSource(string nameInSource, string name)` |  |
-| `StiGoogleAnalyticsSource(string nameInSource, string name, string alias)` |  |
-| `StiGoogleAnalyticsSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiGoogleAnalyticsSource**() | Creates a new object of the type StiGoogleAnalyticsSource. |
+| **StiGoogleAnalyticsSource**(string nameInSource, string name) |  |
+| **StiGoogleAnalyticsSource**(string nameInSource, string name, string alias) |  |
+| **StiGoogleAnalyticsSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

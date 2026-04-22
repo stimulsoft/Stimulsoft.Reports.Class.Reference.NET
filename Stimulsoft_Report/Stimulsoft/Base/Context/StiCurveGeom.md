@@ -19,7 +19,7 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCurveGeom([StiPenGeom](StiPenGeom.md) pen, PointFpoints , float tension)` |  |
+| **StiCurveGeom**([StiPenGeom](StiPenGeom.md) pen, PointFpoints , float tension) |  |
 
 ### Properties
 

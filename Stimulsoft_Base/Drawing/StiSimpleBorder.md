@@ -19,8 +19,8 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiSimpleBorder()` | Creates a new instance of the StiSimpleBorder class. |
-| `StiSimpleBorder([StiBorderSides](StiBorderSides.md) side, Color color, double size, [StiPenStyle](StiPenStyle.md) style)` | Creates a new instance of the StiSimpleBorder class. |
+| **StiSimpleBorder**() | Creates a new instance of the StiSimpleBorder class. |
+| **StiSimpleBorder**([StiBorderSides](StiBorderSides.md) side, Color color, double size, [StiPenStyle](StiPenStyle.md) style) | Creates a new instance of the StiSimpleBorder class. |
 
 ### Properties
 

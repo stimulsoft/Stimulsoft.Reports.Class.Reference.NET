@@ -19,7 +19,7 @@ Inherits from: StiChartAxisLabels
 
 | Constructor | Description |
 | --- | --- |
-| `StiChartYRightAxisLabels()` |  |
+| **StiChartYRightAxisLabels**() |  |
 
 ### Properties
 

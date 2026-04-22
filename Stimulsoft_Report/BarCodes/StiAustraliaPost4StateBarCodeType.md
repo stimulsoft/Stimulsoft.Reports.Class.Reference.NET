@@ -19,8 +19,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiAustraliaPost4StateBarCodeType()` |  |
-| `StiAustraliaPost4StateBarCodeType(float module, float height)` |  |
+| **StiAustraliaPost4StateBarCodeType**() |  |
+| **StiAustraliaPost4StateBarCodeType**(float module, float height) |  |
 
 ### Properties
 

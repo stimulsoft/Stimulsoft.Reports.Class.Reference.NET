@@ -19,7 +19,7 @@ Inherits from: StiLegendCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiHeatmapLegendCoreXF(IStiLegend legend)` |  |
+| **StiHeatmapLegendCoreXF**(IStiLegend legend) |  |
 
 ### Methods
 

@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiDesignerIconAttribute(Type type, string bitmapName)` | Creates a new attribute of the type StiDataAdapterIconAttribute. |
+| **StiDesignerIconAttribute**(Type type, string bitmapName) | Creates a new attribute of the type StiDataAdapterIconAttribute. |
 
 ### Properties
 

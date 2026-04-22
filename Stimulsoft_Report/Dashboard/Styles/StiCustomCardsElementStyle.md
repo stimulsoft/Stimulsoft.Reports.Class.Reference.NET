@@ -19,7 +19,7 @@ Inherits from: StiCardsElementStyle
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomCardsElementStyle(StiCardsStyle style)` |  |
+| **StiCustomCardsElementStyle**(StiCardsStyle style) |  |
 
 ### Properties
 

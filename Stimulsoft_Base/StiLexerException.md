@@ -21,7 +21,7 @@ Inherits from: Exception
 
 | Constructor | Description |
 | --- | --- |
-| `StiLexerException([StiLexerError](StiLexerError.md) error)` | Create a new instance of the StiLexerException class. |
+| **StiLexerException**([StiLexerError](StiLexerError.md) error) | Create a new instance of the StiLexerException class. |
 
 ### Properties
 

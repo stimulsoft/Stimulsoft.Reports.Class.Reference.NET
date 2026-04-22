@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetDefaultFontEventArgs(string name, float size, FontStyle style, GraphicsUnit unit)` |  |
+| **StiGetDefaultFontEventArgs**(string name, float size, FontStyle style, GraphicsUnit unit) |  |
 
 ### Properties
 

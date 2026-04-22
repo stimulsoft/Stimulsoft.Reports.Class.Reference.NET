@@ -19,8 +19,8 @@ Inherits from: StiExpression
 
 | Constructor | Description |
 | --- | --- |
-| `StiSkipValuesExpression()` | Creates a new expression. |
-| `StiSkipValuesExpression(string value)` | Creates a new expression. |
+| **StiSkipValuesExpression**() | Creates a new expression. |
+| **StiSkipValuesExpression**(string value) | Creates a new expression. |
 
 ### Methods
 

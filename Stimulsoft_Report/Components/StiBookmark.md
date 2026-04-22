@@ -21,9 +21,9 @@ Implements: [IStiJsonReportObject](../../Stimulsoft_Base/IStiJsonReportObject.md
 
 | Constructor | Description |
 | --- | --- |
-| `StiBookmark()` | Creates a new bookmark. |
-| `StiBookmark(string text, object parentComponent)` | Creates a new bookmark. |
-| `StiBookmark(string text, string bookmarkText, object parentComponent)` | Creates a new bookmark. |
+| **StiBookmark**() | Creates a new bookmark. |
+| **StiBookmark**(string text, object parentComponent) | Creates a new bookmark. |
+| **StiBookmark**(string text, string bookmarkText, object parentComponent) | Creates a new bookmark. |
 
 ### Properties
 

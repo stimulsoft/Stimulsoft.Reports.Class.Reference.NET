@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `FloatList()` |  |
-| `FloatList(floatvalues )` |  |
+| **FloatList**() |  |
+| **FloatList**(floatvalues ) |  |
 
 ### Methods
 

@@ -19,6 +19,6 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLimitRowsExpression()` | Creates a new expression. |
-| `StiLimitRowsExpression(string val)` | Creates a new expression. |
-| `StiLimitRowsExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiLimitRowsExpression**() | Creates a new expression. |
+| **StiLimitRowsExpression**(string val) | Creates a new expression. |
+| **StiLimitRowsExpression**(StiComponent parent, string propertyName) | Creates a new expression. |

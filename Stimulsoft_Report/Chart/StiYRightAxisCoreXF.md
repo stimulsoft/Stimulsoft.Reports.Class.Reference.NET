@@ -19,7 +19,7 @@ Inherits from: [StiYAxisCoreXF](StiYAxisCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiYRightAxisCoreXF(IStiAxis axis)` |  |
+| **StiYRightAxisCoreXF**(IStiAxis axis) |  |
 
 ### Methods
 

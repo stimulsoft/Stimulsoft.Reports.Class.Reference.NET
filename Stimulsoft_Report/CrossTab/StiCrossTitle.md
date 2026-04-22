@@ -19,7 +19,7 @@ Inherits from: StiCrossField
 
 | Constructor | Description |
 | --- | --- |
-| `StiCrossTitle()` |  |
+| **StiCrossTitle**() |  |
 
 ### Properties
 

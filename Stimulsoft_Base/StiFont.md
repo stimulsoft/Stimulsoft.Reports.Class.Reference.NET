@@ -19,7 +19,7 @@ Implements: IEquatable<[StiFont](StiFont.md)>
 
 | Constructor | Description |
 | --- | --- |
-| `StiFont([Font](../Stimulsoft_Drawing/Font.md) font)` |  |
+| **StiFont**([Font](../Stimulsoft_Drawing/Font.md) font) |  |
 
 ### Properties
 

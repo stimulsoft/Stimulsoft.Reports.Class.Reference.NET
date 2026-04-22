@@ -19,8 +19,8 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `TimeOnly(long ticks)` |  |
-| `TimeOnly(DateTime dateTime)` |  |
+| **TimeOnly**(long ticks) |  |
+| **TimeOnly**(DateTime dateTime) |  |
 
 ### Methods
 

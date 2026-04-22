@@ -15,7 +15,7 @@ public class LookupSubtable
 
 | Constructor | Description |
 | --- | --- |
-| `LookupSubtable(int type, int format)` |  |
+| **LookupSubtable**(int type, int format) |  |
 
 ### Methods
 

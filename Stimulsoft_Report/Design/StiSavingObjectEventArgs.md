@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiSavingObjectEventArgs(bool saveAs, [StiSaveEventSource](StiSaveEventSource.md) eventSource)` |  |
+| **StiSavingObjectEventArgs**(bool saveAs, [StiSaveEventSource](StiSaveEventSource.md) eventSource) |  |
 
 ### Properties
 

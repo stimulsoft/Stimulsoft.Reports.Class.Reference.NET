@@ -21,8 +21,8 @@ Inherits from: [StiDialogsProvider](StiDialogsProvider.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiWinDialogsProvider()` |  |
-| `StiWinDialogsProvider([StiReport](../StiReport.md) report)` |  |
+| **StiWinDialogsProvider**() |  |
+| **StiWinDialogsProvider**([StiReport](../StiReport.md) report) |  |
 
 ### Properties
 

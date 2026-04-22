@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataTransformationDesignerAttribute(string designerTypeName)` |  |
-| `StiDataTransformationDesignerAttribute(Type type)` |  |
+| **StiDataTransformationDesignerAttribute**(string designerTypeName) |  |
+| **StiDataTransformationDesignerAttribute**(Type type) |  |
 
 ### Properties
 

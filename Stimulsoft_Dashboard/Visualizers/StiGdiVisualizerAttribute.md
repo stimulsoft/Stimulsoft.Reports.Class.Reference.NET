@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiGdiVisualizerAttribute(string visualizerTypeName)` |  |
-| `StiGdiVisualizerAttribute(Type visualizerType)` |  |
+| **StiGdiVisualizerAttribute**(string visualizerTypeName) |  |
+| **StiGdiVisualizerAttribute**(Type visualizerType) |  |
 
 ### Properties
 

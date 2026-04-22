@@ -19,7 +19,7 @@ Inherits from: [StiNumberBoxElementGdiPainter](StiNumberBoxElementGdiPainter.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSliderNumberBoxElementGdiPainter(StiNumberBoxElement element)` |  |
+| **StiSliderNumberBoxElementGdiPainter**(StiNumberBoxElement element) |  |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Inherits from: StiPieArea
 
 | Constructor | Description |
 | --- | --- |
-| `StiPie3dArea()` |  |
+| **StiPie3dArea**() |  |
 
 ### Methods
 

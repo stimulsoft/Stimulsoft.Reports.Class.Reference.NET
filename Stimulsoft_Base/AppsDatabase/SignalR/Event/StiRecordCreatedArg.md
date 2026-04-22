@@ -15,7 +15,7 @@ public class StiRecordCreatedArg
 
 | Constructor | Description |
 | --- | --- |
-| `StiRecordCreatedArg(string tableKey, [StiAppsRecord](../../StiAppsRecord.md) row)` |  |
+| **StiRecordCreatedArg**(string tableKey, [StiAppsRecord](../../StiAppsRecord.md) row) |  |
 
 ### Properties
 

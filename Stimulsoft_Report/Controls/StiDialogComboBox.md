@@ -19,7 +19,7 @@ Inherits from: ComboBox
 
 | Constructor | Description |
 | --- | --- |
-| `StiDialogComboBox()` |  |
+| **StiDialogComboBox**() |  |
 
 ### Methods
 

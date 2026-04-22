@@ -19,7 +19,7 @@ Inherits from: [StiPieAreaCoreXF](StiPieAreaCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDoughnutAreaCoreXF(IStiArea area)` |  |
+| **StiDoughnutAreaCoreXF**(IStiArea area) |  |
 
 ### Methods
 

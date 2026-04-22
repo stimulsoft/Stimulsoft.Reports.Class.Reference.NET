@@ -15,8 +15,8 @@ public class StiStylesCreator
 
 | Constructor | Description |
 | --- | --- |
-| `StiStylesCreator([StiReport](StiReport.md) report)` |  |
-| `StiStylesCreator(List<StiBaseStyle> hashAllStyles)` |  |
+| **StiStylesCreator**([StiReport](StiReport.md) report) |  |
+| **StiStylesCreator**(List<StiBaseStyle> hashAllStyles) |  |
 
 ### Properties
 

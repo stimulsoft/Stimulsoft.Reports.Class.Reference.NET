@@ -19,8 +19,8 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiPivotTableElementTooltipEventArgs()` |  |
-| `StiPivotTableElementTooltipEventArgs(Point point)` |  |
+| **StiPivotTableElementTooltipEventArgs**() |  |
+| **StiPivotTableElementTooltipEventArgs**(Point point) |  |
 
 ### Properties
 

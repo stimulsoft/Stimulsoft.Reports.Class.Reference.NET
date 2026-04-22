@@ -19,7 +19,7 @@ Implements: IStiAxisTicks
 
 | Constructor | Description |
 | --- | --- |
-| `StiAxisTicks()` |  |
+| **StiAxisTicks**() |  |
 
 ### Properties
 

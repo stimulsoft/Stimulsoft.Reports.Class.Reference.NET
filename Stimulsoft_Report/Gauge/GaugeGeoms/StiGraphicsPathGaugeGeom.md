@@ -19,7 +19,7 @@ Inherits from: [StiGaugeGeom](StiGaugeGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGraphicsPathGaugeGeom(RectangleF rect, PointF startPoint, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth)` |  |
+| **StiGraphicsPathGaugeGeom**(RectangleF rect, PointF startPoint, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth) |  |
 
 ### Properties
 

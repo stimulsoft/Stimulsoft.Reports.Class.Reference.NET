@@ -17,7 +17,7 @@ public class StiStylesSheet
 
 | Constructor | Description |
 | --- | --- |
-| `StiStylesSheet(StiStylesCollection styles)` | Creates a new object of the type StiStylesSheet. |
+| **StiStylesSheet**(StiStylesCollection styles) | Creates a new object of the type StiStylesSheet. |
 
 ### Properties
 

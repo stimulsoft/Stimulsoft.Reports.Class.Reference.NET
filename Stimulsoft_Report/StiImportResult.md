@@ -15,7 +15,7 @@ public class StiImportResult
 
 | Constructor | Description |
 | --- | --- |
-| `StiImportResult([StiReport](StiReport.md) report, List<string> errors)` |  |
+| **StiImportResult**([StiReport](StiReport.md) report, List<string> errors) |  |
 
 ### Properties
 

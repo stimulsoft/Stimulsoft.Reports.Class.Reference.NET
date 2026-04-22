@@ -19,8 +19,8 @@ Inherits from: StiReportControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiRadioButtonControl()` | Creates a new StiRadioButtonControl. |
-| `StiRadioButtonControl([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiRadioButtonControl. |
+| **StiRadioButtonControl**() | Creates a new StiRadioButtonControl. |
+| **StiRadioButtonControl**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiRadioButtonControl. |
 
 ### Methods
 

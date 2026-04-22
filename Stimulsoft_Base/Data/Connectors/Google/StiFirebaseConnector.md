@@ -19,7 +19,7 @@ Inherits from: StiDbNoSqlDataConnector
 
 | Constructor | Description |
 | --- | --- |
-| `StiFirebaseConnector(string connectionString)` |  |
+| **StiFirebaseConnector**(string connectionString) |  |
 
 ### Properties
 

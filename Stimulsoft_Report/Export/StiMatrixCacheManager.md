@@ -15,7 +15,7 @@ public class StiMatrixCacheManager
 
 | Constructor | Description |
 | --- | --- |
-| `StiMatrixCacheManager([StiMatrix](StiMatrix.md) matrix, int width, int height, int maxPageHeight)` |  |
+| **StiMatrixCacheManager**([StiMatrix](StiMatrix.md) matrix, int width, int height, int maxPageHeight) |  |
 
 ### Methods
 

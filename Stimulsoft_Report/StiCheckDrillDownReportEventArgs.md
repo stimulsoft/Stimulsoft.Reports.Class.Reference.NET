@@ -15,7 +15,7 @@ public class StiCheckDrillDownReportEventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiCheckDrillDownReportEventArgs(string drillDownReport)` |  |
+| **StiCheckDrillDownReportEventArgs**(string drillDownReport) |  |
 
 ### Properties
 

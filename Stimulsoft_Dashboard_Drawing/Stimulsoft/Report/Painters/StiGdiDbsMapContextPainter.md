@@ -19,7 +19,7 @@ Implements: [IStiAnimationContextPainter](../../../../Stimulsoft_Report/Painters
 
 | Constructor | Description |
 | --- | --- |
-| `StiGdiDbsMapContextPainter(StiRegionMapElement map)` |  |
+| **StiGdiDbsMapContextPainter**(StiRegionMapElement map) |  |
 
 ### Properties
 

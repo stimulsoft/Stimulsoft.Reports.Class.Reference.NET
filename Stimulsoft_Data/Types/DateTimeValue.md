@@ -19,7 +19,7 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `DateTimeValue(object value)` |  |
+| **DateTimeValue**(object value) |  |
 
 ### Properties
 

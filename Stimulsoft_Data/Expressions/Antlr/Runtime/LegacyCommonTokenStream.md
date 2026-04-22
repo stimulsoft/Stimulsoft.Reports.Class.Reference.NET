@@ -19,9 +19,9 @@ Implements: [ITokenStream](ITokenStream.md)
 
 | Constructor | Description |
 | --- | --- |
-| `LegacyCommonTokenStream()` |  |
-| `LegacyCommonTokenStream([ITokenSource](ITokenSource.md) tokenSource)` |  |
-| `LegacyCommonTokenStream([ITokenSource](ITokenSource.md) tokenSource, int channel)` |  |
+| **LegacyCommonTokenStream**() |  |
+| **LegacyCommonTokenStream**([ITokenSource](ITokenSource.md) tokenSource) |  |
+| **LegacyCommonTokenStream**([ITokenSource](ITokenSource.md) tokenSource, int channel) |  |
 
 ### Methods
 

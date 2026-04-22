@@ -15,7 +15,7 @@ public class StiRecentFile
 
 | Constructor | Description |
 | --- | --- |
-| `StiRecentFile(string fileName, string displayName, object tag)` |  |
+| **StiRecentFile**(string fileName, string displayName, object tag) |  |
 
 ### Properties
 

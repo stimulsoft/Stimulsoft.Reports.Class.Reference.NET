@@ -19,8 +19,8 @@ Inherits from: [StiAnimationGeom](StiAnimationGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiBorderAnimationGeom([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiPenGeom](StiPenGeom.md) borderPen, object rect, object tag, [StiAnimation](Animation/StiAnimation.md) animation, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, string toolTip)` |  |
-| `StiBorderAnimationGeom([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) wpfBackColor, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiPenGeom](StiPenGeom.md) borderPen, object rect, StiCornerRadius cornerRadius, object tag, [StiAnimation](Animation/StiAnimation.md) animation, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, string toolTip)` |  |
+| **StiBorderAnimationGeom**([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiPenGeom](StiPenGeom.md) borderPen, object rect, object tag, [StiAnimation](Animation/StiAnimation.md) animation, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, string toolTip) |  |
+| **StiBorderAnimationGeom**([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) wpfBackColor, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiPenGeom](StiPenGeom.md) borderPen, object rect, StiCornerRadius cornerRadius, object tag, [StiAnimation](Animation/StiAnimation.md) animation, [StiInteractionDataGeom](StiInteractionDataGeom.md) interaction, string toolTip) |  |
 
 ### Properties
 

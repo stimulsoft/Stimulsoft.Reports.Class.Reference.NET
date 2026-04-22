@@ -21,8 +21,8 @@ Inherits from: StiAggregateFunctionService
 
 | Constructor | Description |
 | --- | --- |
-| `StiMinStrFunctionService()` |  |
-| `StiMinStrFunctionService(bool runningTotal)` |  |
+| **StiMinStrFunctionService**() |  |
+| **StiMinStrFunctionService**(bool runningTotal) |  |
 
 ### Methods
 

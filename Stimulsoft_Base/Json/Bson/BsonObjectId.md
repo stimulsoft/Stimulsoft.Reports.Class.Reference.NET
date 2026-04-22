@@ -17,7 +17,7 @@ public class BsonObjectId
 
 | Constructor | Description |
 | --- | --- |
-| `BsonObjectId(bytevalue )` | Initializes a new instance of the BsonObjectId class. |
+| **BsonObjectId**(bytevalue ) | Initializes a new instance of the BsonObjectId class. |
 
 ### Properties
 

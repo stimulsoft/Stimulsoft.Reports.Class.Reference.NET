@@ -19,7 +19,7 @@ Inherits from: [StiShadowPanel](Controls/StiShadowPanel.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiElementPanel()` |  |
+| **StiElementPanel**() |  |
 
 ### Properties
 

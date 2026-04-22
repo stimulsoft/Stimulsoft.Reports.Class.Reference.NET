@@ -15,8 +15,8 @@ public struct RectangleM
 
 | Constructor | Description |
 | --- | --- |
-| `RectangleM([PointM](PointM.md) location, [SizeM](SizeM.md) size)` | Initializes a new instance of the RectangleM class with the specified location and size. |
-| `RectangleM(decimal x, decimal y, decimal width, decimal height)` | Initializes a new instance of the RectangleM class with the specified location and size. |
+| **RectangleM**([PointM](PointM.md) location, [SizeM](SizeM.md) size) | Initializes a new instance of the RectangleM class with the specified location and size. |
+| **RectangleM**(decimal x, decimal y, decimal width, decimal height) | Initializes a new instance of the RectangleM class with the specified location and size. |
 
 ### Properties
 

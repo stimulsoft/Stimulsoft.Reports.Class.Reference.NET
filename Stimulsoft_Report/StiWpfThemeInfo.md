@@ -17,7 +17,7 @@ public class StiWpfThemeInfo
 
 | Constructor | Description |
 | --- | --- |
-| `StiWpfThemeInfo(string name, string assembly, string path, string cloudToolTipPath, string checkPath)` | Creates new instance of StiWpfThemeInfo. |
+| **StiWpfThemeInfo**(string name, string assembly, string path, string cloudToolTipPath, string checkPath) | Creates new instance of StiWpfThemeInfo. |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiFunnelEmptySeriesElementGeom(RectangleF clientRectangle, List<[StiSegmentGeom](../../../../Stimulsoft/Base/Context/StiSegmentGeom.md)> path)` |  |
+| **StiFunnelEmptySeriesElementGeom**(RectangleF clientRectangle, List<[StiSegmentGeom](../../../../Stimulsoft/Base/Context/StiSegmentGeom.md)> path) |  |
 
 ### Properties
 

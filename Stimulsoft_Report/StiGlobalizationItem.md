@@ -19,8 +19,8 @@ Implements: [IStiJsonReportObject](../Stimulsoft_Base/IStiJsonReportObject.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGlobalizationItem()` |  |
-| `StiGlobalizationItem(string propertyName, string text)` |  |
+| **StiGlobalizationItem**() |  |
+| **StiGlobalizationItem**(string propertyName, string text) |  |
 
 ### Properties
 

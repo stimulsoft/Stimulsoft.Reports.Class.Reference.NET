@@ -19,9 +19,9 @@ Inherits from: [ANTLRStringStream](ANTLRStringStream.md)
 
 | Constructor | Description |
 | --- | --- |
-| `ANTLRReaderStream(TextReader r)` |  |
-| `ANTLRReaderStream(TextReader r, int size)` |  |
-| `ANTLRReaderStream(TextReader r, int size, int readChunkSize)` |  |
+| **ANTLRReaderStream**(TextReader r) |  |
+| **ANTLRReaderStream**(TextReader r, int size) |  |
+| **ANTLRReaderStream**(TextReader r, int size, int readChunkSize) |  |
 
 ### Methods
 

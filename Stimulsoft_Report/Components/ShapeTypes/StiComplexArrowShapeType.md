@@ -19,8 +19,8 @@ Inherits from: StiShapeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiComplexArrowShapeType()` | Creates a new ComplexArrow. |
-| `StiComplexArrowShapeType([StiShapeDirection](StiShapeDirection.md) direction)` | Creates a new ComplexArrow with specified arguments. |
+| **StiComplexArrowShapeType**() | Creates a new ComplexArrow. |
+| **StiComplexArrowShapeType**([StiShapeDirection](StiShapeDirection.md) direction) | Creates a new ComplexArrow with specified arguments. |
 
 ### Properties
 

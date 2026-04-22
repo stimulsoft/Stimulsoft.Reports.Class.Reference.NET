@@ -19,4 +19,4 @@ Inherits from: [StiOutsidePieLabelsCoreXF](StiOutsidePieLabelsCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTwoColumnsPieLabelsCoreXF(IStiSeriesLabels seriesLabels)` |  |
+| **StiTwoColumnsPieLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |

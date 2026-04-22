@@ -19,7 +19,7 @@ Inherits from: [Brush](Brush.md)
 
 | Constructor | Description |
 | --- | --- |
-| `SolidBrush(Color color)` |  |
+| **SolidBrush**(Color color) |  |
 
 ### Properties
 

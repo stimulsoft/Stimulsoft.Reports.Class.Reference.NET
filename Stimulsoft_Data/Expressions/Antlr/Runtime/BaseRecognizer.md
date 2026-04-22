@@ -15,8 +15,8 @@ public abstract class BaseRecognizer
 
 | Constructor | Description |
 | --- | --- |
-| `BaseRecognizer()` |  |
-| `BaseRecognizer([RecognizerSharedState](RecognizerSharedState.md) state)` |  |
+| **BaseRecognizer**() |  |
+| **BaseRecognizer**([RecognizerSharedState](RecognizerSharedState.md) state) |  |
 
 ### Methods
 

@@ -19,8 +19,8 @@ Inherits from: StiXChartAxis
 
 | Constructor | Description |
 | --- | --- |
-| `StiXTopChartAxis()` |  |
-| `StiXTopChartAxis(StiChartAxisLabels labels, [StiXChartAxisTitle](StiXChartAxisTitle.md) title, bool visible)` |  |
+| **StiXTopChartAxis**() |  |
+| **StiXTopChartAxis**(StiChartAxisLabels labels, [StiXChartAxisTitle](StiXChartAxisTitle.md) title, bool visible) |  |
 
 ### Properties
 

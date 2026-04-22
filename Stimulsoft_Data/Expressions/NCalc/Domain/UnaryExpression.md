@@ -19,7 +19,7 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `UnaryExpression([UnaryExpressionType](UnaryExpressionType.md) type, [LogicalExpression](LogicalExpression.md) expression)` |  |
+| **UnaryExpression**([UnaryExpressionType](UnaryExpressionType.md) type, [LogicalExpression](LogicalExpression.md) expression) |  |
 
 ### Properties
 

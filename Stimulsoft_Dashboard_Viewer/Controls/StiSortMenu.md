@@ -15,7 +15,7 @@ public class StiSortMenu
 
 | Constructor | Description |
 | --- | --- |
-| `StiSortMenu(StiContextMenu expressionMenu, Control control, IStiElement element)` |  |
+| **StiSortMenu**(StiContextMenu expressionMenu, Control control, IStiElement element) |  |
 
 ### Properties
 

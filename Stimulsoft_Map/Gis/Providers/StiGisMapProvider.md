@@ -15,7 +15,7 @@ public abstract class StiGisMapProvider
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisMapProvider()` |  |
+| **StiGisMapProvider**() |  |
 
 ### Properties
 

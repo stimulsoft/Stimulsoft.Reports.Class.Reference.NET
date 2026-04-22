@@ -19,4 +19,4 @@ Inherits from: StiGaugeStyleXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiGaugeStyleXF30()` |  |
+| **StiGaugeStyleXF30**() |  |

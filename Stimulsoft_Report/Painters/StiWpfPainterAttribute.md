@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiWpfPainterAttribute(string painterTypeName)` |  |
-| `StiWpfPainterAttribute(Type painterType)` |  |
+| **StiWpfPainterAttribute**(string painterTypeName) |  |
+| **StiWpfPainterAttribute**(Type painterType) |  |
 
 ### Properties
 

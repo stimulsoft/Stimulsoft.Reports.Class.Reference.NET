@@ -19,7 +19,7 @@ Inherits from: [StiEnumConverter](../Localization/StiEnumConverter.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiRestrictionsConverter(Type type)` |  |
+| **StiRestrictionsConverter**(Type type) |  |
 
 ### Methods
 

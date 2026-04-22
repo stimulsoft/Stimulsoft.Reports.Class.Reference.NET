@@ -19,10 +19,10 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiQuickButtonAttribute(Type type)` |  |
-| `StiQuickButtonAttribute(string quickButtonTypeName)` |  |
-| `StiQuickButtonAttribute(Type type, int order)` |  |
-| `StiQuickButtonAttribute(string quickButtonTypeName, int order)` |  |
+| **StiQuickButtonAttribute**(Type type) |  |
+| **StiQuickButtonAttribute**(string quickButtonTypeName) |  |
+| **StiQuickButtonAttribute**(Type type, int order) |  |
+| **StiQuickButtonAttribute**(string quickButtonTypeName, int order) |  |
 
 ### Properties
 

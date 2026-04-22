@@ -21,9 +21,9 @@ Inherits from: StiValueChartMeter
 
 | Constructor | Description |
 | --- | --- |
-| `StiStartValueChartMeter()` |  |
-| `StiStartValueChartMeter(string expression, string label, [StiChartSeriesType](../../../Stimulsoft_Report/Dashboard/StiChartSeriesType.md) seriesType)` |  |
-| `StiStartValueChartMeter(string key, string expression, string label, [StiChartSeriesType](../../../Stimulsoft_Report/Dashboard/StiChartSeriesType.md) seriesType)` |  |
+| **StiStartValueChartMeter**() |  |
+| **StiStartValueChartMeter**(string expression, string label, [StiChartSeriesType](../../../Stimulsoft_Report/Dashboard/StiChartSeriesType.md) seriesType) |  |
+| **StiStartValueChartMeter**(string key, string expression, string label, [StiChartSeriesType](../../../Stimulsoft_Report/Dashboard/StiChartSeriesType.md) seriesType) |  |
 
 ### Properties
 

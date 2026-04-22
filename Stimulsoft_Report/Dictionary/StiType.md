@@ -17,7 +17,7 @@ public class StiType
 
 | Constructor | Description |
 | --- | --- |
-| `StiType(string name, Type type)` | Creates a new object of the type StiType. |
+| **StiType**(string name, Type type) | Creates a new object of the type StiType. |
 
 ### Properties
 

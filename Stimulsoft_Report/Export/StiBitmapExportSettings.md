@@ -21,4 +21,4 @@ Inherits from: StiImageExportSettings
 
 | Constructor | Description |
 | --- | --- |
-| `StiBitmapExportSettings([StiImageType](../Helpers/StiImageType.md) imageType)` |  |
+| **StiBitmapExportSettings**([StiImageType](../Helpers/StiImageType.md) imageType) |  |

@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiExportedEvent()` | Creates a new object of the type StiExportedEvent. |
-| `StiExportedEvent(string script)` | Creates a new object of the type StiExportedEvent with specified arguments. |
-| `StiExportedEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiExportedEvent**() | Creates a new object of the type StiExportedEvent. |
+| **StiExportedEvent**(string script) | Creates a new object of the type StiExportedEvent with specified arguments. |
+| **StiExportedEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

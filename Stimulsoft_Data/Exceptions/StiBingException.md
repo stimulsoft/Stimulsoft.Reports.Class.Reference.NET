@@ -19,4 +19,4 @@ Inherits from: [StiDataException](StiDataException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiBingException(string message)` |  |
+| **StiBingException**(string message) |  |

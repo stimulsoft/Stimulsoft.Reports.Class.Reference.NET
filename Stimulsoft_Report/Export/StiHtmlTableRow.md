@@ -15,7 +15,7 @@ public class StiHtmlTableRow
 
 | Constructor | Description |
 | --- | --- |
-| `StiHtmlTableRow()` |  |
+| **StiHtmlTableRow**() |  |
 
 ### Fields
 

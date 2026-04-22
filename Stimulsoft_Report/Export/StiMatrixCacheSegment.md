@@ -15,7 +15,7 @@ public class StiMatrixCacheSegment
 
 | Constructor | Description |
 | --- | --- |
-| `StiMatrixCacheSegment(int height)` |  |
+| **StiMatrixCacheSegment**(int height) |  |
 
 ### Properties
 

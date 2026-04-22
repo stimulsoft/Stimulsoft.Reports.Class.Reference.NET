@@ -19,11 +19,11 @@ Inherits from: StiDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiNoSqlDatabase()` |  |
-| `StiNoSqlDatabase(string name, string connectionString)` |  |
-| `StiNoSqlDatabase(string name, string alias, string connectionString)` |  |
-| `StiNoSqlDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiNoSqlDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiNoSqlDatabase**() |  |
+| **StiNoSqlDatabase**(string name, string connectionString) |  |
+| **StiNoSqlDatabase**(string name, string alias, string connectionString) |  |
+| **StiNoSqlDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiNoSqlDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Properties
 

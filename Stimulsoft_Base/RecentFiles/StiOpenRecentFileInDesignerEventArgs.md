@@ -15,7 +15,7 @@ public class StiOpenRecentFileInDesignerEventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiOpenRecentFileInDesignerEventArgs(object designerControl, [StiRecentFile](../../Stimulsoft_Report/Design/StiRecentFile.md) recentFile)` |  |
+| **StiOpenRecentFileInDesignerEventArgs**(object designerControl, [StiRecentFile](../../Stimulsoft_Report/Design/StiRecentFile.md) recentFile) |  |
 
 ### Properties
 

@@ -19,4 +19,4 @@ Inherits from: [StiControlElementStyle](StiControlElementStyle.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomControlElementStyle(StiDialogStyle style)` |  |
+| **StiCustomControlElementStyle**(StiDialogStyle style) |  |

@@ -19,7 +19,7 @@ Implements: IStiRadarAxis
 
 | Constructor | Description |
 | --- | --- |
-| `StiRadarAxis()` |  |
+| **StiRadarAxis**() |  |
 
 ### Properties
 

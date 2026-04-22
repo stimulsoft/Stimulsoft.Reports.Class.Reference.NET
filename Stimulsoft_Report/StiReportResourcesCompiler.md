@@ -19,7 +19,7 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `StiReportResourcesCompiler([StiReport](StiReport.md) report, bool inMemory)` |  |
+| **StiReportResourcesCompiler**([StiReport](StiReport.md) report, bool inMemory) |  |
 
 ### Methods
 

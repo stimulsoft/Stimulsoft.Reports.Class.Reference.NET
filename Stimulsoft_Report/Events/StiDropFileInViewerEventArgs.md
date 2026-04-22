@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiDropFileInViewerEventArgs([IStiViewerControl](../Viewer/IStiViewerControl.md) viewer, string fileName, Point pos, StiComponent comp)` |  |
+| **StiDropFileInViewerEventArgs**([IStiViewerControl](../Viewer/IStiViewerControl.md) viewer, string fileName, Point pos, StiComponent comp) |  |
 
 ### Properties
 

@@ -19,8 +19,8 @@ Inherits from: StiExpression
 
 | Constructor | Description |
 | --- | --- |
-| `StiListOfValuesEndExpression()` | Creates a new expression. |
-| `StiListOfValuesEndExpression(string value)` | Creates a new expression. |
+| **StiListOfValuesEndExpression**() | Creates a new expression. |
+| **StiListOfValuesEndExpression**(string value) | Creates a new expression. |
 
 ### Methods
 

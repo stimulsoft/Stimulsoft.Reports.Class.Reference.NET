@@ -19,7 +19,7 @@ Inherits from: StiDbNoSqlDataConnector
 
 | Constructor | Description |
 | --- | --- |
-| `StiAzureTableStorageConnector(string connectionString)` |  |
+| **StiAzureTableStorageConnector**(string connectionString) |  |
 
 ### Methods
 

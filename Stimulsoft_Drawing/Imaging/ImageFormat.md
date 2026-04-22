@@ -15,7 +15,7 @@ public class ImageFormat
 
 | Constructor | Description |
 | --- | --- |
-| `ImageFormat(Guid guid)` |  |
+| **ImageFormat**(Guid guid) |  |
 
 ### Methods
 

@@ -19,7 +19,7 @@ Inherits from: [StiActionCheckBox](StiActionCheckBox.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTabButton([StiControlColorCollection](StiControlColorCollection.md) colors, Point position)` |  |
+| **StiTabButton**([StiControlColorCollection](StiControlColorCollection.md) colors, Point position) |  |
 
 ### Properties
 

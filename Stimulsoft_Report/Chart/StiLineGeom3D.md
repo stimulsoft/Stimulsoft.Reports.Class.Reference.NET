@@ -19,7 +19,7 @@ Inherits from: [StiGeom3D](StiGeom3D.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLineGeom3D([StiPoint3D](StiPoint3D.md) startPoint, [StiPoint3D](StiPoint3D.md) endPoint, Color color, float lineWidth, [StiPenStyle](../../Stimulsoft_Base/Drawing/StiPenStyle.md) style, [StiRender3D](StiRender3D.md) render3D)` |  |
+| **StiLineGeom3D**([StiPoint3D](StiPoint3D.md) startPoint, [StiPoint3D](StiPoint3D.md) endPoint, Color color, float lineWidth, [StiPenStyle](../../Stimulsoft_Base/Drawing/StiPenStyle.md) style, [StiRender3D](StiRender3D.md) render3D) |  |
 
 ### Properties
 

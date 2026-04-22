@@ -19,11 +19,11 @@ Inherits from: [StiFileDatabase](StiFileDatabase.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisDatabase()` |  |
-| `StiGisDatabase(string name, string pathData)` |  |
-| `StiGisDatabase(string name, string pathData, string key)` |  |
-| `StiGisDatabase(string name, string pathData, string key, [StiGisDataType](../../Stimulsoft_Base/StiGisDataType.md) dataType)` |  |
-| `StiGisDatabase(string name, string pathData, string key, [StiGisDataType](../../Stimulsoft_Base/StiGisDataType.md) dataType, [StiColumnTypeProcessing](StiColumnTypeProcessing.md) castToColumnType)` |  |
+| **StiGisDatabase**() |  |
+| **StiGisDatabase**(string name, string pathData) |  |
+| **StiGisDatabase**(string name, string pathData, string key) |  |
+| **StiGisDatabase**(string name, string pathData, string key, [StiGisDataType](../../Stimulsoft_Base/StiGisDataType.md) dataType) |  |
+| **StiGisDatabase**(string name, string pathData, string key, [StiGisDataType](../../Stimulsoft_Base/StiGisDataType.md) dataType, [StiColumnTypeProcessing](StiColumnTypeProcessing.md) castToColumnType) |  |
 
 ### Properties
 

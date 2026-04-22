@@ -19,7 +19,7 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiVisualStatePermissionAttribute([StiVisualStatePermissionKind](StiVisualStatePermissionKind.md) kinds)` |  |
+| **StiVisualStatePermissionAttribute**([StiVisualStatePermissionKind](StiVisualStatePermissionKind.md) kinds) |  |
 
 ### Properties
 

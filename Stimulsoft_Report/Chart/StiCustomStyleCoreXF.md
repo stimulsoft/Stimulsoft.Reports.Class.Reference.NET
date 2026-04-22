@@ -19,7 +19,7 @@ Inherits from: [StiStyleCoreXF01](StiStyleCoreXF01.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomStyleCoreXF([StiCustomStyle](StiCustomStyle.md) customStyle)` |  |
+| **StiCustomStyleCoreXF**([StiCustomStyle](StiCustomStyle.md) customStyle) |  |
 
 ### Properties
 

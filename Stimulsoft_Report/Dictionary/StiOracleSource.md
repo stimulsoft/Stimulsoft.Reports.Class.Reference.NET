@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiOracleSource()` |  |
-| `StiOracleSource(string nameInSource, string name)` |  |
-| `StiOracleSource(string nameInSource, string name, string alias)` |  |
-| `StiOracleSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiOracleSource**() |  |
+| **StiOracleSource**(string nameInSource, string name) |  |
+| **StiOracleSource**(string nameInSource, string name, string alias) |  |
+| **StiOracleSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

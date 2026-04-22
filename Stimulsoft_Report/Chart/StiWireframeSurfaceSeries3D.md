@@ -19,7 +19,7 @@ Inherits from: StiLineSeries3D
 
 | Constructor | Description |
 | --- | --- |
-| `StiWireframeSurfaceSeries3D()` |  |
+| **StiWireframeSurfaceSeries3D**() |  |
 
 ### Methods
 

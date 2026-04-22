@@ -19,8 +19,8 @@ Implements: ICloneable, IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `GraphicsPath()` |  |
-| `GraphicsPath(FillMode fillMode)` |  |
+| **GraphicsPath**() |  |
+| **GraphicsPath**(FillMode fillMode) |  |
 
 ### Methods
 

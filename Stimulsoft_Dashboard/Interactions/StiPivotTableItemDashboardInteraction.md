@@ -21,7 +21,7 @@ Inherits from: StiDashboardInteraction
 
 | Constructor | Description |
 | --- | --- |
-| `StiPivotTableItemDashboardInteraction()` |  |
+| **StiPivotTableItemDashboardInteraction**() |  |
 
 ### Properties
 

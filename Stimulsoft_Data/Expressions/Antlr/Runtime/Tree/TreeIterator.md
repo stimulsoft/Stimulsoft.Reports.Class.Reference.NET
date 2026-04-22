@@ -19,8 +19,8 @@ Implements: IEnumerator<object>
 
 | Constructor | Description |
 | --- | --- |
-| `TreeIterator([CommonTree](CommonTree.md) tree)` |  |
-| `TreeIterator([ITreeAdaptor](ITreeAdaptor.md) adaptor, object tree)` |  |
+| **TreeIterator**([CommonTree](CommonTree.md) tree) |  |
+| **TreeIterator**([ITreeAdaptor](ITreeAdaptor.md) adaptor, object tree) |  |
 
 ### Methods
 

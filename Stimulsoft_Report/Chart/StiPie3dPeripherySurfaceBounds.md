@@ -15,7 +15,7 @@ public struct StiPie3dPeripherySurfaceBounds
 
 | Constructor | Description |
 | --- | --- |
-| `StiPie3dPeripherySurfaceBounds(float startAngle, float endAngle, PointF startPoint, PointF endPoint, float realStartAngle, float realEndAngle)` |  |
+| **StiPie3dPeripherySurfaceBounds**(float startAngle, float endAngle, PointF startPoint, PointF endPoint, float realStartAngle, float realEndAngle) |  |
 
 ### Properties
 

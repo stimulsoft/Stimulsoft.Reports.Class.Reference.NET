@@ -17,7 +17,7 @@ public class StiDataBinding
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataBinding([StiDataBindingsCollection](StiDataBindingsCollection.md) collection, string propertyName, string displayName)` | Creates an object of the type StiDataBinding that contains an object. |
+| **StiDataBinding**([StiDataBindingsCollection](StiDataBindingsCollection.md) collection, string propertyName, string displayName) | Creates an object of the type StiDataBinding that contains an object. |
 
 ### Properties
 

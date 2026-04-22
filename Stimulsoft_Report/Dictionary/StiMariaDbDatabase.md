@@ -19,11 +19,11 @@ Inherits from: StiMySqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiMariaDbDatabase()` | Creates a new object of the type StiMariaDbDatabase. |
-| `StiMariaDbDatabase(string name, string connectionString)` | Creates a new object of the type StiMariaDbDatabase. |
-| `StiMariaDbDatabase(string name, string alias, string connectionString)` | Creates a new object of the type StiMariaDbDatabase. |
-| `StiMariaDbDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` | Creates a new object of the type StiMariaDbDatabase. |
-| `StiMariaDbDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` | Creates a new object of the type StiMariaDbDatabase. |
+| **StiMariaDbDatabase**() | Creates a new object of the type StiMariaDbDatabase. |
+| **StiMariaDbDatabase**(string name, string connectionString) | Creates a new object of the type StiMariaDbDatabase. |
+| **StiMariaDbDatabase**(string name, string alias, string connectionString) | Creates a new object of the type StiMariaDbDatabase. |
+| **StiMariaDbDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiMariaDbDatabase. |
+| **StiMariaDbDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiMariaDbDatabase. |
 
 ### Methods
 

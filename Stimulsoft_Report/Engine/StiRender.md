@@ -17,7 +17,7 @@ public class StiRender
 
 | Constructor | Description |
 | --- | --- |
-| `StiRender([StiReport](../StiReport.md) report)` | Creates a new object of the StiRender type. |
+| **StiRender**([StiReport](../StiReport.md) report) | Creates a new object of the StiRender type. |
 
 ### Properties
 

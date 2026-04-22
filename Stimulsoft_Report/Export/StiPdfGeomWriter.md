@@ -19,8 +19,8 @@ Implements: [IStiExportGeomWriter](IStiExportGeomWriter.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPdfGeomWriter()` |  |
-| `StiPdfGeomWriter(StreamWriter stream, [StiPdfExportService](StiPdfExportService.md) service, bool assembleData, bool allowThinLines, float cornerScaling)` |  |
+| **StiPdfGeomWriter**() |  |
+| **StiPdfGeomWriter**(StreamWriter stream, [StiPdfExportService](StiPdfExportService.md) service, bool assembleData, bool allowThinLines, float cornerScaling) |  |
 
 ### Methods
 

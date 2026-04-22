@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiUpButtonGeom([IStiYAxis](IStiYAxis.md) axis, RectangleF clientRectangle)` |  |
+| **StiUpButtonGeom**([IStiYAxis](IStiYAxis.md) axis, RectangleF clientRectangle) |  |
 
 ### Methods
 

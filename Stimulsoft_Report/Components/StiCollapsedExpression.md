@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCollapsedExpression()` | Creates a new expression. |
-| `StiCollapsedExpression(string value)` | Creates a new expression. |
-| `StiCollapsedExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiCollapsedExpression**() | Creates a new expression. |
+| **StiCollapsedExpression**(string value) | Creates a new expression. |
+| **StiCollapsedExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

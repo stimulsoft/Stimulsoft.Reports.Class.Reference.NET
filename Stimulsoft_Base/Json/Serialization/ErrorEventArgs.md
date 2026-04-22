@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `ErrorEventArgs(object currentObject, [ErrorContext](ErrorContext.md) errorContext)` | Initializes a new instance of the ErrorEventArgs class. |
+| **ErrorEventArgs**(object currentObject, [ErrorContext](ErrorContext.md) errorContext) | Initializes a new instance of the ErrorEventArgs class. |
 
 ### Properties
 

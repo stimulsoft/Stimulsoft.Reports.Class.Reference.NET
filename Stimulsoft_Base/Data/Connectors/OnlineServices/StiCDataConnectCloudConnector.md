@@ -19,7 +19,7 @@ Inherits from: [StiMsSqlConnector](../../../StiMsSqlConnector.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCDataConnectCloudConnector(string connectionString)` |  |
+| **StiCDataConnectCloudConnector**(string connectionString) |  |
 
 ### Methods
 

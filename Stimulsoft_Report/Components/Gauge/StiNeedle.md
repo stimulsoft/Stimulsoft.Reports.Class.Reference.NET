@@ -19,7 +19,7 @@ Inherits from: StiIndicatorBase
 
 | Constructor | Description |
 | --- | --- |
-| `StiNeedle()` |  |
+| **StiNeedle**() |  |
 
 ### Properties
 

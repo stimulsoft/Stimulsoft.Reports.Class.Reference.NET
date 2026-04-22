@@ -19,7 +19,7 @@ Implements: [IStiExportGeomWriter](IStiExportGeomWriter.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSvgGeomWriter(XmlTextWriter writer)` |  |
+| **StiSvgGeomWriter**(XmlTextWriter writer) |  |
 
 ### Methods
 

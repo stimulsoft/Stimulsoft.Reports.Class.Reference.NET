@@ -19,7 +19,7 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `Identifier(string name)` |  |
+| **Identifier**(string name) |  |
 
 ### Properties
 

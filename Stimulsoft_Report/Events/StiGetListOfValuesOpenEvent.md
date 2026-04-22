@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetListOfValuesOpenEvent()` | Creates a new object of the type StiGetListOfValuesOpenEvent. |
-| `StiGetListOfValuesOpenEvent(string script)` | Creates a new object of the type StiGetListOfValuesOpenEvent with specified arguments. |
-| `StiGetListOfValuesOpenEvent(StiComponent parent)` | Creates a new object of the type StiGetListOfValuesOpenEvent with specified arguments. |
+| **StiGetListOfValuesOpenEvent**() | Creates a new object of the type StiGetListOfValuesOpenEvent. |
+| **StiGetListOfValuesOpenEvent**(string script) | Creates a new object of the type StiGetListOfValuesOpenEvent with specified arguments. |
+| **StiGetListOfValuesOpenEvent**(StiComponent parent) | Creates a new object of the type StiGetListOfValuesOpenEvent with specified arguments. |
 
 ### Methods
 

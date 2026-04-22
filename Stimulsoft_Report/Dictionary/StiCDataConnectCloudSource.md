@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCDataConnectCloudSource()` |  |
-| `StiCDataConnectCloudSource(string nameInSource, string name)` |  |
-| `StiCDataConnectCloudSource(string nameInSource, string name, string alias)` |  |
-| `StiCDataConnectCloudSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiCDataConnectCloudSource**() |  |
+| **StiCDataConnectCloudSource**(string nameInSource, string name) |  |
+| **StiCDataConnectCloudSource**(string nameInSource, string name, string alias) |  |
+| **StiCDataConnectCloudSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

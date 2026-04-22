@@ -19,7 +19,7 @@ Inherits from: [StiLicenseObject](StiLicenseObject.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLicenseActivationRequest()` |  |
+| **StiLicenseActivationRequest**() |  |
 
 ### Properties
 

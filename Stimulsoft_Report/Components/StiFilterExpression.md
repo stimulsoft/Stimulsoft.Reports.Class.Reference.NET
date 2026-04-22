@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiFilterExpression()` | Creates a new expression. |
-| `StiFilterExpression(string value)` | Creates a new expression. |
-| `StiFilterExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiFilterExpression**() | Creates a new expression. |
+| **StiFilterExpression**(string value) | Creates a new expression. |
+| **StiFilterExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

@@ -15,7 +15,7 @@ public class StiResourceItem
 
 | Constructor | Description |
 | --- | --- |
-| `StiResourceItem(object component, byteresource , string resourceName, string property)` |  |
+| **StiResourceItem**(object component, byteresource , string resourceName, string property) |  |
 
 ### Properties
 

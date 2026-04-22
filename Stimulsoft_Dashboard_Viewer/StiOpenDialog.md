@@ -19,7 +19,7 @@ Implements: [IStiViewerOpenDialog](../Stimulsoft_Base/Viewer/IStiViewerOpenDialo
 
 | Constructor | Description |
 | --- | --- |
-| `StiOpenDialog([StiDashboardViewerControl](StiDashboardViewerControl.md) viewerControl)` |  |
+| **StiOpenDialog**([StiDashboardViewerControl](StiDashboardViewerControl.md) viewerControl) |  |
 
 ### Methods
 

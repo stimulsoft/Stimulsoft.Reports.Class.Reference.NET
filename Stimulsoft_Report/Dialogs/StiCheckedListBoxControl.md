@@ -19,8 +19,8 @@ Inherits from: StiReportControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiCheckedListBoxControl()` | Creates a new StiCheckedListBoxControl. |
-| `StiCheckedListBoxControl([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiCheckedListBoxControl. |
+| **StiCheckedListBoxControl**() | Creates a new StiCheckedListBoxControl. |
+| **StiCheckedListBoxControl**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiCheckedListBoxControl. |
 
 ### Properties
 

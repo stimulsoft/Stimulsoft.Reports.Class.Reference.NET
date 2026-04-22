@@ -19,7 +19,7 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisTile(int zoom, [StiGisPoint](StiGisPoint.md) pos)` |  |
+| **StiGisTile**(int zoom, [StiGisPoint](StiGisPoint.md) pos) |  |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiShowDialogCompleteEvetArgs(bool dialogResult)` |  |
+| **StiShowDialogCompleteEvetArgs**(bool dialogResult) |  |
 
 ### Properties
 

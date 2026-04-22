@@ -15,8 +15,8 @@ public class StiDataTable
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataTable()` |  |
-| `StiDataTable(List<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)> meters, List<object> rows)` |  |
+| **StiDataTable**() |  |
+| **StiDataTable**(List<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)> meters, List<object> rows) |  |
 
 ### Properties
 

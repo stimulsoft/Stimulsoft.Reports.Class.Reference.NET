@@ -19,7 +19,7 @@ Inherits from: WebClient
 
 | Constructor | Description |
 | --- | --- |
-| `StiWebClientEx(CookieContainer container)` |  |
+| **StiWebClientEx**(CookieContainer container) |  |
 
 ### Properties
 

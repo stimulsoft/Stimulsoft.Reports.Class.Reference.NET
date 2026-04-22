@@ -15,7 +15,7 @@ public class StiCheckEngine
 
 | Constructor | Description |
 | --- | --- |
-| `StiCheckEngine()` |  |
+| **StiCheckEngine**() |  |
 
 ### Properties
 

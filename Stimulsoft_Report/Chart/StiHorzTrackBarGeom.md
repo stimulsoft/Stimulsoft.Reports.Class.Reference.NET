@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiHorzTrackBarGeom([IStiXAxis](IStiXAxis.md) axis, RectangleF clientRectangle, [StiHorzScrollBarGeom](StiHorzScrollBarGeom.md) scrollBar)` |  |
+| **StiHorzTrackBarGeom**([IStiXAxis](IStiXAxis.md) axis, RectangleF clientRectangle, [StiHorzScrollBarGeom](StiHorzScrollBarGeom.md) scrollBar) |  |
 
 ### Methods
 

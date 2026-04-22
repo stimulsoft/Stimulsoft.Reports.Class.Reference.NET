@@ -19,11 +19,11 @@ Implements: [ICharStream](ICharStream.md)
 
 | Constructor | Description |
 | --- | --- |
-| `ANTLRStringStream()` |  |
-| `ANTLRStringStream(string input)` |  |
-| `ANTLRStringStream(string input, string sourceName)` |  |
-| `ANTLRStringStream(chardata , int numberOfActualCharsInArray)` |  |
-| `ANTLRStringStream(chardata , int numberOfActualCharsInArray, string sourceName)` |  |
+| **ANTLRStringStream**() |  |
+| **ANTLRStringStream**(string input) |  |
+| **ANTLRStringStream**(string input, string sourceName) |  |
+| **ANTLRStringStream**(chardata , int numberOfActualCharsInArray) |  |
+| **ANTLRStringStream**(chardata , int numberOfActualCharsInArray, string sourceName) |  |
 
 ### Methods
 

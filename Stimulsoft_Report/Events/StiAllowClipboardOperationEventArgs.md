@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiAllowClipboardOperationEventArgs(StiComponentsCollection comps)` |  |
+| **StiAllowClipboardOperationEventArgs**(StiComponentsCollection comps) |  |
 
 ### Properties
 

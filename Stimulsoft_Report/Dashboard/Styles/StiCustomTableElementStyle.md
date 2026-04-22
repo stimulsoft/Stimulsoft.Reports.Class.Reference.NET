@@ -19,9 +19,9 @@ Inherits from: StiTableElementStyle
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomTableElementStyle()` |  |
-| `StiCustomTableElementStyle(StiTableElementStyle style)` |  |
-| `StiCustomTableElementStyle([StiTableStyle](../../Components/Table/StiTableStyle.md) style)` |  |
+| **StiCustomTableElementStyle**() |  |
+| **StiCustomTableElementStyle**(StiTableElementStyle style) |  |
+| **StiCustomTableElementStyle**([StiTableStyle](../../Components/Table/StiTableStyle.md) style) |  |
 
 ### Methods
 

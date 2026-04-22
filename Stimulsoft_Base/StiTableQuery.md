@@ -15,7 +15,7 @@ public class StiTableQuery
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableQuery([StiSqlDataConnector](StiSqlDataConnector.md) connector)` |  |
+| **StiTableQuery**([StiSqlDataConnector](StiSqlDataConnector.md) connector) |  |
 
 ### Methods
 

@@ -21,5 +21,5 @@ Inherits from: [StiEnumConverter](../../../../Stimulsoft_Base/Localization/StiEn
 
 | Constructor | Description |
 | --- | --- |
-| `StiButtonStretchConverter()` |  |
-| `StiButtonStretchConverter(Type type)` |  |
+| **StiButtonStretchConverter**() |  |
+| **StiButtonStretchConverter**(Type type) |  |

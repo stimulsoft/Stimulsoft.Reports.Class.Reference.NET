@@ -19,7 +19,7 @@ Implements: INotifyPropertyChanged
 
 | Constructor | Description |
 | --- | --- |
-| `StiMapData(string key)` |  |
+| **StiMapData**(string key) |  |
 
 ### Properties
 

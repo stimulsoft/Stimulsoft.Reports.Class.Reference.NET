@@ -19,7 +19,7 @@ Inherits from: StiLegend
 
 | Constructor | Description |
 | --- | --- |
-| `StiHeatmapLegend()` |  |
+| **StiHeatmapLegend**() |  |
 
 ### Properties
 

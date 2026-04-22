@@ -21,11 +21,11 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiToken([StiTokenType](StiTokenType.md) type)` | Create a new instance StiToken. |
-| `StiToken([StiTokenType](StiTokenType.md) type, int index, int length)` | Creates a new object of the type StiToken. |
-| `StiToken([StiTokenType](StiTokenType.md) type, int index, int length, char charValue)` | Creates a new object of the type StiToken. |
-| `StiToken([StiTokenType](StiTokenType.md) type, int index, int length, string stringValue)` | Creates an object of the type StiToken that contains the value of the string. |
-| `StiToken([StiTokenType](StiTokenType.md) type, int index, int length, object obj)` | Creates an object of the type StiToken that contains an object. |
+| **StiToken**([StiTokenType](StiTokenType.md) type) | Create a new instance StiToken. |
+| **StiToken**([StiTokenType](StiTokenType.md) type, int index, int length) | Creates a new object of the type StiToken. |
+| **StiToken**([StiTokenType](StiTokenType.md) type, int index, int length, char charValue) | Creates a new object of the type StiToken. |
+| **StiToken**([StiTokenType](StiTokenType.md) type, int index, int length, string stringValue) | Creates an object of the type StiToken that contains the value of the string. |
+| **StiToken**([StiTokenType](StiTokenType.md) type, int index, int length, object obj) | Creates an object of the type StiToken that contains an object. |
 
 ### Properties
 

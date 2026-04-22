@@ -19,5 +19,5 @@ Inherits from: StiComponent
 
 | Constructor | Description |
 | --- | --- |
-| `StiUndefinedComponent()` | Creates a new StiText. |
-| `StiUndefinedComponent([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiText. |
+| **StiUndefinedComponent**() | Creates a new StiText. |
+| **StiUndefinedComponent**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiText. |

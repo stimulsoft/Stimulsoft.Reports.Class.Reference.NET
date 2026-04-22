@@ -19,7 +19,7 @@ Inherits from: [StiMariaDbConnector](StiMariaDbConnector.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMariaDbMySqlNetConnector(string connectionString)` |  |
+| **StiMariaDbMySqlNetConnector**(string connectionString) |  |
 
 ### Methods
 

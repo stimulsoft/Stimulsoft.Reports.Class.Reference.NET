@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiWpfDesignerAttribute(string designerTypeName)` |  |
-| `StiWpfDesignerAttribute(Type type)` |  |
+| **StiWpfDesignerAttribute**(string designerTypeName) |  |
+| **StiWpfDesignerAttribute**(Type type) |  |
 
 ### Properties
 

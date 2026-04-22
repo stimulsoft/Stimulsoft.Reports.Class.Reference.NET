@@ -21,7 +21,7 @@ Implements: IJEnumerable<T>, IEquatable<[JEnumerable](JEnumerable.md)<T>>
 
 | Constructor | Description |
 | --- | --- |
-| `JEnumerable(IEnumerable<T> enumerable)` | Initializes a new instance of the JEnumerable{T} struct. |
+| **JEnumerable**(IEnumerable<T> enumerable) | Initializes a new instance of the JEnumerable{T} struct. |
 
 ### Methods
 

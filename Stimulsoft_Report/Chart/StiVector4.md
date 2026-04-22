@@ -19,7 +19,7 @@ Inherits from: [StiVector3](StiVector3.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiVector4(double x, double y, double z, double w)` |  |
+| **StiVector4**(double x, double y, double z, double w) |  |
 
 ### Properties
 

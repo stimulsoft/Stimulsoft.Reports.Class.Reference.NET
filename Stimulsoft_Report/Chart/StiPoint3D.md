@@ -15,7 +15,7 @@ public struct StiPoint3D
 
 | Constructor | Description |
 | --- | --- |
-| `StiPoint3D(double x, double y, double z)` |  |
+| **StiPoint3D**(double x, double y, double z) |  |
 
 ### Properties
 

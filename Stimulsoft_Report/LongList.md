@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `LongList()` |  |
-| `LongList(longvalues )` |  |
+| **LongList**() |  |
+| **LongList**(longvalues ) |  |
 
 ### Methods
 

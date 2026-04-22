@@ -19,7 +19,7 @@ Inherits from: [StiListBoxElementControl](StiListBoxElementControl.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMultiListBoxElementControl(IStiElement element)` |  |
+| **StiMultiListBoxElementControl**(IStiElement element) |  |
 
 ### Methods
 

@@ -19,8 +19,8 @@ Inherits from: StiYChartAxis
 
 | Constructor | Description |
 | --- | --- |
-| `StiYRightChartAxis()` |  |
-| `StiYRightChartAxis(StiChartAxisLabels labels, [StiYChartAxisTitle](StiYChartAxisTitle.md) title, bool visible)` |  |
+| **StiYRightChartAxis**() |  |
+| **StiYRightChartAxis**(StiChartAxisLabels labels, [StiYChartAxisTitle](StiYChartAxisTitle.md) title, bool visible) |  |
 
 ### Properties
 

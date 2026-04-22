@@ -19,8 +19,8 @@ Inherits from: [StiPrimitive](StiPrimitive.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLinePrimitive()` | Creates a new StiLinePrimitive. |
-| `StiLinePrimitive([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiLinePrimitive. |
+| **StiLinePrimitive**() | Creates a new StiLinePrimitive. |
+| **StiLinePrimitive**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiLinePrimitive. |
 
 ### Properties
 

@@ -21,9 +21,9 @@ Inherits from: StiExpression
 
 | Constructor | Description |
 | --- | --- |
-| `StiUnifiedExpression()` | Creates a new expression. |
-| `StiUnifiedExpression(string value)` | Creates a new expression. |
-| `StiUnifiedExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiUnifiedExpression**() | Creates a new expression. |
+| **StiUnifiedExpression**(string value) | Creates a new expression. |
+| **StiUnifiedExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

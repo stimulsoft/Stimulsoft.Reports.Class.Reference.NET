@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiStateSaveEvent()` | Creates a new object of the type StiStateSaveEvent. |
-| `StiStateSaveEvent(string script)` | Creates a new object of the type StiStateSaveEvent with specified arguments. |
-| `StiStateSaveEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiStateSaveEvent**() | Creates a new object of the type StiStateSaveEvent. |
+| **StiStateSaveEvent**(string script) | Creates a new object of the type StiStateSaveEvent with specified arguments. |
+| **StiStateSaveEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

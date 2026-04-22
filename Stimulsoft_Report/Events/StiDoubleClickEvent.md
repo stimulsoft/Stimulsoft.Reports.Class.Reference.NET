@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiDoubleClickEvent()` | Creates a new object of the type StiDoubleClickEvent. |
-| `StiDoubleClickEvent(string script)` | Creates a new object of the type StiDoubleClickEvent with specified arguments. |
-| `StiDoubleClickEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiDoubleClickEvent**() | Creates a new object of the type StiDoubleClickEvent. |
+| **StiDoubleClickEvent**(string script) | Creates a new object of the type StiDoubleClickEvent with specified arguments. |
+| **StiDoubleClickEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

@@ -15,8 +15,8 @@ public class TreeVisitor
 
 | Constructor | Description |
 | --- | --- |
-| `TreeVisitor()` |  |
-| `TreeVisitor([ITreeAdaptor](ITreeAdaptor.md) adaptor)` |  |
+| **TreeVisitor**() |  |
+| **TreeVisitor**([ITreeAdaptor](ITreeAdaptor.md) adaptor) |  |
 
 ### Methods
 

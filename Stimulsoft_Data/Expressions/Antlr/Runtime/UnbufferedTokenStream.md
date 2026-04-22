@@ -20,7 +20,7 @@ Implements: [ITokenStream](ITokenStream.md), [ITokenStreamInformation](ITokenStr
 
 | Constructor | Description |
 | --- | --- |
-| `UnbufferedTokenStream([ITokenSource](ITokenSource.md) tokenSource)` |  |
+| **UnbufferedTokenStream**([ITokenSource](ITokenSource.md) tokenSource) |  |
 
 ### Methods
 

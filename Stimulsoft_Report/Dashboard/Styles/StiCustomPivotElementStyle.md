@@ -19,7 +19,7 @@ Inherits from: [StiPivotElementStyle](StiPivotElementStyle.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomPivotElementStyle(StiCrossTabStyle style)` |  |
+| **StiCustomPivotElementStyle**(StiCrossTabStyle style) |  |
 
 ### Properties
 

@@ -20,9 +20,9 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `DateTimeRange()` |  |
-| `DateTimeRange(DateTime from, DateTime to)` |  |
-| `DateTimeRange(DateTime? from, DateTime? to)` |  |
+| **DateTimeRange**() |  |
+| **DateTimeRange**(DateTime from, DateTime to) |  |
+| **DateTimeRange**(DateTime? from, DateTime? to) |  |
 
 ### Methods
 

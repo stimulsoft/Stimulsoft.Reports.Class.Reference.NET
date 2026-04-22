@@ -19,10 +19,10 @@ Inherits from: [StiMySqlSource](StiMySqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMariaDbSource()` |  |
-| `StiMariaDbSource(string nameInSource, string name)` |  |
-| `StiMariaDbSource(string nameInSource, string name, string alias)` |  |
-| `StiMariaDbSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiMariaDbSource**() |  |
+| **StiMariaDbSource**(string nameInSource, string name) |  |
+| **StiMariaDbSource**(string nameInSource, string name, string alias) |  |
+| **StiMariaDbSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

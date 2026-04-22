@@ -19,7 +19,7 @@ Inherits from: [StiMsSqlConnector](../../../StiMsSqlConnector.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiAzureSqlConnector(string connectionString)` |  |
+| **StiAzureSqlConnector**(string connectionString) |  |
 
 ### Methods
 

@@ -19,8 +19,8 @@ Inherits from: StiDataBand
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableOfContents()` | Creates a new StiTableOfContents. |
-| `StiTableOfContents([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiTableOfContents. |
+| **StiTableOfContents**() | Creates a new StiTableOfContents. |
+| **StiTableOfContents**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiTableOfContents. |
 
 ### Properties
 

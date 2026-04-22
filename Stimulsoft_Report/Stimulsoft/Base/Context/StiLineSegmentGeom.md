@@ -19,9 +19,9 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLineSegmentGeom(PointF start, PointF end)` |  |
-| `StiLineSegmentGeom(PointF start, PointF end, [StiAnimation](Animation/StiAnimation.md) animation)` |  |
-| `StiLineSegmentGeom(float x1, float y1, float x2, float y2)` |  |
+| **StiLineSegmentGeom**(PointF start, PointF end) |  |
+| **StiLineSegmentGeom**(PointF start, PointF end, [StiAnimation](Animation/StiAnimation.md) animation) |  |
+| **StiLineSegmentGeom**(float x1, float y1, float x2, float y2) |  |
 
 ### Properties
 

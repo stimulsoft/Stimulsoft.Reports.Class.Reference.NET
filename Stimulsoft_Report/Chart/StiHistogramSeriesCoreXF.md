@@ -19,4 +19,4 @@ Inherits from: [StiClusteredColumnSeriesCoreXF](StiClusteredColumnSeriesCoreXF.m
 
 | Constructor | Description |
 | --- | --- |
-| `StiHistogramSeriesCoreXF(IStiSeries series)` |  |
+| **StiHistogramSeriesCoreXF**(IStiSeries series) |  |

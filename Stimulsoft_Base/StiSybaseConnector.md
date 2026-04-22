@@ -19,7 +19,7 @@ Inherits from: [StiSqlDataConnector](StiSqlDataConnector.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSybaseConnector(string connectionString)` |  |
+| **StiSybaseConnector**(string connectionString) |  |
 
 ### Methods
 

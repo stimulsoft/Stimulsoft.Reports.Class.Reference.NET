@@ -15,7 +15,7 @@ public class StiPivotTableColumn
 
 | Constructor | Description |
 | --- | --- |
-| `StiPivotTableColumn(double width)` |  |
+| **StiPivotTableColumn**(double width) |  |
 
 ### Properties
 

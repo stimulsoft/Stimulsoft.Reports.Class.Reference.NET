@@ -19,7 +19,7 @@ Inherits from: RichTextBox
 
 | Constructor | Description |
 | --- | --- |
-| `StiRichTextBox(bool drawTransparent)` |  |
+| **StiRichTextBox**(bool drawTransparent) |  |
 
 ### Methods
 

@@ -19,7 +19,7 @@ Inherits from: StiFilterElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiTreeViewElementControl(IStiElement element)` |  |
+| **StiTreeViewElementControl**(IStiElement element) |  |
 
 ### Methods
 

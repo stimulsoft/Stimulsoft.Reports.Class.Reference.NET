@@ -19,8 +19,8 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiCell()` |  |
-| `StiCell([StiExportFormat](../StiExportFormat.md) exportFormat)` |  |
+| **StiCell**() |  |
+| **StiCell**([StiExportFormat](../StiExportFormat.md) exportFormat) |  |
 
 ### Properties
 

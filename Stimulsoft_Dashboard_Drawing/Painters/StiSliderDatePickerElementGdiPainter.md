@@ -19,7 +19,7 @@ Inherits from: [StiDatePickerElementGdiPainter](StiDatePickerElementGdiPainter.m
 
 | Constructor | Description |
 | --- | --- |
-| `StiSliderDatePickerElementGdiPainter(StiDatePickerElement element)` |  |
+| **StiSliderDatePickerElementGdiPainter**(StiDatePickerElement element) |  |
 
 ### Properties
 

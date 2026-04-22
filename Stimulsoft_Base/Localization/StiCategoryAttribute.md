@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiCategoryAttribute(string category, int order)` | Initializes a new instance of the StiCategoryAttribute class using the category name Default. |
-| `StiCategoryAttribute(string category, [StiCategorySource](StiCategorySource.md) source, int order)` | Initializes a new instance of the StiCategoryAttribute class using the category name Default. |
+| **StiCategoryAttribute**(string category, int order) | Initializes a new instance of the StiCategoryAttribute class using the category name Default. |
+| **StiCategoryAttribute**(string category, [StiCategorySource](StiCategorySource.md) source, int order) | Initializes a new instance of the StiCategoryAttribute class using the category name Default. |
 
 ### Properties
 

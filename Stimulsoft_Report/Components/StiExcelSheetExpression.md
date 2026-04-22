@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiExcelSheetExpression()` | Creates a new expression. |
-| `StiExcelSheetExpression(string value)` | Creates a new expression. |
-| `StiExcelSheetExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiExcelSheetExpression**() | Creates a new expression. |
+| **StiExcelSheetExpression**(string value) | Creates a new expression. |
+| **StiExcelSheetExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

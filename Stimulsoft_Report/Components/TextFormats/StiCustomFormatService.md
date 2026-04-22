@@ -19,8 +19,8 @@ Inherits from: StiFormatService
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomFormatService()` | Creates a new format of the type StiCustomFormatService. |
-| `StiCustomFormatService(string stringFormat)` | Creates a new format of the type StiCustomFormatService. |
+| **StiCustomFormatService**() | Creates a new format of the type StiCustomFormatService. |
+| **StiCustomFormatService**(string stringFormat) | Creates a new format of the type StiCustomFormatService. |
 
 ### Methods
 

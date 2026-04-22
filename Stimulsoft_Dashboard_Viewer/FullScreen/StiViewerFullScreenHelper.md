@@ -19,4 +19,4 @@ Inherits from: [StiFullScreenHelper](StiFullScreenHelper.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiViewerFullScreenHelper([StiDashboardViewerControl](../StiDashboardViewerControl.md) viewer)` |  |
+| **StiViewerFullScreenHelper**([StiDashboardViewerControl](../StiDashboardViewerControl.md) viewer) |  |

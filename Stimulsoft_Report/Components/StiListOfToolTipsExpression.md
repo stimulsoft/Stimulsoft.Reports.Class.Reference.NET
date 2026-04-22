@@ -19,8 +19,8 @@ Inherits from: StiExpression
 
 | Constructor | Description |
 | --- | --- |
-| `StiListOfToolTipsExpression()` | Creates a new expression. |
-| `StiListOfToolTipsExpression(string value)` | Creates a new expression. |
+| **StiListOfToolTipsExpression**() | Creates a new expression. |
+| **StiListOfToolTipsExpression**(string value) | Creates a new expression. |
 
 ### Methods
 

@@ -21,4 +21,4 @@ Inherits from: [StiBitmapExportSettings](StiBitmapExportSettings.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPcxExportSettings()` |  |
+| **StiPcxExportSettings**() |  |

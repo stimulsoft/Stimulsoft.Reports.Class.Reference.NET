@@ -19,7 +19,7 @@ Inherits from: [StiComboBoxElementControl](StiComboBoxElementControl.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiOneComboBoxElementControl(IStiElement element)` |  |
+| **StiOneComboBoxElementControl**(IStiElement element) |  |
 
 ### Methods
 

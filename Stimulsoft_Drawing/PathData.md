@@ -15,7 +15,7 @@ public class PathData
 
 | Constructor | Description |
 | --- | --- |
-| `PathData()` |  |
+| **PathData**() |  |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiStackedBarSeriesShadowElementGeom(IStiSeries series, RectangleF clientRectangle, bool isLeftShadow, bool isRightShadow)` |  |
+| **StiStackedBarSeriesShadowElementGeom**(IStiSeries series, RectangleF clientRectangle, bool isLeftShadow, bool isRightShadow) |  |
 
 ### Methods
 

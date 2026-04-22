@@ -15,7 +15,7 @@ public class StiPdfSecurity
 
 | Constructor | Description |
 | --- | --- |
-| `StiPdfSecurity([StiPdfExportService](../StiPdfExportService.md) service)` |  |
+| **StiPdfSecurity**([StiPdfExportService](../StiPdfExportService.md) service) |  |
 
 ### Methods
 

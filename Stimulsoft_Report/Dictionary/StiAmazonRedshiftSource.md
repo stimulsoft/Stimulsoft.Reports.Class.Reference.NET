@@ -19,10 +19,10 @@ Inherits from: [StiPostgreSQLSource](StiPostgreSQLSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiAmazonRedshiftSource()` |  |
-| `StiAmazonRedshiftSource(string nameInSource, string name)` |  |
-| `StiAmazonRedshiftSource(string nameInSource, string name, string alias)` |  |
-| `StiAmazonRedshiftSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiAmazonRedshiftSource**() |  |
+| **StiAmazonRedshiftSource**(string nameInSource, string name) |  |
+| **StiAmazonRedshiftSource**(string nameInSource, string name, string alias) |  |
+| **StiAmazonRedshiftSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

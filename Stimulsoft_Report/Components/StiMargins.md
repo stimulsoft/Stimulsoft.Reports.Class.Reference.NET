@@ -19,9 +19,9 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiMargins()` | Creates a new object of the type StiMargins. |
-| `StiMargins(double all)` | Creates a new object of the type StiMargins. |
-| `StiMargins(double left, double right, double top, double bottom)` | Creates a new object of the type StiMargins. |
+| **StiMargins**() | Creates a new object of the type StiMargins. |
+| **StiMargins**(double all) | Creates a new object of the type StiMargins. |
+| **StiMargins**(double left, double right, double top, double bottom) | Creates a new object of the type StiMargins. |
 
 ### Properties
 

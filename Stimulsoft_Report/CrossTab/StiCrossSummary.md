@@ -19,7 +19,7 @@ Inherits from: StiCrossCell
 
 | Constructor | Description |
 | --- | --- |
-| `StiCrossSummary()` |  |
+| **StiCrossSummary**() |  |
 
 ### Properties
 

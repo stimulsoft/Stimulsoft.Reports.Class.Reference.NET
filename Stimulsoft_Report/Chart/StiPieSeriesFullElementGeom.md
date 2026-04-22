@@ -19,7 +19,7 @@ Inherits from: StiSeriesElementGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiPieSeriesFullElementGeom([StiAreaGeom](StiAreaGeom.md) areaGeom, double value, int index, IStiPieSeries series, RectangleF clientRectangle, [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) brush, Color borderColor)` |  |
+| **StiPieSeriesFullElementGeom**([StiAreaGeom](StiAreaGeom.md) areaGeom, double value, int index, IStiPieSeries series, RectangleF clientRectangle, [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) brush, Color borderColor) |  |
 
 ### Methods
 

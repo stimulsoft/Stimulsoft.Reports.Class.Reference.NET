@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiRenderingEvent()` | Creates a new object of the type StiRenderingEvent. |
-| `StiRenderingEvent(string script)` | Creates a new object of the type StiRenderingEvent with specified arguments. |
-| `StiRenderingEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiRenderingEvent**() | Creates a new object of the type StiRenderingEvent. |
+| **StiRenderingEvent**(string script) | Creates a new object of the type StiRenderingEvent with specified arguments. |
+| **StiRenderingEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

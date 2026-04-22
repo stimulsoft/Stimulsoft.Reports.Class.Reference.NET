@@ -21,8 +21,8 @@ Inherits from: TypeConverter
 
 | Constructor | Description |
 | --- | --- |
-| `StiAutoBoolConverter()` |  |
-| `StiAutoBoolConverter(Type type)` |  |
+| **StiAutoBoolConverter**() |  |
+| **StiAutoBoolConverter**(Type type) |  |
 
 ### Properties
 

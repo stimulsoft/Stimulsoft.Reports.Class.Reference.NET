@@ -21,7 +21,7 @@ Implements: [IStiComponentDesigner](../IStiComponentDesigner.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiComponentDesigner([IStiDesignerBase](../../Design/IStiDesignerBase.md) designer)` | Creates a new designer of the component. |
+| **StiComponentDesigner**([IStiDesignerBase](../../Design/IStiDesignerBase.md) designer) | Creates a new designer of the component. |
 
 ### Properties
 

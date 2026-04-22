@@ -19,7 +19,7 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPushClipPathGeom(List<[StiSegmentGeom](StiSegmentGeom.md)> geoms)` |  |
+| **StiPushClipPathGeom**(List<[StiSegmentGeom](StiSegmentGeom.md)> geoms) |  |
 
 ### Properties
 

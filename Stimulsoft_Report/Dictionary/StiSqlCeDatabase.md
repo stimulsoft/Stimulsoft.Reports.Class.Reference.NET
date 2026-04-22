@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiSqlCeDatabase()` | Creates a new object of the type StiSqlCeDatabase. |
-| `StiSqlCeDatabase(string name, string connectionString)` | Creates a new object of the type StiSqlCeDatabase. |
-| `StiSqlCeDatabase(string name, string alias, string connectionString)` | Creates a new object of the type StiSqlCeDatabase. |
-| `StiSqlCeDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` | Creates a new object of the type StiSqlCeDatabase. |
-| `StiSqlCeDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` | Creates a new object of the type StiSqlCeDatabase. |
+| **StiSqlCeDatabase**() | Creates a new object of the type StiSqlCeDatabase. |
+| **StiSqlCeDatabase**(string name, string connectionString) | Creates a new object of the type StiSqlCeDatabase. |
+| **StiSqlCeDatabase**(string name, string alias, string connectionString) | Creates a new object of the type StiSqlCeDatabase. |
+| **StiSqlCeDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiSqlCeDatabase. |
+| **StiSqlCeDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiSqlCeDatabase. |
 
 ### Methods
 

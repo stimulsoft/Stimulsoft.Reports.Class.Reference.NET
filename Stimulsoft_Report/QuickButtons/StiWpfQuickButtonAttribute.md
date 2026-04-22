@@ -19,10 +19,10 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiWpfQuickButtonAttribute(Type type)` |  |
-| `StiWpfQuickButtonAttribute(string quickButtonTypeName)` |  |
-| `StiWpfQuickButtonAttribute(Type type, int order)` |  |
-| `StiWpfQuickButtonAttribute(string quickButtonTypeName, int order)` |  |
+| **StiWpfQuickButtonAttribute**(Type type) |  |
+| **StiWpfQuickButtonAttribute**(string quickButtonTypeName) |  |
+| **StiWpfQuickButtonAttribute**(Type type, int order) |  |
+| **StiWpfQuickButtonAttribute**(string quickButtonTypeName, int order) |  |
 
 ### Properties
 

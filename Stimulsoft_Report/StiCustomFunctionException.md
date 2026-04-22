@@ -19,8 +19,8 @@ Inherits from: [StiException](StiException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomFunctionException()` |  |
-| `StiCustomFunctionException(string value, string functionName)` |  |
+| **StiCustomFunctionException**() |  |
+| **StiCustomFunctionException**(string value, string functionName) |  |
 
 ### Fields
 

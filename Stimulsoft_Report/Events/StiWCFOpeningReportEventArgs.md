@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiWCFOpeningReportEventArgs([IStiDesignerBase](../Design/IStiDesignerBase.md) designer)` |  |
+| **StiWCFOpeningReportEventArgs**([IStiDesignerBase](../Design/IStiDesignerBase.md) designer) |  |
 
 ### Fields
 

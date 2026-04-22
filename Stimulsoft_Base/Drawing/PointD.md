@@ -15,7 +15,7 @@ public struct PointD
 
 | Constructor | Description |
 | --- | --- |
-| `PointD(double x, double y)` | Initializes a new instance of the PointD class with the specified coordinates. |
+| **PointD**(double x, double y) | Initializes a new instance of the PointD class with the specified coordinates. |
 
 ### Properties
 

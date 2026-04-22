@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetToolTipEvent()` | Creates a new object of the type StiGetToolTipEvent. |
-| `StiGetToolTipEvent(string script)` | Creates a new object of the type StiGetToolTipEvent with specified arguments. |
-| `StiGetToolTipEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetToolTipEvent**() | Creates a new object of the type StiGetToolTipEvent. |
+| **StiGetToolTipEvent**(string script) | Creates a new object of the type StiGetToolTipEvent with specified arguments. |
+| **StiGetToolTipEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

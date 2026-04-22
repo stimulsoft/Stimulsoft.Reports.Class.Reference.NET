@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `JsonContainerAttribute()` | Initializes a new instance of the JsonContainerAttribute class. |
-| `JsonContainerAttribute(string id)` | Initializes a new instance of the JsonContainerAttribute class with the specified container Id. |
+| **JsonContainerAttribute**() | Initializes a new instance of the JsonContainerAttribute class. |
+| **JsonContainerAttribute**(string id) | Initializes a new instance of the JsonContainerAttribute class with the specified container Id. |
 
 ### Properties
 

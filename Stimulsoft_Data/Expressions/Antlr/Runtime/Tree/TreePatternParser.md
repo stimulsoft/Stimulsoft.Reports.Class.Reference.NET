@@ -15,7 +15,7 @@ public class TreePatternParser
 
 | Constructor | Description |
 | --- | --- |
-| `TreePatternParser([TreePatternLexer](TreePatternLexer.md) tokenizer, [TreeWizard](TreeWizard.md) wizard, [ITreeAdaptor](ITreeAdaptor.md) adaptor)` |  |
+| **TreePatternParser**([TreePatternLexer](TreePatternLexer.md) tokenizer, [TreeWizard](TreeWizard.md) wizard, [ITreeAdaptor](ITreeAdaptor.md) adaptor) |  |
 
 ### Methods
 

@@ -19,8 +19,8 @@ Inherits from: [StiComboBoxControl](StiComboBoxControl.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLookUpBoxControl()` | Creates a new StiComboBoxControl. |
-| `StiLookUpBoxControl([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiComboBoxControl. |
+| **StiLookUpBoxControl**() | Creates a new StiComboBoxControl. |
+| **StiLookUpBoxControl**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiComboBoxControl. |
 
 ### Methods
 

@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiColumnEndRenderEvent()` | Creates a new object of the type StiColumnEndRenderEvent. |
-| `StiColumnEndRenderEvent(string script)` | Creates a new object of the type StiColumnEndRenderEvent with specified arguments. |
-| `StiColumnEndRenderEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiColumnEndRenderEvent**() | Creates a new object of the type StiColumnEndRenderEvent. |
+| **StiColumnEndRenderEvent**(string script) | Creates a new object of the type StiColumnEndRenderEvent with specified arguments. |
+| **StiColumnEndRenderEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

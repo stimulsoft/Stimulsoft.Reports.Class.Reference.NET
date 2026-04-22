@@ -19,7 +19,7 @@ Inherits from: [StiTableGeom](StiTableGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableImageGeom([Image](../../../../Stimulsoft_Drawing/Image.md) image, RectangleF rect)` |  |
+| **StiTableImageGeom**([Image](../../../../Stimulsoft_Drawing/Image.md) image, RectangleF rect) |  |
 
 ### Properties
 

@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMySqlSource()` |  |
-| `StiMySqlSource(string nameInSource, string name)` |  |
-| `StiMySqlSource(string nameInSource, string name, string alias)` |  |
-| `StiMySqlSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiMySqlSource**() |  |
+| **StiMySqlSource**(string nameInSource, string name) |  |
+| **StiMySqlSource**(string nameInSource, string name, string alias) |  |
+| **StiMySqlSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

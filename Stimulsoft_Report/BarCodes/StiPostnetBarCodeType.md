@@ -19,8 +19,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiPostnetBarCodeType()` |  |
-| `StiPostnetBarCodeType(float module, float height, float space)` |  |
+| **StiPostnetBarCodeType**() |  |
+| **StiPostnetBarCodeType**(float module, float height, float space) |  |
 
 ### Methods
 

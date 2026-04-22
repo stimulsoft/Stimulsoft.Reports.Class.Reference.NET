@@ -21,7 +21,7 @@ Inherits from: KeyedCollection<string, [JsonProperty](JsonProperty.md)>
 
 | Constructor | Description |
 | --- | --- |
-| `JsonPropertyCollection(Type type)` | Initializes a new instance of the JsonPropertyCollection class. |
+| **JsonPropertyCollection**(Type type) | Initializes a new instance of the JsonPropertyCollection class. |
 
 ### Methods
 

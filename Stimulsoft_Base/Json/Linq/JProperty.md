@@ -21,9 +21,9 @@ Inherits from: [JContainer](JContainer.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JProperty([JProperty](JProperty.md) other)` | Initializes a new instance of the JProperty class from another JProperty object. |
-| `JProperty(string name, objectcontent )` | Initializes a new instance of the JProperty class. |
-| `JProperty(string name, object content)` | Initializes a new instance of the JProperty class. |
+| **JProperty**([JProperty](JProperty.md) other) | Initializes a new instance of the JProperty class from another JProperty object. |
+| **JProperty**(string name, objectcontent ) | Initializes a new instance of the JProperty class. |
+| **JProperty**(string name, object content) | Initializes a new instance of the JProperty class. |
 
 ### Methods
 

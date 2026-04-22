@@ -21,4 +21,4 @@ Inherits from: [StiLevelContainer](StiLevelContainer.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLevelEndContainer()` |  |
+| **StiLevelEndContainer**() |  |

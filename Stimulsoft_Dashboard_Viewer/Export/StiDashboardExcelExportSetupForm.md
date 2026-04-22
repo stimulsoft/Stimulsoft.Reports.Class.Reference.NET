@@ -19,8 +19,8 @@ Inherits from: StiForm
 
 | Constructor | Description |
 | --- | --- |
-| `StiDashboardExcelExportSetupForm()` |  |
-| `StiDashboardExcelExportSetupForm(IStiElement element)` |  |
+| **StiDashboardExcelExportSetupForm**() |  |
+| **StiDashboardExcelExportSetupForm**(IStiElement element) |  |
 
 ### Methods
 

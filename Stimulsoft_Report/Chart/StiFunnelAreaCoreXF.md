@@ -19,7 +19,7 @@ Inherits from: StiAreaCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiFunnelAreaCoreXF(IStiArea area)` |  |
+| **StiFunnelAreaCoreXF**(IStiArea area) |  |
 
 ### Methods
 

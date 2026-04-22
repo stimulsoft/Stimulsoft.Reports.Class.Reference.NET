@@ -19,7 +19,7 @@ Inherits from: StiBaseElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiProgressElementControl(IStiElement element)` |  |
+| **StiProgressElementControl**(IStiElement element) |  |
 
 ### Properties
 

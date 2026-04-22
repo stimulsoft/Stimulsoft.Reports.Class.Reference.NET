@@ -19,10 +19,10 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiDialogInfo()` |  |
-| `StiDialogInfo([StiDateTimeType](StiDateTimeType.md) type, string mask, bool allowUserValues, stringkeys , stringvalues )` |  |
-| `StiDialogInfo([StiDateTimeType](StiDateTimeType.md) type, string mask, bool allowUserValues, string keysColumn, string valuesColumn)` |  |
-| `StiDialogInfo([StiDateTimeType](StiDateTimeType.md) type, string mask, bool allowUserValues, stringkeys , stringvalues , boolcheckedStates )` |  |
+| **StiDialogInfo**() |  |
+| **StiDialogInfo**([StiDateTimeType](StiDateTimeType.md) type, string mask, bool allowUserValues, stringkeys , stringvalues ) |  |
+| **StiDialogInfo**([StiDateTimeType](StiDateTimeType.md) type, string mask, bool allowUserValues, string keysColumn, string valuesColumn) |  |
+| **StiDialogInfo**([StiDateTimeType](StiDateTimeType.md) type, string mask, bool allowUserValues, stringkeys , stringvalues , boolcheckedStates ) |  |
 
 ### Properties
 

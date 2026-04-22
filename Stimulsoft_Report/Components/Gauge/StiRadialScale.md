@@ -19,7 +19,7 @@ Inherits from: StiScaleBase
 
 | Constructor | Description |
 | --- | --- |
-| `StiRadialScale()` |  |
+| **StiRadialScale**() |  |
 
 ### Properties
 

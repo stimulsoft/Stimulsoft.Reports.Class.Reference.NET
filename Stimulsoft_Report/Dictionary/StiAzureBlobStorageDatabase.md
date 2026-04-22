@@ -19,11 +19,11 @@ Inherits from: [StiNoSqlDatabase](StiNoSqlDatabase.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiAzureBlobStorageDatabase()` |  |
-| `StiAzureBlobStorageDatabase(string name, string connectionString)` |  |
-| `StiAzureBlobStorageDatabase(string name, string alias, string connectionString)` |  |
-| `StiAzureBlobStorageDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiAzureBlobStorageDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiAzureBlobStorageDatabase**() |  |
+| **StiAzureBlobStorageDatabase**(string name, string connectionString) |  |
+| **StiAzureBlobStorageDatabase**(string name, string alias, string connectionString) |  |
+| **StiAzureBlobStorageDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiAzureBlobStorageDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Methods
 

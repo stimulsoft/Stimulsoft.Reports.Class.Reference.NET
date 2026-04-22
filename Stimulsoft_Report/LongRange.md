@@ -20,8 +20,8 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `LongRange()` |  |
-| `LongRange(long from, long to)` |  |
+| **LongRange**() |  |
+| **LongRange**(long from, long to) |  |
 
 ### Methods
 

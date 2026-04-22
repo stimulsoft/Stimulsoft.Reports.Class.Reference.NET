@@ -19,5 +19,5 @@ Inherits from: ApplicationException
 
 | Constructor | Description |
 | --- | --- |
-| `EvaluationException(string message)` |  |
-| `EvaluationException(string message, Exception innerException)` |  |
+| **EvaluationException**(string message) |  |
+| **EvaluationException**(string message, Exception innerException) |  |

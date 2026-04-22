@@ -19,7 +19,7 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiMarkerCoreXF(IStiMarker marker)` |  |
+| **StiMarkerCoreXF**(IStiMarker marker) |  |
 
 ### Methods
 

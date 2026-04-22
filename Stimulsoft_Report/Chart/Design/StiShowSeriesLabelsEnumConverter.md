@@ -21,8 +21,8 @@ Inherits from: [StiEnumConverter](../../../Stimulsoft_Base/Localization/StiEnumC
 
 | Constructor | Description |
 | --- | --- |
-| `StiShowSeriesLabelsEnumConverter()` |  |
-| `StiShowSeriesLabelsEnumConverter(Type type)` |  |
+| **StiShowSeriesLabelsEnumConverter**() |  |
+| **StiShowSeriesLabelsEnumConverter**(Type type) |  |
 
 ### Methods
 

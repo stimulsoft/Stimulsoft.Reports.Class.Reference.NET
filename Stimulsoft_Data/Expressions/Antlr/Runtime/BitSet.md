@@ -19,10 +19,10 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `BitSet()` |  |
-| `BitSet(ulongbits )` |  |
-| `BitSet(IEnumerable<int> items)` |  |
-| `BitSet(int nbits)` |  |
+| **BitSet**() |  |
+| **BitSet**(ulongbits ) |  |
+| **BitSet**(IEnumerable<int> items) |  |
+| **BitSet**(int nbits) |  |
 
 ### Methods
 

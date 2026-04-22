@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetZipCodeEvent()` | Creates a new object of the type StiGetZipCodeEvent. |
-| `StiGetZipCodeEvent(string script)` | Creates a new object of the type StiGetZipCodeEvent with specified arguments. |
-| `StiGetZipCodeEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetZipCodeEvent**() | Creates a new object of the type StiGetZipCodeEvent. |
+| **StiGetZipCodeEvent**(string script) | Creates a new object of the type StiGetZipCodeEvent with specified arguments. |
+| **StiGetZipCodeEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

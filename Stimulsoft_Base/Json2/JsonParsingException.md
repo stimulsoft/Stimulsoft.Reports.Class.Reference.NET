@@ -19,8 +19,8 @@ Inherits from: Exception
 
 | Constructor | Description |
 | --- | --- |
-| `JsonParsingException(string message)` |  |
-| `JsonParsingException(string message, byteunderlyingBytes , int offset, int limit, string actualChar)` |  |
+| **JsonParsingException**(string message) |  |
+| **JsonParsingException**(string message, byteunderlyingBytes , int offset, int limit, string actualChar) |  |
 
 ### Properties
 

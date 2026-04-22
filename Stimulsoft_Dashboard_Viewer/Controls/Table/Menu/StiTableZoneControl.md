@@ -19,7 +19,7 @@ Inherits from: UserControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableZoneControl()` |  |
+| **StiTableZoneControl**() |  |
 
 ### Methods
 

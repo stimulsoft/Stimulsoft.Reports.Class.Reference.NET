@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetListOfArgumentsEvent()` | Creates a new object of the type StiGetListOfArgumentsEvent. |
-| `StiGetListOfArgumentsEvent(string script)` | Creates a new object of the type StiGetListOfArgumentsEvent with specified arguments. |
-| `StiGetListOfArgumentsEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetListOfArgumentsEvent**() | Creates a new object of the type StiGetListOfArgumentsEvent. |
+| **StiGetListOfArgumentsEvent**(string script) | Creates a new object of the type StiGetListOfArgumentsEvent with specified arguments. |
+| **StiGetListOfArgumentsEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

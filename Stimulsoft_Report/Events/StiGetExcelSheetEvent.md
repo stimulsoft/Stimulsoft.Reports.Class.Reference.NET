@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetExcelSheetEvent()` | Creates a new object of the type StiGetExcelSheetEvent. |
-| `StiGetExcelSheetEvent(string script)` | Creates a new object of the type StiGetExcelSheetEvent with specified arguments. |
-| `StiGetExcelSheetEvent(StiComponent parent)` | Creates a new object of the type StiGetExcelSheetEvent with specified arguments. |
+| **StiGetExcelSheetEvent**() | Creates a new object of the type StiGetExcelSheetEvent. |
+| **StiGetExcelSheetEvent**(string script) | Creates a new object of the type StiGetExcelSheetEvent with specified arguments. |
+| **StiGetExcelSheetEvent**(StiComponent parent) | Creates a new object of the type StiGetExcelSheetEvent with specified arguments. |
 
 ### Methods
 

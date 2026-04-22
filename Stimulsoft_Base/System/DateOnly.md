@@ -19,7 +19,7 @@ Implements: IComparable
 
 | Constructor | Description |
 | --- | --- |
-| `DateOnly(DateTime dateTime)` |  |
+| **DateOnly**(DateTime dateTime) |  |
 
 ### Methods
 

@@ -17,7 +17,7 @@ public class StiCSharpScriptParser
 
 | Constructor | Description |
 | --- | --- |
-| `StiCSharpScriptParser(string scriptText, [StiCSharpScriptParserOptions](Parser/StiCSharpScriptParserOptions.md) options)` | Initializes a new instance of the StiParser class. |
+| **StiCSharpScriptParser**(string scriptText, [StiCSharpScriptParserOptions](Parser/StiCSharpScriptParserOptions.md) options) | Initializes a new instance of the StiParser class. |
 
 ### Properties
 

@@ -15,4 +15,4 @@ public class StiMatrixCellsCollection
 
 | Constructor | Description |
 | --- | --- |
-| `StiMatrixCellsCollection([StiMatrixCacheManager](StiMatrixCacheManager.md) manager, [StiMatrix](StiMatrix.md) matrix)` |  |
+| **StiMatrixCellsCollection**([StiMatrixCacheManager](StiMatrixCacheManager.md) manager, [StiMatrix](StiMatrix.md) matrix) |  |

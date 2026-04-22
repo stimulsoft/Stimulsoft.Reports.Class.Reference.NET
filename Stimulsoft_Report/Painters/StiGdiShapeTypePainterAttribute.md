@@ -19,5 +19,5 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiGdiShapeTypePainterAttribute(string painterTypeName)` |  |
-| `StiGdiShapeTypePainterAttribute(Type painterType)` |  |
+| **StiGdiShapeTypePainterAttribute**(string painterTypeName) |  |
+| **StiGdiShapeTypePainterAttribute**(Type painterType) |  |

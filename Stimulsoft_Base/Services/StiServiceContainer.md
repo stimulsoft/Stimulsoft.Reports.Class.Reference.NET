@@ -22,7 +22,7 @@ Implements: ICloneable
 
 | Constructor | Description |
 | --- | --- |
-| `StiServiceContainer()` | Creates a new object of the type StiServiceContainer. |
+| **StiServiceContainer**() | Creates a new object of the type StiServiceContainer. |
 
 ### Properties
 

@@ -19,8 +19,8 @@ Implements: IEquatable<[StiMatrix](../Export/StiMatrix.md)>
 
 | Constructor | Description |
 | --- | --- |
-| `StiMatrix(doublematrix )` |  |
-| `StiMatrix([StiMatrix](../Export/StiMatrix.md) a)` |  |
+| **StiMatrix**(doublematrix ) |  |
+| **StiMatrix**([StiMatrix](../Export/StiMatrix.md) a) |  |
 
 ### Methods
 

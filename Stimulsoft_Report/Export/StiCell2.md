@@ -19,9 +19,9 @@ Inherits from: [StiCell](StiCell.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCell2()` |  |
-| `StiCell2([StiExportFormat](../StiExportFormat.md) exportFormat)` |  |
-| `StiCell2([StiMatrix](StiMatrix.md) matrix)` |  |
+| **StiCell2**() |  |
+| **StiCell2**([StiExportFormat](../StiExportFormat.md) exportFormat) |  |
+| **StiCell2**([StiMatrix](StiMatrix.md) matrix) |  |
 
 ### Methods
 

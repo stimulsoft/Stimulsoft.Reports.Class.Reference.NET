@@ -19,8 +19,8 @@ Inherits from: StiExpression
 
 | Constructor | Description |
 | --- | --- |
-| `StiCutPieListExpression()` | Creates a new expression. |
-| `StiCutPieListExpression(string value)` | Creates a new expression. |
+| **StiCutPieListExpression**() | Creates a new expression. |
+| **StiCutPieListExpression**(string value) | Creates a new expression. |
 
 ### Methods
 

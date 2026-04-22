@@ -15,7 +15,7 @@ public class StiCosmosSqlApiHelper
 
 | Constructor | Description |
 | --- | --- |
-| `StiCosmosSqlApiHelper(string connectionString, string nugetVersion)` |  |
+| **StiCosmosSqlApiHelper**(string connectionString, string nugetVersion) |  |
 
 ### Methods
 

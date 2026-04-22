@@ -19,7 +19,7 @@ Inherits from: [StiFileDataOptions](StiFileDataOptions.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiExcelOptions(bytecontent , bool firstRowIsHeader)` |  |
+| **StiExcelOptions**(bytecontent , bool firstRowIsHeader) |  |
 
 ### Properties
 

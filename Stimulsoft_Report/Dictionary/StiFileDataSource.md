@@ -21,9 +21,9 @@ Inherits from: [StiDataStoreSource](StiDataStoreSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiFileDataSource()` | Creates a new object of the type StiCsvSource. |
-| `StiFileDataSource(string path, string name, string alias, int codePage)` |  |
-| `StiFileDataSource(string path, string name, string alias, int codePage, string key)` |  |
+| **StiFileDataSource**() | Creates a new object of the type StiCsvSource. |
+| **StiFileDataSource**(string path, string name, string alias, int codePage) |  |
+| **StiFileDataSource**(string path, string name, string alias, int codePage, string key) |  |
 
 ### Properties
 

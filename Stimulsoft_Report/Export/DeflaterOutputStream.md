@@ -19,9 +19,9 @@ Inherits from: Stream
 
 | Constructor | Description |
 | --- | --- |
-| `DeflaterOutputStream(Stream baseOutputStream)` |  |
-| `DeflaterOutputStream(Stream baseOutputStream, [Deflater](Deflater.md) defl)` |  |
-| `DeflaterOutputStream(Stream baseOutputStream, [Deflater](Deflater.md) defl, int bufsize)` |  |
+| **DeflaterOutputStream**(Stream baseOutputStream) |  |
+| **DeflaterOutputStream**(Stream baseOutputStream, [Deflater](Deflater.md) defl) |  |
+| **DeflaterOutputStream**(Stream baseOutputStream, [Deflater](Deflater.md) defl, int bufsize) |  |
 
 ### Methods
 

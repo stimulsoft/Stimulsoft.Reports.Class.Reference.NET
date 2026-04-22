@@ -21,8 +21,8 @@ Inherits from: StiAggregateFunctionService
 
 | Constructor | Description |
 | --- | --- |
-| `StiLastFunctionService()` |  |
-| `StiLastFunctionService(bool runningTotal)` |  |
+| **StiLastFunctionService**() |  |
+| **StiLastFunctionService**(bool runningTotal) |  |
 
 ### Methods
 

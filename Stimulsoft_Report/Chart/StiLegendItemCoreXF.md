@@ -15,7 +15,7 @@ public class StiLegendItemCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiLegendItemCoreXF(string text, IStiSeries series, int index, int colorIndex)` |  |
+| **StiLegendItemCoreXF**(string text, IStiSeries series, int index, int colorIndex) |  |
 
 ### Properties
 

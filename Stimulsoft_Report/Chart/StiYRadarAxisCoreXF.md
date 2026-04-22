@@ -19,7 +19,7 @@ Inherits from: StiRadarAxisCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiYRadarAxisCoreXF(IStiRadarAxis axis)` |  |
+| **StiYRadarAxisCoreXF**(IStiRadarAxis axis) |  |
 
 ### Methods
 

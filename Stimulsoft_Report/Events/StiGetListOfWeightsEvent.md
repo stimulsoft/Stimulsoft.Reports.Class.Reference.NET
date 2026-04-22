@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetListOfWeightsEvent()` | Creates a new object of the type StiGetListOfWeightsEvent. |
-| `StiGetListOfWeightsEvent(string script)` | Creates a new object of the type StiGetListOfWeightsEvent with specified arguments. |
-| `StiGetListOfWeightsEvent(StiComponent parent)` | Creates a new object of the type StiGetListOfWeightsEvent with specified arguments. |
+| **StiGetListOfWeightsEvent**() | Creates a new object of the type StiGetListOfWeightsEvent. |
+| **StiGetListOfWeightsEvent**(string script) | Creates a new object of the type StiGetListOfWeightsEvent with specified arguments. |
+| **StiGetListOfWeightsEvent**(StiComponent parent) | Creates a new object of the type StiGetListOfWeightsEvent with specified arguments. |
 
 ### Methods
 

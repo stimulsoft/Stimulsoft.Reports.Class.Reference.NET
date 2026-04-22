@@ -19,8 +19,8 @@ Inherits from: StiExpression
 
 | Constructor | Description |
 | --- | --- |
-| `StiSkipIndicesExpression()` | Creates a new expression. |
-| `StiSkipIndicesExpression(string value)` | Creates a new expression. |
+| **StiSkipIndicesExpression**() | Creates a new expression. |
+| **StiSkipIndicesExpression**(string value) | Creates a new expression. |
 
 ### Methods
 

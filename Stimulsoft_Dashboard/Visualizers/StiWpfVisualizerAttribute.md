@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiWpfVisualizerAttribute(string visualizerTypeName)` |  |
-| `StiWpfVisualizerAttribute(Type visualizerType)` |  |
+| **StiWpfVisualizerAttribute**(string visualizerTypeName) |  |
+| **StiWpfVisualizerAttribute**(Type visualizerType) |  |
 
 ### Properties
 

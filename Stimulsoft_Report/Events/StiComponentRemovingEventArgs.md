@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiComponentRemovingEventArgs([IStiDesignerBase](../Design/IStiDesignerBase.md) designer, StiComponent component)` |  |
+| **StiComponentRemovingEventArgs**([IStiDesignerBase](../Design/IStiDesignerBase.md) designer, StiComponent component) |  |
 
 ### Properties
 

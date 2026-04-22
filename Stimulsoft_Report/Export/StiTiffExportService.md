@@ -19,7 +19,7 @@ Inherits from: [StiImageExportService](StiImageExportService.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiTiffExportService()` |  |
+| **StiTiffExportService**() |  |
 
 ### Methods
 

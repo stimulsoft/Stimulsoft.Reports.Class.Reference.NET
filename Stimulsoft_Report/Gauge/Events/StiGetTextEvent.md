@@ -19,8 +19,8 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetTextEvent()` | Creates a new object of the type StiGetTextEvent. |
-| `StiGetTextEvent(string script)` | Creates a new object of the type StiGetTextEvent with specified arguments. |
+| **StiGetTextEvent**() | Creates a new object of the type StiGetTextEvent. |
+| **StiGetTextEvent**(string script) | Creates a new object of the type StiGetTextEvent with specified arguments. |
 
 ### Methods
 

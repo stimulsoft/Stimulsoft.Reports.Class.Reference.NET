@@ -19,4 +19,4 @@ Inherits from: [StiActionCheckBox](StiActionCheckBox.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiFilterMultiOptionActionCheckBox([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position)` |  |
+| **StiFilterMultiOptionActionCheckBox**([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position) |  |

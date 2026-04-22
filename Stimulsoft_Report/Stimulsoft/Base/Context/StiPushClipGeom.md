@@ -19,7 +19,7 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPushClipGeom(RectangleF clipRectangle)` |  |
+| **StiPushClipGeom**(RectangleF clipRectangle) |  |
 
 ### Properties
 

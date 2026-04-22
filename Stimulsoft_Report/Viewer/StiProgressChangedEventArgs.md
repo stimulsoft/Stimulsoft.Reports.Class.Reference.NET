@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiProgressChangedEventArgs(int value, int maximum)` |  |
+| **StiProgressChangedEventArgs**(int value, int maximum) |  |
 
 ### Properties
 

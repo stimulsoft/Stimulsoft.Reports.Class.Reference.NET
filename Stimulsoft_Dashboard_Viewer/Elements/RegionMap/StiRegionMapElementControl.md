@@ -19,7 +19,7 @@ Inherits from: StiAtomElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiRegionMapElementControl(IStiElement element)` |  |
+| **StiRegionMapElementControl**(IStiElement element) |  |
 
 ### Methods
 

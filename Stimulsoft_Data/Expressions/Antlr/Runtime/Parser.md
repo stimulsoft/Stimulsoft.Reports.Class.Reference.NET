@@ -19,8 +19,8 @@ Inherits from: [BaseRecognizer](BaseRecognizer.md)
 
 | Constructor | Description |
 | --- | --- |
-| `Parser([ITokenStream](ITokenStream.md) input)` |  |
-| `Parser([ITokenStream](ITokenStream.md) input, [RecognizerSharedState](RecognizerSharedState.md) state)` |  |
+| **Parser**([ITokenStream](ITokenStream.md) input) |  |
+| **Parser**([ITokenStream](ITokenStream.md) input, [RecognizerSharedState](RecognizerSharedState.md) state) |  |
 
 ### Methods
 

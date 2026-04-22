@@ -19,11 +19,11 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiSnowflakeDatabase()` |  |
-| `StiSnowflakeDatabase(string name, string connectionString)` |  |
-| `StiSnowflakeDatabase(string name, string alias, string connectionString)` |  |
-| `StiSnowflakeDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiSnowflakeDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiSnowflakeDatabase**() |  |
+| **StiSnowflakeDatabase**(string name, string connectionString) |  |
+| **StiSnowflakeDatabase**(string name, string alias, string connectionString) |  |
+| **StiSnowflakeDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiSnowflakeDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |
 
 ### Methods
 

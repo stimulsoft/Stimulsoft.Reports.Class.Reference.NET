@@ -15,8 +15,8 @@ public sealed class StiCustomStyleButtonInfo
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomStyleButtonInfo([Image](../../Stimulsoft_Drawing/Image.md) icon16, [Image](../../Stimulsoft_Drawing/Image.md) icon32, string text, Type styleType)` |  |
-| `StiCustomStyleButtonInfo(object iconWpf16, object iconWpf32, string text, Type styleType)` |  |
+| **StiCustomStyleButtonInfo**([Image](../../Stimulsoft_Drawing/Image.md) icon16, [Image](../../Stimulsoft_Drawing/Image.md) icon32, string text, Type styleType) |  |
+| **StiCustomStyleButtonInfo**(object iconWpf16, object iconWpf32, string text, Type styleType) |  |
 
 ### Properties
 

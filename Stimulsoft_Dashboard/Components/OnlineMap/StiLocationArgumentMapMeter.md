@@ -21,9 +21,9 @@ Inherits from: StiDimensionMeter
 
 | Constructor | Description |
 | --- | --- |
-| `StiLocationArgumentMapMeter()` |  |
-| `StiLocationArgumentMapMeter(string expression, string label)` |  |
-| `StiLocationArgumentMapMeter(string key, string expression, string label)` |  |
+| **StiLocationArgumentMapMeter**() |  |
+| **StiLocationArgumentMapMeter**(string expression, string label) |  |
+| **StiLocationArgumentMapMeter**(string key, string expression, string label) |  |
 
 ### Properties
 

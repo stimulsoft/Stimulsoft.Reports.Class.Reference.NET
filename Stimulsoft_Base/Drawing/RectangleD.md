@@ -15,8 +15,8 @@ public struct RectangleD
 
 | Constructor | Description |
 | --- | --- |
-| `RectangleD([PointD](PointD.md) location, [SizeD](SizeD.md) size)` | Initializes a new instance of the RectangleD class with the specified location and size. |
-| `RectangleD(double x, double y, double width, double height)` | Initializes a new instance of the RectangleD class with the specified location and size. |
+| **RectangleD**([PointD](PointD.md) location, [SizeD](SizeD.md) size) | Initializes a new instance of the RectangleD class with the specified location and size. |
+| **RectangleD**(double x, double y, double width, double height) | Initializes a new instance of the RectangleD class with the specified location and size. |
 
 ### Properties
 

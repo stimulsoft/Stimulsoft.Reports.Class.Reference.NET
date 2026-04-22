@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiNewAutoSeriesEvent()` | Creates a new object of the type StiNewAutoSeriesEvent. |
-| `StiNewAutoSeriesEvent(string script)` | Creates a new object of the type StiNewAutoSeriesEvent with specified arguments. |
-| `StiNewAutoSeriesEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiNewAutoSeriesEvent**() | Creates a new object of the type StiNewAutoSeriesEvent. |
+| **StiNewAutoSeriesEvent**(string script) | Creates a new object of the type StiNewAutoSeriesEvent with specified arguments. |
+| **StiNewAutoSeriesEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

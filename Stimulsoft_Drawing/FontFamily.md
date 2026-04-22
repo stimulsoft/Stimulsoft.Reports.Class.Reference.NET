@@ -19,8 +19,8 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `FontFamily(string name)` |  |
-| `FontFamily(string name, [FontCollection](Text/FontCollection.md) fontCollection)` |  |
+| **FontFamily**(string name) |  |
+| **FontFamily**(string name, [FontCollection](Text/FontCollection.md) fontCollection) |  |
 
 ### Methods
 

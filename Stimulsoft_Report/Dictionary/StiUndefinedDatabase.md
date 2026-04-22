@@ -19,7 +19,7 @@ Inherits from: StiSqlDatabase
 
 | Constructor | Description |
 | --- | --- |
-| `StiUndefinedDatabase()` |  |
-| `StiUndefinedDatabase(string name, string connectionString)` |  |
-| `StiUndefinedDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword)` |  |
-| `StiUndefinedDatabase(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key)` |  |
+| **StiUndefinedDatabase**() |  |
+| **StiUndefinedDatabase**(string name, string connectionString) |  |
+| **StiUndefinedDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) |  |
+| **StiUndefinedDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) |  |

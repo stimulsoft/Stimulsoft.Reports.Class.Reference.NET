@@ -15,7 +15,7 @@ public sealed class StiPdfStructure
 
 | Constructor | Description |
 | --- | --- |
-| `StiPdfStructure()` |  |
+| **StiPdfStructure**() |  |
 
 ### Methods
 

@@ -15,8 +15,8 @@ public class StiRenderState
 
 | Constructor | Description |
 | --- | --- |
-| `StiRenderState(bool showProgress)` |  |
-| `StiRenderState(int fromPage, int toPage, bool showProgress)` |  |
+| **StiRenderState**(bool showProgress) |  |
+| **StiRenderState**(int fromPage, int toPage, bool showProgress) |  |
 
 ### Properties
 

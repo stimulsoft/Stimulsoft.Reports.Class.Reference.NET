@@ -15,8 +15,8 @@ public class TextValue
 
 | Constructor | Description |
 | --- | --- |
-| `TextValue()` |  |
-| `TextValue(string value)` |  |
+| **TextValue**() |  |
+| **TextValue**(string value) |  |
 
 ### Methods
 

@@ -19,4 +19,4 @@ Inherits from: [StiOracleConnector](StiOracleConnector.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiOracleManagedConnector(string connectionString)` |  |
+| **StiOracleManagedConnector**(string connectionString) |  |

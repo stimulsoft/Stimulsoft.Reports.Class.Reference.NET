@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiToolboxImageNameAttribute()` |  |
-| `StiToolboxImageNameAttribute(string name)` |  |
+| **StiToolboxImageNameAttribute**() |  |
+| **StiToolboxImageNameAttribute**(string name) |  |
 
 ### Properties
 

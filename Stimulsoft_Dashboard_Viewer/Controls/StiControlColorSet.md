@@ -15,8 +15,8 @@ public class StiControlColorSet
 
 | Constructor | Description |
 | --- | --- |
-| `StiControlColorSet()` |  |
-| `StiControlColorSet(Color foreColor, Color backColor, Color glyphColor)` |  |
+| **StiControlColorSet**() |  |
+| **StiControlColorSet**(Color foreColor, Color backColor, Color glyphColor) |  |
 
 ### Properties
 

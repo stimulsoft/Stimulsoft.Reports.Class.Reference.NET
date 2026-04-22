@@ -20,7 +20,7 @@ Implements: [IStiAnimationContextPainter](Context/Animation/IStiAnimationContext
 
 | Constructor | Description |
 | --- | --- |
-| `StiGdiContextPainter([Graphics](../../Stimulsoft_Drawing/Graphics.md) graphics)` |  |
+| **StiGdiContextPainter**([Graphics](../../Stimulsoft_Drawing/Graphics.md) graphics) |  |
 
 ### Properties
 

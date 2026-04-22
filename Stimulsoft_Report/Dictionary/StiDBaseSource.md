@@ -19,9 +19,9 @@ Inherits from: [StiFileDataSource](StiFileDataSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiDBaseSource()` | Creates a new object of the type StiDBaseSource. |
-| `StiDBaseSource(string path, string name, string alias, int codePage)` |  |
-| `StiDBaseSource(string path, string name, string alias, int codePage, string key)` |  |
+| **StiDBaseSource**() | Creates a new object of the type StiDBaseSource. |
+| **StiDBaseSource**(string path, string name, string alias, int codePage) |  |
+| **StiDBaseSource**(string path, string name, string alias, int codePage, string key) |  |
 
 ### Methods
 

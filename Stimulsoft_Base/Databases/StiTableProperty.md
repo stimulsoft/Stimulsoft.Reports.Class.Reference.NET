@@ -15,8 +15,8 @@ public class StiTableProperty
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableProperty()` |  |
-| `StiTableProperty(PropertyInfo prop)` |  |
+| **StiTableProperty**() |  |
+| **StiTableProperty**(PropertyInfo prop) |  |
 
 ### Properties
 

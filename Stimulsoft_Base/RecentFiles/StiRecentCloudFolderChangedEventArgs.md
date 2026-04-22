@@ -15,7 +15,7 @@ public sealed class StiRecentCloudFolderChangedEventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiRecentCloudFolderChangedEventArgs(string folderKey)` |  |
+| **StiRecentCloudFolderChangedEventArgs**(string folderKey) |  |
 
 ### Properties
 

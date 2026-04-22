@@ -19,4 +19,4 @@ Inherits from: StiSeriesLabelsCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiCenterHeatmapLabelsCoreXF(IStiSeriesLabels seriesLabels)` |  |
+| **StiCenterHeatmapLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |

@@ -19,7 +19,7 @@ Inherits from: StiDbNoSqlDataConnector
 
 | Constructor | Description |
 | --- | --- |
-| `StiCosmosDbConnector(string connectionString, [StiCosmosDbApi](../../../StiCosmosDbApi.md) api)` |  |
+| **StiCosmosDbConnector**(string connectionString, [StiCosmosDbApi](../../../StiCosmosDbApi.md) api) |  |
 
 ### Properties
 

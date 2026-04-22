@@ -15,7 +15,7 @@ public abstract class StiMapContextPainter
 
 | Constructor | Description |
 | --- | --- |
-| `StiMapContextPainter(StiMap map, RectangleF rect, float zoom)` |  |
+| **StiMapContextPainter**(StiMap map, RectangleF rect, float zoom) |  |
 
 ### Properties
 

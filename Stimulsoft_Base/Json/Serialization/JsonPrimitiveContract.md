@@ -21,4 +21,4 @@ Inherits from: [JsonContract](JsonContract.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JsonPrimitiveContract(Type underlyingType)` | Initializes a new instance of the JsonPrimitiveContract class. |
+| **JsonPrimitiveContract**(Type underlyingType) | Initializes a new instance of the JsonPrimitiveContract class. |

@@ -15,7 +15,7 @@ public sealed class StiRecentFileStructure
 
 | Constructor | Description |
 | --- | --- |
-| `StiRecentFileStructure()` |  |
+| **StiRecentFileStructure**() |  |
 
 ### Properties
 

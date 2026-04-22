@@ -19,7 +19,7 @@ Inherits from: [StiAxisAreaCoreXF](StiAxisAreaCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiStackedColumnAreaCoreXF(IStiArea area)` |  |
+| **StiStackedColumnAreaCoreXF**(IStiArea area) |  |
 
 ### Methods
 

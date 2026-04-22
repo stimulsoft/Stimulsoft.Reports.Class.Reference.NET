@@ -19,7 +19,7 @@ Inherits from: [StiAnimation](StiAnimation.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPointAnimation(PointF pointFrom, TimeSpan duration, TimeSpan beginTime)` |  |
+| **StiPointAnimation**(PointF pointFrom, TimeSpan duration, TimeSpan beginTime) |  |
 
 ### Properties
 

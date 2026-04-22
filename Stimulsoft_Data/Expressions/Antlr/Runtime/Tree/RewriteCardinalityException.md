@@ -19,12 +19,12 @@ Inherits from: Exception
 
 | Constructor | Description |
 | --- | --- |
-| `RewriteCardinalityException()` |  |
-| `RewriteCardinalityException(string elementDescription)` |  |
-| `RewriteCardinalityException(string elementDescription, Exception innerException)` |  |
-| `RewriteCardinalityException(string message, string elementDescription)` |  |
-| `RewriteCardinalityException(SerializationInfo info, StreamingContext context)` |  |
-| `RewriteCardinalityException(string message, string elementDescription, Exception innerException)` |  |
+| **RewriteCardinalityException**() |  |
+| **RewriteCardinalityException**(string elementDescription) |  |
+| **RewriteCardinalityException**(string elementDescription, Exception innerException) |  |
+| **RewriteCardinalityException**(string message, string elementDescription) |  |
+| **RewriteCardinalityException**(SerializationInfo info, StreamingContext context) |  |
+| **RewriteCardinalityException**(string message, string elementDescription, Exception innerException) |  |
 
 ### Methods
 

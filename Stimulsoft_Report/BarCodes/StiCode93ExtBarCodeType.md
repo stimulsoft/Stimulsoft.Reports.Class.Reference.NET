@@ -21,8 +21,8 @@ Inherits from: [StiCode93BarCodeType](StiCode93BarCodeType.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCode93ExtBarCodeType()` |  |
-| `StiCode93ExtBarCodeType(float module, float height, float ratio)` |  |
+| **StiCode93ExtBarCodeType**() |  |
+| **StiCode93ExtBarCodeType**(float module, float height, float ratio) |  |
 
 ### Methods
 

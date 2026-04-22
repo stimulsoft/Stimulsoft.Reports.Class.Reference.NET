@@ -19,8 +19,8 @@ Inherits from: [StiBaseCondition](StiBaseCondition.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCondition()` | Creates a new object of the type StiCondition. |
-| `StiCondition(string expression, Color textColor, Color backColor, [Font](../../Stimulsoft_Drawing/Font.md) font, bool enabled)` | Creates a new object of the type StiCondition. |
+| **StiCondition**() | Creates a new object of the type StiCondition. |
+| **StiCondition**(string expression, Color textColor, Color backColor, [Font](../../Stimulsoft_Drawing/Font.md) font, bool enabled) | Creates a new object of the type StiCondition. |
 
 ### Properties
 

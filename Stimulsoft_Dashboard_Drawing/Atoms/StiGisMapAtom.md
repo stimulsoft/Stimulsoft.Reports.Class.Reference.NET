@@ -19,7 +19,7 @@ Inherits from: [StiElementAtom](StiElementAtom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisMapAtom(IStiElement element, [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) location, [StiDataTable](../../Stimulsoft_Data/Engine/StiDataTable.md) dataTable, bool isExporting)` |  |
+| **StiGisMapAtom**(IStiElement element, [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) location, [StiDataTable](../../Stimulsoft_Data/Engine/StiDataTable.md) dataTable, bool isExporting) |  |
 
 ### Methods
 

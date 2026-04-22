@@ -15,8 +15,8 @@ public class RecognizerSharedState
 
 | Constructor | Description |
 | --- | --- |
-| `RecognizerSharedState()` |  |
-| `RecognizerSharedState([RecognizerSharedState](RecognizerSharedState.md) state)` |  |
+| **RecognizerSharedState**() |  |
+| **RecognizerSharedState**([RecognizerSharedState](RecognizerSharedState.md) state) |  |
 
 ### Fields
 

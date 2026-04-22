@@ -19,7 +19,7 @@ Inherits from: [StiIndicatorElementStyle](StiIndicatorElementStyle.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCustomIndicatorElementStyle(StiIndicatorStyle style)` |  |
+| **StiCustomIndicatorElementStyle**(StiIndicatorStyle style) |  |
 
 ### Properties
 

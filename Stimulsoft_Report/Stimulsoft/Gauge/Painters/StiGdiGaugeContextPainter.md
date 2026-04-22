@@ -20,7 +20,7 @@ Implements: [IStiAnimationContextPainter](../../../Painters/Context/Animation/IS
 
 | Constructor | Description |
 | --- | --- |
-| `StiGdiGaugeContextPainter([Graphics](../../../../Stimulsoft_Drawing/Graphics.md) g, StiGauge gauge, RectangleF rect, float zoom)` |  |
+| **StiGdiGaugeContextPainter**([Graphics](../../../../Stimulsoft_Drawing/Graphics.md) g, StiGauge gauge, RectangleF rect, float zoom) |  |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Inherits from: StiIndicatorBase
 
 | Constructor | Description |
 | --- | --- |
-| `StiBarBase()` |  |
+| **StiBarBase**() |  |
 
 ### Properties
 

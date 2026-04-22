@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiClosedFormEvent()` | Creates a new object of the type StiClosedFormEvent. |
-| `StiClosedFormEvent(string script)` | Creates a new object of the type StiClosedFormEvent with specified arguments. |
-| `StiClosedFormEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiClosedFormEvent**() | Creates a new object of the type StiClosedFormEvent. |
+| **StiClosedFormEvent**(string script) | Creates a new object of the type StiClosedFormEvent with specified arguments. |
+| **StiClosedFormEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

@@ -19,4 +19,4 @@ Inherits from: [StiStackedColumnSeriesCoreXF](StiStackedColumnSeriesCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiFullStackedColumnSeriesCoreXF(IStiSeries series)` |  |
+| **StiFullStackedColumnSeriesCoreXF**(IStiSeries series) |  |

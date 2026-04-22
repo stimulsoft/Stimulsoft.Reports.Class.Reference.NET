@@ -19,7 +19,7 @@ Inherits from: StiDbNoSqlDataConnector
 
 | Constructor | Description |
 | --- | --- |
-| `StiMsAnalysisServicesConnector(string connectionString)` |  |
+| **StiMsAnalysisServicesConnector**(string connectionString) |  |
 
 ### Properties
 

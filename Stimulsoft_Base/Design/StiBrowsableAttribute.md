@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiBrowsableAttribute()` | Creates a new object of the type StiBrowsableAttribute. |
-| `StiBrowsableAttribute(bool browsable)` | Creates a new object of the type StiBrowsableAttribute. |
+| **StiBrowsableAttribute**() | Creates a new object of the type StiBrowsableAttribute. |
+| **StiBrowsableAttribute**(bool browsable) | Creates a new object of the type StiBrowsableAttribute. |
 
 ### Properties
 

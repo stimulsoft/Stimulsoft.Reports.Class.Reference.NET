@@ -20,9 +20,9 @@ Implements: [ITokenSource](ITokenSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `Lexer()` |  |
-| `Lexer([ICharStream](ICharStream.md) input)` |  |
-| `Lexer([ICharStream](ICharStream.md) input, [RecognizerSharedState](RecognizerSharedState.md) state)` |  |
+| **Lexer**() |  |
+| **Lexer**([ICharStream](ICharStream.md) input) |  |
+| **Lexer**([ICharStream](ICharStream.md) input, [RecognizerSharedState](RecognizerSharedState.md) state) |  |
 
 ### Methods
 

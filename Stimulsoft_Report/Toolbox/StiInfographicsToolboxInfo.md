@@ -15,10 +15,10 @@ public sealed class StiInfographicsToolboxInfo
 
 | Constructor | Description |
 | --- | --- |
-| `StiInfographicsToolboxInfo(object tag, string locName, string icon)` |  |
-| `StiInfographicsToolboxInfo(Type type, string locName, string icon, bool beginGroup)` |  |
-| `StiInfographicsToolboxInfo([StiInfographicsItemType](StiInfographicsItemType.md) itemType, object tag, string locName, string icon)` |  |
-| `StiInfographicsToolboxInfo([StiInfographicsItemType](StiInfographicsItemType.md) itemType, Type type, string locName, string icon, bool beginGroup)` |  |
+| **StiInfographicsToolboxInfo**(object tag, string locName, string icon) |  |
+| **StiInfographicsToolboxInfo**(Type type, string locName, string icon, bool beginGroup) |  |
+| **StiInfographicsToolboxInfo**([StiInfographicsItemType](StiInfographicsItemType.md) itemType, object tag, string locName, string icon) |  |
+| **StiInfographicsToolboxInfo**([StiInfographicsItemType](StiInfographicsItemType.md) itemType, Type type, string locName, string icon, bool beginGroup) |  |
 
 ### Properties
 

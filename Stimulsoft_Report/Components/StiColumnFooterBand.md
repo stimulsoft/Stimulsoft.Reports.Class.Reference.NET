@@ -19,8 +19,8 @@ Inherits from: StiFooterBand
 
 | Constructor | Description |
 | --- | --- |
-| `StiColumnFooterBand()` | Creates a new component of the type StiColumnFooterBand. |
-| `StiColumnFooterBand([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new component of the type StiColumnFooterBand with specified location. |
+| **StiColumnFooterBand**() | Creates a new component of the type StiColumnFooterBand. |
+| **StiColumnFooterBand**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new component of the type StiColumnFooterBand with specified location. |
 
 ### Methods
 

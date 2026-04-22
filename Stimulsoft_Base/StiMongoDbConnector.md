@@ -19,7 +19,7 @@ Inherits from: StiDbNoSqlDataConnector
 
 | Constructor | Description |
 | --- | --- |
-| `StiMongoDbConnector(string connectionString)` |  |
+| **StiMongoDbConnector**(string connectionString) |  |
 
 ### Methods
 

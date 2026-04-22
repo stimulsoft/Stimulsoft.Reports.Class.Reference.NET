@@ -15,8 +15,8 @@ public class StiTableElementSortFilterMenuItem
 
 | Constructor | Description |
 | --- | --- |
-| `StiTableElementSortFilterMenuItem()` |  |
-| `StiTableElementSortFilterMenuItem(object item, Type type)` |  |
+| **StiTableElementSortFilterMenuItem**() |  |
+| **StiTableElementSortFilterMenuItem**(object item, Type type) |  |
 
 ### Properties
 

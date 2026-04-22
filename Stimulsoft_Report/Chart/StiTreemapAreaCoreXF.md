@@ -19,7 +19,7 @@ Inherits from: StiAreaCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiTreemapAreaCoreXF(IStiArea area)` |  |
+| **StiTreemapAreaCoreXF**(IStiArea area) |  |
 
 ### Methods
 

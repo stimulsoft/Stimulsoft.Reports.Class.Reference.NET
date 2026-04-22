@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiReportSavedToCloudEventArgs(string reportItemKey, string reportName)` |  |
+| **StiReportSavedToCloudEventArgs**(string reportItemKey, string reportName) |  |
 
 ### Properties
 

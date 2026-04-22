@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `JsonConverterAttribute(Type converterType)` | Initializes a new instance of the JsonConverterAttribute class. |
-| `JsonConverterAttribute(Type converterType, objectconverterParameters )` | Initializes a new instance of the JsonConverterAttribute class. |
+| **JsonConverterAttribute**(Type converterType) | Initializes a new instance of the JsonConverterAttribute class. |
+| **JsonConverterAttribute**(Type converterType, objectconverterParameters ) | Initializes a new instance of the JsonConverterAttribute class. |
 
 ### Properties
 

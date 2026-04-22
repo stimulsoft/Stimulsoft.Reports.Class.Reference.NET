@@ -15,10 +15,10 @@ public sealed class StiMapToolboxInfo
 
 | Constructor | Description |
 | --- | --- |
-| `StiMapToolboxInfo([StiMapID](../Maps/StiMapID.md) mapID)` |  |
-| `StiMapToolboxInfo([StiMapID](../Maps/StiMapID.md) mapID, stringlocalization )` |  |
-| `StiMapToolboxInfo(string customMapID, byteicon )` |  |
-| `StiMapToolboxInfo([StiMapCategory](../Maps/StiMapCategory.md) category, string locEnName, string locRuName)` |  |
+| **StiMapToolboxInfo**([StiMapID](../Maps/StiMapID.md) mapID) |  |
+| **StiMapToolboxInfo**([StiMapID](../Maps/StiMapID.md) mapID, stringlocalization ) |  |
+| **StiMapToolboxInfo**(string customMapID, byteicon ) |  |
+| **StiMapToolboxInfo**([StiMapCategory](../Maps/StiMapCategory.md) category, string locEnName, string locRuName) |  |
 
 ### Properties
 

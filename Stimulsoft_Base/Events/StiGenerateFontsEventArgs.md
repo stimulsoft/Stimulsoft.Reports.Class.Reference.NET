@@ -15,7 +15,7 @@ public class StiGenerateFontsEventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiGenerateFontsEventArgs(List<[FontFamily](../../Stimulsoft_Drawing/FontFamily.md)> fonts)` |  |
+| **StiGenerateFontsEventArgs**(List<[FontFamily](../../Stimulsoft_Drawing/FontFamily.md)> fonts) |  |
 
 ### Properties
 

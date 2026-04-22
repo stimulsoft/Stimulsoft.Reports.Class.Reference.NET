@@ -15,8 +15,8 @@ public class ColorMatrix
 
 | Constructor | Description |
 | --- | --- |
-| `ColorMatrix()` |  |
-| `ColorMatrix(floatnewColorMatrix )` |  |
+| **ColorMatrix**() |  |
+| **ColorMatrix**(floatnewColorMatrix ) |  |
 
 ### Properties
 

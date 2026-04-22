@@ -19,4 +19,4 @@ Inherits from: [StiGeom3D](StiGeom3D.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiZAxisGeom3D([StiRectangle3D](StiRectangle3D.md) rect, [StiRender3D](StiRender3D.md) render)` |  |
+| **StiZAxisGeom3D**([StiRectangle3D](StiRectangle3D.md) rect, [StiRender3D](StiRender3D.md) render) |  |

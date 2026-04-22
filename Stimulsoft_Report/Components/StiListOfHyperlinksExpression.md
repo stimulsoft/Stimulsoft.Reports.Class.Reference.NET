@@ -19,8 +19,8 @@ Inherits from: StiExpression
 
 | Constructor | Description |
 | --- | --- |
-| `StiListOfHyperlinksExpression()` | Creates a new expression. |
-| `StiListOfHyperlinksExpression(string value)` | Creates a new expression. |
+| **StiListOfHyperlinksExpression**() | Creates a new expression. |
+| **StiListOfHyperlinksExpression**(string value) | Creates a new expression. |
 
 ### Methods
 

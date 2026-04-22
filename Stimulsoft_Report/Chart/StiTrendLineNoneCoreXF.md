@@ -19,4 +19,4 @@ Inherits from: StiTrendLineCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiTrendLineNoneCoreXF(IStiTrendLine trendLine)` |  |
+| **StiTrendLineNoneCoreXF**(IStiTrendLine trendLine) |  |

@@ -21,7 +21,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiProcessDescriptionEventArgs(Type componentType, string name, string description)` | Initializes a new instance of the StiProcessDescriptionEventArgs class. |
+| **StiProcessDescriptionEventArgs**(Type componentType, string name, string description) | Initializes a new instance of the StiProcessDescriptionEventArgs class. |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Implements: [IStiDefault](../Design/IStiDefault.md)
 
 | Constructor | Description |
 | --- | --- |
-| `SizeD(double width, double height)` | Initializes a new instance of the SizeD class from the specified dimensions. |
+| **SizeD**(double width, double height) | Initializes a new instance of the SizeD class from the specified dimensions. |
 
 ### Properties
 

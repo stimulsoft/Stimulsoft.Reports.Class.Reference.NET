@@ -15,7 +15,7 @@ public class TreePatternLexer
 
 | Constructor | Description |
 | --- | --- |
-| `TreePatternLexer(string pattern)` |  |
+| **TreePatternLexer**(string pattern) |  |
 
 ### Methods
 

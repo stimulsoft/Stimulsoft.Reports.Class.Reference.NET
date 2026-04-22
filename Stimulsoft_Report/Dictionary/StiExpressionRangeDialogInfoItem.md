@@ -19,4 +19,4 @@ Inherits from: [StiRangeDialogInfoItem](StiRangeDialogInfoItem.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiExpressionRangeDialogInfoItem()` |  |
+| **StiExpressionRangeDialogInfoItem**() |  |

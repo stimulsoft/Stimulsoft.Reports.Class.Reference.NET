@@ -19,8 +19,8 @@ Inherits from: StiChartAxisTitle
 
 | Constructor | Description |
 | --- | --- |
-| `StiYChartAxisTitle()` |  |
-| `StiYChartAxisTitle([Font](../../../Stimulsoft_Drawing/Font.md) font, string text, Color color, StringAlignment alignment, [StiDirection](../../../Stimulsoft_Report/Chart/StiDirection.md) direction, [StiTitlePosition](../../../Stimulsoft_Report/Chart/StiTitlePosition.md) position, bool visible)` |  |
+| **StiYChartAxisTitle**() |  |
+| **StiYChartAxisTitle**([Font](../../../Stimulsoft_Drawing/Font.md) font, string text, Color color, StringAlignment alignment, [StiDirection](../../../Stimulsoft_Report/Chart/StiDirection.md) direction, [StiTitlePosition](../../../Stimulsoft_Report/Chart/StiTitlePosition.md) position, bool visible) |  |
 
 ### Properties
 

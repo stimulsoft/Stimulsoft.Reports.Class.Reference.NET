@@ -19,7 +19,7 @@ Inherits from: StiFilterElementControl
 
 | Constructor | Description |
 | --- | --- |
-| `StiListBoxElementControl(IStiElement element)` |  |
+| **StiListBoxElementControl**(IStiElement element) |  |
 
 ### Methods
 

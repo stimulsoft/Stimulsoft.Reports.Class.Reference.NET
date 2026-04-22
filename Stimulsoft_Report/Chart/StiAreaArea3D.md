@@ -19,7 +19,7 @@ Inherits from: [StiClusteredColumnArea3D](StiClusteredColumnArea3D.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiAreaArea3D()` |  |
+| **StiAreaArea3D**() |  |
 
 ### Methods
 

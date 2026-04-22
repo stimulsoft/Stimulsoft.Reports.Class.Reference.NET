@@ -19,7 +19,7 @@ Inherits from: [FontCollection](FontCollection.md)
 
 | Constructor | Description |
 | --- | --- |
-| `PrivateFontCollection()` |  |
+| **PrivateFontCollection**() |  |
 
 ### Methods
 

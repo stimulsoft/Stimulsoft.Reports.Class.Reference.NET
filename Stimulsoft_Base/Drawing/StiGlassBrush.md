@@ -19,8 +19,8 @@ Inherits from: [StiBrush](StiBrush.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGlassBrush()` | Creates a new instance of the StiGlassBrush class. |
-| `StiGlassBrush(Color color, bool drawHatch, float blend)` | Creates a new instance of the StiGlassBrush class. |
+| **StiGlassBrush**() | Creates a new instance of the StiGlassBrush class. |
+| **StiGlassBrush**(Color color, bool drawHatch, float blend) | Creates a new instance of the StiGlassBrush class. |
 
 ### Properties
 

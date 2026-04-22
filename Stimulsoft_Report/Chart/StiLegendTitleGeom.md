@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiLegendTitleGeom(IStiLegend legend, RectangleF clientRectangle)` |  |
+| **StiLegendTitleGeom**(IStiLegend legend, RectangleF clientRectangle) |  |
 
 ### Methods
 

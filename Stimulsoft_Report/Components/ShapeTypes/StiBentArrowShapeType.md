@@ -19,8 +19,8 @@ Inherits from: StiShapeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiBentArrowShapeType()` | Creates a new BentArrow. |
-| `StiBentArrowShapeType([StiShapeDirection](StiShapeDirection.md) direction)` | Creates a new BentArrow with specified arguments. |
+| **StiBentArrowShapeType**() | Creates a new BentArrow. |
+| **StiBentArrowShapeType**([StiShapeDirection](StiShapeDirection.md) direction) | Creates a new BentArrow with specified arguments. |
 
 ### Properties
 

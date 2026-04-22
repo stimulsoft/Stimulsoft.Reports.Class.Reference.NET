@@ -19,7 +19,7 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `TernaryExpression([LogicalExpression](LogicalExpression.md) leftExpression, [LogicalExpression](LogicalExpression.md) middleExpression, [LogicalExpression](LogicalExpression.md) rightExpression)` |  |
+| **TernaryExpression**([LogicalExpression](LogicalExpression.md) leftExpression, [LogicalExpression](LogicalExpression.md) middleExpression, [LogicalExpression](LogicalExpression.md) rightExpression) |  |
 
 ### Properties
 

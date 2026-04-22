@@ -21,8 +21,8 @@ Inherits from: [JValue](JValue.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JRaw([JRaw](JRaw.md) other)` | Initializes a new instance of the JRaw class from another JRaw object. |
-| `JRaw(object rawJson)` | Initializes a new instance of the JRaw class. |
+| **JRaw**([JRaw](JRaw.md) other) | Initializes a new instance of the JRaw class from another JRaw object. |
+| **JRaw**(object rawJson) | Initializes a new instance of the JRaw class. |
 
 ### Methods
 

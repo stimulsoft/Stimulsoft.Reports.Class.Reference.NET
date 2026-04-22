@@ -19,8 +19,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiAztecBarCodeType()` |  |
-| `StiAztecBarCodeType(float module, int errorCorrectionLevel, [StiAztecSize](StiAztecSize.md) matrixSize, int codePage)` |  |
+| **StiAztecBarCodeType**() |  |
+| **StiAztecBarCodeType**(float module, int errorCorrectionLevel, [StiAztecSize](StiAztecSize.md) matrixSize, int codePage) |  |
 
 ### Properties
 

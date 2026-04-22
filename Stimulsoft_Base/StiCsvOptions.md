@@ -19,10 +19,10 @@ Inherits from: [StiFileDataOptions](StiFileDataOptions.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiCsvOptions(bytecontent , int codePage, string separator)` |  |
-| `StiCsvOptions(string path, int codePage, string separator)` |  |
-| `StiCsvOptions(bytecontent , string tableName, int codePage, string separator)` |  |
-| `StiCsvOptions(string path, string tableName, int codePage, string separator)` |  |
+| **StiCsvOptions**(bytecontent , int codePage, string separator) |  |
+| **StiCsvOptions**(string path, int codePage, string separator) |  |
+| **StiCsvOptions**(bytecontent , string tableName, int codePage, string separator) |  |
+| **StiCsvOptions**(string path, string tableName, int codePage, string separator) |  |
 
 ### Properties
 

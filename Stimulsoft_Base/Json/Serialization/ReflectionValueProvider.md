@@ -21,7 +21,7 @@ Implements: [IValueProvider](IValueProvider.md)
 
 | Constructor | Description |
 | --- | --- |
-| `ReflectionValueProvider(MemberInfo memberInfo)` | Initializes a new instance of the ReflectionValueProvider class. |
+| **ReflectionValueProvider**(MemberInfo memberInfo) | Initializes a new instance of the ReflectionValueProvider class. |
 
 ### Methods
 

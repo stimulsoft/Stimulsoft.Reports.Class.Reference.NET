@@ -19,7 +19,7 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiStringFormatGeom([StringFormat](../../../../Stimulsoft_Drawing/StringFormat.md) sf)` |  |
+| **StiStringFormatGeom**([StringFormat](../../../../Stimulsoft_Drawing/StringFormat.md) sf) |  |
 
 ### Properties
 

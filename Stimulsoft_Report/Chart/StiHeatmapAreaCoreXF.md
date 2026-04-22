@@ -19,7 +19,7 @@ Inherits from: [StiAxisAreaCoreXF](StiAxisAreaCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiHeatmapAreaCoreXF(IStiArea area)` |  |
+| **StiHeatmapAreaCoreXF**(IStiArea area) |  |
 
 ### Methods
 

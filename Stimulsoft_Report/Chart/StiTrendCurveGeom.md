@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiTrendCurveGeom(PointF?points , IStiTrendLine trendLine)` |  |
+| **StiTrendCurveGeom**(PointF?points , IStiTrendLine trendLine) |  |
 
 ### Methods
 

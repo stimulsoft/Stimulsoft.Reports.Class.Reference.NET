@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiWCFReportCheckEventArgs(bytedata , [IStiDesignerBase](../Design/IStiDesignerBase.md) designer)` |  |
+| **StiWCFReportCheckEventArgs**(bytedata , [IStiDesignerBase](../Design/IStiDesignerBase.md) designer) |  |
 
 ### Fields
 

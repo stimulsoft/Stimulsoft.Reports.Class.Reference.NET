@@ -15,10 +15,10 @@ public class StiMatrix
 
 | Constructor | Description |
 | --- | --- |
-| `StiMatrix([StiPagesCollection](../Components/StiPagesCollection.md) pages, [StiExportService](StiExportService.md) service)` |  |
-| `StiMatrix([StiPagesCollection](../Components/StiPagesCollection.md) pages, bool checkForExcel, [StiExportService](StiExportService.md) service)` |  |
-| `StiMatrix([StiPagesCollection](../Components/StiPagesCollection.md) pages, [StiExportService](StiExportService.md) service, ArrayList styles)` |  |
-| `StiMatrix([StiPagesCollection](../Components/StiPagesCollection.md) pages, bool checkForExcel, [StiExportService](StiExportService.md) service, ArrayList styles, [StiDataExportMode](StiDataExportMode.md) dataMode, bool hasDividedPages)` |  |
+| **StiMatrix**([StiPagesCollection](../Components/StiPagesCollection.md) pages, [StiExportService](StiExportService.md) service) |  |
+| **StiMatrix**([StiPagesCollection](../Components/StiPagesCollection.md) pages, bool checkForExcel, [StiExportService](StiExportService.md) service) |  |
+| **StiMatrix**([StiPagesCollection](../Components/StiPagesCollection.md) pages, [StiExportService](StiExportService.md) service, ArrayList styles) |  |
+| **StiMatrix**([StiPagesCollection](../Components/StiPagesCollection.md) pages, bool checkForExcel, [StiExportService](StiExportService.md) service, ArrayList styles, [StiDataExportMode](StiDataExportMode.md) dataMode, bool hasDividedPages) |  |
 
 ### Properties
 

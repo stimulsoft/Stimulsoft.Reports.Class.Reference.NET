@@ -19,7 +19,7 @@ Inherits from: Button
 
 | Constructor | Description |
 | --- | --- |
-| `StiExceptionButton()` |  |
+| **StiExceptionButton**() |  |
 
 ### Properties
 

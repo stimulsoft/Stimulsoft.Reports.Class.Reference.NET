@@ -19,7 +19,7 @@ Inherits from: [StiFileDataOptions](StiFileDataOptions.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisOptions(bytecontent , string separator, [StiGisDataType](StiGisDataType.md) dataType)` |  |
+| **StiGisOptions**(bytecontent , string separator, [StiGisDataType](StiGisDataType.md) dataType) |  |
 
 ### Properties
 

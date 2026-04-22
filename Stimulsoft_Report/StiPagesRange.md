@@ -15,10 +15,10 @@ public sealed class StiPagesRange
 
 | Constructor | Description |
 | --- | --- |
-| `StiPagesRange()` | Creates a new instance of the StiPagesRange class. |
-| `StiPagesRange(int currentPage)` | Creates a new instance of the StiPagesRange class. |
-| `StiPagesRange(string pageRanges)` | Creates a new instance of the StiPagesRange class. |
-| `StiPagesRange([StiRangeType](StiRangeType.md) rangeType, string pageRanges, int currentPage)` | Creates a new instance of the StiPagesRange class. |
+| **StiPagesRange**() | Creates a new instance of the StiPagesRange class. |
+| **StiPagesRange**(int currentPage) | Creates a new instance of the StiPagesRange class. |
+| **StiPagesRange**(string pageRanges) | Creates a new instance of the StiPagesRange class. |
+| **StiPagesRange**([StiRangeType](StiRangeType.md) rangeType, string pageRanges, int currentPage) | Creates a new instance of the StiPagesRange class. |
 
 ### Properties
 

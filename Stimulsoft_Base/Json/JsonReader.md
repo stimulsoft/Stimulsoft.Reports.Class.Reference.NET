@@ -21,7 +21,7 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `JsonReader()` | Initializes a new instance of the JsonReader class with the specified TextReader. |
+| **JsonReader**() | Initializes a new instance of the JsonReader class with the specified TextReader. |
 
 ### Properties
 

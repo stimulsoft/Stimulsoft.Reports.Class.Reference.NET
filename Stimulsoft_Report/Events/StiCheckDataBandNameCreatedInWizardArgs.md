@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiCheckDataBandNameCreatedInWizardArgs(StiBand band)` |  |
+| **StiCheckDataBandNameCreatedInWizardArgs**(StiBand band) |  |
 
 ### Properties
 

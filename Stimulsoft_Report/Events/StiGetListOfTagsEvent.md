@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetListOfTagsEvent()` | Creates a new object of the type StiGetListOfTagsEvent. |
-| `StiGetListOfTagsEvent(string script)` | Creates a new object of the type StiGetListOfTagsEvent with specified arguments. |
-| `StiGetListOfTagsEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetListOfTagsEvent**() | Creates a new object of the type StiGetListOfTagsEvent. |
+| **StiGetListOfTagsEvent**(string script) | Creates a new object of the type StiGetListOfTagsEvent with specified arguments. |
+| **StiGetListOfTagsEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

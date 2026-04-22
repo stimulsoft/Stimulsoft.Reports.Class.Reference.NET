@@ -15,7 +15,7 @@ public class StiContext
 
 | Constructor | Description |
 | --- | --- |
-| `StiContext([StiContextPainter](StiContextPainter.md) contextPainter, bool isGdi, bool isWpf, bool isPrinting, float zoom)` |  |
+| **StiContext**([StiContextPainter](StiContextPainter.md) contextPainter, bool isGdi, bool isWpf, bool isPrinting, float zoom) |  |
 
 ### Properties
 

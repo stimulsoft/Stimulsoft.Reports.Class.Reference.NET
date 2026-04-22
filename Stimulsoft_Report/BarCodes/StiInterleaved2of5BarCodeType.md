@@ -19,8 +19,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiInterleaved2of5BarCodeType()` |  |
-| `StiInterleaved2of5BarCodeType(float module, float height, float ratio)` |  |
+| **StiInterleaved2of5BarCodeType**() |  |
+| **StiInterleaved2of5BarCodeType**(float module, float height, float ratio) |  |
 
 ### Methods
 

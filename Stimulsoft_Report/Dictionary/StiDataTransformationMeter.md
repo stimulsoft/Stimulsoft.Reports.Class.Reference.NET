@@ -15,7 +15,7 @@ public abstract class StiDataTransformationMeter
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataTransformationMeter(string expression, string label)` |  |
+| **StiDataTransformationMeter**(string expression, string label) |  |
 
 ### Properties
 

@@ -15,7 +15,7 @@ public class StiProjection
 
 | Constructor | Description |
 | --- | --- |
-| `StiProjection([StiRender3D](StiRender3D.md) render)` |  |
+| **StiProjection**([StiRender3D](StiRender3D.md) render) |  |
 
 ### Properties
 

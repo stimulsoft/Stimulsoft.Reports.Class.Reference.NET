@@ -19,13 +19,13 @@ Inherits from: [RecognitionException](RecognitionException.md)
 
 | Constructor | Description |
 | --- | --- |
-| `EarlyExitException()` |  |
-| `EarlyExitException(string message)` |  |
-| `EarlyExitException(string message, Exception innerException)` |  |
-| `EarlyExitException(int decisionNumber, [IIntStream](IIntStream.md) input)` |  |
-| `EarlyExitException(SerializationInfo info, StreamingContext context)` |  |
-| `EarlyExitException(string message, int decisionNumber, [IIntStream](IIntStream.md) input)` |  |
-| `EarlyExitException(string message, int decisionNumber, [IIntStream](IIntStream.md) input, Exception innerException)` |  |
+| **EarlyExitException**() |  |
+| **EarlyExitException**(string message) |  |
+| **EarlyExitException**(string message, Exception innerException) |  |
+| **EarlyExitException**(int decisionNumber, [IIntStream](IIntStream.md) input) |  |
+| **EarlyExitException**(SerializationInfo info, StreamingContext context) |  |
+| **EarlyExitException**(string message, int decisionNumber, [IIntStream](IIntStream.md) input) |  |
+| **EarlyExitException**(string message, int decisionNumber, [IIntStream](IIntStream.md) input, Exception innerException) |  |
 
 ### Methods
 

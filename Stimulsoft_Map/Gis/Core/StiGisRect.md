@@ -15,8 +15,8 @@ public struct StiGisRect
 
 | Constructor | Description |
 | --- | --- |
-| `StiGisRect([StiGisPoint](StiGisPoint.md) location, [StiGisSize](StiGisSize.md) size)` |  |
-| `StiGisRect(int x, int y, int width, int height)` |  |
+| **StiGisRect**([StiGisPoint](StiGisPoint.md) location, [StiGisSize](StiGisSize.md) size) |  |
+| **StiGisRect**(int x, int y, int width, int height) |  |
 
 ### Properties
 

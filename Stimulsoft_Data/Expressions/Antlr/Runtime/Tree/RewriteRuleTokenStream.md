@@ -19,9 +19,9 @@ Inherits from: [RewriteRuleElementStream](RewriteRuleElementStream.md)
 
 | Constructor | Description |
 | --- | --- |
-| `RewriteRuleTokenStream([ITreeAdaptor](ITreeAdaptor.md) adaptor, string elementDescription)` |  |
-| `RewriteRuleTokenStream([ITreeAdaptor](ITreeAdaptor.md) adaptor, string elementDescription, object oneElement)` |  |
-| `RewriteRuleTokenStream([ITreeAdaptor](ITreeAdaptor.md) adaptor, string elementDescription, IList elements)` |  |
+| **RewriteRuleTokenStream**([ITreeAdaptor](ITreeAdaptor.md) adaptor, string elementDescription) |  |
+| **RewriteRuleTokenStream**([ITreeAdaptor](ITreeAdaptor.md) adaptor, string elementDescription, object oneElement) |  |
+| **RewriteRuleTokenStream**([ITreeAdaptor](ITreeAdaptor.md) adaptor, string elementDescription, IList elements) |  |
 
 ### Methods
 

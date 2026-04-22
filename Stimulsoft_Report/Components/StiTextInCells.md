@@ -19,9 +19,9 @@ Inherits from: StiText
 
 | Constructor | Description |
 | --- | --- |
-| `StiTextInCells()` | Creates a new StiTextInCells. |
-| `StiTextInCells([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new StiTextInCells. |
-| `StiTextInCells([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect, string text)` | Creates a new StiTextInCells. |
+| **StiTextInCells**() | Creates a new StiTextInCells. |
+| **StiTextInCells**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new StiTextInCells. |
+| **StiTextInCells**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect, string text) | Creates a new StiTextInCells. |
 
 ### Methods
 

@@ -19,7 +19,7 @@ Inherits from: [StiHorizontalListBoxElementControl](StiHorizontalListBoxElementC
 
 | Constructor | Description |
 | --- | --- |
-| `StiOneHorizontalListBoxElementControl(IStiElement element)` |  |
+| **StiOneHorizontalListBoxElementControl**(IStiElement element) |  |
 
 ### Methods
 

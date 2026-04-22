@@ -19,10 +19,10 @@ Inherits from: [StiSqlSource](StiSqlSource.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiQuickBooksSource()` |  |
-| `StiQuickBooksSource(string nameInSource, string name)` |  |
-| `StiQuickBooksSource(string nameInSource, string name, string alias)` |  |
-| `StiQuickBooksSource(string nameInSource, string name, string alias, string sqlCommand)` |  |
+| **StiQuickBooksSource**() |  |
+| **StiQuickBooksSource**(string nameInSource, string name) |  |
+| **StiQuickBooksSource**(string nameInSource, string name, string alias) |  |
+| **StiQuickBooksSource**(string nameInSource, string name, string alias, string sqlCommand) |  |
 
 ### Methods
 

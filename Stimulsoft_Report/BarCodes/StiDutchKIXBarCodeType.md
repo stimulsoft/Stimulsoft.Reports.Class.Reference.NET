@@ -21,8 +21,8 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiDutchKIXBarCodeType()` |  |
-| `StiDutchKIXBarCodeType(float module, float height)` |  |
+| **StiDutchKIXBarCodeType**() |  |
+| **StiDutchKIXBarCodeType**(float module, float height) |  |
 
 ### Properties
 

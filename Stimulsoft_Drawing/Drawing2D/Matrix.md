@@ -19,8 +19,8 @@ Implements: IDisposable
 
 | Constructor | Description |
 | --- | --- |
-| `Matrix()` |  |
-| `Matrix(float m11, float m12, float m21, float m22, float dx, float dy)` |  |
+| **Matrix**() |  |
+| **Matrix**(float m11, float m12, float m21, float m22, float dx, float dy) |  |
 
 ### Properties
 

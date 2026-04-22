@@ -17,8 +17,8 @@ public class StiSerializing
 
 | Constructor | Description |
 | --- | --- |
-| `StiSerializing()` | Creates a new instance of the StiSerializing class. |
-| `StiSerializing([StiObjectStringConverter](../StiObjectStringConverter.md) converter)` | Creates a new instance of the StiSerializing class. |
+| **StiSerializing**() | Creates a new instance of the StiSerializing class. |
+| **StiSerializing**([StiObjectStringConverter](../StiObjectStringConverter.md) converter) | Creates a new instance of the StiSerializing class. |
 
 ### Properties
 

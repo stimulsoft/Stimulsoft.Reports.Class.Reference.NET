@@ -19,8 +19,8 @@ Inherits from: [StiDataMatrixBarCodeType](StiDataMatrixBarCodeType.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGS1DataMatrixBarCodeType()` |  |
-| `StiGS1DataMatrixBarCodeType(float module, [StiDataMatrixEncodingType](StiDataMatrixEncodingType.md) encodingType, bool useRectangularSymbols, [StiDataMatrixSize](StiDataMatrixSize.md) matrixSize, bool processTilde)` |  |
+| **StiGS1DataMatrixBarCodeType**() |  |
+| **StiGS1DataMatrixBarCodeType**(float module, [StiDataMatrixEncodingType](StiDataMatrixEncodingType.md) encodingType, bool useRectangularSymbols, [StiDataMatrixSize](StiDataMatrixSize.md) matrixSize, bool processTilde) |  |
 
 ### Properties
 

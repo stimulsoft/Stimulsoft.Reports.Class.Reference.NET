@@ -21,8 +21,8 @@ Implements: [IContractResolver](IContractResolver.md)
 
 | Constructor | Description |
 | --- | --- |
-| `DefaultContractResolver()` | Initializes a new instance of the DefaultContractResolver class. |
-| `DefaultContractResolver(bool shareCache)` |  |
+| **DefaultContractResolver**() | Initializes a new instance of the DefaultContractResolver class. |
+| **DefaultContractResolver**(bool shareCache) |  |
 
 ### Properties
 

@@ -19,4 +19,4 @@ Inherits from: [StiPieAreaGeom](StiPieAreaGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSunburstAreaGeom(IStiArea area, RectangleF clientRectangle)` |  |
+| **StiSunburstAreaGeom**(IStiArea area, RectangleF clientRectangle) |  |

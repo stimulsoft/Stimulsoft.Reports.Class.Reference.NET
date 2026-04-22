@@ -19,7 +19,7 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| `StiWCFExportEventArgs(bytedata , string filter, [StiReport](../StiReport.md) report)` |  |
+| **StiWCFExportEventArgs**(bytedata , string filter, [StiReport](../StiReport.md) report) |  |
 
 ### Fields
 

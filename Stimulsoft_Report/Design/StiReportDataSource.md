@@ -19,8 +19,8 @@ Inherits from: Component
 
 | Constructor | Description |
 | --- | --- |
-| `StiReportDataSource()` |  |
-| `StiReportDataSource(string name, object item)` |  |
+| **StiReportDataSource**() |  |
+| **StiReportDataSource**(string name, object item) |  |
 
 ### Properties
 

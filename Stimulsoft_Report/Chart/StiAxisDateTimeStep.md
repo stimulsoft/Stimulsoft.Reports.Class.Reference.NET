@@ -19,10 +19,10 @@ Implements: IStiAxisDateTimeStep
 
 | Constructor | Description |
 | --- | --- |
-| `StiAxisDateTimeStep()` |  |
-| `StiAxisDateTimeStep([StiTimeDateStep](StiTimeDateStep.md) step, int numberOfValues)` |  |
-| `StiAxisDateTimeStep([StiTimeDateStep](StiTimeDateStep.md) step, int numberOfValues, bool interpolation)` |  |
-| `StiAxisDateTimeStep([StiTimeDateStep](StiTimeDateStep.md) step, int numberOfValues, bool interpolation, [StiDateTimeStepAggregation](StiDateTimeStepAggregation.md) aggregation)` |  |
+| **StiAxisDateTimeStep**() |  |
+| **StiAxisDateTimeStep**([StiTimeDateStep](StiTimeDateStep.md) step, int numberOfValues) |  |
+| **StiAxisDateTimeStep**([StiTimeDateStep](StiTimeDateStep.md) step, int numberOfValues, bool interpolation) |  |
+| **StiAxisDateTimeStep**([StiTimeDateStep](StiTimeDateStep.md) step, int numberOfValues, bool interpolation, [StiDateTimeStepAggregation](StiDateTimeStepAggregation.md) aggregation) |  |
 
 ### Properties
 

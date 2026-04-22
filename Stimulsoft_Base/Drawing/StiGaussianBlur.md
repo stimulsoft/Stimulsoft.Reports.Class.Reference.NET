@@ -15,7 +15,7 @@ public class StiGaussianBlur
 
 | Constructor | Description |
 | --- | --- |
-| `StiGaussianBlur([Bitmap](../../Stimulsoft_Drawing/Bitmap.md) image)` |  |
+| **StiGaussianBlur**([Bitmap](../../Stimulsoft_Drawing/Bitmap.md) image) |  |
 
 ### Methods
 

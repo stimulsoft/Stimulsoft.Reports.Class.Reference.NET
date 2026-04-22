@@ -19,9 +19,9 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiToolTipExpression()` | Creates a new expression. |
-| `StiToolTipExpression(string value)` | Creates a new expression. |
-| `StiToolTipExpression(StiComponent parent, string propertyName)` | Creates a new expression. |
+| **StiToolTipExpression**() | Creates a new expression. |
+| **StiToolTipExpression**(string value) | Creates a new expression. |
+| **StiToolTipExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
 ### Methods
 

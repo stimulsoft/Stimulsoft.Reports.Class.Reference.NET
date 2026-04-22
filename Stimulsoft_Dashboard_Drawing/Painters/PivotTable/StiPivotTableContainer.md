@@ -19,7 +19,7 @@ Implements: [IStiPivotGridContainer](../../../Stimulsoft_Report/Dashboard/IStiPi
 
 | Constructor | Description |
 | --- | --- |
-| `StiPivotTableContainer(Control control, StiPivotTableElement element)` |  |
+| **StiPivotTableContainer**(Control control, StiPivotTableElement element) |  |
 
 ### Properties
 

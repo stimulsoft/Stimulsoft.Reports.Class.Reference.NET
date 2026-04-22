@@ -22,21 +22,21 @@ Implements: IEquatable<[JValue](JValue.md)>, IFormattable, IComparable, ICompara
 
 | Constructor | Description |
 | --- | --- |
-| `JValue([JValue](JValue.md) other)` | Initializes a new instance of the JValue class from another JValue object. |
-| `JValue(long value)` | Initializes a new instance of the JValue class with the given value. |
-| `JValue(decimal value)` | Initializes a new instance of the JValue class with the given value. |
-| `JValue(char value)` | Initializes a new instance of the JValue class with the given value. |
-| `JValue(ulong value)` |  |
-| `JValue(double value)` | Initializes a new instance of the JValue class with the given value. |
-| `JValue(float value)` | Initializes a new instance of the JValue class with the given value. |
-| `JValue(DateTime value)` | Initializes a new instance of the JValue class with the given value. |
-| `JValue(DateTimeOffset value)` | Initializes a new instance of the JValue class with the given value. |
-| `JValue(bool value)` | Initializes a new instance of the JValue class with the given value. |
-| `JValue(string value)` | Initializes a new instance of the JValue class with the given value. |
-| `JValue(Guid value)` | Initializes a new instance of the JValue class with the given value. |
-| `JValue(Uri value)` | Initializes a new instance of the JValue class with the given value. |
-| `JValue(TimeSpan value)` | Initializes a new instance of the JValue class with the given value. |
-| `JValue(object value)` | Initializes a new instance of the JValue class with the given value. |
+| **JValue**([JValue](JValue.md) other) | Initializes a new instance of the JValue class from another JValue object. |
+| **JValue**(long value) | Initializes a new instance of the JValue class with the given value. |
+| **JValue**(decimal value) | Initializes a new instance of the JValue class with the given value. |
+| **JValue**(char value) | Initializes a new instance of the JValue class with the given value. |
+| **JValue**(ulong value) |  |
+| **JValue**(double value) | Initializes a new instance of the JValue class with the given value. |
+| **JValue**(float value) | Initializes a new instance of the JValue class with the given value. |
+| **JValue**(DateTime value) | Initializes a new instance of the JValue class with the given value. |
+| **JValue**(DateTimeOffset value) | Initializes a new instance of the JValue class with the given value. |
+| **JValue**(bool value) | Initializes a new instance of the JValue class with the given value. |
+| **JValue**(string value) | Initializes a new instance of the JValue class with the given value. |
+| **JValue**(Guid value) | Initializes a new instance of the JValue class with the given value. |
+| **JValue**(Uri value) | Initializes a new instance of the JValue class with the given value. |
+| **JValue**(TimeSpan value) | Initializes a new instance of the JValue class with the given value. |
+| **JValue**(object value) | Initializes a new instance of the JValue class with the given value. |
 
 ### Methods
 

@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StringList()` |  |
-| `StringList(stringvalues )` |  |
+| **StringList**() |  |
+| **StringList**(stringvalues ) |  |
 
 ### Methods
 

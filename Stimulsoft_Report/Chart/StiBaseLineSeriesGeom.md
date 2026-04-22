@@ -19,8 +19,8 @@ Inherits from: [StiSeriesGeom](StiSeriesGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiBaseLineSeriesGeom([StiAreaGeom](StiAreaGeom.md) areaGeom, [StiSeriesPointsInfo](StiSeriesPointsInfo.md) pointsInfo, IStiSeries series)` |  |
-| `StiBaseLineSeriesGeom([StiAreaGeom](StiAreaGeom.md) areaGeom, PointF?pointsFrom , PointF?points , IStiSeries series)` |  |
+| **StiBaseLineSeriesGeom**([StiAreaGeom](StiAreaGeom.md) areaGeom, [StiSeriesPointsInfo](StiSeriesPointsInfo.md) pointsInfo, IStiSeries series) |  |
+| **StiBaseLineSeriesGeom**([StiAreaGeom](StiAreaGeom.md) areaGeom, PointF?pointsFrom , PointF?points , IStiSeries series) |  |
 
 ### Properties
 

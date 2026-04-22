@@ -19,7 +19,7 @@ Inherits from: Control
 
 | Constructor | Description |
 | --- | --- |
-| `StiHintTextBox()` |  |
+| **StiHintTextBox**() |  |
 
 ### Properties
 

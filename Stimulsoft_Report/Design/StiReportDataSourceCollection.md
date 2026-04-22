@@ -19,7 +19,7 @@ Inherits from: CollectionBase
 
 | Constructor | Description |
 | --- | --- |
-| `StiReportDataSourceCollection([StiReport](../StiReport.md) report)` |  |
+| **StiReportDataSourceCollection**([StiReport](../StiReport.md) report) |  |
 
 ### Properties
 

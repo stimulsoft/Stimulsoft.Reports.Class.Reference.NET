@@ -19,7 +19,7 @@ Inherits from: CheckedListBox
 
 | Constructor | Description |
 | --- | --- |
-| `StiCheckedListBox()` |  |
+| **StiCheckedListBox**() |  |
 
 ### Properties
 

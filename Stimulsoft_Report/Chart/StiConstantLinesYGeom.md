@@ -19,7 +19,7 @@ Inherits from: StiCellGeom
 
 | Constructor | Description |
 | --- | --- |
-| `StiConstantLinesYGeom(IStiConstantLines line, RectangleF clientRectangle, PointF point, [StiRotationMode](../../Stimulsoft_Base/Drawing/StiRotationMode.md) mode)` |  |
+| **StiConstantLinesYGeom**(IStiConstantLines line, RectangleF clientRectangle, PointF point, [StiRotationMode](../../Stimulsoft_Base/Drawing/StiRotationMode.md) mode) |  |
 
 ### Methods
 

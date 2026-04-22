@@ -19,9 +19,9 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiPenGeom(Color brush)` |  |
-| `StiPenGeom([LinearGradientBrush](../../../../Stimulsoft_Drawing/Drawing2D/LinearGradientBrush.md) brush)` |  |
-| `StiPenGeom(Color brush, float thickness)` |  |
+| **StiPenGeom**(Color brush) |  |
+| **StiPenGeom**([LinearGradientBrush](../../../../Stimulsoft_Drawing/Drawing2D/LinearGradientBrush.md) brush) |  |
+| **StiPenGeom**(Color brush, float thickness) |  |
 
 ### Properties
 

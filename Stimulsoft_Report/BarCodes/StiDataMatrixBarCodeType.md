@@ -19,9 +19,9 @@ Inherits from: StiBarCodeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataMatrixBarCodeType()` |  |
-| `StiDataMatrixBarCodeType(float module, [StiDataMatrixEncodingType](StiDataMatrixEncodingType.md) encodingType, bool useRectangularSymbols, [StiDataMatrixSize](StiDataMatrixSize.md) matrixSize)` |  |
-| `StiDataMatrixBarCodeType(float module, [StiDataMatrixEncodingType](StiDataMatrixEncodingType.md) encodingType, bool useRectangularSymbols, [StiDataMatrixSize](StiDataMatrixSize.md) matrixSize, bool processTilde)` |  |
+| **StiDataMatrixBarCodeType**() |  |
+| **StiDataMatrixBarCodeType**(float module, [StiDataMatrixEncodingType](StiDataMatrixEncodingType.md) encodingType, bool useRectangularSymbols, [StiDataMatrixSize](StiDataMatrixSize.md) matrixSize) |  |
+| **StiDataMatrixBarCodeType**(float module, [StiDataMatrixEncodingType](StiDataMatrixEncodingType.md) encodingType, bool useRectangularSymbols, [StiDataMatrixSize](StiDataMatrixSize.md) matrixSize, bool processTilde) |  |
 
 ### Properties
 

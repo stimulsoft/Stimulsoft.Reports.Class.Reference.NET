@@ -19,8 +19,8 @@ Inherits from: StiSignature
 
 | Constructor | Description |
 | --- | --- |
-| `StiPdfDigitalSignature()` | Creates a new component of the type StiPdfDigitalSignature. |
-| `StiPdfDigitalSignature([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect)` | Creates a new component of the type StiPdfDigitalSignature. |
+| **StiPdfDigitalSignature**() | Creates a new component of the type StiPdfDigitalSignature. |
+| **StiPdfDigitalSignature**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new component of the type StiPdfDigitalSignature. |
 
 ### Properties
 

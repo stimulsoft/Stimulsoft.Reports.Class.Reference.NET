@@ -15,7 +15,7 @@ public class StiAppsColumnEx
 
 | Constructor | Description |
 | --- | --- |
-| `StiAppsColumnEx([StiAppsColumn](StiAppsColumn.md) column)` |  |
+| **StiAppsColumnEx**([StiAppsColumn](StiAppsColumn.md) column) |  |
 
 ### Properties
 

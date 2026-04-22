@@ -19,9 +19,9 @@ Inherits from: [StiBrush](StiBrush.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiGlareBrush()` | Creates a new instance of the StiGlareBrush class. |
-| `StiGlareBrush(Color startColor, Color endColor, double angle)` | Creates a new instance of the StiGlareBrush class. |
-| `StiGlareBrush(Color startColor, Color endColor, double angle, float focus, float scale)` | Creates a new instance of the StiGlareBrush class. |
+| **StiGlareBrush**() | Creates a new instance of the StiGlareBrush class. |
+| **StiGlareBrush**(Color startColor, Color endColor, double angle) | Creates a new instance of the StiGlareBrush class. |
+| **StiGlareBrush**(Color startColor, Color endColor, double angle, float focus, float scale) | Creates a new instance of the StiGlareBrush class. |
 
 ### Properties
 

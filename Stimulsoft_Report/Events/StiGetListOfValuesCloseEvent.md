@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetListOfValuesCloseEvent()` | Creates a new object of the type StiGetListOfValuesCloseEvent. |
-| `StiGetListOfValuesCloseEvent(string script)` | Creates a new object of the type StiGetListOfValuesCloseEvent with specified arguments. |
-| `StiGetListOfValuesCloseEvent(StiComponent parent)` | Creates a new object of the type StiGetListOfValuesCloseEvent with specified arguments. |
+| **StiGetListOfValuesCloseEvent**() | Creates a new object of the type StiGetListOfValuesCloseEvent. |
+| **StiGetListOfValuesCloseEvent**(string script) | Creates a new object of the type StiGetListOfValuesCloseEvent with specified arguments. |
+| **StiGetListOfValuesCloseEvent**(StiComponent parent) | Creates a new object of the type StiGetListOfValuesCloseEvent with specified arguments. |
 
 ### Methods
 

@@ -19,7 +19,7 @@ Inherits from: [StiMapStyleFX](StiMapStyleFX.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMap24StyleFX()` |  |
+| **StiMap24StyleFX**() |  |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Inherits from: [StiMySqlConnector](StiMySqlConnector.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMariaDbConnector(string connectionString)` |  |
+| **StiMariaDbConnector**(string connectionString) |  |
 
 ### Methods
 

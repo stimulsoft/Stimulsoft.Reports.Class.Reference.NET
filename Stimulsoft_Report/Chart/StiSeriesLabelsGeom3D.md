@@ -19,7 +19,7 @@ Inherits from: [StiGeom3D](StiGeom3D.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiSeriesLabelsGeom3D(IStiSeriesLabels seriesLabels, IStiSeries series, int index, double value, [StiRender3D](StiRender3D.md) render3D)` |  |
+| **StiSeriesLabelsGeom3D**(IStiSeriesLabels seriesLabels, IStiSeries series, int index, double value, [StiRender3D](StiRender3D.md) render3D) |  |
 
 ### Properties
 

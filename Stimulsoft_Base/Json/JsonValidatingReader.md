@@ -20,7 +20,7 @@ Implements: [IJsonLineInfo](IJsonLineInfo.md)
 
 | Constructor | Description |
 | --- | --- |
-| `JsonValidatingReader([JsonReader](JsonReader.md) reader)` | Initializes a new instance of the JsonValidatingReader class that validates the content returned from the given JsonReader. |
+| **JsonValidatingReader**([JsonReader](JsonReader.md) reader) | Initializes a new instance of the JsonValidatingReader class that validates the content returned from the given JsonReader. |
 
 ### Properties
 

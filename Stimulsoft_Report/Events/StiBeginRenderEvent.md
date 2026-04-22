@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiBeginRenderEvent()` | Creates a new object of the type StiBeginRenderEvent. |
-| `StiBeginRenderEvent(string script)` | Creates a new object of the type StiBeginRenderEvent with specified arguments. |
-| `StiBeginRenderEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiBeginRenderEvent**() | Creates a new object of the type StiBeginRenderEvent. |
+| **StiBeginRenderEvent**(string script) | Creates a new object of the type StiBeginRenderEvent with specified arguments. |
+| **StiBeginRenderEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

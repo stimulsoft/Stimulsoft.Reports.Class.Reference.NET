@@ -19,7 +19,7 @@ Inherits from: StiChartStyle
 
 | Constructor | Description |
 | --- | --- |
-| `StiStyle02()` |  |
+| **StiStyle02**() |  |
 
 ### Methods
 

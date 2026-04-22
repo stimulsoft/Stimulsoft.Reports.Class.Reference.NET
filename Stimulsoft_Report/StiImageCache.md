@@ -15,9 +15,9 @@ public class StiImageCache
 
 | Constructor | Description |
 | --- | --- |
-| `StiImageCache(bool useImageComparer)` |  |
-| `StiImageCache(bool useImageComparer, [ImageFormat](../Stimulsoft_Drawing/Imaging/ImageFormat.md) imageFormat, float imageQuality)` | ImageCache initialization |
-| `StiImageCache(bool useImageComparer, [ImageFormat](../Stimulsoft_Drawing/Imaging/ImageFormat.md) imageFormat, float imageQuality, bool useImageTransparency, int paletteSize)` | ImageCache initialization |
+| **StiImageCache**(bool useImageComparer) |  |
+| **StiImageCache**(bool useImageComparer, [ImageFormat](../Stimulsoft_Drawing/Imaging/ImageFormat.md) imageFormat, float imageQuality) | ImageCache initialization |
+| **StiImageCache**(bool useImageComparer, [ImageFormat](../Stimulsoft_Drawing/Imaging/ImageFormat.md) imageFormat, float imageQuality, bool useImageTransparency, int paletteSize) | ImageCache initialization |
 
 ### Properties
 

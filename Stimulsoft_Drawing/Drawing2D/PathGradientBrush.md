@@ -19,7 +19,7 @@ Inherits from: [Brush](../Brush.md)
 
 | Constructor | Description |
 | --- | --- |
-| `PathGradientBrush([GraphicsPath](GraphicsPath.md) path)` |  |
+| **PathGradientBrush**([GraphicsPath](GraphicsPath.md) path) |  |
 
 ### Fields
 

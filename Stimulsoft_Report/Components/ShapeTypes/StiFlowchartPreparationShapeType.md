@@ -19,8 +19,8 @@ Inherits from: StiShapeTypeService
 
 | Constructor | Description |
 | --- | --- |
-| `StiFlowchartPreparationShapeType()` | Creates a new StiFlowchartPreparationShapeType. |
-| `StiFlowchartPreparationShapeType([StiShapeDirection](StiShapeDirection.md) direction)` | Creates a new StiFlowchartPreparationShapeType with specified arguments. |
+| **StiFlowchartPreparationShapeType**() | Creates a new StiFlowchartPreparationShapeType. |
+| **StiFlowchartPreparationShapeType**([StiShapeDirection](StiShapeDirection.md) direction) | Creates a new StiFlowchartPreparationShapeType with specified arguments. |
 
 ### Properties
 

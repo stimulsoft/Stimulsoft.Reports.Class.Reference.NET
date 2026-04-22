@@ -20,8 +20,8 @@ Implements: [IStiList](IStiList.md)
 
 | Constructor | Description |
 | --- | --- |
-| `BoolList()` |  |
-| `BoolList(boolvalues )` |  |
+| **BoolList**() |  |
+| **BoolList**(boolvalues ) |  |
 
 ### Methods
 

@@ -19,8 +19,8 @@ Inherits from: [StiGeom3D](StiGeom3D.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiLinesGeom3D(List<[StiPoint3D](StiPoint3D.md)> points, Color color, float lineWidth, [StiPenStyle](../../Stimulsoft_Base/Drawing/StiPenStyle.md) style, [StiRender3D](StiRender3D.md) render3D)` |  |
-| `StiLinesGeom3D(Color color, float lineWidth, [StiPenStyle](../../Stimulsoft_Base/Drawing/StiPenStyle.md) style, [StiRender3D](StiRender3D.md) render3D, StiPoint3Dpoints )` |  |
+| **StiLinesGeom3D**(List<[StiPoint3D](StiPoint3D.md)> points, Color color, float lineWidth, [StiPenStyle](../../Stimulsoft_Base/Drawing/StiPenStyle.md) style, [StiRender3D](StiRender3D.md) render3D) |  |
+| **StiLinesGeom3D**(Color color, float lineWidth, [StiPenStyle](../../Stimulsoft_Base/Drawing/StiPenStyle.md) style, [StiRender3D](StiRender3D.md) render3D, StiPoint3Dpoints ) |  |
 
 ### Properties
 

@@ -19,7 +19,7 @@ Inherits from: StiSeriesCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiTreemapSeriesCoreXF(IStiSeries series)` |  |
+| **StiTreemapSeriesCoreXF**(IStiSeries series) |  |
 
 ### Methods
 

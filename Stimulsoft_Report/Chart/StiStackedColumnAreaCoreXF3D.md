@@ -19,7 +19,7 @@ Inherits from: [StiAxisAreaCoreXF3D](StiAxisAreaCoreXF3D.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiStackedColumnAreaCoreXF3D(IStiArea area)` |  |
+| **StiStackedColumnAreaCoreXF3D**(IStiArea area) |  |
 
 ### Methods
 

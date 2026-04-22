@@ -15,7 +15,7 @@ public class StiRow
 
 | Constructor | Description |
 | --- | --- |
-| `StiRow(object value, object displayValue)` |  |
+| **StiRow**(object value, object displayValue) |  |
 
 ### Properties
 

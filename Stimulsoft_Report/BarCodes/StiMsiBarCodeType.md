@@ -21,8 +21,8 @@ Inherits from: [StiPlesseyBarCodeType](StiPlesseyBarCodeType.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiMsiBarCodeType()` |  |
-| `StiMsiBarCodeType(float module, float height, [StiPlesseyCheckSum](StiPlesseyCheckSum.md) checkSum1, [StiPlesseyCheckSum](StiPlesseyCheckSum.md) checkSum2)` |  |
+| **StiMsiBarCodeType**() |  |
+| **StiMsiBarCodeType**(float module, float height, [StiPlesseyCheckSum](StiPlesseyCheckSum.md) checkSum1, [StiPlesseyCheckSum](StiPlesseyCheckSum.md) checkSum2) |  |
 
 ### Methods
 

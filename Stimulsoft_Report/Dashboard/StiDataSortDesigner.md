@@ -21,7 +21,7 @@ Inherits from: [StiComponentDesigner](../Components/Design/StiComponentDesigner.
 
 | Constructor | Description |
 | --- | --- |
-| `StiDataSortDesigner([IStiDesignerBase](../Design/IStiDesignerBase.md) designer)` |  |
+| **StiDataSortDesigner**([IStiDesignerBase](../Design/IStiDesignerBase.md) designer) |  |
 
 ### Methods
 

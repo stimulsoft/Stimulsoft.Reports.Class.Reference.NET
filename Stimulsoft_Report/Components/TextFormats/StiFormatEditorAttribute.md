@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiFormatEditorAttribute(string editorTypeName)` |  |
-| `StiFormatEditorAttribute(Type type)` |  |
+| **StiFormatEditorAttribute**(string editorTypeName) |  |
+| **StiFormatEditorAttribute**(Type type) |  |
 
 ### Properties
 

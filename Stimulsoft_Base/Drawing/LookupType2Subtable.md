@@ -19,7 +19,7 @@ Inherits from: [LookupSubtable](LookupSubtable.md)
 
 | Constructor | Description |
 | --- | --- |
-| `LookupType2Subtable()` |  |
+| **LookupType2Subtable**() |  |
 
 ### Properties
 

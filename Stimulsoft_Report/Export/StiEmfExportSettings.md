@@ -21,4 +21,4 @@ Inherits from: StiImageExportSettings
 
 | Constructor | Description |
 | --- | --- |
-| `StiEmfExportSettings()` |  |
+| **StiEmfExportSettings**() |  |

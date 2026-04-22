@@ -19,4 +19,4 @@ Inherits from: [StiScatterAreaCoreXF](StiScatterAreaCoreXF.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiBubbleAreaCoreXF(IStiArea area)` |  |
+| **StiBubbleAreaCoreXF**(IStiArea area) |  |

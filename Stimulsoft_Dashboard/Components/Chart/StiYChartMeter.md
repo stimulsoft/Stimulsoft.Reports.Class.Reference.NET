@@ -21,9 +21,9 @@ Inherits from: StiDimensionMeter
 
 | Constructor | Description |
 | --- | --- |
-| `StiYChartMeter()` |  |
-| `StiYChartMeter(string expression, string label)` |  |
-| `StiYChartMeter(string key, string expression, string label)` |  |
+| **StiYChartMeter**() |  |
+| **StiYChartMeter**(string expression, string label) |  |
+| **StiYChartMeter**(string key, string expression, string label) |  |
 
 ### Properties
 

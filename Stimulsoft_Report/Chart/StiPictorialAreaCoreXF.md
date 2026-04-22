@@ -19,7 +19,7 @@ Inherits from: StiAreaCoreXF
 
 | Constructor | Description |
 | --- | --- |
-| `StiPictorialAreaCoreXF(IStiArea area)` |  |
+| **StiPictorialAreaCoreXF**(IStiArea area) |  |
 
 ### Methods
 

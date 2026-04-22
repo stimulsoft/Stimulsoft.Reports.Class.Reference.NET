@@ -19,7 +19,7 @@ Inherits from: Panel
 
 | Constructor | Description |
 | --- | --- |
-| `StiCheckedComboBox(StiComboBoxElement element)` |  |
+| **StiCheckedComboBox**(StiComboBoxElement element) |  |
 
 ### Properties
 

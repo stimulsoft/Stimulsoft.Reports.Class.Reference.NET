@@ -19,7 +19,7 @@ Inherits from: [StiTreeStateCheckBox](StiTreeStateCheckBox.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiAllCheckBox()` |  |
+| **StiAllCheckBox**() |  |
 
 ### Methods
 

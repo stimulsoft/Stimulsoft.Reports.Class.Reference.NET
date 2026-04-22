@@ -15,7 +15,7 @@ public class StiControlColorCollection
 
 | Constructor | Description |
 | --- | --- |
-| `StiControlColorCollection(Control control)` |  |
+| **StiControlColorCollection**(Control control) |  |
 
 ### Properties
 

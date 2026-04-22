@@ -15,7 +15,7 @@ public sealed class StiRecentFolder
 
 | Constructor | Description |
 | --- | --- |
-| `StiRecentFolder()` |  |
+| **StiRecentFolder**() |  |
 
 ### Properties
 

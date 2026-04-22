@@ -21,7 +21,7 @@ Inherits from: StiForm
 
 | Constructor | Description |
 | --- | --- |
-| `StiViewDataForm(IStiElement element)` |  |
+| **StiViewDataForm**(IStiElement element) |  |
 
 ### Methods
 

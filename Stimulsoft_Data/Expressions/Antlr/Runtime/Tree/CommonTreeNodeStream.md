@@ -20,8 +20,8 @@ Implements: [ITreeNodeStream](ITreeNodeStream.md), [IPositionTrackingStream](IPo
 
 | Constructor | Description |
 | --- | --- |
-| `CommonTreeNodeStream(object tree)` |  |
-| `CommonTreeNodeStream([ITreeAdaptor](ITreeAdaptor.md) adaptor, object tree)` |  |
+| **CommonTreeNodeStream**(object tree) |  |
+| **CommonTreeNodeStream**([ITreeAdaptor](ITreeAdaptor.md) adaptor, object tree) |  |
 
 ### Methods
 

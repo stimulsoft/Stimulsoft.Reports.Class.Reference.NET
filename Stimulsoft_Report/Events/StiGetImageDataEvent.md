@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiGetImageDataEvent()` | Creates a new object of the type StiGetImageDataEvent. |
-| `StiGetImageDataEvent(string script)` | Creates a new object of the type StiGetImageDataEvent with specified arguments. |
-| `StiGetImageDataEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiGetImageDataEvent**() | Creates a new object of the type StiGetImageDataEvent. |
+| **StiGetImageDataEvent**(string script) | Creates a new object of the type StiGetImageDataEvent with specified arguments. |
+| **StiGetImageDataEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

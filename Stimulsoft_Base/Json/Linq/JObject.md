@@ -22,10 +22,10 @@ Implements: IDictionary<string, [JToken](JToken.md)>, INotifyPropertyChanged
 
 | Constructor | Description |
 | --- | --- |
-| `JObject()` | Initializes a new instance of the JObject class. |
-| `JObject([JObject](JObject.md) other)` | Initializes a new instance of the JObject class from another JObject object. |
-| `JObject(objectcontent )` | Initializes a new instance of the JObject class with the specified content. |
-| `JObject(object content)` | Initializes a new instance of the JObject class with the specified content. |
+| **JObject**() | Initializes a new instance of the JObject class. |
+| **JObject**([JObject](JObject.md) other) | Initializes a new instance of the JObject class from another JObject object. |
+| **JObject**(objectcontent ) | Initializes a new instance of the JObject class with the specified content. |
+| **JObject**(object content) | Initializes a new instance of the JObject class with the specified content. |
 
 ### Methods
 

@@ -19,9 +19,9 @@ Inherits from: StiEvent
 
 | Constructor | Description |
 | --- | --- |
-| `StiMouseLeaveEvent()` | Creates a new object of the type StiMouseLeaveEvent. |
-| `StiMouseLeaveEvent(string script)` | Creates a new object of the type StiMouseLeaveEvent with specified arguments. |
-| `StiMouseLeaveEvent(StiComponent parent)` | Creates a new object of the type StiEvent with specified arguments. |
+| **StiMouseLeaveEvent**() | Creates a new object of the type StiMouseLeaveEvent. |
+| **StiMouseLeaveEvent**(string script) | Creates a new object of the type StiMouseLeaveEvent with specified arguments. |
+| **StiMouseLeaveEvent**(StiComponent parent) | Creates a new object of the type StiEvent with specified arguments. |
 
 ### Methods
 

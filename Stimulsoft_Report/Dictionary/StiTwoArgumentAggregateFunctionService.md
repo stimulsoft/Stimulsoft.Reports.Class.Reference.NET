@@ -19,8 +19,8 @@ Inherits from: StiAggregateFunctionService
 
 | Constructor | Description |
 | --- | --- |
-| `StiTwoArgumentAggregateFunctionService()` |  |
-| `StiTwoArgumentAggregateFunctionService(bool runningTotal)` |  |
+| **StiTwoArgumentAggregateFunctionService**() |  |
+| **StiTwoArgumentAggregateFunctionService**(bool runningTotal) |  |
 
 ### Methods
 

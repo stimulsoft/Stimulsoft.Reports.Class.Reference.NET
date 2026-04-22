@@ -19,8 +19,8 @@ Inherits from: StiExpression
 
 | Constructor | Description |
 | --- | --- |
-| `StiDisplayCrossValueExpression()` | Creates a new expression. |
-| `StiDisplayCrossValueExpression(string value)` | Creates a new expression. |
+| **StiDisplayCrossValueExpression**() | Creates a new expression. |
+| **StiDisplayCrossValueExpression**(string value) | Creates a new expression. |
 
 ### Methods
 

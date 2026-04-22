@@ -15,7 +15,7 @@ public class StiTablePartDrawer
 
 | Constructor | Description |
 | --- | --- |
-| `StiTablePartDrawer(DataGridViewCellPaintingEventArgs cellArgs, DataGridView grid)` |  |
+| **StiTablePartDrawer**(DataGridViewCellPaintingEventArgs cellArgs, DataGridView grid) |  |
 
 ### Properties
 

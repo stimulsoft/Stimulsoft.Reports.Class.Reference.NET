@@ -15,7 +15,7 @@ public class StiCosmosMongoDbApiHelper
 
 | Constructor | Description |
 | --- | --- |
-| `StiCosmosMongoDbApiHelper(string connectionString, string nugetVersion)` |  |
+| **StiCosmosMongoDbApiHelper**(string connectionString, string nugetVersion) |  |
 
 ### Methods
 

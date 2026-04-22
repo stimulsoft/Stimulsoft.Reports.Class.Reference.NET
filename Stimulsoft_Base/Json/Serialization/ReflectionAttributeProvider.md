@@ -21,7 +21,7 @@ Implements: [IAttributeProvider](IAttributeProvider.md)
 
 | Constructor | Description |
 | --- | --- |
-| `ReflectionAttributeProvider(object attributeProvider)` | Initializes a new instance of the ReflectionAttributeProvider class. |
+| **ReflectionAttributeProvider**(object attributeProvider) | Initializes a new instance of the ReflectionAttributeProvider class. |
 
 ### Methods
 

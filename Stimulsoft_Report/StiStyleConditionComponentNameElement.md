@@ -19,8 +19,8 @@ Inherits from: [StiStyleConditionElement](StiStyleConditionElement.md)
 
 | Constructor | Description |
 | --- | --- |
-| `StiStyleConditionComponentNameElement(string componentName)` |  |
-| `StiStyleConditionComponentNameElement(string componentName, [StiStyleConditionOperation](StiStyleConditionOperation.md) operationComponentName)` |  |
+| **StiStyleConditionComponentNameElement**(string componentName) |  |
+| **StiStyleConditionComponentNameElement**(string componentName, [StiStyleConditionOperation](StiStyleConditionOperation.md) operationComponentName) |  |
 
 ### Properties
 

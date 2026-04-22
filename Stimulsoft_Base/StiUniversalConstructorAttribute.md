@@ -19,8 +19,8 @@ Inherits from: Attribute
 
 | Constructor | Description |
 | --- | --- |
-| `StiUniversalConstructorAttribute()` |  |
-| `StiUniversalConstructorAttribute(string name)` |  |
+| **StiUniversalConstructorAttribute**() |  |
+| **StiUniversalConstructorAttribute**(string name) |  |
 
 ### Properties
 

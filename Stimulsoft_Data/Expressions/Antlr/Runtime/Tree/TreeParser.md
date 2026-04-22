@@ -19,8 +19,8 @@ Inherits from: [BaseRecognizer](../BaseRecognizer.md)
 
 | Constructor | Description |
 | --- | --- |
-| `TreeParser([ITreeNodeStream](ITreeNodeStream.md) input)` |  |
-| `TreeParser([ITreeNodeStream](ITreeNodeStream.md) input, [RecognizerSharedState](../RecognizerSharedState.md) state)` |  |
+| **TreeParser**([ITreeNodeStream](ITreeNodeStream.md) input) |  |
+| **TreeParser**([ITreeNodeStream](ITreeNodeStream.md) input, [RecognizerSharedState](../RecognizerSharedState.md) state) |  |
 
 ### Methods
 
