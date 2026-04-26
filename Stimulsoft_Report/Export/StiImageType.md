@@ -4,14 +4,9 @@ title: "StiImageType Enum"
 
 ## StiImageType Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration describes a type of the images for the exports.
-
-```csharp
-public enum StiImageType
-```
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiGaugeType Enum"
 
 ## StiGaugeType Enum
 
-**Namespace:** `Stimulsoft.Report.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiGaugeType
-```
+**Namespace:** `Stimulsoft.Report.Gauge`
 
 ### Members
 

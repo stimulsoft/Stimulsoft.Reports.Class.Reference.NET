@@ -4,14 +4,9 @@ title: "StiStyleConditionsCollectionConverter Class"
 
 ## StiStyleConditionsCollectionConverter Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Design`
 
 Provides a type converter to convert style conditions to string.
-
-```csharp
-public class StiStyleConditionsCollectionConverter
-```
 
 ### Inheritance
 

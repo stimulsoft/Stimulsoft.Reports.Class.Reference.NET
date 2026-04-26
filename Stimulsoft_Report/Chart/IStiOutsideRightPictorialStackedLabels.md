@@ -4,12 +4,7 @@ title: "IStiOutsideRightPictorialStackedLabels Interface"
 
 ## IStiOutsideRightPictorialStackedLabels Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiOutsideRightPictorialStackedLabels
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiDecimalRangeDialogInfoItem Class"
 
 ## StiDecimalRangeDialogInfoItem Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDecimalRangeDialogInfoItem
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 
@@ -20,3 +15,6 @@ Inherits from: [StiRangeDialogInfoItem](StiRangeDialogInfoItem.md)
 | Constructor | Description |
 | --- | --- |
 | **StiDecimalRangeDialogInfoItem**() |  |
+
+**StiDecimalRangeDialogInfoItem**()
+

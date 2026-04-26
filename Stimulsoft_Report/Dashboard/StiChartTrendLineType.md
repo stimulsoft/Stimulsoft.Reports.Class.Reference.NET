@@ -4,12 +4,7 @@ title: "StiChartTrendLineType Enum"
 
 ## StiChartTrendLineType Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiChartTrendLineType
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

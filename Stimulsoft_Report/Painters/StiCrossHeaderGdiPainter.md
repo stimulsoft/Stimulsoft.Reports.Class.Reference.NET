@@ -4,12 +4,7 @@ title: "StiCrossHeaderGdiPainter Class"
 
 ## StiCrossHeaderGdiPainter Class
 
-**Namespace:** `Stimulsoft.Report.Painters`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCrossHeaderGdiPainter
-```
+**Namespace:** `Stimulsoft.Report.Painters`
 
 ### Inheritance
 
@@ -20,3 +15,17 @@ Inherits from: [StiTextGdiPainter](StiTextGdiPainter.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **PaintInteraction** | void |  |
+
+---
+
+### Method Details
+
+#### PaintInteraction
+
+**PaintInteraction**(**component**: StiComponent, **g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md)): void
+
+**Parameters**
+
+- **component** (StiComponent)  
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+

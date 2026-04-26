@@ -4,18 +4,16 @@ title: "StiSeriesPointsInfo Class"
 
 ## StiSeriesPointsInfo Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSeriesPointsInfo
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiSeriesPointsInfo**() |  |
+
+**StiSeriesPointsInfo**()
+
 
 ### Properties
 

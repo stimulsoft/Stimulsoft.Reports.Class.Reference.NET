@@ -4,12 +4,7 @@ title: "StiWCFCheckObjectType Enum"
 
 ## StiWCFCheckObjectType Enum
 
-**Namespace:** `Stimulsoft.Report.WCFService`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiWCFCheckObjectType
-```
+**Namespace:** `Stimulsoft.Report.WCFService`
 
 ### Members
 

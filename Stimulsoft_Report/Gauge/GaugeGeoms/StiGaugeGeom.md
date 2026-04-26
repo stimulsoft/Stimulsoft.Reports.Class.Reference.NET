@@ -4,12 +4,7 @@ title: "StiGaugeGeom Class"
 
 ## StiGaugeGeom Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiGaugeGeom
-```
+**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`
 
 ### Properties
 

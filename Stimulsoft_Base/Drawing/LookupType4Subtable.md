@@ -4,12 +4,7 @@ title: "LookupType4Subtable Class"
 
 ## LookupType4Subtable Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class LookupType4Subtable
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: [LookupSubtable](LookupSubtable.md)
 | Constructor | Description |
 | --- | --- |
 | **LookupType4Subtable**() |  |
+
+**LookupType4Subtable**()
+
 
 ### Properties
 
@@ -33,3 +31,14 @@ Inherits from: [LookupSubtable](LookupSubtable.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetDigestCoverage** | ushort[] |  |
+
+---
+
+### Method Details
+
+#### GetDigestCoverage
+
+**GetDigestCoverage**(): ushort[]
+
+**Returns** ushort[]
+

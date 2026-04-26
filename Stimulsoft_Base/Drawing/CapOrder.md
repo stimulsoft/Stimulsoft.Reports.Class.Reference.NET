@@ -4,12 +4,7 @@ title: "CapOrder Enum"
 
 ## CapOrder Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum CapOrder
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

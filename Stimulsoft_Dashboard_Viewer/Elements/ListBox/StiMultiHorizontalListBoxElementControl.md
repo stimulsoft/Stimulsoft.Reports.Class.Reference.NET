@@ -4,12 +4,7 @@ title: "StiMultiHorizontalListBoxElementControl Class"
 
 ## StiMultiHorizontalListBoxElementControl Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.ListBox`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiMultiHorizontalListBoxElementControl
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.ListBox`
 
 ### Inheritance
 
@@ -21,6 +16,13 @@ Inherits from: [StiHorizontalListBoxElementControl](StiHorizontalListBoxElementC
 | --- | --- |
 | **StiMultiHorizontalListBoxElementControl**(IStiElement element) |  |
 
+**StiMultiHorizontalListBoxElementControl**(**element**: IStiElement)
+
+**Parameters**
+
+- **element** (IStiElement)  
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -29,3 +31,46 @@ Inherits from: [StiHorizontalListBoxElementControl](StiHorizontalListBoxElementC
 | **RefreshChildControl** | void |  |
 | **RefreshFilter** | void |  |
 | **SetDefaultSelection** | void |  |
+
+---
+
+### Method Details
+
+#### ListViewControl_ItemSelectionChanged
+
+**ListViewControl_ItemSelectionChanged**(**sender**: object, **e**: [StiListBoxItemSelectionChangedEventArgs](../../Controls/ListBox/StiListBoxItemSelectionChangedEventArgs.md)): void
+
+**Parameters**
+
+- **sender** (object)  
+- **e** ([StiListBoxItemSelectionChangedEventArgs](../../Controls/ListBox/StiListBoxItemSelectionChangedEventArgs.md))  
+
+
+---
+
+#### RefreshChildControl
+
+**RefreshChildControl**(****: StiListBoxItemitems): void
+
+**Parameters**
+
+- **** (StiListBoxItemitems)  
+
+
+---
+
+#### RefreshFilter
+
+**RefreshFilter**(): void
+
+
+---
+
+#### SetDefaultSelection
+
+**SetDefaultSelection**(**lockRefresh**: bool): void
+
+**Parameters**
+
+- **lockRefresh** (bool)  
+

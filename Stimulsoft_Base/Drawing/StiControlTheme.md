@@ -4,12 +4,7 @@ title: "StiControlTheme Enum"
 
 ## StiControlTheme Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiControlTheme
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

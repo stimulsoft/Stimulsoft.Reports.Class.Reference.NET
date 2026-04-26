@@ -4,12 +4,7 @@ title: "StiComponentInfo Class"
 
 ## StiComponentInfo Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiComponentInfo
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Inheritance
 
@@ -20,3 +15,14 @@ Implements: ICloneable
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Clone** | object |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+**Returns** object
+

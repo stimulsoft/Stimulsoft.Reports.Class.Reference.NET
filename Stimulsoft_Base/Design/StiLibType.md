@@ -4,12 +4,7 @@ title: "StiLibType Enum"
 
 ## StiLibType Enum
 
-**Namespace:** `Stimulsoft.Base.Design`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiLibType
-```
+**Namespace:** `Stimulsoft.Base.Design`
 
 ### Members
 

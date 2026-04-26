@@ -4,16 +4,11 @@ title: "StiLicenseKeyContainer Class"
 
 ## StiLicenseKeyContainer Class
 
-**Namespace:** `Stimulsoft.Base.Licenses`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiLicenseKeyContainer
-```
+**Namespace:** `Stimulsoft.Base.Licenses`
 
 ### Inheritance
 
-Inherits from: [StiKeyObject](../StiKeyObject.md)  
+Inherits from: [StiKeyObject](../root/StiKeyObject.md)  
 
 ### Properties
 

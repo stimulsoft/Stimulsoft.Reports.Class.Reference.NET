@@ -4,12 +4,7 @@ title: "StiPushClipPathGeom Class"
 
 ## StiPushClipPathGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPushClipPathGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: [StiGeom](StiGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiPushClipPathGeom**(List<[StiSegmentGeom](StiSegmentGeom.md)> geoms) |  |
+
+**StiPushClipPathGeom**(**geoms**: List<[StiSegmentGeom](StiSegmentGeom.md)>)
+
+**Parameters**
+
+- **geoms** (List<[StiSegmentGeom](StiSegmentGeom.md)>)  
+
 
 ### Properties
 

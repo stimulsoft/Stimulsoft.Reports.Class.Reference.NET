@@ -4,14 +4,9 @@ title: "StiTextDrawing Class"
 
 ## StiTextDrawing Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 Class contains methods for text drawing.
-
-```csharp
-public class StiTextDrawing
-```
 
 ### Properties
 
@@ -34,6 +29,206 @@ public class StiTextDrawing
 | **SplitString** `static` | List<string> |  |
 | **SplitTextWordwrap** `static` *(+1 overloads)* | List<StiTextRenderer.LineInfo> |  |
 | **SplitTextWordwrapWidth** `static` | List<string> |  |
+
+---
+
+### Method Details
+
+#### BreakTextWidth `static`
+
+**BreakTextWidth**(**g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **text**: string, **font**: [Font](../../Stimulsoft_Drawing/root/Font.md), **rect**: [RectangleD](RectangleD.md), **stringFormat**: [StringFormat](../../Stimulsoft_Drawing/root/StringFormat.md), **lineHeight**: double): string
+
+**Parameters**
+
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **text** (string)  
+- **font** ([Font](../../Stimulsoft_Drawing/root/Font.md))  
+- **rect** ([RectangleD](RectangleD.md))  
+- **stringFormat** ([StringFormat](../../Stimulsoft_Drawing/root/StringFormat.md))  
+- **lineHeight** (double)  
+
+**Returns** string
+
+
+---
+
+#### CutLineLimit `static`
+
+**CutLineLimit**(**text**: string, **g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **font**: [Font](../../Stimulsoft_Drawing/root/Font.md), **rect**: [RectangleD](RectangleD.md), **textOptions**: StiTextOptions, **typographic**: bool, **isWindows**: bool): string
+
+**Parameters**
+
+- **text** (string)  
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **font** ([Font](../../Stimulsoft_Drawing/root/Font.md))  
+- **rect** ([RectangleD](RectangleD.md))  
+- **textOptions** (StiTextOptions)  
+- **typographic** (bool)  
+- **isWindows** (bool)  
+
+**Returns** string
+
+
+---
+
+#### GetAlignment `static`
+
+**GetAlignment**(**alignment**: [StiTextHorAlignment](StiTextHorAlignment.md)): StringAlignment
+
+**Parameters**
+
+- **alignment** ([StiTextHorAlignment](StiTextHorAlignment.md))  
+
+**Returns** StringAlignment
+
+---
+
+**GetAlignment**(**alignment**: [StiVertAlignment](StiVertAlignment.md)): StringAlignment
+
+**Parameters**
+
+- **alignment** ([StiVertAlignment](StiVertAlignment.md))  
+
+**Returns** StringAlignment
+
+
+---
+
+#### GetRect
+
+**GetRect**(**index**: int): RectangleF
+
+**Parameters**
+
+- **index** (int)  
+
+**Returns** RectangleF
+
+
+---
+
+#### GetTexts `static`
+
+**GetTexts**(**str**: string): Word[]
+
+Returns the collection of the words.
+
+**Parameters**
+
+- **str** (string)  
+
+**Returns** Word[]
+
+
+---
+
+#### MeasureString `static`
+
+**MeasureString**(**g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **text**: string, **font**: [Font](../../Stimulsoft_Drawing/root/Font.md)): SizeF
+
+**Parameters**
+
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **text** (string)  
+- **font** ([Font](../../Stimulsoft_Drawing/root/Font.md))  
+
+**Returns** SizeF
+
+
+---
+
+#### MeasureStringWidth `static`
+
+**MeasureStringWidth**(**g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **text**: string, **font**: [Font](../../Stimulsoft_Drawing/root/Font.md), **size**: [SizeD](SizeD.md), **stringFormat**: [StringFormat](../../Stimulsoft_Drawing/root/StringFormat.md), **lineHeight**: double): SizeF
+
+Draws the text aligned to width.
+
+**Parameters**
+
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md)) — Graphics to draw on.  
+- **text** (string) — Text to draw on.  
+- **font** ([Font](../../Stimulsoft_Drawing/root/Font.md)) — Font to draw on.  
+- **size** ([SizeD](SizeD.md)) — Size of rectangle to draw on.  
+- **stringFormat** ([StringFormat](../../Stimulsoft_Drawing/root/StringFormat.md)) — Text format.  
+- **lineHeight** (double)  
+
+**Returns** SizeF
+
+
+---
+
+#### SetText
+
+**SetText**(**st**: string): void
+
+**Parameters**
+
+- **st** (string)  
+
+
+---
+
+#### SplitString `static`
+
+**SplitString**(**inputString**: string, **removeControl**: bool): List<string>
+
+**Parameters**
+
+- **inputString** (string)  
+- **removeControl** (bool)  
+
+**Returns** List<string>
+
+
+---
+
+#### SplitTextWordwrap `static`
+
+**SplitTextWordwrap**(**text**: string, **g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **font**: [Font](../../Stimulsoft_Drawing/root/Font.md), **rect**: [RectangleD](RectangleD.md), **textOptions**: StiTextOptions, **ha**: [StiTextHorAlignment](StiTextHorAlignment.md), **typographic**: bool): List<StiTextRenderer.LineInfo>
+
+**Parameters**
+
+- **text** (string)  
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **font** ([Font](../../Stimulsoft_Drawing/root/Font.md))  
+- **rect** ([RectangleD](RectangleD.md))  
+- **textOptions** (StiTextOptions)  
+- **ha** ([StiTextHorAlignment](StiTextHorAlignment.md))  
+- **typographic** (bool)  
+
+**Returns** List<StiTextRenderer.LineInfo>
+
+---
+
+**SplitTextWordwrap**(**text**: string, **g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **font**: [Font](../../Stimulsoft_Drawing/root/Font.md), **rect**: [RectangleD](RectangleD.md), **sfBase**: [StringFormat](../../Stimulsoft_Drawing/root/StringFormat.md), **horAlignWidth**: bool): List<StiTextRenderer.LineInfo>
+
+**Parameters**
+
+- **text** (string)  
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **font** ([Font](../../Stimulsoft_Drawing/root/Font.md))  
+- **rect** ([RectangleD](RectangleD.md))  
+- **sfBase** ([StringFormat](../../Stimulsoft_Drawing/root/StringFormat.md))  
+- **horAlignWidth** (bool)  
+
+**Returns** List<StiTextRenderer.LineInfo>
+
+
+---
+
+#### SplitTextWordwrapWidth `static`
+
+**SplitTextWordwrapWidth**(**text**: string, **g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **font**: [Font](../../Stimulsoft_Drawing/root/Font.md), **rect**: [RectangleD](RectangleD.md)): List<string>
+
+**Parameters**
+
+- **text** (string)  
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **font** ([Font](../../Stimulsoft_Drawing/root/Font.md))  
+- **rect** ([RectangleD](RectangleD.md))  
+
+**Returns** List<string>
+
 
 ### Fields
 

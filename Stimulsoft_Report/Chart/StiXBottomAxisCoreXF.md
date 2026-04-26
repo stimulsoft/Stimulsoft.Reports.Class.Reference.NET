@@ -4,12 +4,7 @@ title: "StiXBottomAxisCoreXF Class"
 
 ## StiXBottomAxisCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiXBottomAxisCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiXAxisCoreXF](StiXAxisCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiXBottomAxisCoreXF**(IStiAxis axis) |  |
+
+**StiXBottomAxisCoreXF**(**axis**: IStiAxis)
+
+**Parameters**
+
+- **axis** (IStiAxis)  
+

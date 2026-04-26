@@ -4,12 +4,7 @@ title: "StiGaugeStyleCoreXF30 Class"
 
 ## StiGaugeStyleCoreXF30 Class
 
-**Namespace:** `Stimulsoft.Report.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGaugeStyleCoreXF30
-```
+**Namespace:** `Stimulsoft.Report.Gauge`
 
 ### Inheritance
 

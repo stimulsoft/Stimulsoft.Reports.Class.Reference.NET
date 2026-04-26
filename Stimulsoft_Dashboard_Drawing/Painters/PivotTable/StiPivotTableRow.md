@@ -4,18 +4,21 @@ title: "StiPivotTableRow Class"
 
 ## StiPivotTableRow Class
 
-**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters.PivotTable`  
-**Assembly:** `Stimulsoft.Dashboard.Drawing`
-
-```csharp
-public class StiPivotTableRow
-```
+**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters.PivotTable`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiPivotTableRow**([StiPivotTableContainer](StiPivotTableContainer.md) container, double height) |  |
+
+**StiPivotTableRow**(**container**: [StiPivotTableContainer](StiPivotTableContainer.md), **height**: double)
+
+**Parameters**
+
+- **container** ([StiPivotTableContainer](StiPivotTableContainer.md))  
+- **height** (double)  
+
 
 ### Properties
 

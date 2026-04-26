@@ -4,12 +4,7 @@ title: "IStiChartCondition Interface"
 
 ## IStiChartCondition Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiChartCondition
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

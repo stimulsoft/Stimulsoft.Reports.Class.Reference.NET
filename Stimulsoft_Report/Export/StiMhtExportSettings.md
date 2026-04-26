@@ -4,14 +4,9 @@ title: "StiMhtExportSettings Class"
 
 ## StiMhtExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Class describes settings for export to MHT format.
-
-```csharp
-public class StiMhtExportSettings
-```
 
 ### Inheritance
 
@@ -22,3 +17,6 @@ Inherits from: StiHtmlExportSettings
 | Constructor | Description |
 | --- | --- |
 | **StiMhtExportSettings**() |  |
+
+**StiMhtExportSettings**()
+

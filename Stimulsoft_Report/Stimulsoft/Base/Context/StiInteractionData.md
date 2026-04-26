@@ -4,12 +4,7 @@ title: "StiInteractionData Class"
 
 ## StiInteractionData Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiInteractionData
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiPropertyDetailsAttribute Class"
 
 ## StiPropertyDetailsAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Design`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiPropertyDetailsAttribute
-```
+**Namespace:** `Stimulsoft.Base.Design`
 
 ### Inheritance
 

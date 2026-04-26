@@ -4,12 +4,7 @@ title: "StiYandexMapProviderBase Class"
 
 ## StiYandexMapProviderBase Class
 
-**Namespace:** `Stimulsoft.Map.Gis.Providers`  
-**Assembly:** `Stimulsoft.Map`
-
-```csharp
-public abstract class StiYandexMapProviderBase
-```
+**Namespace:** `Stimulsoft.Map.Gis.Providers`
 
 ### Inheritance
 

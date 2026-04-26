@@ -4,12 +4,7 @@ title: "StiAppsColumn Class"
 
 ## StiAppsColumn Class
 
-**Namespace:** `Stimulsoft.Base.AppsDatabase`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiAppsColumn
-```
+**Namespace:** `Stimulsoft.Base.AppsDatabase`
 
 ### Constructors
 
@@ -18,6 +13,28 @@ public class StiAppsColumn
 | **StiAppsColumn**() |  |
 | **StiAppsColumn**(string name, [StiAppsColumnType](StiAppsColumnType.md) type) |  |
 | **StiAppsColumn**(string name, [StiAppsColumnType](StiAppsColumnType.md) type, bool isNull) |  |
+
+**StiAppsColumn**()
+
+---
+
+**StiAppsColumn**(**name**: string, **type**: [StiAppsColumnType](StiAppsColumnType.md))
+
+**Parameters**
+
+- **name** (string)  
+- **type** ([StiAppsColumnType](StiAppsColumnType.md))  
+
+---
+
+**StiAppsColumn**(**name**: string, **type**: [StiAppsColumnType](StiAppsColumnType.md), **isNull**: bool)
+
+**Parameters**
+
+- **name** (string)  
+- **type** ([StiAppsColumnType](StiAppsColumnType.md))  
+- **isNull** (bool)  
+
 
 ### Properties
 
@@ -37,3 +54,23 @@ public class StiAppsColumn
 | --- | --- | --- |
 | **ConvertTypeToDataColumnType** | Type |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ConvertTypeToDataColumnType
+
+**ConvertTypeToDataColumnType**(): Type
+
+**Returns** Type
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

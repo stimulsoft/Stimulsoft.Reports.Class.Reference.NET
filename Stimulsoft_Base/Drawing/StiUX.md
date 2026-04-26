@@ -4,12 +4,7 @@ title: "StiUX Class"
 
 ## StiUX Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiUX
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 
@@ -111,6 +106,1128 @@ public static class StiUX
 | **GetRibbonStatusBarText** `static` | Color |  |
 | **GetRibbonWorkspace** `static` | Color |  |
 | **GetSeparator** `static` | Color |  |
+
+---
+
+### Method Details
+
+#### GetAccent `static`
+
+**GetAccent**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetBackground `static`
+
+**GetBackground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetBackgroundDark `static`
+
+**GetBackgroundDark**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonAppBackgroundActive `static`
+
+**GetButtonAppBackgroundActive**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBackground `static`
+
+**GetButtonBackground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBackgroundActive `static`
+
+**GetButtonBackgroundActive**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBackgroundActiveDisabled `static`
+
+**GetButtonBackgroundActiveDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBackgroundActiveMouseOver `static`
+
+**GetButtonBackgroundActiveMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBackgroundActivePressed `static`
+
+**GetButtonBackgroundActivePressed**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBackgroundChecked `static`
+
+**GetButtonBackgroundChecked**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBackgroundDisabled `static`
+
+**GetButtonBackgroundDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBackgroundMouseOver `static`
+
+**GetButtonBackgroundMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBackgroundPressed `static`
+
+**GetButtonBackgroundPressed**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBorder `static`
+
+**GetButtonBorder**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBorderActiveFocused `static`
+
+**GetButtonBorderActiveFocused**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBorderChecked `static`
+
+**GetButtonBorderChecked**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBorderDisabled `static`
+
+**GetButtonBorderDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBorderFocused `static`
+
+**GetButtonBorderFocused**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonForeground `static`
+
+**GetButtonForeground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonForegroundActive `static`
+
+**GetButtonForegroundActive**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonForegroundActiveDisabled `static`
+
+**GetButtonForegroundActiveDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonForegroundDisabled `static`
+
+**GetButtonForegroundDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetCheckBackground `static`
+
+**GetCheckBackground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetCheckBackgroundMouseOver `static`
+
+**GetCheckBackgroundMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetCheckBorder `static`
+
+**GetCheckBorder**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetCheckBorderDisabled `static`
+
+**GetCheckBorderDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetCheckBorderFocused `static`
+
+**GetCheckBorderFocused**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetCheckBorderMouseOver `static`
+
+**GetCheckBorderMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetCheckBorderPressed `static`
+
+**GetCheckBorderPressed**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetColor `static`
+
+**GetColor**(**colorDark**: string, **colorLight**: string, **customTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **colorDark** (string)  
+- **colorLight** (string)  
+- **customTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetErrorBackground `static`
+
+**GetErrorBackground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetErrorForeground `static`
+
+**GetErrorForeground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetForeground `static`
+
+**GetForeground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetHeaderBackground `static`
+
+**GetHeaderBackground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetHeaderForeground `static`
+
+**GetHeaderForeground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetHyperlink `static`
+
+**GetHyperlink**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetHyperlinkMouseOver `static`
+
+**GetHyperlinkMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputBackground `static`
+
+**GetInputBackground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputBackgroundDisabled `static`
+
+**GetInputBackgroundDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputBackgroundMouseOver `static`
+
+**GetInputBackgroundMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputBackgroundReadOnly `static`
+
+**GetInputBackgroundReadOnly**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputBorder `static`
+
+**GetInputBorder**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputBorderDisabled `static`
+
+**GetInputBorderDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputBorderFocused `static`
+
+**GetInputBorderFocused**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputBorderMouseOver `static`
+
+**GetInputBorderMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputButtonBackgroundMouseOver `static`
+
+**GetInputButtonBackgroundMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputButtonBackgroundPressed `static`
+
+**GetInputButtonBackgroundPressed**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputButtonBackgroundReadOnly `static`
+
+**GetInputButtonBackgroundReadOnly**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputForeground `static`
+
+**GetInputForeground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputForegroundDisabled `static`
+
+**GetInputForegroundDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputForegroundHint `static`
+
+**GetInputForegroundHint**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputForegroundHintDisabled `static`
+
+**GetInputForegroundHintDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputForegroundReadOnly `static`
+
+**GetInputForegroundReadOnly**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputGlyph `static`
+
+**GetInputGlyph**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputGlyphDisabled `static`
+
+**GetInputGlyphDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetInputGlyphReadOnly `static`
+
+**GetInputGlyphReadOnly**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemBackground `static`
+
+**GetItemBackground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemBackgroundActiveMouseOver `static`
+
+**GetItemBackgroundActiveMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemBackgroundActiveSelected `static`
+
+**GetItemBackgroundActiveSelected**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemBackgroundDisabled `static`
+
+**GetItemBackgroundDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemBackgroundMouseOver `static`
+
+**GetItemBackgroundMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemBackgroundPressed `static`
+
+**GetItemBackgroundPressed**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemBackgroundSelected `static`
+
+**GetItemBackgroundSelected**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemBorder `static`
+
+**GetItemBorder**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemForeground `static`
+
+**GetItemForeground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemForegroundActiveMouseOver `static`
+
+**GetItemForegroundActiveMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemForegroundActiveSelected `static`
+
+**GetItemForegroundActiveSelected**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemForegroundDisabled `static`
+
+**GetItemForegroundDisabled**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemForegroundMouseOver `static`
+
+**GetItemForegroundMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemForegroundSelected `static`
+
+**GetItemForegroundSelected**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemGroupBackground `static`
+
+**GetItemGroupBackground**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemSelection `static`
+
+**GetItemSelection**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetItemSeparator `static`
+
+**GetItemSeparator**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetRibbonBarDialog `static`
+
+**GetRibbonBarDialog**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetRibbonBarText `static`
+
+**GetRibbonBarText**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetRibbonBorder `static`
+
+**GetRibbonBorder**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetRibbonCaption `static`
+
+**GetRibbonCaption**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetRibbonControl `static`
+
+**GetRibbonControl**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetRibbonSeparator `static`
+
+**GetRibbonSeparator**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetRibbonStartMenu `static`
+
+**GetRibbonStartMenu**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetRibbonStartMenuMouseOver `static`
+
+**GetRibbonStartMenuMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetRibbonStartMenuSelected `static`
+
+**GetRibbonStartMenuSelected**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetRibbonStartMenuSelectedMouseOver `static`
+
+**GetRibbonStartMenuSelectedMouseOver**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetRibbonStatusBarText `static`
+
+**GetRibbonStatusBarText**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetRibbonWorkspace `static`
+
+**GetRibbonWorkspace**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
+
+---
+
+#### GetSeparator `static`
+
+**GetSeparator**(**controlTheme**: StiControlTheme?): Color
+
+**Parameters**
+
+- **controlTheme** (StiControlTheme?)  
+
+**Returns** Color
+
 
 ### Fields
 

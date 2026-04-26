@@ -4,22 +4,24 @@ title: "PathGradientBrush Class"
 
 ## PathGradientBrush Class
 
-**Namespace:** `Stimulsoft.Drawing.Drawing2D`  
-**Assembly:** `Stimulsoft.Drawing`
-
-```csharp
-public sealed class PathGradientBrush
-```
+**Namespace:** `Stimulsoft.Drawing.Drawing2D`
 
 ### Inheritance
 
-Inherits from: [Brush](../Brush.md)  
+Inherits from: [Brush](../root/Brush.md)  
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **PathGradientBrush**([GraphicsPath](GraphicsPath.md) path) |  |
+
+**PathGradientBrush**(**path**: [GraphicsPath](GraphicsPath.md))
+
+**Parameters**
+
+- **path** ([GraphicsPath](GraphicsPath.md))  
+
 
 ### Fields
 

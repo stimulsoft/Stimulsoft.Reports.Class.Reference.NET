@@ -4,11 +4,6 @@ title: "IStiTextHorAlignment Interface"
 
 ## IStiTextHorAlignment Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Describes the text horizontal alignment.
-
-```csharp
-public interface IStiTextHorAlignment
-```

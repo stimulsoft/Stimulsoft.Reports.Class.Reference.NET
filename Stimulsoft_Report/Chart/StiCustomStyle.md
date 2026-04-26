@@ -4,12 +4,7 @@ title: "StiCustomStyle Class"
 
 ## StiCustomStyle Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCustomStyle
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,6 +16,17 @@ Inherits from: [StiStyle01](StiStyle01.md)
 | --- | --- |
 | **StiCustomStyle**() |  |
 | **StiCustomStyle**(string reportStyleName) |  |
+
+**StiCustomStyle**()
+
+---
+
+**StiCustomStyle**(**reportStyleName**: string)
+
+**Parameters**
+
+- **reportStyleName** (string)  
+
 
 ### Fields
 

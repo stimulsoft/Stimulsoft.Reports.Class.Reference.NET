@@ -4,12 +4,7 @@ title: "LookupRecord Class"
 
 ## LookupRecord Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class LookupRecord
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

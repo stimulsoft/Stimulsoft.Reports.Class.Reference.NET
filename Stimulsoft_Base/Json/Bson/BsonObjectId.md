@@ -4,20 +4,24 @@ title: "BsonObjectId Class"
 
 ## BsonObjectId Class
 
-**Namespace:** `Stimulsoft.Base.Json.Bson`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Bson`
 
 Represents a BSON Oid (object id).
-
-```csharp
-public class BsonObjectId
-```
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **BsonObjectId**(bytevalue ) | Initializes a new instance of the BsonObjectId class. |
+
+**BsonObjectId**(****: bytevalue)
+
+Initializes a new instance of the BsonObjectId class.
+
+**Parameters**
+
+- **** (bytevalue)  
+
 
 ### Properties
 

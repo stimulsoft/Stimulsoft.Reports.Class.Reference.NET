@@ -4,12 +4,7 @@ title: "StiRichTextGdiPainter Class"
 
 ## StiRichTextGdiPainter Class
 
-**Namespace:** `Stimulsoft.Report.Painters`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRichTextGdiPainter
-```
+**Namespace:** `Stimulsoft.Report.Painters`
 
 ### Inheritance
 
@@ -19,6 +14,48 @@ Inherits from: [StiComponentGdiPainter](StiComponentGdiPainter.md)
 
 | Method | Returns | Description |
 | --- | --- | --- |
-| **GetImage** | [Image](../../Stimulsoft_Drawing/Image.md) |  |
+| **GetImage** | [Image](../../Stimulsoft_Drawing/root/Image.md) |  |
 | **Paint** | void |  |
 | **PaintBackground** | void |  |
+
+---
+
+### Method Details
+
+#### GetImage
+
+**GetImage**(**component**: StiComponent, **zoom**: float, **format**: [StiExportFormat](../root/StiExportFormat.md)): [Image](../../Stimulsoft_Drawing/root/Image.md)
+
+**Parameters**
+
+- **component** (StiComponent)  
+- **zoom** (float)  
+- **format** ([StiExportFormat](../root/StiExportFormat.md))  
+
+**Returns** [Image](../../Stimulsoft_Drawing/root/Image.md)
+
+
+---
+
+#### Paint
+
+**Paint**(**component**: StiComponent, **e**: StiPaintEventArgs): void
+
+**Parameters**
+
+- **component** (StiComponent)  
+- **e** (StiPaintEventArgs)  
+
+
+---
+
+#### PaintBackground
+
+**PaintBackground**(**text**: StiRichText, **g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **rect**: [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md)): void
+
+**Parameters**
+
+- **text** (StiRichText)  
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **rect** ([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md))  
+

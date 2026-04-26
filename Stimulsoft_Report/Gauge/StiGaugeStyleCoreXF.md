@@ -4,12 +4,7 @@ title: "StiGaugeStyleCoreXF Class"
 
 ## StiGaugeStyleCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiGaugeStyleCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Gauge`
 
 ### Properties
 
@@ -47,9 +42,9 @@ public abstract class StiGaugeStyleCoreXF
 | **RadialBarEndWidth** | float |  |
 | **RadialBarStartWidth** | float |  |
 | **TargetColor** | Color |  |
-| **TickLabelMajorFont** | [Font](../../Stimulsoft_Drawing/Font.md) |  |
+| **TickLabelMajorFont** | [Font](../../Stimulsoft_Drawing/root/Font.md) |  |
 | **TickLabelMajorTextBrush** | [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) |  |
-| **TickLabelMinorFont** | [Font](../../Stimulsoft_Drawing/Font.md) |  |
+| **TickLabelMinorFont** | [Font](../../Stimulsoft_Drawing/root/Font.md) |  |
 | **TickLabelMinorTextBrush** | [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) |  |
 | **TickMarkMajorBorder** | [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) |  |
 | **TickMarkMajorBrush** | [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) |  |

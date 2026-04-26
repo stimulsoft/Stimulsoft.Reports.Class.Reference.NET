@@ -4,12 +4,7 @@ title: "ValidationEventArgs Class"
 
 ## ValidationEventArgs Class
 
-**Namespace:** `Stimulsoft.Base.Json.Schema`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class ValidationEventArgs
-```
+**Namespace:** `Stimulsoft.Base.Json.Schema`
 
 ### Inheritance
 

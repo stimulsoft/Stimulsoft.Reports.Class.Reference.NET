@@ -4,12 +4,7 @@ title: "StiDataTopNDesignerAttribute Class"
 
 ## StiDataTopNDesignerAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiDataTopNDesignerAttribute
-```
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiDataTopNDesignerAttribute**(string designerTypeName) |  |
 | **StiDataTopNDesignerAttribute**(Type type) |  |
+
+**StiDataTopNDesignerAttribute**(**designerTypeName**: string)
+
+**Parameters**
+
+- **designerTypeName** (string)  
+
+---
+
+**StiDataTopNDesignerAttribute**(**type**: Type)
+
+**Parameters**
+
+- **type** (Type)  
+
 
 ### Properties
 

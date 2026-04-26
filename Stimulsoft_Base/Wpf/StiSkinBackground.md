@@ -4,12 +4,7 @@ title: "StiSkinBackground Enum"
 
 ## StiSkinBackground Enum
 
-**Namespace:** `Stimulsoft.Base.Wpf`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiSkinBackground
-```
+**Namespace:** `Stimulsoft.Base.Wpf`
 
 ### Members
 

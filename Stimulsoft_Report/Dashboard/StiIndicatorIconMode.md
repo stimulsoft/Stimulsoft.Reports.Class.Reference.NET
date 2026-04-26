@@ -4,12 +4,7 @@ title: "StiIndicatorIconMode Enum"
 
 ## StiIndicatorIconMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiIndicatorIconMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

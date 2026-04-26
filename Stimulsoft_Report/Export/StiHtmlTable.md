@@ -4,18 +4,16 @@ title: "StiHtmlTable Class"
 
 ## StiHtmlTable Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiHtmlTable
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiHtmlTable**() |  |
+
+**StiHtmlTable**()
+
 
 ### Methods
 
@@ -24,6 +22,46 @@ public class StiHtmlTable
 | **RenderControl** | void |  |
 | **StringToTitle** `static` | string |  |
 | **StringToUrl** `static` | string |  |
+
+---
+
+### Method Details
+
+#### RenderControl
+
+**RenderControl**(**writer**: [StiHtmlTextWriter](StiHtmlTextWriter.md), **addPageBreaks**: bool): void
+
+**Parameters**
+
+- **writer** ([StiHtmlTextWriter](StiHtmlTextWriter.md))  
+- **addPageBreaks** (bool)  
+
+
+---
+
+#### StringToTitle `static`
+
+**StringToTitle**(**input**: string): string
+
+**Parameters**
+
+- **input** (string)  
+
+**Returns** string
+
+
+---
+
+#### StringToUrl `static`
+
+**StringToUrl**(**input**: string): string
+
+**Parameters**
+
+- **input** (string)  
+
+**Returns** string
+
 
 ### Fields
 

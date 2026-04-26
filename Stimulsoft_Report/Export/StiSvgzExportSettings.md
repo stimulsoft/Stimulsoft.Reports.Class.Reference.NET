@@ -4,14 +4,9 @@ title: "StiSvgzExportSettings Class"
 
 ## StiSvgzExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Class contains settings for export to SVGZ image format.
-
-```csharp
-public sealed class StiSvgzExportSettings
-```
 
 ### Inheritance
 
@@ -22,3 +17,6 @@ Inherits from: StiImageExportSettings
 | Constructor | Description |
 | --- | --- |
 | **StiSvgzExportSettings**() |  |
+
+**StiSvgzExportSettings**()
+

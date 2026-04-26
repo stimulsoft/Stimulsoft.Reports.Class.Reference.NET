@@ -4,12 +4,7 @@ title: "StiOnlineMapCulture Enum"
 
 ## StiOnlineMapCulture Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiOnlineMapCulture
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiPopTextRenderingHintGeom Class"
 
 ## StiPopTextRenderingHintGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPopTextRenderingHintGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 
@@ -21,3 +16,29 @@ Inherits from: [StiGeom](StiGeom.md)
 | --- | --- | --- |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+

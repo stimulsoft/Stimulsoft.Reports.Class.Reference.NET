@@ -4,12 +4,7 @@ title: "StiColumnHeaderBandV2Builder Class"
 
 ## StiColumnHeaderBandV2Builder Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiColumnHeaderBandV2Builder
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: [StiHeaderBandV2Builder](StiHeaderBandV2Builder.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **InternalRender** | StiComponent |  |
+
+---
+
+### Method Details
+
+#### InternalRender
+
+**InternalRender**(**masterComp**: StiComponent): StiComponent
+
+**Parameters**
+
+- **masterComp** (StiComponent)  
+
+**Returns** StiComponent
+

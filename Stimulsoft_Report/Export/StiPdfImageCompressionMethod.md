@@ -4,14 +4,9 @@ title: "StiPdfImageCompressionMethod Enum"
 
 ## StiPdfImageCompressionMethod Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration which sets an image compression method for PDF export.
-
-```csharp
-public enum StiPdfImageCompressionMethod
-```
 
 ### Members
 

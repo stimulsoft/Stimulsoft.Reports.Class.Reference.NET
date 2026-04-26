@@ -4,18 +4,21 @@ title: "StiSymbolIcon Class"
 
 ## StiSymbolIcon Class
 
-**Namespace:** `Stimulsoft.Report.Helpers`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiSymbolIcon
-```
+**Namespace:** `Stimulsoft.Report.Helpers`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiSymbolIcon**(int icon, float size) |  |
+
+**StiSymbolIcon**(**icon**: int, **size**: float)
+
+**Parameters**
+
+- **icon** (int)  
+- **size** (float)  
+
 
 ### Properties
 

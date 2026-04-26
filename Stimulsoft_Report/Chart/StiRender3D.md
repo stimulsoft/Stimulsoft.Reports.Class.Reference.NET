@@ -4,18 +4,21 @@ title: "StiRender3D Class"
 
 ## StiRender3D Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRender3D
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiRender3D**(double width, double height) |  |
+
+**StiRender3D**(**width**: double, **height**: double)
+
+**Parameters**
+
+- **width** (double)  
+- **height** (double)  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiPivotTableConditionConverter Class"
 
 ## StiPivotTableConditionConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.PivotTable.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiPivotTableConditionConverter
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.PivotTable.Design`
 
 ### Inheritance
 

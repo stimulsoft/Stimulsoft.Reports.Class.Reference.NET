@@ -4,12 +4,7 @@ title: "StiShadowPanel Class"
 
 ## StiShadowPanel Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiShadowPanel
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: Panel
 | Constructor | Description |
 | --- | --- |
 | **StiShadowPanel**() |  |
+
+**StiShadowPanel**()
+
 
 ### Properties
 
@@ -32,3 +30,16 @@ Inherits from: Panel
 | Method | Returns | Description |
 | --- | --- | --- |
 | **OnPaint** | void |  |
+
+---
+
+### Method Details
+
+#### OnPaint
+
+**OnPaint**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+

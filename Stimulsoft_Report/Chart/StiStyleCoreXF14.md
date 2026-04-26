@@ -4,12 +4,7 @@ title: "StiStyleCoreXF14 Class"
 
 ## StiStyleCoreXF14 Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiStyleCoreXF14
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

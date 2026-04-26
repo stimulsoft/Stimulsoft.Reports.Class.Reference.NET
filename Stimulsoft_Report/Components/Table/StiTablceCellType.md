@@ -4,12 +4,7 @@ title: "StiTablceCellType Enum"
 
 ## StiTablceCellType Enum
 
-**Namespace:** `Stimulsoft.Report.Components.Table`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiTablceCellType
-```
+**Namespace:** `Stimulsoft.Report.Components.Table`
 
 ### Members
 

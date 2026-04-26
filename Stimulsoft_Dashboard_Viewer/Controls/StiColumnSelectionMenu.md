@@ -4,18 +4,22 @@ title: "StiColumnSelectionMenu Class"
 
 ## StiColumnSelectionMenu Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiColumnSelectionMenu
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiColumnSelectionMenu**(StiContextMenu expressionMenu, Control control, IStiElement element) |  |
+
+**StiColumnSelectionMenu**(**expressionMenu**: StiContextMenu, **control**: Control, **element**: IStiElement)
+
+**Parameters**
+
+- **expressionMenu** (StiContextMenu)  
+- **control** (Control)  
+- **element** (IStiElement)  
+
 
 ### Properties
 
@@ -31,6 +35,19 @@ public class StiColumnSelectionMenu
 | Method | Returns | Description |
 | --- | --- | --- |
 | **CreateItems** | void |  |
+
+---
+
+### Method Details
+
+#### CreateItems
+
+**CreateItems**(**element**: IStiElement): void
+
+**Parameters**
+
+- **element** (IStiElement)  
+
 
 ### Fields
 

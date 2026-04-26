@@ -4,12 +4,7 @@ title: "IStiGenerateOneTableDataExampleSession Interface"
 
 ## IStiGenerateOneTableDataExampleSession Interface
 
-**Namespace:** `Stimulsoft.Base.StimulAI`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public interface IStiGenerateOneTableDataExampleSession
-```
+**Namespace:** `Stimulsoft.Base.StimulAI`
 
 ### Inheritance
 

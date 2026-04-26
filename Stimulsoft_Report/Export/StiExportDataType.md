@@ -4,14 +4,9 @@ title: "StiExportDataType Enum"
 
 ## StiExportDataType Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for the types of data for the export.
-
-```csharp
-public enum StiExportDataType
-```
 
 ### Members
 

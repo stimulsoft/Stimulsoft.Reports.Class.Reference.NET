@@ -4,12 +4,7 @@ title: "StiFilterDashboardInteraction Class"
 
 ## StiFilterDashboardInteraction Class
 
-**Namespace:** `Stimulsoft.Dashboard.Interactions`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiFilterDashboardInteraction
-```
+**Namespace:** `Stimulsoft.Dashboard.Interactions`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: StiDashboardInteraction
 | Constructor | Description |
 | --- | --- |
 | **StiFilterDashboardInteraction**() |  |
+
+**StiFilterDashboardInteraction**()
+
 
 ### Properties
 

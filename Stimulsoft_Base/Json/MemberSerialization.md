@@ -4,14 +4,9 @@ title: "MemberSerialization Enum"
 
 ## MemberSerialization Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies the member serialization options for the JsonSerializer.
-
-```csharp
-public enum MemberSerialization
-```
 
 ### Members
 

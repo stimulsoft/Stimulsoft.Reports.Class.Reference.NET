@@ -4,12 +4,7 @@ title: "StiPieGaugeGeom Class"
 
 ## StiPieGaugeGeom Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPieGaugeGeom
-```
+**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`
 
 ### Inheritance
 
@@ -20,6 +15,18 @@ Inherits from: [StiGaugeGeom](StiGaugeGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiPieGaugeGeom**(RectangleF rect, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth, float startAngle, float sweepAngle) |  |
+
+**StiPieGaugeGeom**(**rect**: RectangleF, **background**: [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md), **borderBrush**: [StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md), **borderWidth**: float, **startAngle**: float, **sweepAngle**: float)
+
+**Parameters**
+
+- **rect** (RectangleF)  
+- **background** ([StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md))  
+- **borderBrush** ([StiBrush](../../../Stimulsoft_Base/Drawing/StiBrush.md))  
+- **borderWidth** (float)  
+- **startAngle** (float)  
+- **sweepAngle** (float)  
+
 
 ### Properties
 

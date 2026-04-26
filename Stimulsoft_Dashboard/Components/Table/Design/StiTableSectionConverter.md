@@ -4,12 +4,7 @@ title: "StiTableSectionConverter Class"
 
 ## StiTableSectionConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Table.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiTableSectionConverter
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Table.Design`
 
 ### Inheritance
 
@@ -21,3 +16,32 @@ Inherits from: TypeConverter
 | --- | --- | --- |
 | **CreateNewInstanceDescriptor** | object |  |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### CreateNewInstanceDescriptor
+
+**CreateNewInstanceDescriptor**(**info**: ConstructorInfo, ****: objectobjs): object
+
+**Parameters**
+
+- **info** (ConstructorInfo)  
+- **** (objectobjs)  
+
+**Returns** object
+
+
+---
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

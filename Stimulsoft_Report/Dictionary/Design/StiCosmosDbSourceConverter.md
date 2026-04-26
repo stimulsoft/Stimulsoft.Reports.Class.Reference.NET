@@ -4,12 +4,7 @@ title: "StiCosmosDbSourceConverter Class"
 
 ## StiCosmosDbSourceConverter Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCosmosDbSourceConverter
-```
+**Namespace:** `Stimulsoft.Report.Dictionary.Design`
 
 ### Inheritance
 

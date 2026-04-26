@@ -4,11 +4,6 @@ title: "IStiComponentDesigner Interface"
 
 ## IStiComponentDesigner Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Interface describes a component designer.
-
-```csharp
-public interface IStiComponentDesigner
-```

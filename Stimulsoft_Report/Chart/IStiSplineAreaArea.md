@@ -4,12 +4,7 @@ title: "IStiSplineAreaArea Interface"
 
 ## IStiSplineAreaArea Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiSplineAreaArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

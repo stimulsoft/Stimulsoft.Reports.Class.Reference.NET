@@ -4,12 +4,7 @@ title: "StiPlatformType Enum"
 
 ## StiPlatformType Enum
 
-**Namespace:** `Stimulsoft.Base.Design`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiPlatformType
-```
+**Namespace:** `Stimulsoft.Base.Design`
 
 ### Members
 

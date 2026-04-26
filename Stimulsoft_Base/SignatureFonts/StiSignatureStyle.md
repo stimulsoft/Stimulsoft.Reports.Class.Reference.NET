@@ -4,12 +4,7 @@ title: "StiSignatureStyle Enum"
 
 ## StiSignatureStyle Enum
 
-**Namespace:** `Stimulsoft.Base.SignatureFonts`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiSignatureStyle
-```
+**Namespace:** `Stimulsoft.Base.SignatureFonts`
 
 ### Members
 

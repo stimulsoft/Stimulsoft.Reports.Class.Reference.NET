@@ -4,12 +4,7 @@ title: "StiGetCurrentPageAppsEventArgs Class"
 
 ## StiGetCurrentPageAppsEventArgs Class
 
-**Namespace:** `Stimulsoft.Base.AppsDatabase`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiGetCurrentPageAppsEventArgs
-```
+**Namespace:** `Stimulsoft.Base.AppsDatabase`
 
 ### Properties
 

@@ -4,11 +4,6 @@ title: "IStiResetPageNumber Interface"
 
 ## IStiResetPageNumber Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Allows to reset page number on this control.
-
-```csharp
-public interface IStiResetPageNumber
-```

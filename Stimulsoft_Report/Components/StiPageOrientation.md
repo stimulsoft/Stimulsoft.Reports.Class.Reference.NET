@@ -4,14 +4,9 @@ title: "StiPageOrientation Enum"
 
 ## StiPageOrientation Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Type of page orientation.
-
-```csharp
-public enum StiPageOrientation
-```
 
 ### Members
 

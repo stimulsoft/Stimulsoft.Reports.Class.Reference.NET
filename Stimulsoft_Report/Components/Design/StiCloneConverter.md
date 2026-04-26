@@ -4,14 +4,9 @@ title: "StiCloneConverter Class"
 
 ## StiCloneConverter Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 Provides a type converter to convert Clone Container to string.
-
-```csharp
-public class StiCloneConverter
-```
 
 ### Inheritance
 

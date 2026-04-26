@@ -4,12 +4,7 @@ title: "IStiClusteredColumnArea Interface"
 
 ## IStiClusteredColumnArea Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiClusteredColumnArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

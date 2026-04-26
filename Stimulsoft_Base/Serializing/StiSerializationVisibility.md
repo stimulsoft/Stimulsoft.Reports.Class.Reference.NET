@@ -4,14 +4,9 @@ title: "StiSerializationVisibility Enum"
 
 ## StiSerializationVisibility Enum
 
-**Namespace:** `Stimulsoft.Base.Serializing`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Serializing`
 
 Serialization of visibility.
-
-```csharp
-public enum StiSerializationVisibility
-```
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiIndicatorIconRangeMode Enum"
 
 ## StiIndicatorIconRangeMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiIndicatorIconRangeMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

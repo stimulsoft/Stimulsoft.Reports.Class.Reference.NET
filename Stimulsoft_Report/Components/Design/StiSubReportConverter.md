@@ -4,14 +4,9 @@ title: "StiSubReportConverter Class"
 
 ## StiSubReportConverter Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 Provides a type converter to convert SubReport to string.
-
-```csharp
-public class StiSubReportConverter
-```
 
 ### Inheritance
 

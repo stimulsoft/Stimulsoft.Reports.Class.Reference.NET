@@ -4,12 +4,7 @@ title: "StiLanguageType Enum"
 
 ## StiLanguageType Enum
 
-**Namespace:** `Stimulsoft.Base.Gis`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiLanguageType
-```
+**Namespace:** `Stimulsoft.Base.Gis`
 
 ### Members
 

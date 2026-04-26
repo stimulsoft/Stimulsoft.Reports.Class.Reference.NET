@@ -4,12 +4,7 @@ title: "StiContentAlignment Enum"
 
 ## StiContentAlignment Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiContentAlignment
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

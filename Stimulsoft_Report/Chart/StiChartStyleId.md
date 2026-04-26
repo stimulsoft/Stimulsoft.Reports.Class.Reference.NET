@@ -4,12 +4,7 @@ title: "StiChartStyleId Enum"
 
 ## StiChartStyleId Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiChartStyleId
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

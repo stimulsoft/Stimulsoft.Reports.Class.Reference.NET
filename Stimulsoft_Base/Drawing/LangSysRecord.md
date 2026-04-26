@@ -4,12 +4,7 @@ title: "LangSysRecord Class"
 
 ## LangSysRecord Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class LangSysRecord
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

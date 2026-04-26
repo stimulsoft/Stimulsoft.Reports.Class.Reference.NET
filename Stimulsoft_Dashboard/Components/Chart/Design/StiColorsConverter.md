@@ -4,21 +4,31 @@ title: "StiColorsConverter Class"
 
 ## StiColorsConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart.Design`
 
 Converts colors array from one data type to another.
 
-```csharp
-public class StiColorsConverter
-```
-
 ### Inheritance
 
-Inherits from: [StiUniversalConverter](../../../../Stimulsoft_Base/StiUniversalConverter.md)  
+Inherits from: [StiUniversalConverter](../../../../Stimulsoft_Base/root/StiUniversalConverter.md)  
 
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

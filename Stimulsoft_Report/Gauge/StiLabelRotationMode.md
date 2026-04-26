@@ -4,12 +4,7 @@ title: "StiLabelRotationMode Enum"
 
 ## StiLabelRotationMode Enum
 
-**Namespace:** `Stimulsoft.Report.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiLabelRotationMode
-```
+**Namespace:** `Stimulsoft.Report.Gauge`
 
 ### Members
 

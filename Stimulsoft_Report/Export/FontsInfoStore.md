@@ -4,18 +4,16 @@ title: "FontsInfoStore Class"
 
 ## FontsInfoStore Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class FontsInfoStore
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **FontsInfoStore**() |  |
+
+**FontsInfoStore**()
+
 
 ### Methods
 
@@ -24,6 +22,56 @@ public class FontsInfoStore
 | **ClearFontsInfoStore** `static` | void |  |
 | **LoadFontInfoToStore** `static` *(+2 overloads)* | void |  |
 | **SetIndex** | void |  |
+
+---
+
+### Method Details
+
+#### ClearFontsInfoStore `static`
+
+**ClearFontsInfoStore**(): void
+
+
+---
+
+#### LoadFontInfoToStore `static`
+
+**LoadFontInfoToStore**(**fontName**: string, ****: bytedata): void
+
+**Parameters**
+
+- **fontName** (string)  
+- **** (bytedata)  
+
+---
+
+**LoadFontInfoToStore**(**fontName**: string, **stream**: Stream): void
+
+**Parameters**
+
+- **fontName** (string)  
+- **stream** (Stream)  
+
+---
+
+**LoadFontInfoToStore**(**fontName**: string, **path**: string): void
+
+**Parameters**
+
+- **fontName** (string)  
+- **path** (string)  
+
+
+---
+
+#### SetIndex
+
+**SetIndex**(**index**: int): void
+
+**Parameters**
+
+- **index** (int)  
+
 
 ### Fields
 

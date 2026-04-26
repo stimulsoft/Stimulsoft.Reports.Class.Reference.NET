@@ -4,14 +4,9 @@ title: "StiVariableInitBy Enum"
 
 ## StiVariableInitBy Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 Enum contains types of initialization of variable on start of report rendering.
-
-```csharp
-public enum StiVariableInitBy
-```
 
 ### Members
 

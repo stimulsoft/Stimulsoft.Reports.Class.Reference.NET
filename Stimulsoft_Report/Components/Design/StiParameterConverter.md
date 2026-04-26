@@ -4,18 +4,13 @@ title: "StiParameterConverter Class"
 
 ## StiParameterConverter Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 Converts StiParameter from one data type to another.
 
-```csharp
-public class StiParameterConverter
-```
-
 ### Inheritance
 
-Inherits from: [StiUniversalConverter](../../../Stimulsoft_Base/StiUniversalConverter.md)  
+Inherits from: [StiUniversalConverter](../../../Stimulsoft_Base/root/StiUniversalConverter.md)  
 
 ### Methods
 
@@ -23,3 +18,32 @@ Inherits from: [StiUniversalConverter](../../../Stimulsoft_Base/StiUniversalConv
 | --- | --- | --- |
 | **CanConvertTo** | bool |  |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### CanConvertTo
+
+**CanConvertTo**(**context**: ITypeDescriptorContext, **destinationType**: Type): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **destinationType** (Type)  
+
+**Returns** bool
+
+
+---
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

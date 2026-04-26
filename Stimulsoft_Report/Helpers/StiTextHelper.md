@@ -4,12 +4,7 @@ title: "StiTextHelper Class"
 
 ## StiTextHelper Class
 
-**Namespace:** `Stimulsoft.Report.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiTextHelper
-```
+**Namespace:** `Stimulsoft.Report.Helpers`
 
 ### Methods
 
@@ -17,3 +12,33 @@ public static class StiTextHelper
 | --- | --- | --- |
 | **CheckHyperlinkFromHtmlText** `static` | string |  |
 | **HtmlToPlainText** `static` | string |  |
+
+---
+
+### Method Details
+
+#### CheckHyperlinkFromHtmlText `static`
+
+**CheckHyperlinkFromHtmlText**(**comp**: StiComponent, **rect**: [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md), **point**: Point): string
+
+**Parameters**
+
+- **comp** (StiComponent)  
+- **rect** ([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md))  
+- **point** (Point)  
+
+**Returns** string
+
+
+---
+
+#### HtmlToPlainText `static`
+
+**HtmlToPlainText**(**html**: string): string
+
+**Parameters**
+
+- **html** (string)  
+
+**Returns** string
+

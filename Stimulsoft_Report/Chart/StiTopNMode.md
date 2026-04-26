@@ -4,12 +4,7 @@ title: "StiTopNMode Enum"
 
 ## StiTopNMode Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiTopNMode
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

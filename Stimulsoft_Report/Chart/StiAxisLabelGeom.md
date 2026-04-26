@@ -4,12 +4,7 @@ title: "StiAxisLabelGeom Class"
 
 ## StiAxisLabelGeom Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiAxisLabelGeom
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -33,3 +28,18 @@ Inherits from: StiCellGeom
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Draw** | void | Draws area geom object on spefied context. |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md)): void
+
+Draws area geom object on spefied context.
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+

@@ -4,12 +4,7 @@ title: "StiLineMarkerConverter Class"
 
 ## StiLineMarkerConverter Class
 
-**Namespace:** `Stimulsoft.Report.Chart.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiLineMarkerConverter
-```
+**Namespace:** `Stimulsoft.Report.Chart.Design`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

@@ -4,12 +4,7 @@ title: "StiSiennaControlElementStyle Class"
 
 ## StiSiennaControlElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSiennaControlElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 

@@ -4,14 +4,9 @@ title: "StiMinimumType Enum"
 
 ## StiMinimumType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Types of minimal values in indicator classes.
-
-```csharp
-public enum StiMinimumType
-```
 
 ### Members
 

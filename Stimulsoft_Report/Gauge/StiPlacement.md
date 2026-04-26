@@ -4,12 +4,7 @@ title: "StiPlacement Enum"
 
 ## StiPlacement Enum
 
-**Namespace:** `Stimulsoft.Report.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiPlacement
-```
+**Namespace:** `Stimulsoft.Report.Gauge`
 
 ### Members
 

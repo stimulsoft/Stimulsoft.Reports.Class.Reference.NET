@@ -4,12 +4,7 @@ title: "StiImageDashboardInteraction Class"
 
 ## StiImageDashboardInteraction Class
 
-**Namespace:** `Stimulsoft.Dashboard.Interactions`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiImageDashboardInteraction
-```
+**Namespace:** `Stimulsoft.Dashboard.Interactions`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: [StiSimpleDashboardInteraction](StiSimpleDashboardInteraction.md)
 | Constructor | Description |
 | --- | --- |
 | **StiImageDashboardInteraction**() |  |
+
+**StiImageDashboardInteraction**()
+
 
 ### Properties
 

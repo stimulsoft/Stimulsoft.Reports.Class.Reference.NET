@@ -4,12 +4,7 @@ title: "StiDataTransformationDesignerAttribute Class"
 
 ## StiDataTransformationDesignerAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiDataTransformationDesignerAttribute
-```
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiDataTransformationDesignerAttribute**(string designerTypeName) |  |
 | **StiDataTransformationDesignerAttribute**(Type type) |  |
+
+**StiDataTransformationDesignerAttribute**(**designerTypeName**: string)
+
+**Parameters**
+
+- **designerTypeName** (string)  
+
+---
+
+**StiDataTransformationDesignerAttribute**(**type**: Type)
+
+**Parameters**
+
+- **type** (Type)  
+
 
 ### Properties
 

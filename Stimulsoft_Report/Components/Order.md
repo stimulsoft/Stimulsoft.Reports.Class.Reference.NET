@@ -4,12 +4,7 @@ title: "Order Enum"
 
 ## Order Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum Order
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

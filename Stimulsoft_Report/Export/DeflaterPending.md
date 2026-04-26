@@ -4,12 +4,7 @@ title: "DeflaterPending Class"
 
 ## DeflaterPending Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class DeflaterPending
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Inheritance
 
@@ -20,3 +15,6 @@ Inherits from: [PendingBuffer](PendingBuffer.md)
 | Constructor | Description |
 | --- | --- |
 | **DeflaterPending**() |  |
+
+**DeflaterPending**()
+

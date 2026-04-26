@@ -4,12 +4,7 @@ title: "StiDataRequestOption Enum"
 
 ## StiDataRequestOption Enum
 
-**Namespace:** `Stimulsoft.Data.Engine`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum StiDataRequestOption
-```
+**Namespace:** `Stimulsoft.Data.Engine`
 
 ### Members
 

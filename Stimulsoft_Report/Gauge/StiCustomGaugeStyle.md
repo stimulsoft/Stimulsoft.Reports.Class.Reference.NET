@@ -4,12 +4,7 @@ title: "StiCustomGaugeStyle Class"
 
 ## StiCustomGaugeStyle Class
 
-**Namespace:** `Stimulsoft.Report.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCustomGaugeStyle
-```
+**Namespace:** `Stimulsoft.Report.Gauge`
 
 ### Inheritance
 
@@ -21,6 +16,17 @@ Inherits from: [StiGaugeStyleXF27](StiGaugeStyleXF27.md)
 | --- | --- |
 | **StiCustomGaugeStyle**() |  |
 | **StiCustomGaugeStyle**(StiGaugeStyle style) |  |
+
+**StiCustomGaugeStyle**()
+
+---
+
+**StiCustomGaugeStyle**(**style**: StiGaugeStyle)
+
+**Parameters**
+
+- **style** (StiGaugeStyle)  
+
 
 ### Fields
 

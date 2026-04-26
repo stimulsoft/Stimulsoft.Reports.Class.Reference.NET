@@ -4,14 +4,9 @@ title: "StiSaveDocumentEventArgs Class"
 
 ## StiSaveDocumentEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event StiSaveDocumentEvent.
-
-```csharp
-public class StiSaveDocumentEventArgs
-```
 
 ### Inheritance
 
@@ -21,7 +16,16 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| **StiSaveDocumentEventArgs**([StiReport](../StiReport.md) report, string filePath, string fileName) |  |
+| **StiSaveDocumentEventArgs**([StiReport](../root/StiReport.md) report, string filePath, string fileName) |  |
+
+**StiSaveDocumentEventArgs**(**report**: [StiReport](../root/StiReport.md), **filePath**: string, **fileName**: string)
+
+**Parameters**
+
+- **report** ([StiReport](../root/StiReport.md))  
+- **filePath** (string)  
+- **fileName** (string)  
+
 
 ### Properties
 
@@ -29,4 +33,4 @@ Inherits from: EventArgs
 | --- | --- | --- |
 | **FileName** | string |  |
 | **FilePath** | string |  |
-| **Report** | [StiReport](../StiReport.md) |  |
+| **Report** | [StiReport](../root/StiReport.md) |  |

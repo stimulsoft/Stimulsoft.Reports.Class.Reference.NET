@@ -4,12 +4,7 @@ title: "Vhea Class"
 
 ## Vhea Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class Vhea
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

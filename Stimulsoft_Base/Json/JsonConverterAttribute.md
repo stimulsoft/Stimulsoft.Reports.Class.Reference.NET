@@ -4,12 +4,7 @@ title: "JsonConverterAttribute Class"
 
 ## JsonConverterAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class JsonConverterAttribute
-```
+**Namespace:** `Stimulsoft.Base.Json`
 
 ### Inheritance
 
@@ -21,6 +16,26 @@ Inherits from: Attribute
 | --- | --- |
 | **JsonConverterAttribute**(Type converterType) | Initializes a new instance of the JsonConverterAttribute class. |
 | **JsonConverterAttribute**(Type converterType, objectconverterParameters ) | Initializes a new instance of the JsonConverterAttribute class. |
+
+**JsonConverterAttribute**(**converterType**: Type)
+
+Initializes a new instance of the JsonConverterAttribute class.
+
+**Parameters**
+
+- **converterType** (Type) — Type of the converter.  
+
+---
+
+**JsonConverterAttribute**(**converterType**: Type, ****: objectconverterParameters)
+
+Initializes a new instance of the JsonConverterAttribute class.
+
+**Parameters**
+
+- **converterType** (Type) — Type of the converter.  
+- **** (objectconverterParameters)  
+
 
 ### Properties
 

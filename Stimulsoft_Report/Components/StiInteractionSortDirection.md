@@ -4,12 +4,7 @@ title: "StiInteractionSortDirection Enum"
 
 ## StiInteractionSortDirection Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiInteractionSortDirection
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

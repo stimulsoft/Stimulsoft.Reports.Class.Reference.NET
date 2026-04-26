@@ -4,12 +4,7 @@ title: "StiStackedSplineAreaCoreXF Class"
 
 ## StiStackedSplineAreaCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiStackedSplineAreaCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiStackedColumnAreaCoreXF](StiStackedColumnAreaCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiStackedSplineAreaCoreXF**(IStiArea area) |  |
+
+**StiStackedSplineAreaCoreXF**(**area**: IStiArea)
+
+**Parameters**
+
+- **area** (IStiArea)  
+

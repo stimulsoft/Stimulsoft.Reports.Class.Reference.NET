@@ -4,11 +4,6 @@ title: "IStiSort Interface"
 
 ## IStiSort Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Describes data sorting.
-
-```csharp
-public interface IStiSort
-```

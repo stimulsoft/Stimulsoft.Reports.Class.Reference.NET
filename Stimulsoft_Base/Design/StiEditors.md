@@ -4,12 +4,7 @@ title: "StiEditors Class"
 
 ## StiEditors Class
 
-**Namespace:** `Stimulsoft.Base.Design`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiEditors
-```
+**Namespace:** `Stimulsoft.Base.Design`
 
 ### Fields
 

@@ -4,14 +4,9 @@ title: "StiCodeRegionStart Class"
 
 ## StiCodeRegionStart Class
 
-**Namespace:** `Stimulsoft.Report.CodeDom`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.CodeDom`
 
 Addition to the code generator is used to describe the construction #region.
-
-```csharp
-public class StiCodeRegionStart
-```
 
 ### Inheritance
 
@@ -22,6 +17,13 @@ Inherits from: CodeCommentStatement
 | Constructor | Description |
 | --- | --- |
 | **StiCodeRegionStart**(string text) |  |
+
+**StiCodeRegionStart**(**text**: string)
+
+**Parameters**
+
+- **text** (string)  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiRadarSeriesCoreXF Class"
 
 ## StiRadarSeriesCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiRadarSeriesCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: StiSeriesCoreXF
 | Constructor | Description |
 | --- | --- |
 | **StiRadarSeriesCoreXF**(IStiSeries series) |  |
+
+**StiRadarSeriesCoreXF**(**series**: IStiSeries)
+
+**Parameters**
+
+- **series** (IStiSeries)  
+
 
 ### Methods
 
@@ -32,3 +34,101 @@ Inherits from: StiSeriesCoreXF
 | **RenderLines** | void |  |
 | **RenderPoints** | void |  |
 | **RenderSeries** | void |  |
+
+---
+
+### Method Details
+
+#### ApplyStyle
+
+**ApplyStyle**(**style**: IStiChartStyle, **color**: Color): void
+
+**Parameters**
+
+- **style** (IStiChartStyle)  
+- **color** (Color)  
+
+
+---
+
+#### GetSeriesBorderColor
+
+**GetSeriesBorderColor**(**colorIndex**: int, **colorCount**: int): object
+
+**Parameters**
+
+- **colorIndex** (int)  
+- **colorCount** (int)  
+
+**Returns** object
+
+
+---
+
+#### GetSeriesBrush
+
+**GetSeriesBrush**(**colorIndex**: int, **colorCount**: int): [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)
+
+**Parameters**
+
+- **colorIndex** (int)  
+- **colorCount** (int)  
+
+**Returns** [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)
+
+
+---
+
+#### RenderAreas
+
+**RenderAreas**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **series**: IStiRadarSeries, **pointsInfo**: [StiSeriesPointsInfo](StiSeriesPointsInfo.md), **geom**: [StiAreaGeom](StiAreaGeom.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **series** (IStiRadarSeries)  
+- **pointsInfo** ([StiSeriesPointsInfo](StiSeriesPointsInfo.md))  
+- **geom** ([StiAreaGeom](StiAreaGeom.md))  
+
+
+---
+
+#### RenderLines
+
+**RenderLines**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **series**: IStiRadarSeries, **pointsInfo**: [StiSeriesPointsInfo](StiSeriesPointsInfo.md), **geom**: [StiAreaGeom](StiAreaGeom.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **series** (IStiRadarSeries)  
+- **pointsInfo** ([StiSeriesPointsInfo](StiSeriesPointsInfo.md))  
+- **geom** ([StiAreaGeom](StiAreaGeom.md))  
+
+
+---
+
+#### RenderPoints
+
+**RenderPoints**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **series**: IStiRadarSeries, **points**: List<PointF?>, **geom**: [StiAreaGeom](StiAreaGeom.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **series** (IStiRadarSeries)  
+- **points** (List<PointF?>)  
+- **geom** ([StiAreaGeom](StiAreaGeom.md))  
+
+
+---
+
+#### RenderSeries
+
+**RenderSeries**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **rect**: RectangleF, **geom**: [StiAreaGeom](StiAreaGeom.md), ****: IStiSeriesseriesArray): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **rect** (RectangleF)  
+- **geom** ([StiAreaGeom](StiAreaGeom.md))  
+- **** (IStiSeriesseriesArray)  
+

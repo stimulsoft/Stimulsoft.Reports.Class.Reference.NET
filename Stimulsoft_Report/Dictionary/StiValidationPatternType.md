@@ -4,14 +4,9 @@ title: "StiValidationPatternType Enum"
 
 ## StiValidationPatternType Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 Specifies the type of validation for the variable.
-
-```csharp
-public enum StiValidationPatternType
-```
 
 ### Members
 

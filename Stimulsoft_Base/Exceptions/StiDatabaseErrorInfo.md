@@ -4,12 +4,7 @@ title: "StiDatabaseErrorInfo Class"
 
 ## StiDatabaseErrorInfo Class
 
-**Namespace:** `Stimulsoft.Base.Exceptions`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiDatabaseErrorInfo
-```
+**Namespace:** `Stimulsoft.Base.Exceptions`
 
 ### Properties
 
@@ -34,3 +29,28 @@ public class StiDatabaseErrorInfo
 | --- | --- | --- |
 | **GetMessage** | string |  |
 | **Unknown** `static` | [StiDatabaseErrorInfo](StiDatabaseErrorInfo.md) |  |
+
+---
+
+### Method Details
+
+#### GetMessage
+
+**GetMessage**(): string
+
+**Returns** string
+
+
+---
+
+#### Unknown `static`
+
+**Unknown**(**ex**: Exception, **hint**: string): [StiDatabaseErrorInfo](StiDatabaseErrorInfo.md)
+
+**Parameters**
+
+- **ex** (Exception)  
+- **hint** (string)  
+
+**Returns** [StiDatabaseErrorInfo](StiDatabaseErrorInfo.md)
+

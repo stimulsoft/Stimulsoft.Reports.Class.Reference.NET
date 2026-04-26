@@ -4,12 +4,7 @@ title: "StiUserData Class"
 
 ## StiUserData Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiUserData
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 
@@ -31,6 +26,47 @@ Inherits from: Component
 | **InvokeConnect** | void | Raises the Connect event for this component. |
 | **InvokeDisconnent** | void | Raises the Disconnent event for this component. |
 | **InvokeGetData** | void | Raises the GetData event for this component. |
+
+---
+
+### Method Details
+
+#### InvokeConnect
+
+**InvokeConnect**(**e**: EventArgs): void
+
+Raises the Connect event for this component.
+
+**Parameters**
+
+- **e** (EventArgs) — An EventArgs that contains the event data.  
+
+
+---
+
+#### InvokeDisconnent
+
+**InvokeDisconnent**(**e**: EventArgs): void
+
+Raises the Disconnent event for this component.
+
+**Parameters**
+
+- **e** (EventArgs) — An EventArgs that contains the event data.  
+
+
+---
+
+#### InvokeGetData
+
+**InvokeGetData**(**e**: [StiUserGetDataEventArgs](StiUserGetDataEventArgs.md)): void
+
+Raises the GetData event for this component.
+
+**Parameters**
+
+- **e** ([StiUserGetDataEventArgs](StiUserGetDataEventArgs.md)) — An StiUserGetDataEventArgs that contains the event data.  
+
 
 ### Events
 

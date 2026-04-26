@@ -4,12 +4,7 @@ title: "StiLicensePath Class"
 
 ## StiLicensePath Class
 
-**Namespace:** `Stimulsoft.Base.Licenses`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiLicensePath
-```
+**Namespace:** `Stimulsoft.Base.Licenses`
 
 ### Methods
 
@@ -18,3 +13,32 @@ public static class StiLicensePath
 | **GetStimulsoftLicenseKeyAppPath** `static` | string |  |
 | **GetStimulsoftLicenseKeyInfoDatPath** `static` | string |  |
 | **GetStimulsoftLicenseKeyPath** `static` | string |  |
+
+---
+
+### Method Details
+
+#### GetStimulsoftLicenseKeyAppPath `static`
+
+**GetStimulsoftLicenseKeyAppPath**(): string
+
+**Returns** string
+
+
+---
+
+#### GetStimulsoftLicenseKeyInfoDatPath `static`
+
+**GetStimulsoftLicenseKeyInfoDatPath**(): string
+
+**Returns** string
+
+
+---
+
+#### GetStimulsoftLicenseKeyPath `static`
+
+**GetStimulsoftLicenseKeyPath**(): string
+
+**Returns** string
+

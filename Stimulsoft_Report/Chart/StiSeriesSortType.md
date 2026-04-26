@@ -4,12 +4,7 @@ title: "StiSeriesSortType Enum"
 
 ## StiSeriesSortType Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiSeriesSortType
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiGisEmptyWebProxy Class"
 
 ## StiGisEmptyWebProxy Class
 
-**Namespace:** `Stimulsoft.Map.Gis.Core`  
-**Assembly:** `Stimulsoft.Map`
-
-```csharp
-public sealed class StiGisEmptyWebProxy
-```
+**Namespace:** `Stimulsoft.Map.Gis.Core`
 
 ### Inheritance
 
@@ -27,3 +22,31 @@ Implements: IWebProxy
 | --- | --- | --- |
 | **GetProxy** | Uri |  |
 | **IsBypassed** | bool |  |
+
+---
+
+### Method Details
+
+#### GetProxy
+
+**GetProxy**(**uri**: Uri): Uri
+
+**Parameters**
+
+- **uri** (Uri)  
+
+**Returns** Uri
+
+
+---
+
+#### IsBypassed
+
+**IsBypassed**(**uri**: Uri): bool
+
+**Parameters**
+
+- **uri** (Uri)  
+
+**Returns** bool
+

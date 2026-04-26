@@ -4,14 +4,9 @@ title: "StiIconSetOperation Enum"
 
 ## StiIconSetOperation Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Operation which used in Icon Sets.
-
-```csharp
-public enum StiIconSetOperation
-```
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiNeedleIndicator4Skin Class"
 
 ## StiNeedleIndicator4Skin Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.Skins`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiNeedleIndicator4Skin
-```
+**Namespace:** `Stimulsoft.Report.Gauge.Skins`
 
 ### Inheritance
 
@@ -20,3 +15,20 @@ Inherits from: [StiGaugeElementSkin](../StiGaugeElementSkin.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Draw** | void |  |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: [StiGaugeContextPainter](../../Painters/StiGaugeContextPainter.md), **element**: StiGaugeElement, **rect**: RectangleF, **angle**: float?, **centerPoint**: PointF?): void
+
+**Parameters**
+
+- **context** ([StiGaugeContextPainter](../../Painters/StiGaugeContextPainter.md))  
+- **element** (StiGaugeElement)  
+- **rect** (RectangleF)  
+- **angle** (float?)  
+- **centerPoint** (PointF?)  
+

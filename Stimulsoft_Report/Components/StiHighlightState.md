@@ -4,14 +4,9 @@ title: "StiHighlightState Enum"
 
 ## StiHighlightState Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Types of selection of the component in the window of viewer.
-
-```csharp
-public enum StiHighlightState
-```
 
 ### Members
 

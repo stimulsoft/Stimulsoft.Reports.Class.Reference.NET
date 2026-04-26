@@ -4,14 +4,9 @@ title: "StiConnectionType Enum"
 
 ## StiConnectionType Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 Enum contain types of the data connections.
-
-```csharp
-public enum StiConnectionType
-```
 
 ### Members
 

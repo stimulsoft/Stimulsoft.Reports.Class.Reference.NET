@@ -4,12 +4,7 @@ title: "StiPaperLabelInfo Class"
 
 ## StiPaperLabelInfo Class
 
-**Namespace:** `Stimulsoft.Report.Labels`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiPaperLabelInfo
-```
+**Namespace:** `Stimulsoft.Report.Labels`
 
 ### Inheritance
 
@@ -31,3 +26,23 @@ Implements: ICloneable
 | --- | --- | --- |
 | **Clone** | object |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+**Returns** object
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

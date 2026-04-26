@@ -4,14 +4,9 @@ title: "StiIconSetValueType Enum"
 
 ## StiIconSetValueType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Types of value of Icon Sets.
-
-```csharp
-public enum StiIconSetValueType
-```
 
 ### Members
 

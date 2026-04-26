@@ -4,12 +4,7 @@ title: "Cmap Class"
 
 ## Cmap Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class Cmap
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

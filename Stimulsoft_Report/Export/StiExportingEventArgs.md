@@ -4,12 +4,7 @@ title: "StiExportingEventArgs Class"
 
 ## StiExportingEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiExportingEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Inheritance
 
@@ -20,6 +15,16 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiExportingEventArgs**(int value, int maximum, int currentPass, int maximumPass) |  |
+
+**StiExportingEventArgs**(**value**: int, **maximum**: int, **currentPass**: int, **maximumPass**: int)
+
+**Parameters**
+
+- **value** (int)  
+- **maximum** (int)  
+- **currentPass** (int)  
+- **maximumPass** (int)  
+
 
 ### Properties
 

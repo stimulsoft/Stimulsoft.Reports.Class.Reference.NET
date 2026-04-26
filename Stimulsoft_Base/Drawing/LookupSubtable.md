@@ -4,12 +4,7 @@ title: "LookupSubtable Class"
 
 ## LookupSubtable Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class LookupSubtable
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Constructors
 
@@ -17,11 +12,30 @@ public class LookupSubtable
 | --- | --- |
 | **LookupSubtable**(int type, int format) |  |
 
+**LookupSubtable**(**type**: int, **format**: int)
+
+**Parameters**
+
+- **type** (int)  
+- **format** (int)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetDigestCoverage** | ushort[] |  |
+
+---
+
+### Method Details
+
+#### GetDigestCoverage
+
+**GetDigestCoverage**(): ushort[]
+
+**Returns** ushort[]
+
 
 ### Fields
 

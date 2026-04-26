@@ -4,12 +4,7 @@ title: "StiDataActionComparer Class"
 
 ## StiDataActionComparer Class
 
-**Namespace:** `Stimulsoft.Data.Comparers`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class StiDataActionComparer
-```
+**Namespace:** `Stimulsoft.Data.Comparers`
 
 ### Inheritance
 
@@ -20,3 +15,19 @@ Implements: IComparer<StiDataActionRule>
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Compare** | int |  |
+
+---
+
+### Method Details
+
+#### Compare
+
+**Compare**(**x**: StiDataActionRule, **y**: StiDataActionRule): int
+
+**Parameters**
+
+- **x** (StiDataActionRule)  
+- **y** (StiDataActionRule)  
+
+**Returns** int
+

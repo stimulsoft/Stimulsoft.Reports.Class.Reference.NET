@@ -4,12 +4,7 @@ title: "IStiPublishWindow Interface"
 
 ## IStiPublishWindow Interface
 
-**Namespace:** `Stimulsoft.Base.Server`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public interface IStiPublishWindow
-```
+**Namespace:** `Stimulsoft.Base.Server`
 
 ### Inheritance
 

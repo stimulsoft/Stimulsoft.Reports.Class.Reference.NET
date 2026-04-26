@@ -4,12 +4,7 @@ title: "StiFirebaseDatabaseConverter Class"
 
 ## StiFirebaseDatabaseConverter Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiFirebaseDatabaseConverter
-```
+**Namespace:** `Stimulsoft.Report.Dictionary.Design`
 
 ### Inheritance
 

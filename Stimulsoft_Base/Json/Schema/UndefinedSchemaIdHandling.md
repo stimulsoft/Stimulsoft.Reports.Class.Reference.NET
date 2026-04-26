@@ -4,12 +4,7 @@ title: "UndefinedSchemaIdHandling Enum"
 
 ## UndefinedSchemaIdHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json.Schema`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum UndefinedSchemaIdHandling
-```
+**Namespace:** `Stimulsoft.Base.Json.Schema`
 
 ### Members
 

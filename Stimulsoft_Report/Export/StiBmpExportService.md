@@ -4,12 +4,7 @@ title: "StiBmpExportService Class"
 
 ## StiBmpExportService Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiBmpExportService
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Inheritance
 
@@ -20,3 +15,16 @@ Inherits from: [StiImageExportService](StiImageExportService.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetFilter** | string | Returns a filter for files with bmp images. |
+
+---
+
+### Method Details
+
+#### GetFilter
+
+**GetFilter**(): string
+
+Returns a filter for files with bmp images.
+
+**Returns** string — Returns a filter for files with bmp images.
+

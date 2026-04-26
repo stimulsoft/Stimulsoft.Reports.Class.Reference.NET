@@ -4,12 +4,7 @@ title: "StiCheckObject Class"
 
 ## StiCheckObject Class
 
-**Namespace:** `Stimulsoft.Report.WCFService`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCheckObject
-```
+**Namespace:** `Stimulsoft.Report.WCFService`
 
 ### Fields
 

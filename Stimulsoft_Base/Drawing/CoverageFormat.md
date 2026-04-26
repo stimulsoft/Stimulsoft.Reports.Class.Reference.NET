@@ -4,12 +4,7 @@ title: "CoverageFormat Class"
 
 ## CoverageFormat Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class CoverageFormat
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 
@@ -23,3 +18,28 @@ public class CoverageFormat
 | --- | --- | --- |
 | **GetGlyphArray** | ushort[] |  |
 | **Read** `static` | [CoverageFormat](CoverageFormat.md) |  |
+
+---
+
+### Method Details
+
+#### GetGlyphArray
+
+**GetGlyphArray**(): ushort[]
+
+**Returns** ushort[]
+
+
+---
+
+#### Read `static`
+
+**Read**(**reader**: StiFontReader, **offset**: uint): [CoverageFormat](CoverageFormat.md)
+
+**Parameters**
+
+- **reader** (StiFontReader)  
+- **offset** (uint)  
+
+**Returns** [CoverageFormat](CoverageFormat.md)
+

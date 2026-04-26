@@ -4,12 +4,7 @@ title: "StiArcSegmentGeom Class"
 
 ## StiArcSegmentGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiArcSegmentGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 
@@ -21,6 +16,27 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 | --- | --- |
 | **StiArcSegmentGeom**(RectangleF rect, float startAngle, float sweepAngle) |  |
 | **StiArcSegmentGeom**(RectangleF rect, float startAngle, float sweepAngle, float realStartAngle, float realSweepAngle) |  |
+
+**StiArcSegmentGeom**(**rect**: RectangleF, **startAngle**: float, **sweepAngle**: float)
+
+**Parameters**
+
+- **rect** (RectangleF)  
+- **startAngle** (float)  
+- **sweepAngle** (float)  
+
+---
+
+**StiArcSegmentGeom**(**rect**: RectangleF, **startAngle**: float, **sweepAngle**: float, **realStartAngle**: float, **realSweepAngle**: float)
+
+**Parameters**
+
+- **rect** (RectangleF)  
+- **startAngle** (float)  
+- **sweepAngle** (float)  
+- **realStartAngle** (float)  
+- **realSweepAngle** (float)  
+
 
 ### Properties
 
@@ -40,3 +56,29 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 | --- | --- | --- |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+

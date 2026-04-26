@@ -4,12 +4,7 @@ title: "StiPreviewSettingsConverter Class"
 
 ## StiPreviewSettingsConverter Class
 
-**Namespace:** `Stimulsoft.Report.Viewer.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPreviewSettingsConverter
-```
+**Namespace:** `Stimulsoft.Report.Viewer.Design`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

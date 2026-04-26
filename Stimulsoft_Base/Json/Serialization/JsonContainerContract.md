@@ -4,14 +4,9 @@ title: "JsonContainerContract Class"
 
 ## JsonContainerContract Class
 
-**Namespace:** `Stimulsoft.Base.Json.Serialization`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Serialization`
 
 Contract details for a Type used by the JsonSerializer.
-
-```csharp
-public class JsonContainerContract
-```
 
 ### Inheritance
 

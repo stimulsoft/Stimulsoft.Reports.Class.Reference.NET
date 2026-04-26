@@ -4,12 +4,7 @@ title: "ScriptRecord Class"
 
 ## ScriptRecord Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class ScriptRecord
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

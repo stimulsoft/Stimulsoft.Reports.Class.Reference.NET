@@ -4,12 +4,7 @@ title: "StiRadarPointSeriesElementGeom Class"
 
 ## StiRadarPointSeriesElementGeom Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRadarPointSeriesElementGeom
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -31,3 +26,74 @@ Inherits from: StiSeriesElementGeom
 | **InvokeClick** | void |  |
 | **InvokeMouseEnter** | void |  |
 | **InvokeMouseLeave** | void |  |
+
+---
+
+### Method Details
+
+#### Contains
+
+**Contains**(**x**: float, **y**: float): bool
+
+**Parameters**
+
+- **x** (float)  
+- **y** (float)  
+
+**Returns** bool
+
+
+---
+
+#### Draw
+
+**Draw**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md)): void
+
+Draws area geom object on spefied context.
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+
+
+---
+
+#### GetToolTipPoint
+
+**GetToolTipPoint**(): [StiInteractionToolTipPointOptions](StiInteractionToolTipPointOptions.md)
+
+**Returns** [StiInteractionToolTipPointOptions](StiInteractionToolTipPointOptions.md)
+
+
+---
+
+#### InvokeClick
+
+**InvokeClick**(**options**: [StiInteractionOptions](StiInteractionOptions.md)): void
+
+**Parameters**
+
+- **options** ([StiInteractionOptions](StiInteractionOptions.md))  
+
+
+---
+
+#### InvokeMouseEnter
+
+**InvokeMouseEnter**(**options**: [StiInteractionOptions](StiInteractionOptions.md)): void
+
+**Parameters**
+
+- **options** ([StiInteractionOptions](StiInteractionOptions.md))  
+
+
+---
+
+#### InvokeMouseLeave
+
+**InvokeMouseLeave**(**options**: [StiInteractionOptions](StiInteractionOptions.md)): void
+
+**Parameters**
+
+- **options** ([StiInteractionOptions](StiInteractionOptions.md))  
+

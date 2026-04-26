@@ -4,14 +4,9 @@ title: "StiSylkExportSettings Class"
 
 ## StiSylkExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Class describes settings for export to SYLK format.
-
-```csharp
-public class StiSylkExportSettings
-```
 
 ### Inheritance
 
@@ -22,3 +17,6 @@ Inherits from: StiDataExportSettings
 | Constructor | Description |
 | --- | --- |
 | **StiSylkExportSettings**() |  |
+
+**StiSylkExportSettings**()
+

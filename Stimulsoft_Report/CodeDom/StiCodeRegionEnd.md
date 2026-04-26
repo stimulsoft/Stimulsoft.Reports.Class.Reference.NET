@@ -4,14 +4,9 @@ title: "StiCodeRegionEnd Class"
 
 ## StiCodeRegionEnd Class
 
-**Namespace:** `Stimulsoft.Report.CodeDom`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.CodeDom`
 
 Addition to the code generator is used to describe the construction #endregion.
-
-```csharp
-public class StiCodeRegionEnd
-```
 
 ### Inheritance
 
@@ -23,6 +18,17 @@ Inherits from: CodeCommentStatement
 | --- | --- |
 | **StiCodeRegionEnd**() |  |
 | **StiCodeRegionEnd**(string text) |  |
+
+**StiCodeRegionEnd**()
+
+---
+
+**StiCodeRegionEnd**(**text**: string)
+
+**Parameters**
+
+- **text** (string)  
+
 
 ### Properties
 

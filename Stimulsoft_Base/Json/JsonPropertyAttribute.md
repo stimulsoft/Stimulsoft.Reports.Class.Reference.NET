@@ -4,12 +4,7 @@ title: "JsonPropertyAttribute Class"
 
 ## JsonPropertyAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class JsonPropertyAttribute
-```
+**Namespace:** `Stimulsoft.Base.Json`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **JsonPropertyAttribute**() | Initializes a new instance of the JsonPropertyAttribute class. |
 | **JsonPropertyAttribute**(string propertyName) | Initializes a new instance of the JsonPropertyAttribute class with the specified name. |
+
+**JsonPropertyAttribute**()
+
+Initializes a new instance of the JsonPropertyAttribute class.
+
+---
+
+**JsonPropertyAttribute**(**propertyName**: string)
+
+Initializes a new instance of the JsonPropertyAttribute class with the specified name.
+
+**Parameters**
+
+- **propertyName** (string) — Name of the property.  
+
 
 ### Properties
 

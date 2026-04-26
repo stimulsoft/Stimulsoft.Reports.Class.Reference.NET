@@ -4,12 +4,7 @@ title: "StiGeoDirectionsStatusCode Enum"
 
 ## StiGeoDirectionsStatusCode Enum
 
-**Namespace:** `Stimulsoft.Map.Gis.Core`  
-**Assembly:** `Stimulsoft.Map`
-
-```csharp
-public enum StiGeoDirectionsStatusCode
-```
+**Namespace:** `Stimulsoft.Map.Gis.Core`
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiQuarter Enum"
 
 ## StiQuarter Enum
 
-**Namespace:** `Stimulsoft.Data.Functions`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum StiQuarter
-```
+**Namespace:** `Stimulsoft.Data.Functions`
 
 ### Members
 

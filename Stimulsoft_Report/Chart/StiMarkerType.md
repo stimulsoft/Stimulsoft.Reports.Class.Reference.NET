@@ -4,12 +4,7 @@ title: "StiMarkerType Enum"
 
 ## StiMarkerType Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiMarkerType
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

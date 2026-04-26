@@ -4,12 +4,7 @@ title: "StiHtmlExportBookmarksMode Enum"
 
 ## StiHtmlExportBookmarksMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiHtmlExportBookmarksMode
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Members
 

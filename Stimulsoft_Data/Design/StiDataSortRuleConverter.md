@@ -4,12 +4,7 @@ title: "StiDataSortRuleConverter Class"
 
 ## StiDataSortRuleConverter Class
 
-**Namespace:** `Stimulsoft.Data.Design`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class StiDataSortRuleConverter
-```
+**Namespace:** `Stimulsoft.Data.Design`
 
 ### Inheritance
 
@@ -21,3 +16,32 @@ Inherits from: TypeConverter
 | --- | --- | --- |
 | **CanConvertTo** | bool |  |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### CanConvertTo
+
+**CanConvertTo**(**context**: ITypeDescriptorContext, **destinationType**: Type): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **destinationType** (Type)  
+
+**Returns** bool
+
+
+---
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

@@ -4,12 +4,7 @@ title: "ANTLRFileStream Class"
 
 ## ANTLRFileStream Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class ANTLRFileStream
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`
 
 ### Inheritance
 
@@ -22,11 +17,41 @@ Inherits from: [ANTLRStringStream](ANTLRStringStream.md)
 | **ANTLRFileStream**(string fileName) |  |
 | **ANTLRFileStream**(string fileName, Encoding encoding) |  |
 
+**ANTLRFileStream**(**fileName**: string)
+
+**Parameters**
+
+- **fileName** (string)  
+
+---
+
+**ANTLRFileStream**(**fileName**: string, **encoding**: Encoding)
+
+**Parameters**
+
+- **fileName** (string)  
+- **encoding** (Encoding)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Load** | void |  |
+
+---
+
+### Method Details
+
+#### Load
+
+**Load**(**fileName**: string, **encoding**: Encoding): void
+
+**Parameters**
+
+- **fileName** (string)  
+- **encoding** (Encoding)  
+
 
 ### Fields
 

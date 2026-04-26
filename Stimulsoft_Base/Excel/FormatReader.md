@@ -4,18 +4,16 @@ title: "FormatReader Class"
 
 ## FormatReader Class
 
-**Namespace:** `Stimulsoft.Base.Excel`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class FormatReader
-```
+**Namespace:** `Stimulsoft.Base.Excel`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **FormatReader**() |  |
+
+**FormatReader**()
+
 
 ### Properties
 
@@ -28,3 +26,14 @@ public class FormatReader
 | Method | Returns | Description |
 | --- | --- | --- |
 | **IsDateFormatString** | bool |  |
+
+---
+
+### Method Details
+
+#### IsDateFormatString
+
+**IsDateFormatString**(): bool
+
+**Returns** bool
+

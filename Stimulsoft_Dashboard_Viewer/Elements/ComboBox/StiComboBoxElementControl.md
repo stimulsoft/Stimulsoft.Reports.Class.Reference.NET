@@ -4,12 +4,7 @@ title: "StiComboBoxElementControl Class"
 
 ## StiComboBoxElementControl Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.ComboBox`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public abstract class StiComboBoxElementControl
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.ComboBox`
 
 ### Inheritance
 
@@ -21,6 +16,13 @@ Inherits from: StiFilterElementControl
 | --- | --- |
 | **StiComboBoxElementControl**(IStiElement element) |  |
 
+**StiComboBoxElementControl**(**element**: IStiElement)
+
+**Parameters**
+
+- **element** (IStiElement)  
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -30,6 +32,57 @@ Inherits from: StiFilterElementControl
 | **RefreshChild** | void |  |
 | **RefreshChildControl** | void |  |
 | **ResetFilter** | void |  |
+
+---
+
+### Method Details
+
+#### IsAllItemsSelected
+
+**IsAllItemsSelected**(): bool
+
+**Returns** bool
+
+
+---
+
+#### OnSizeChanged
+
+**OnSizeChanged**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### RefreshChild
+
+**RefreshChild**(**dataTable**: [StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md)): void
+
+**Parameters**
+
+- **dataTable** ([StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md))  
+
+
+---
+
+#### RefreshChildControl
+
+**RefreshChildControl**(****: StiComboBoxItemitems): void
+
+**Parameters**
+
+- **** (StiComboBoxItemitems)  
+
+
+---
+
+#### ResetFilter
+
+**ResetFilter**(): void
+
 
 ### Fields
 

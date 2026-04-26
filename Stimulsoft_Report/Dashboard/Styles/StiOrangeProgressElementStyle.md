@@ -4,12 +4,7 @@ title: "StiOrangeProgressElementStyle Class"
 
 ## StiOrangeProgressElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiOrangeProgressElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiArabicForm Enum"
 
 ## StiArabicForm Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiArabicForm
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

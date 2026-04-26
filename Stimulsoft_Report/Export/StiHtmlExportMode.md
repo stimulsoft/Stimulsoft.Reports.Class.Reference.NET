@@ -4,14 +4,9 @@ title: "StiHtmlExportMode Enum"
 
 ## StiHtmlExportMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration which sets an exported mode for the Html export.
-
-```csharp
-public enum StiHtmlExportMode
-```
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiDivisionShapeType Class"
 
 ## StiDivisionShapeType Class
 
-**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDivisionShapeType
-```
+**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`
 
 ### Inheritance
 

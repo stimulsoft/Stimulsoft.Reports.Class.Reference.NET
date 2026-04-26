@@ -4,12 +4,7 @@ title: "StiCustomProgressElementStyle Class"
 
 ## StiCustomProgressElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCustomProgressElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: [StiProgressElementStyle](StiProgressElementStyle.md)
 | Constructor | Description |
 | --- | --- |
 | **StiCustomProgressElementStyle**(StiProgressStyle style) |  |
+
+**StiCustomProgressElementStyle**(**style**: StiProgressStyle)
+
+**Parameters**
+
+- **style** (StiProgressStyle)  
+
 
 ### Properties
 

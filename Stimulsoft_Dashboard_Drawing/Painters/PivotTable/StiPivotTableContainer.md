@@ -4,12 +4,7 @@ title: "StiPivotTableContainer Class"
 
 ## StiPivotTableContainer Class
 
-**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters.PivotTable`  
-**Assembly:** `Stimulsoft.Dashboard.Drawing`
-
-```csharp
-public class StiPivotTableContainer
-```
+**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters.PivotTable`
 
 ### Inheritance
 
@@ -20,6 +15,14 @@ Implements: [IStiPivotGridContainer](../../../Stimulsoft_Report/Dashboard/IStiPi
 | Constructor | Description |
 | --- | --- |
 | **StiPivotTableContainer**(Control control, StiPivotTableElement element) |  |
+
+**StiPivotTableContainer**(**control**: Control, **element**: StiPivotTableElement)
+
+**Parameters**
+
+- **control** (Control)  
+- **element** (StiPivotTableElement)  
+
 
 ### Properties
 
@@ -49,6 +52,144 @@ Implements: [IStiPivotGridContainer](../../../Stimulsoft_Report/Dashboard/IStiPi
 | **SaveState** | void |  |
 | **UpdateSize** | void |  |
 | **UpdateWidthAndHeight** | void |  |
+
+---
+
+### Method Details
+
+#### Clear
+
+**Clear**(): void
+
+
+---
+
+#### ExpandCollapse
+
+**ExpandCollapse**(**expand**: bool): void
+
+**Parameters**
+
+- **expand** (bool)  
+
+
+---
+
+#### FindSelectableCell
+
+**FindSelectableCell**(**cell**: [StiPivotTableCell](StiPivotTableCell.md), **key**: Keys): [StiPivotTableCell](StiPivotTableCell.md)
+
+**Parameters**
+
+- **cell** ([StiPivotTableCell](StiPivotTableCell.md))  
+- **key** (Keys)  
+
+**Returns** [StiPivotTableCell](StiPivotTableCell.md)
+
+
+---
+
+#### GetParent
+
+**GetParent**(**cell**: [StiPivotTableCell](StiPivotTableCell.md)): [StiPivotTableCell](StiPivotTableCell.md)
+
+**Parameters**
+
+- **cell** ([StiPivotTableCell](StiPivotTableCell.md))  
+
+**Returns** [StiPivotTableCell](StiPivotTableCell.md)
+
+
+---
+
+#### GridPaint
+
+**GridPaint**(**e**: PaintEventArgs, **style**: [StiPivotElementStyle](../../../Stimulsoft_Report/Dashboard/Styles/StiPivotElementStyle.md), **scrollLeft**: int, **scrollTop**: int, **isDesigner**: bool, **transformation**: Size?, **content**: bool): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+- **style** ([StiPivotElementStyle](../../../Stimulsoft_Report/Dashboard/Styles/StiPivotElementStyle.md))  
+- **scrollLeft** (int)  
+- **scrollTop** (int)  
+- **isDesigner** (bool)  
+- **transformation** (Size?)  
+- **content** (bool)  
+
+
+---
+
+#### MakeGrid
+
+**MakeGrid**(**cross**: [StiCross](../../../Stimulsoft_Report/CrossTab/Core/StiCross.md), **pivot**: StiPivotTableElement): void
+
+**Parameters**
+
+- **cross** ([StiCross](../../../Stimulsoft_Report/CrossTab/Core/StiCross.md))  
+- **pivot** (StiPivotTableElement)  
+
+
+---
+
+#### OnMouseMove
+
+**OnMouseMove**(**x**: int, **y**: int): void
+
+**Parameters**
+
+- **x** (int)  
+- **y** (int)  
+
+
+---
+
+#### OpenLink
+
+**OpenLink**(**args**: StiValueEventArgs): void
+
+**Parameters**
+
+- **args** (StiValueEventArgs)  
+
+
+---
+
+#### OpenNewTab
+
+**OpenNewTab**(**args**: StiValueEventArgs): void
+
+**Parameters**
+
+- **args** (StiValueEventArgs)  
+
+
+---
+
+#### RestoreState
+
+**RestoreState**(): void
+
+
+---
+
+#### SaveState
+
+**SaveState**(): void
+
+
+---
+
+#### UpdateSize
+
+**UpdateSize**(): void
+
+
+---
+
+#### UpdateWidthAndHeight
+
+**UpdateWidthAndHeight**(): void
+
 
 ### Events
 

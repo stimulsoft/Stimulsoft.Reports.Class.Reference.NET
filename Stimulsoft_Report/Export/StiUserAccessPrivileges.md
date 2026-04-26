@@ -4,12 +4,7 @@ title: "StiUserAccessPrivileges Enum"
 
 ## StiUserAccessPrivileges Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiUserAccessPrivileges
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Members
 

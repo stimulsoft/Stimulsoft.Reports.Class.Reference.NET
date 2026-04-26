@@ -4,12 +4,7 @@ title: "StiRotationMode Enum"
 
 ## StiRotationMode Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiRotationMode
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

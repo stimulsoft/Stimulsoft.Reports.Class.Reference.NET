@@ -4,14 +4,9 @@ title: "StiComponentPriority Enum"
 
 ## StiComponentPriority Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Enumeration which sets the priority of processing of components.
-
-```csharp
-public enum StiComponentPriority
-```
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiSteppedAreaSeriesCoreXF Class"
 
 ## StiSteppedAreaSeriesCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSteppedAreaSeriesCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,6 +16,13 @@ Inherits from: [StiSteppedLineSeriesCoreXF](StiSteppedLineSeriesCoreXF.md)
 | --- | --- |
 | **StiSteppedAreaSeriesCoreXF**(IStiSeries series) |  |
 
+**StiSteppedAreaSeriesCoreXF**(**series**: IStiSeries)
+
+**Parameters**
+
+- **series** (IStiSeries)  
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -28,3 +30,44 @@ Inherits from: [StiSteppedLineSeriesCoreXF](StiSteppedLineSeriesCoreXF.md)
 | **ApplyStyle** | void |  |
 | **GetSeriesBrush** | [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) |  |
 | **RenderAreas** | void |  |
+
+---
+
+### Method Details
+
+#### ApplyStyle
+
+**ApplyStyle**(**style**: IStiChartStyle, **color**: Color): void
+
+**Parameters**
+
+- **style** (IStiChartStyle)  
+- **color** (Color)  
+
+
+---
+
+#### GetSeriesBrush
+
+**GetSeriesBrush**(**colorIndex**: int, **colorCount**: int): [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)
+
+**Parameters**
+
+- **colorIndex** (int)  
+- **colorCount** (int)  
+
+**Returns** [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)
+
+
+---
+
+#### RenderAreas
+
+**RenderAreas**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **geom**: [StiAreaGeom](StiAreaGeom.md), **pointsInfo**: [StiSeriesPointsInfo](StiSeriesPointsInfo.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **geom** ([StiAreaGeom](StiAreaGeom.md))  
+- **pointsInfo** ([StiSeriesPointsInfo](StiSeriesPointsInfo.md))  
+

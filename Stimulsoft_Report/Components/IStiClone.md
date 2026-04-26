@@ -4,11 +4,6 @@ title: "IStiClone Interface"
 
 ## IStiClone Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Allows to create components - clones.
-
-```csharp
-public interface IStiClone
-```

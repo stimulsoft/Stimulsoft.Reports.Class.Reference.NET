@@ -4,12 +4,7 @@ title: "StiWinControlV2Builder Class"
 
 ## StiWinControlV2Builder Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiWinControlV2Builder
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: [StiComponentV2Builder](StiComponentV2Builder.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **InternalRender** | StiComponent |  |
+
+---
+
+### Method Details
+
+#### InternalRender
+
+**InternalRender**(**masterComp**: StiComponent): StiComponent
+
+**Parameters**
+
+- **masterComp** (StiComponent)  
+
+**Returns** StiComponent
+

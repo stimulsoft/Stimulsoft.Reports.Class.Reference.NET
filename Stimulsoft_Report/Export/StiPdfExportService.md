@@ -4,12 +4,7 @@ title: "StiPdfExportService Class"
 
 ## StiPdfExportService Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPdfExportService
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Inheritance
 
@@ -39,6 +34,135 @@ Inherits from: [StiExportService](StiExportService.md)
 | **GetShadingFunctionNumber** | int | Returns number of shadingFunctionArray in table of shadingFunctions. |
 | **InitPdfFonts** | void |  |
 | **OnSplitTextIntoLines** | string |  |
+
+---
+
+### Method Details
+
+#### ClearFontsCache
+
+**ClearFontsCache**(): void
+
+
+---
+
+#### Clone
+
+**Clone**(): StiPdfData
+
+**Returns** StiPdfData
+
+
+---
+
+#### Export
+
+**Export**(**report**: [StiReport](../root/StiReport.md), **fileName**: string, **sendEMail**: bool, **guiMode**: [StiGuiMode](../../Stimulsoft_Base/root/StiGuiMode.md)): void
+
+Exports rendered report to a pdf file. Also file may be sent via e-mail.
+
+**Parameters**
+
+- **report** ([StiReport](../root/StiReport.md)) — A report which is to be exported.  
+- **fileName** (string) — A name of the file for exporting a rendered report.  
+- **sendEMail** (bool) — A parameter indicating whether the exported report will be sent via e-mail.  
+- **guiMode** ([StiGuiMode](../../Stimulsoft_Base/root/StiGuiMode.md))  
+
+
+---
+
+#### ExportTo
+
+**ExportTo**(**report**: [StiReport](../root/StiReport.md), **stream**: Stream, **settings**: [StiExportSettings](StiExportSettings.md)): void
+
+Exports a document to the stream without dialog of the saving file.
+
+**Parameters**
+
+- **report** ([StiReport](../root/StiReport.md)) — A report which is to be exported.  
+- **stream** (Stream) — A stream in which report will be exported.  
+- **settings** ([StiExportSettings](StiExportSettings.md)) — A settings for the report exporting.  
+
+
+---
+
+#### GetCreatorString
+
+**GetCreatorString**(): string
+
+**Returns** string
+
+
+---
+
+#### GetFilter
+
+**GetFilter**(): string
+
+Returns a filter for the pdf files.
+
+**Returns** string — Returns a filter for the Pdf files.
+
+
+---
+
+#### GetHatchNumber
+
+**GetHatchNumber**(**brush**: [StiHatchBrush](../../Stimulsoft_Base/Drawing/StiHatchBrush.md)): int
+
+Returns number of hatch in table of hatches.
+
+**Parameters**
+
+- **brush** ([StiHatchBrush](../../Stimulsoft_Base/Drawing/StiHatchBrush.md))  
+
+**Returns** int
+
+---
+
+**GetHatchNumber**(**brush**: [HatchBrush](../../Stimulsoft_Drawing/Drawing2D/HatchBrush.md)): int
+
+**Parameters**
+
+- **brush** ([HatchBrush](../../Stimulsoft_Drawing/Drawing2D/HatchBrush.md))  
+
+**Returns** int
+
+
+---
+
+#### GetShadingFunctionNumber
+
+**GetShadingFunctionNumber**(****: Colorcolors): int
+
+Returns number of shadingFunctionArray in table of shadingFunctions.
+
+**Parameters**
+
+- **** (Colorcolors)  
+
+**Returns** int
+
+
+---
+
+#### InitPdfFonts
+
+**InitPdfFonts**(): void
+
+
+---
+
+#### OnSplitTextIntoLines
+
+**OnSplitTextIntoLines**(**e**: [Stimulsoft.Report.Events.StiSplitTextIntoLinesEventArgs](../Events/StiSplitTextIntoLinesEventArgs.md)): string
+
+**Parameters**
+
+- **e** ([Stimulsoft.Report.Events.StiSplitTextIntoLinesEventArgs](../Events/StiSplitTextIntoLinesEventArgs.md))  
+
+**Returns** string
+
 
 ### Events
 

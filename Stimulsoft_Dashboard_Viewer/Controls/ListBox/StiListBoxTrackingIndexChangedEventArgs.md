@@ -4,12 +4,7 @@ title: "StiListBoxTrackingIndexChangedEventArgs Class"
 
 ## StiListBoxTrackingIndexChangedEventArgs Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.ListBox`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiListBoxTrackingIndexChangedEventArgs
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.ListBox`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiListBoxTrackingIndexChangedEventArgs**(int itemIndex) |  |
+
+**StiListBoxTrackingIndexChangedEventArgs**(**itemIndex**: int)
+
+**Parameters**
+
+- **itemIndex** (int)  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiLoadingStylesEventArgs Class"
 
 ## StiLoadingStylesEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiLoadingStylesEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiLoadingStylesEventArgs**(StiStylesCollection styles) |  |
+
+**StiLoadingStylesEventArgs**(**styles**: StiStylesCollection)
+
+**Parameters**
+
+- **styles** (StiStylesCollection)  
+
 
 ### Properties
 

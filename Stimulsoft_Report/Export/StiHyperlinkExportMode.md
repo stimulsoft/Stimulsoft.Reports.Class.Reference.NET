@@ -4,14 +4,9 @@ title: "StiHyperlinkExportMode Enum"
 
 ## StiHyperlinkExportMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for the setting the hyperlink export mode
-
-```csharp
-public enum StiHyperlinkExportMode
-```
 
 ### Members
 

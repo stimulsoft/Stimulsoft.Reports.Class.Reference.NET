@@ -4,12 +4,7 @@ title: "StiNumberMinMaxMode Enum"
 
 ## StiNumberMinMaxMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiNumberMinMaxMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

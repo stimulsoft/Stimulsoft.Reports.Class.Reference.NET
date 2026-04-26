@@ -4,12 +4,7 @@ title: "StiBingMapHelper Class"
 
 ## StiBingMapHelper Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiBingMapHelper
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 
@@ -22,5 +17,35 @@ public static class StiBingMapHelper
 
 | Method | Returns | Description |
 | --- | --- | --- |
-| **GetImage** `static` | [Bitmap](../../Stimulsoft_Drawing/Bitmap.md) |  |
+| **GetImage** `static` | [Bitmap](../../Stimulsoft_Drawing/root/Bitmap.md) |  |
 | **GetScript** `static` | string |  |
+
+---
+
+### Method Details
+
+#### GetImage `static`
+
+**GetImage**(**size**: Size, **userBingKey**: string, **pushPins**: List<string>): [Bitmap](../../Stimulsoft_Drawing/root/Bitmap.md)
+
+**Parameters**
+
+- **size** (Size)  
+- **userBingKey** (string)  
+- **pushPins** (List<string>)  
+
+**Returns** [Bitmap](../../Stimulsoft_Drawing/root/Bitmap.md)
+
+
+---
+
+#### GetScript `static`
+
+**GetScript**(**mapData**: Hashtable): string
+
+**Parameters**
+
+- **mapData** (Hashtable)  
+
+**Returns** string
+

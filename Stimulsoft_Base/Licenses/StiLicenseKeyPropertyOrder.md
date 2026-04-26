@@ -4,12 +4,7 @@ title: "StiLicenseKeyPropertyOrder Enum"
 
 ## StiLicenseKeyPropertyOrder Enum
 
-**Namespace:** `Stimulsoft.Base.Licenses`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiLicenseKeyPropertyOrder
-```
+**Namespace:** `Stimulsoft.Base.Licenses`
 
 ### Members
 

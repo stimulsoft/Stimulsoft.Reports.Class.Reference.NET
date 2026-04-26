@@ -4,12 +4,7 @@ title: "StiSLActions Enum"
 
 ## StiSLActions Enum
 
-**Namespace:** `Stimulsoft.Report.SaveLoad`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiSLActions
-```
+**Namespace:** `Stimulsoft.Report.SaveLoad`
 
 ### Members
 

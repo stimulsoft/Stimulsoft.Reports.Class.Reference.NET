@@ -4,12 +4,7 @@ title: "StiQRCodeSize Enum"
 
 ## StiQRCodeSize Enum
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiQRCodeSize
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Members
 

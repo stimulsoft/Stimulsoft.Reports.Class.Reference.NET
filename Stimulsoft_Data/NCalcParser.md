@@ -4,12 +4,7 @@ title: "NCalcParser Class"
 
 ## NCalcParser Class
 
-**Namespace:** ``  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class NCalcParser
-```
+**Namespace:** ``
 
 ### Inheritance
 
@@ -21,6 +16,22 @@ Inherits from: [Parser](Expressions/Antlr/Runtime/Parser.md)
 | --- | --- |
 | **NCalcParser**([ITokenStream](Expressions/Antlr/Runtime/ITokenStream.md) input) |  |
 | **NCalcParser**([ITokenStream](Expressions/Antlr/Runtime/ITokenStream.md) input, [RecognizerSharedState](Expressions/Antlr/Runtime/RecognizerSharedState.md) state) |  |
+
+**NCalcParser**(**input**: [ITokenStream](Expressions/Antlr/Runtime/ITokenStream.md))
+
+**Parameters**
+
+- **input** ([ITokenStream](Expressions/Antlr/Runtime/ITokenStream.md))  
+
+---
+
+**NCalcParser**(**input**: [ITokenStream](Expressions/Antlr/Runtime/ITokenStream.md), **state**: [RecognizerSharedState](Expressions/Antlr/Runtime/RecognizerSharedState.md))
+
+**Parameters**
+
+- **input** ([ITokenStream](Expressions/Antlr/Runtime/ITokenStream.md))  
+- **state** ([RecognizerSharedState](Expressions/Antlr/Runtime/RecognizerSharedState.md))  
+
 
 ### Properties
 
@@ -36,6 +47,29 @@ Inherits from: [Parser](Expressions/Antlr/Runtime/Parser.md)
 | --- | --- | --- |
 | **DisplayRecognitionError** | void |  |
 | **ncalcExpression** | NCalcParser.ncalcExpression_return |  |
+
+---
+
+### Method Details
+
+#### DisplayRecognitionError
+
+**DisplayRecognitionError**(****: StringtokenNames, **e**: [RecognitionException](Expressions/Antlr/Runtime/RecognitionException.md)): void
+
+**Parameters**
+
+- **** (StringtokenNames)  
+- **e** ([RecognitionException](Expressions/Antlr/Runtime/RecognitionException.md))  
+
+
+---
+
+#### ncalcExpression
+
+**ncalcExpression**(): NCalcParser.ncalcExpression_return
+
+**Returns** NCalcParser.ncalcExpression_return
+
 
 ### Fields
 

@@ -4,12 +4,7 @@ title: "StiImageRotation Enum"
 
 ## StiImageRotation Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiImageRotation
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

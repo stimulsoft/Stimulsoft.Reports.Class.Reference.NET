@@ -4,14 +4,9 @@ title: "StiAvgWeightedDecimalFunctionService Class"
 
 ## StiAvgWeightedDecimalFunctionService Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 Describes the class for work with AvgWeighted aggregate function. To calculate the type Decimal is used.
-
-```csharp
-public class StiAvgWeightedDecimalFunctionService
-```
 
 ### Inheritance
 
@@ -24,6 +19,17 @@ Inherits from: [StiTwoArgumentAggregateFunctionService](StiTwoArgumentAggregateF
 | **StiAvgWeightedDecimalFunctionService**() |  |
 | **StiAvgWeightedDecimalFunctionService**(bool runningTotal) |  |
 
+**StiAvgWeightedDecimalFunctionService**()
+
+---
+
+**StiAvgWeightedDecimalFunctionService**(**runningTotal**: bool)
+
+**Parameters**
+
+- **runningTotal** (bool)  
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -35,3 +41,97 @@ Inherits from: [StiTwoArgumentAggregateFunctionService](StiTwoArgumentAggregateF
 | **RestoreState** | void | Restores the earlier saved object state. |
 | **SaveState** | void | Saves the current state of an object. |
 | **SetValue** | void | Sets the calculation result. |
+
+---
+
+### Method Details
+
+#### CalcItem
+
+**CalcItem**(**value**: object): void
+
+A value calculation.
+
+**Parameters**
+
+- **value** (object) — Value.  
+
+---
+
+**CalcItem**(**value**: object, **weight**: object): void
+
+**Parameters**
+
+- **value** (object)  
+- **weight** (object)  
+
+
+---
+
+#### GetResultType
+
+**GetResultType**(): Type
+
+Returns the type of the result.
+
+**Returns** Type
+
+
+---
+
+#### GetValue
+
+**GetValue**(): object
+
+Returns the calculation result.
+
+**Returns** object — Calculation result.
+
+
+---
+
+#### Init
+
+**Init**(): void
+
+First initialization.
+
+
+---
+
+#### RestoreState
+
+**RestoreState**(**stateName**: string): void
+
+Restores the earlier saved object state.
+
+**Parameters**
+
+- **stateName** (string) — A name of the state being restored.  
+
+
+---
+
+#### SaveState
+
+**SaveState**(**stateName**: string): void
+
+Saves the current state of an object.
+
+**Parameters**
+
+- **stateName** (string) — A name of the state being saved.  
+
+
+---
+
+#### SetValue
+
+**SetValue**(**value**: object): void
+
+Sets the calculation result.
+
+**Parameters**
+
+- **value** (object)  
+

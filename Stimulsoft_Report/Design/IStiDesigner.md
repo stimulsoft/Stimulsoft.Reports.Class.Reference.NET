@@ -4,12 +4,7 @@ title: "IStiDesigner Interface"
 
 ## IStiDesigner Interface
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiDesigner
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Inheritance
 

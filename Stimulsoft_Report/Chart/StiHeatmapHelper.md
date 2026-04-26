@@ -4,12 +4,7 @@ title: "StiHeatmapHelper Class"
 
 ## StiHeatmapHelper Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiHeatmapHelper
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Methods
 
@@ -17,3 +12,34 @@ public static class StiHeatmapHelper
 | --- | --- | --- |
 | **GetColorFromRange** `static` | Color |  |
 | **GetLinearGradientPoints** `static` | float[] |  |
+
+---
+
+### Method Details
+
+#### GetColorFromRange `static`
+
+**GetColorFromRange**(****: Colorcolors, **min**: float, **max**: float, **value**: float): Color
+
+**Parameters**
+
+- **** (Colorcolors)  
+- **min** (float)  
+- **max** (float)  
+- **value** (float)  
+
+**Returns** Color
+
+
+---
+
+#### GetLinearGradientPoints `static`
+
+**GetLinearGradientPoints**(**count**: int): float[]
+
+**Parameters**
+
+- **count** (int)  
+
+**Returns** float[]
+

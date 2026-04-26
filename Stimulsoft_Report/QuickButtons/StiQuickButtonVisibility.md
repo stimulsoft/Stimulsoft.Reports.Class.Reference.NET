@@ -4,12 +4,7 @@ title: "StiQuickButtonVisibility Enum"
 
 ## StiQuickButtonVisibility Enum
 
-**Namespace:** `Stimulsoft.Report.QuickButtons`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiQuickButtonVisibility
-```
+**Namespace:** `Stimulsoft.Report.QuickButtons`
 
 ### Members
 

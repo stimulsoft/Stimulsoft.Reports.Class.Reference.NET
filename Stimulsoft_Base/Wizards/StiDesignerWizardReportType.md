@@ -4,12 +4,7 @@ title: "StiDesignerWizardReportType Enum"
 
 ## StiDesignerWizardReportType Enum
 
-**Namespace:** `Stimulsoft.Base.Wizards`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiDesignerWizardReportType
-```
+**Namespace:** `Stimulsoft.Base.Wizards`
 
 ### Members
 

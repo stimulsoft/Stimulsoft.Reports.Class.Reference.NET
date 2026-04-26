@@ -4,12 +4,7 @@ title: "StiRtfSelectionAlign Enum"
 
 ## StiRtfSelectionAlign Enum
 
-**Namespace:** `Stimulsoft.Report.Controls`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiRtfSelectionAlign
-```
+**Namespace:** `Stimulsoft.Report.Controls`
 
 ### Members
 

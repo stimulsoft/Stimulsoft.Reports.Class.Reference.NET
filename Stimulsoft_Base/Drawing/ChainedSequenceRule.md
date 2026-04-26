@@ -4,12 +4,7 @@ title: "ChainedSequenceRule Class"
 
 ## ChainedSequenceRule Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class ChainedSequenceRule
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 
@@ -26,3 +21,19 @@ public class ChainedSequenceRule
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Read** `static` | [ChainedSequenceRule](ChainedSequenceRule.md) |  |
+
+---
+
+### Method Details
+
+#### Read `static`
+
+**Read**(**reader**: StiFontReader, **offset**: uint): [ChainedSequenceRule](ChainedSequenceRule.md)
+
+**Parameters**
+
+- **reader** (StiFontReader)  
+- **offset** (uint)  
+
+**Returns** [ChainedSequenceRule](ChainedSequenceRule.md)
+

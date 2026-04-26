@@ -4,12 +4,7 @@ title: "StiRadarLineSeriesCoreXF Class"
 
 ## StiRadarLineSeriesCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRadarLineSeriesCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,9 +16,44 @@ Inherits from: [StiRadarSeriesCoreXF](StiRadarSeriesCoreXF.md)
 | --- | --- |
 | **StiRadarLineSeriesCoreXF**(IStiSeries series) |  |
 
+**StiRadarLineSeriesCoreXF**(**series**: IStiSeries)
+
+**Parameters**
+
+- **series** (IStiSeries)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ApplyStyle** | void |  |
 | **RenderLines** | void |  |
+
+---
+
+### Method Details
+
+#### ApplyStyle
+
+**ApplyStyle**(**style**: IStiChartStyle, **color**: Color): void
+
+**Parameters**
+
+- **style** (IStiChartStyle)  
+- **color** (Color)  
+
+
+---
+
+#### RenderLines
+
+**RenderLines**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **series**: IStiRadarSeries, **pointsInfo**: [StiSeriesPointsInfo](StiSeriesPointsInfo.md), **geom**: [StiAreaGeom](StiAreaGeom.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **series** (IStiRadarSeries)  
+- **pointsInfo** ([StiSeriesPointsInfo](StiSeriesPointsInfo.md))  
+- **geom** ([StiAreaGeom](StiAreaGeom.md))  
+

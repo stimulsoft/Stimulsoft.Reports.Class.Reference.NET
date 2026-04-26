@@ -4,14 +4,9 @@ title: "StiFilterEventArgs Class"
 
 ## StiFilterEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event Filter.
-
-```csharp
-public class StiFilterEventArgs
-```
 
 ### Inheritance
 
@@ -23,6 +18,21 @@ Inherits from: EventArgs
 | --- | --- |
 | **StiFilterEventArgs**() | Creates a new object of the type StiFilterEventArgs. |
 | **StiFilterEventArgs**(bool value) | Creates a new object of the type StiFilterEventArgs with specified arguments. |
+
+**StiFilterEventArgs**()
+
+Creates a new object of the type StiFilterEventArgs.
+
+---
+
+**StiFilterEventArgs**(**value**: bool)
+
+Creates a new object of the type StiFilterEventArgs with specified arguments.
+
+**Parameters**
+
+- **value** (bool) — Value indicates is an element filtered of not.  
+
 
 ### Properties
 

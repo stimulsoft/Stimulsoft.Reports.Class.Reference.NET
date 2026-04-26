@@ -4,14 +4,9 @@ title: "StiReportControlToolboxPosition Enum"
 
 ## StiReportControlToolboxPosition Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Enumeration which sets positions of the report controls on the toolbox in the report designer.
-
-```csharp
-public enum StiReportControlToolboxPosition
-```
 
 ### Members
 

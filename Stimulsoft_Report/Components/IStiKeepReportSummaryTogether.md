@@ -4,11 +4,6 @@ title: "IStiKeepReportSummaryTogether Interface"
 
 ## IStiKeepReportSummaryTogether Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Allows to keep report summary with data togehter.
-
-```csharp
-public interface IStiKeepReportSummaryTogether
-```

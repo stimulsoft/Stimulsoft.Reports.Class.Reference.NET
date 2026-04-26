@@ -4,12 +4,7 @@ title: "StiOnlineMapMode Enum"
 
 ## StiOnlineMapMode Enum
 
-**Namespace:** `Stimulsoft.Dashboard.Components.OnlineMap`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public enum StiOnlineMapMode
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.OnlineMap`
 
 ### Members
 

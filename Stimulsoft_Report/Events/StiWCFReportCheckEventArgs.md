@@ -4,12 +4,7 @@ title: "StiWCFReportCheckEventArgs Class"
 
 ## StiWCFReportCheckEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiWCFReportCheckEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 
@@ -20,6 +15,14 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiWCFReportCheckEventArgs**(bytedata , [IStiDesignerBase](../Design/IStiDesignerBase.md) designer) |  |
+
+**StiWCFReportCheckEventArgs**(****: bytedata, **designer**: [IStiDesignerBase](../Design/IStiDesignerBase.md))
+
+**Parameters**
+
+- **** (bytedata)  
+- **designer** ([IStiDesignerBase](../Design/IStiDesignerBase.md))  
+
 
 ### Fields
 

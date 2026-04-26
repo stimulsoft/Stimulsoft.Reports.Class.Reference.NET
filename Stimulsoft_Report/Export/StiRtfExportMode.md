@@ -4,14 +4,9 @@ title: "StiRtfExportMode Enum"
 
 ## StiRtfExportMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for setting modes of the rtf export.
-
-```csharp
-public enum StiRtfExportMode
-```
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "DeflaterConstants Class"
 
 ## DeflaterConstants Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class DeflaterConstants
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Fields
 

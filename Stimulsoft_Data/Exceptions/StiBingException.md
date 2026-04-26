@@ -4,12 +4,7 @@ title: "StiBingException Class"
 
 ## StiBingException Class
 
-**Namespace:** `Stimulsoft.Data.Exceptions`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class StiBingException
-```
+**Namespace:** `Stimulsoft.Data.Exceptions`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiDataException](StiDataException.md)
 | Constructor | Description |
 | --- | --- |
 | **StiBingException**(string message) |  |
+
+**StiBingException**(**message**: string)
+
+**Parameters**
+
+- **message** (string)  
+

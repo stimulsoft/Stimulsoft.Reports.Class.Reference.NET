@@ -4,14 +4,9 @@ title: "StringEscapeHandling Enum"
 
 ## StringEscapeHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies how strings are escaped when writing JSON text.
-
-```csharp
-public enum StringEscapeHandling
-```
 
 ### Members
 

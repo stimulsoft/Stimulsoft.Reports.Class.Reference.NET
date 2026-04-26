@@ -9,7 +9,7 @@ title: "Stimulsoft.Dashboard"
 | Namespace | Types |
 | --- | --- |
 | [Stimulsoft.Base.Localization](Stimulsoft/Base/Localization/index.md) | 1 |
-| [Stimulsoft.Dashboard](index.md) | 6 |
+| [Stimulsoft.Dashboard](root/index.md) | 6 |
 | [Stimulsoft.Dashboard.Components](Components/index.md) | 2 |
 | [Stimulsoft.Dashboard.Components.Button](Components/Button/index.md) | 1 |
 | [Stimulsoft.Dashboard.Components.Button.Design](Components/Button/Design/index.md) | 5 |

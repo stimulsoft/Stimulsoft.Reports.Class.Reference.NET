@@ -4,12 +4,7 @@ title: "StiTypeService Class"
 
 ## StiTypeService Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiTypeService
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 

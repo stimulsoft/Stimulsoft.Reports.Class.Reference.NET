@@ -4,12 +4,7 @@ title: "StiSeriesAnimationType Enum"
 
 ## StiSeriesAnimationType Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiSeriesAnimationType
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

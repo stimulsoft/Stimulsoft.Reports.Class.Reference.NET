@@ -4,12 +4,7 @@ title: "StiDataWorldSourceConverter Class"
 
 ## StiDataWorldSourceConverter Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDataWorldSourceConverter
-```
+**Namespace:** `Stimulsoft.Report.Dictionary.Design`
 
 ### Inheritance
 

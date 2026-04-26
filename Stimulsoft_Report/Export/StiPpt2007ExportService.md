@@ -4,12 +4,7 @@ title: "StiPpt2007ExportService Class"
 
 ## StiPpt2007ExportService Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPpt2007ExportService
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Inheritance
 

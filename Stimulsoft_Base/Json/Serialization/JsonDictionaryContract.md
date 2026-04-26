@@ -4,14 +4,9 @@ title: "JsonDictionaryContract Class"
 
 ## JsonDictionaryContract Class
 
-**Namespace:** `Stimulsoft.Base.Json.Serialization`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Serialization`
 
 Contract details for a Type used by the JsonSerializer.
-
-```csharp
-public class JsonDictionaryContract
-```
 
 ### Inheritance
 
@@ -22,6 +17,15 @@ Inherits from: [JsonContainerContract](JsonContainerContract.md)
 | Constructor | Description |
 | --- | --- |
 | **JsonDictionaryContract**(Type underlyingType) | Initializes a new instance of the JsonDictionaryContract class. |
+
+**JsonDictionaryContract**(**underlyingType**: Type)
+
+Initializes a new instance of the JsonDictionaryContract class.
+
+**Parameters**
+
+- **underlyingType** (Type) — The underlying type for the contract.  
+
 
 ### Properties
 

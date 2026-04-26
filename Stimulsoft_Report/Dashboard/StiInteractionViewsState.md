@@ -4,12 +4,7 @@ title: "StiInteractionViewsState Enum"
 
 ## StiInteractionViewsState Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiInteractionViewsState
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

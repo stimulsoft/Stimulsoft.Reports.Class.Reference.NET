@@ -4,12 +4,7 @@ title: "StiWikimapiaMapProviderBase Class"
 
 ## StiWikimapiaMapProviderBase Class
 
-**Namespace:** `Stimulsoft.Map.Gis.Providers`  
-**Assembly:** `Stimulsoft.Map`
-
-```csharp
-public abstract class StiWikimapiaMapProviderBase
-```
+**Namespace:** `Stimulsoft.Map.Gis.Providers`
 
 ### Inheritance
 
@@ -21,8 +16,26 @@ Inherits from: [StiGisMapProvider](StiGisMapProvider.md)
 | --- | --- |
 | **StiWikimapiaMapProviderBase**() |  |
 
+**StiWikimapiaMapProviderBase**()
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetServerNum** `static` | int |  |
+
+---
+
+### Method Details
+
+#### GetServerNum `static`
+
+**GetServerNum**(**pos**: [StiGisPoint](../Core/StiGisPoint.md)): int
+
+**Parameters**
+
+- **pos** ([StiGisPoint](../Core/StiGisPoint.md))  
+
+**Returns** int
+

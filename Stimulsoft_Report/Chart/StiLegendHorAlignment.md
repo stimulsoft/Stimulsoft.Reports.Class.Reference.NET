@@ -4,12 +4,7 @@ title: "StiLegendHorAlignment Enum"
 
 ## StiLegendHorAlignment Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiLegendHorAlignment
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

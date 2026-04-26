@@ -4,12 +4,7 @@ title: "StiClipboardHelper Class"
 
 ## StiClipboardHelper Class
 
-**Namespace:** `Stimulsoft.Report.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiClipboardHelper
-```
+**Namespace:** `Stimulsoft.Report.Helpers`
 
 ### Properties
 
@@ -22,3 +17,16 @@ public class StiClipboardHelper
 | Method | Returns | Description |
 | --- | --- | --- |
 | **SetClipboardData** `static` | void |  |
+
+---
+
+### Method Details
+
+#### SetClipboardData `static`
+
+**SetClipboardData**(**dict**: IDictionary<string, object>): void
+
+**Parameters**
+
+- **dict** (IDictionary<string, object>)  
+

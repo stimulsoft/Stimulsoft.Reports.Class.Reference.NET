@@ -4,12 +4,7 @@ title: "StiTableFieldAttribute Class"
 
 ## StiTableFieldAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Databases`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiTableFieldAttribute
-```
+**Namespace:** `Stimulsoft.Base.Databases`
 
 ### Inheritance
 

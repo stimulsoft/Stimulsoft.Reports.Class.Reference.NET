@@ -4,9 +4,4 @@ title: "IStiContentAlignment Interface"
 
 ## IStiContentAlignment Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiContentAlignment
-```
+**Namespace:** `Stimulsoft.Report.Components`

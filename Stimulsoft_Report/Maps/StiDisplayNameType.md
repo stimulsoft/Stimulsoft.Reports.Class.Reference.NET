@@ -4,12 +4,7 @@ title: "StiDisplayNameType Enum"
 
 ## StiDisplayNameType Enum
 
-**Namespace:** `Stimulsoft.Report.Maps`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDisplayNameType
-```
+**Namespace:** `Stimulsoft.Report.Maps`
 
 ### Members
 

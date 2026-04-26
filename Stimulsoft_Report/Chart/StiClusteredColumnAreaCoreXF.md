@@ -4,12 +4,7 @@ title: "StiClusteredColumnAreaCoreXF Class"
 
 ## StiClusteredColumnAreaCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiClusteredColumnAreaCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,8 +16,31 @@ Inherits from: [StiAxisAreaCoreXF](StiAxisAreaCoreXF.md)
 | --- | --- |
 | **StiClusteredColumnAreaCoreXF**(IStiArea area) |  |
 
+**StiClusteredColumnAreaCoreXF**(**area**: IStiArea)
+
+**Parameters**
+
+- **area** (IStiArea)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **PrepareRange** | void |  |
+
+---
+
+### Method Details
+
+#### PrepareRange
+
+**PrepareRange**(**specXAxis**: IStiAxis, **specXTopAxis**: IStiAxis, **specYAxis**: IStiAxis, **specYRightAxis**: IStiAxis): void
+
+**Parameters**
+
+- **specXAxis** (IStiAxis)  
+- **specXTopAxis** (IStiAxis)  
+- **specYAxis** (IStiAxis)  
+- **specYRightAxis** (IStiAxis)  
+

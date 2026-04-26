@@ -4,12 +4,7 @@ title: "StiCell Class"
 
 ## StiCell Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab.Core`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCell
-```
+**Namespace:** `Stimulsoft.Report.CrossTab.Core`
 
 ### Inheritance
 
@@ -22,6 +17,31 @@ Implements: ICloneable
 | **StiCell**() |  |
 | **StiCell**(string text, decimal value, StiCrossField field) |  |
 | **StiCell**(string text, decimal value, int width, int height, StiCrossField field) |  |
+
+**StiCell**()
+
+---
+
+**StiCell**(**text**: string, **value**: decimal, **field**: StiCrossField)
+
+**Parameters**
+
+- **text** (string)  
+- **value** (decimal)  
+- **field** (StiCrossField)  
+
+---
+
+**StiCell**(**text**: string, **value**: decimal, **width**: int, **height**: int, **field**: StiCrossField)
+
+**Parameters**
+
+- **text** (string)  
+- **value** (decimal)  
+- **width** (int)  
+- **height** (int)  
+- **field** (StiCrossField)  
+
 
 ### Properties
 
@@ -56,6 +76,35 @@ Implements: ICloneable
 | **Clone** | object |  |
 | **GetComponentPlacement** | string |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+**Returns** object
+
+
+---
+
+#### GetComponentPlacement
+
+**GetComponentPlacement**(): string
+
+**Returns** string
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+
 
 ### Fields
 

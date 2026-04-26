@@ -4,12 +4,7 @@ title: "StiPrintDialogType Enum"
 
 ## StiPrintDialogType Enum
 
-**Namespace:** `Stimulsoft.Report.Print`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiPrintDialogType
-```
+**Namespace:** `Stimulsoft.Report.Print`
 
 ### Members
 

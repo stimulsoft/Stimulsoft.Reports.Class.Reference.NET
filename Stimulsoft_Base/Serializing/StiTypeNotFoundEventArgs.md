@@ -4,12 +4,7 @@ title: "StiTypeNotFoundEventArgs Class"
 
 ## StiTypeNotFoundEventArgs Class
 
-**Namespace:** `Stimulsoft.Base.Serializing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiTypeNotFoundEventArgs
-```
+**Namespace:** `Stimulsoft.Base.Serializing`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiTypeNotFoundEventArgs**(string typeName) |  |
+
+**StiTypeNotFoundEventArgs**(**typeName**: string)
+
+**Parameters**
+
+- **typeName** (string)  
+
 
 ### Properties
 

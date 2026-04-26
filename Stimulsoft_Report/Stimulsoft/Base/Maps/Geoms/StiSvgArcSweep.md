@@ -4,12 +4,7 @@ title: "StiSvgArcSweep Enum"
 
 ## StiSvgArcSweep Enum
 
-**Namespace:** `Stimulsoft.Base.Maps.Geoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiSvgArcSweep
-```
+**Namespace:** `Stimulsoft.Base.Maps.Geoms`
 
 ### Members
 

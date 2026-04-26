@@ -4,12 +4,7 @@ title: "StiGoogleAnalyticsDatabaseConverter Class"
 
 ## StiGoogleAnalyticsDatabaseConverter Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGoogleAnalyticsDatabaseConverter
-```
+**Namespace:** `Stimulsoft.Report.Dictionary.Design`
 
 ### Inheritance
 
@@ -22,3 +17,46 @@ Inherits from: TypeConverter
 | **CanConvertTo** | bool |  |
 | **CreateNewInstanceDescriptor** | object |  |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### CanConvertTo
+
+**CanConvertTo**(**context**: ITypeDescriptorContext, **destinationType**: Type): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **destinationType** (Type)  
+
+**Returns** bool
+
+
+---
+
+#### CreateNewInstanceDescriptor
+
+**CreateNewInstanceDescriptor**(**info**: ConstructorInfo, ****: objectobjs): object
+
+**Parameters**
+
+- **info** (ConstructorInfo)  
+- **** (objectobjs)  
+
+**Returns** object
+
+
+---
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

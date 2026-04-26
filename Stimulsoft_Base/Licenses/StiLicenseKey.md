@@ -4,12 +4,7 @@ title: "StiLicenseKey Class"
 
 ## StiLicenseKey Class
 
-**Namespace:** `Stimulsoft.Base.Licenses`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiLicenseKey
-```
+**Namespace:** `Stimulsoft.Base.Licenses`
 
 ### Inheritance
 
@@ -21,6 +16,9 @@ Implements: ICloneable
 | Constructor | Description |
 | --- | --- |
 | **StiLicenseKey**() |  |
+
+**StiLicenseKey**()
+
 
 ### Properties
 
@@ -51,6 +49,86 @@ Implements: ICloneable
 | **GetCheckBytes** | byte[] |  |
 | **GetSignatureBytes** | byte[] |  |
 | **GetVbNetCode** | string |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+**Returns** object
+
+
+---
+
+#### Get `static`
+
+**Get**(****: bytebytes): [StiLicenseKey](StiLicenseKey.md)
+
+**Parameters**
+
+- **** (bytebytes)  
+
+**Returns** [StiLicenseKey](StiLicenseKey.md)
+
+---
+
+**Get**(**str**: string): [StiLicenseKey](StiLicenseKey.md)
+
+**Parameters**
+
+- **str** (string)  
+
+**Returns** [StiLicenseKey](StiLicenseKey.md)
+
+
+---
+
+#### GetCSharpCode
+
+**GetCSharpCode**(**maxSymbols**: int, **onlyKey**: bool): string
+
+**Parameters**
+
+- **maxSymbols** (int)  
+- **onlyKey** (bool)  
+
+**Returns** string
+
+
+---
+
+#### GetCheckBytes
+
+**GetCheckBytes**(): byte[]
+
+**Returns** byte[]
+
+
+---
+
+#### GetSignatureBytes
+
+**GetSignatureBytes**(): byte[]
+
+**Returns** byte[]
+
+
+---
+
+#### GetVbNetCode
+
+**GetVbNetCode**(**maxSymbols**: int, **onlyKey**: bool): string
+
+**Parameters**
+
+- **maxSymbols** (int)  
+- **onlyKey** (bool)  
+
+**Returns** string
+
 
 ### Fields
 

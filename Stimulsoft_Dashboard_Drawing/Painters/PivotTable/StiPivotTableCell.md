@@ -4,18 +4,20 @@ title: "StiPivotTableCell Class"
 
 ## StiPivotTableCell Class
 
-**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters.PivotTable`  
-**Assembly:** `Stimulsoft.Dashboard.Drawing`
-
-```csharp
-public class StiPivotTableCell
-```
+**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters.PivotTable`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiPivotTableCell**([StiPivotTableContainer](StiPivotTableContainer.md) container) |  |
+
+**StiPivotTableCell**(**container**: [StiPivotTableContainer](StiPivotTableContainer.md))
+
+**Parameters**
+
+- **container** ([StiPivotTableContainer](StiPivotTableContainer.md))  
+
 
 ### Properties
 

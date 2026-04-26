@@ -4,14 +4,9 @@ title: "StiEndValueChartMeter Class"
 
 ## StiEndValueChartMeter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart`
 
 Describes a meter class which contains information about End-Values of the chart element.
-
-```csharp
-public class StiEndValueChartMeter
-```
 
 ### Inheritance
 
@@ -24,6 +19,28 @@ Inherits from: StiMeasureMeter
 | **StiEndValueChartMeter**() |  |
 | **StiEndValueChartMeter**(string expression, string label) |  |
 | **StiEndValueChartMeter**(string key, string expression, string label) |  |
+
+**StiEndValueChartMeter**()
+
+---
+
+**StiEndValueChartMeter**(**expression**: string, **label**: string)
+
+**Parameters**
+
+- **expression** (string)  
+- **label** (string)  
+
+---
+
+**StiEndValueChartMeter**(**key**: string, **expression**: string, **label**: string)
+
+**Parameters**
+
+- **key** (string)  
+- **expression** (string)  
+- **label** (string)  
+
 
 ### Properties
 

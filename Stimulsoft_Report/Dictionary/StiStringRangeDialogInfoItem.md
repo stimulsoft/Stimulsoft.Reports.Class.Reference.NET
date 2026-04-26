@@ -4,12 +4,7 @@ title: "StiStringRangeDialogInfoItem Class"
 
 ## StiStringRangeDialogInfoItem Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiStringRangeDialogInfoItem
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 
@@ -20,3 +15,6 @@ Inherits from: [StiRangeDialogInfoItem](StiRangeDialogInfoItem.md)
 | Constructor | Description |
 | --- | --- |
 | **StiStringRangeDialogInfoItem**() |  |
+
+**StiStringRangeDialogInfoItem**()
+

@@ -4,12 +4,7 @@ title: "StiDarkTurquoiseTableElementStyle Class"
 
 ## StiDarkTurquoiseTableElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDarkTurquoiseTableElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 

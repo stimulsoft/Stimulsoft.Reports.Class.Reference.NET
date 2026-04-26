@@ -4,12 +4,7 @@ title: "StiElementFullScreenHelper Class"
 
 ## StiElementFullScreenHelper Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.FullScreen`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiElementFullScreenHelper
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.FullScreen`
 
 ### Inheritance
 
@@ -19,7 +14,14 @@ Inherits from: [StiFullScreenHelper](StiFullScreenHelper.md)
 
 | Constructor | Description |
 | --- | --- |
-| **StiElementFullScreenHelper**([StiDashboardViewerControl](../StiDashboardViewerControl.md) viewer) |  |
+| **StiElementFullScreenHelper**([StiDashboardViewerControl](../root/StiDashboardViewerControl.md) viewer) |  |
+
+**StiElementFullScreenHelper**(**viewer**: [StiDashboardViewerControl](../root/StiDashboardViewerControl.md))
+
+**Parameters**
+
+- **viewer** ([StiDashboardViewerControl](../root/StiDashboardViewerControl.md))  
+
 
 ### Methods
 
@@ -27,3 +29,23 @@ Inherits from: [StiFullScreenHelper](StiFullScreenHelper.md)
 | --- | --- | --- |
 | **Close** | void |  |
 | **Show** | void |  |
+
+---
+
+### Method Details
+
+#### Close
+
+**Close**(): void
+
+
+---
+
+#### Show
+
+**Show**(**elementControl**: Control): void
+
+**Parameters**
+
+- **elementControl** (Control)  
+

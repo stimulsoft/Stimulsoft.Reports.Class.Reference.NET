@@ -4,12 +4,7 @@ title: "StiReportV1Builder Class"
 
 ## StiReportV1Builder Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiReportV1Builder
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Methods
 
@@ -17,3 +12,29 @@ public class StiReportV1Builder
 | --- | --- | --- |
 | **RenderSingleReport** `static` | void |  |
 | **RenderSubReports** `static` | void |  |
+
+---
+
+### Method Details
+
+#### RenderSingleReport `static`
+
+**RenderSingleReport**(**masterReport**: [StiReport](../root/StiReport.md), **renderState**: [StiRenderState](StiRenderState.md)): void
+
+**Parameters**
+
+- **masterReport** ([StiReport](../root/StiReport.md))  
+- **renderState** ([StiRenderState](StiRenderState.md))  
+
+
+---
+
+#### RenderSubReports `static`
+
+**RenderSubReports**(**ownerReport**: [StiReport](../root/StiReport.md), **renderState**: [StiRenderState](StiRenderState.md)): void
+
+**Parameters**
+
+- **ownerReport** ([StiReport](../root/StiReport.md))  
+- **renderState** ([StiRenderState](StiRenderState.md))  
+

@@ -4,14 +4,9 @@ title: "StiGetTitleEventArgs Class"
 
 ## StiGetTitleEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event GetTitle.
-
-```csharp
-public class StiGetTitleEventArgs
-```
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiTableFieldLengthAttribute Class"
 
 ## StiTableFieldLengthAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Databases`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiTableFieldLengthAttribute
-```
+**Namespace:** `Stimulsoft.Base.Databases`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: Attribute
 | Constructor | Description |
 | --- | --- |
 | **StiTableFieldLengthAttribute**(int length) |  |
+
+**StiTableFieldLengthAttribute**(**length**: int)
+
+**Parameters**
+
+- **length** (int)  
+
 
 ### Properties
 

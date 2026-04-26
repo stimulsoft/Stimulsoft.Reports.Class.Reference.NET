@@ -4,12 +4,7 @@ title: "StiSliderDateControl Class"
 
 ## StiSliderDateControl Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.DatePicker`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiSliderDateControl
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.DatePicker`
 
 ### Inheritance
 
@@ -20,6 +15,14 @@ Inherits from: Panel
 | Constructor | Description |
 | --- | --- |
 | **StiSliderDateControl**([StiControlColorCollection](../StiControlColorCollection.md) colors, StiDatePickerElement element) |  |
+
+**StiSliderDateControl**(**colors**: [StiControlColorCollection](../StiControlColorCollection.md), **element**: StiDatePickerElement)
+
+**Parameters**
+
+- **colors** ([StiControlColorCollection](../StiControlColorCollection.md))  
+- **element** (StiDatePickerElement)  
+
 
 ### Properties
 
@@ -40,6 +43,52 @@ Inherits from: Panel
 | **OnMouseMove** | void |  |
 | **OnMouseUp** | void |  |
 | **OnPaint** | void |  |
+
+---
+
+### Method Details
+
+#### OnMouseDown
+
+**OnMouseDown**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnMouseMove
+
+**OnMouseMove**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnMouseUp
+
+**OnMouseUp**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnPaint
+
+**OnPaint**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+
 
 ### Events
 

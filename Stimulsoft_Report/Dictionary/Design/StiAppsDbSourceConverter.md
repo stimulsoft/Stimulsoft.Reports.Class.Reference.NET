@@ -4,12 +4,7 @@ title: "StiAppsDbSourceConverter Class"
 
 ## StiAppsDbSourceConverter Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiAppsDbSourceConverter
-```
+**Namespace:** `Stimulsoft.Report.Dictionary.Design`
 
 ### Inheritance
 

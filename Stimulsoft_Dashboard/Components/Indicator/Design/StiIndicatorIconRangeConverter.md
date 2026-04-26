@@ -4,14 +4,9 @@ title: "StiIndicatorIconRangeConverter Class"
 
 ## StiIndicatorIconRangeConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Indicator.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Indicator.Design`
 
 Converts a StiGaugeRange object from one data type to another.
-
-```csharp
-public class StiIndicatorIconRangeConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,19 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **CreateNewInstanceDescriptor** | object |  |
+
+---
+
+### Method Details
+
+#### CreateNewInstanceDescriptor
+
+**CreateNewInstanceDescriptor**(**info**: ConstructorInfo, ****: objectobjs): object
+
+**Parameters**
+
+- **info** (ConstructorInfo)  
+- **** (objectobjs)  
+
+**Returns** object
+

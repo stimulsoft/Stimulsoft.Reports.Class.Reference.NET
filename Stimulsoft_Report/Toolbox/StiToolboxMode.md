@@ -4,12 +4,7 @@ title: "StiToolboxMode Enum"
 
 ## StiToolboxMode Enum
 
-**Namespace:** `Stimulsoft.Report.Toolbox`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiToolboxMode
-```
+**Namespace:** `Stimulsoft.Report.Toolbox`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiGroupSortDirection Enum"
 
 ## StiGroupSortDirection Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiGroupSortDirection
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

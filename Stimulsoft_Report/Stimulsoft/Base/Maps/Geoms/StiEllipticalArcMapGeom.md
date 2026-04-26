@@ -4,12 +4,7 @@ title: "StiEllipticalArcMapGeom Class"
 
 ## StiEllipticalArcMapGeom Class
 
-**Namespace:** `Stimulsoft.Base.Maps.Geoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiEllipticalArcMapGeom
-```
+**Namespace:** `Stimulsoft.Base.Maps.Geoms`
 
 ### Inheritance
 
@@ -36,3 +31,34 @@ Inherits from: [StiMapGeom](StiMapGeom.md)
 | **AddToPath** | void |  |
 | **GetLastPoint** | [PointD](../../../../../Stimulsoft_Base/Drawing/PointD.md) |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### AddToPath
+
+**AddToPath**(**graphicsPath**: [GraphicsPath](../../../../../Stimulsoft_Drawing/Drawing2D/GraphicsPath.md)): void
+
+**Parameters**
+
+- **graphicsPath** ([GraphicsPath](../../../../../Stimulsoft_Drawing/Drawing2D/GraphicsPath.md))  
+
+
+---
+
+#### GetLastPoint
+
+**GetLastPoint**(): [PointD](../../../../../Stimulsoft_Base/Drawing/PointD.md)
+
+**Returns** [PointD](../../../../../Stimulsoft_Base/Drawing/PointD.md)
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

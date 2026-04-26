@@ -4,12 +4,7 @@ title: "StiFormatEditorAttribute Class"
 
 ## StiFormatEditorAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Components.TextFormats`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiFormatEditorAttribute
-```
+**Namespace:** `Stimulsoft.Report.Components.TextFormats`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiFormatEditorAttribute**(string editorTypeName) |  |
 | **StiFormatEditorAttribute**(Type type) |  |
+
+**StiFormatEditorAttribute**(**editorTypeName**: string)
+
+**Parameters**
+
+- **editorTypeName** (string)  
+
+---
+
+**StiFormatEditorAttribute**(**type**: Type)
+
+**Parameters**
+
+- **type** (Type)  
+
 
 ### Properties
 

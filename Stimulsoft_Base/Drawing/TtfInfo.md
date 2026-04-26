@@ -4,12 +4,7 @@ title: "TtfInfo Class"
 
 ## TtfInfo Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class TtfInfo
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 
@@ -33,6 +28,39 @@ public class TtfInfo
 | **GetFamilyName** | string |  |
 | **GetGlyphs** | List<[StiGlyphInfo](StiGlyphInfo.md)> |  |
 | **GetStyle** | FontStyle |  |
+
+---
+
+### Method Details
+
+#### GetFamilyName
+
+**GetFamilyName**(): string
+
+**Returns** string
+
+
+---
+
+#### GetGlyphs
+
+**GetGlyphs**(**text**: string): List<[StiGlyphInfo](StiGlyphInfo.md)>
+
+**Parameters**
+
+- **text** (string)  
+
+**Returns** List<[StiGlyphInfo](StiGlyphInfo.md)>
+
+
+---
+
+#### GetStyle
+
+**GetStyle**(): FontStyle
+
+**Returns** FontStyle
+
 
 ### Fields
 

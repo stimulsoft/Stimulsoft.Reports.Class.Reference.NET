@@ -4,18 +4,20 @@ title: "StiPdfSecurity Class"
 
 ## StiPdfSecurity Class
 
-**Namespace:** `Stimulsoft.Report.Export.Tools`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPdfSecurity
-```
+**Namespace:** `Stimulsoft.Report.Export.Tools`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiPdfSecurity**([StiPdfExportService](../StiPdfExportService.md) service) |  |
+
+**StiPdfSecurity**(**service**: [StiPdfExportService](../StiPdfExportService.md))
+
+**Parameters**
+
+- **service** ([StiPdfExportService](../StiPdfExportService.md))  
+
 
 ### Methods
 
@@ -27,6 +29,99 @@ public class StiPdfSecurity
 | **GetCertificateThumbprintFromCryptoUI** `static` | string |  |
 | **GetCertificatesList** `static` | List<StiCertificateInfo> |  |
 | **MakeSignedByString** | string |  |
+
+---
+
+### Method Details
+
+#### ComputingCryptoValues
+
+**ComputingCryptoValues**(**userAccessPrivileges**: [StiUserAccessPrivileges](../StiUserAccessPrivileges.md), **passwordInputOwner**: string, **passwordInputUser**: string, **keyLength**: [StiPdfEncryptionKeyLength](../StiPdfEncryptionKeyLength.md), ****: byteIDValue): bool
+
+**Parameters**
+
+- **userAccessPrivileges** ([StiUserAccessPrivileges](../StiUserAccessPrivileges.md))  
+- **passwordInputOwner** (string)  
+- **passwordInputUser** (string)  
+- **keyLength** ([StiPdfEncryptionKeyLength](../StiPdfEncryptionKeyLength.md))  
+- **** (byteIDValue)  
+
+**Returns** bool
+
+
+---
+
+#### CreateSignature
+
+**CreateSignature**(****: bytebuf, **isGost**: bool, **signedBy**: string, **offsetFilter**: int, **offsetSignedBy**: int): byte[]
+
+**Parameters**
+
+- **** (bytebuf)  
+- **isGost** (bool)  
+- **signedBy** (string)  
+- **offsetFilter** (int)  
+- **offsetSignedBy** (int)  
+
+**Returns** byte[]
+
+
+---
+
+#### EncryptData
+
+**EncryptData**(****: bytedata, **currentObjectNumber**: int, **currentGenerationNumber**: int): byte[]
+
+**Parameters**
+
+- **** (bytedata)  
+- **currentObjectNumber** (int)  
+- **currentGenerationNumber** (int)  
+
+**Returns** byte[]
+
+
+---
+
+#### GetCertificateThumbprintFromCryptoUI `static`
+
+**GetCertificateThumbprintFromCryptoUI**(**useLocalMachineCertificates**: bool, **certificateName**: string, **errorMessage**: string): string
+
+**Parameters**
+
+- **useLocalMachineCertificates** (bool)  
+- **certificateName** (string)  
+- **errorMessage** (string)  
+
+**Returns** string
+
+
+---
+
+#### GetCertificatesList `static`
+
+**GetCertificatesList**(**useLocalMachineCertificates**: bool): List<StiCertificateInfo>
+
+**Parameters**
+
+- **useLocalMachineCertificates** (bool)  
+
+**Returns** List<StiCertificateInfo>
+
+
+---
+
+#### MakeSignedByString
+
+**MakeSignedByString**(**input**: string, **padding**: bool): string
+
+**Parameters**
+
+- **input** (string)  
+- **padding** (bool)  
+
+**Returns** string
+
 
 ### Fields
 

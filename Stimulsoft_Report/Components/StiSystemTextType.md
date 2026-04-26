@@ -4,12 +4,7 @@ title: "StiSystemTextType Enum"
 
 ## StiSystemTextType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiSystemTextType
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

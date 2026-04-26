@@ -4,12 +4,7 @@ title: "BiffRecordException Class"
 
 ## BiffRecordException Class
 
-**Namespace:** `Stimulsoft.Base.Excel`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class BiffRecordException
-```
+**Namespace:** `Stimulsoft.Base.Excel`
 
 ### Inheritance
 
@@ -22,3 +17,23 @@ Inherits from: Exception
 | **BiffRecordException**() |  |
 | **BiffRecordException**(string message) |  |
 | **BiffRecordException**(string message, Exception innerException) |  |
+
+**BiffRecordException**()
+
+---
+
+**BiffRecordException**(**message**: string)
+
+**Parameters**
+
+- **message** (string)  
+
+---
+
+**BiffRecordException**(**message**: string, **innerException**: Exception)
+
+**Parameters**
+
+- **message** (string)  
+- **innerException** (Exception)  
+

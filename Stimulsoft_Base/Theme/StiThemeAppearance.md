@@ -4,12 +4,7 @@ title: "StiThemeAppearance Enum"
 
 ## StiThemeAppearance Enum
 
-**Namespace:** `Stimulsoft.Base.Theme`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiThemeAppearance
-```
+**Namespace:** `Stimulsoft.Base.Theme`
 
 ### Members
 

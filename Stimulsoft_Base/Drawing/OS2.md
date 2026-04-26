@@ -4,12 +4,7 @@ title: "OS2 Class"
 
 ## OS2 Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class OS2
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

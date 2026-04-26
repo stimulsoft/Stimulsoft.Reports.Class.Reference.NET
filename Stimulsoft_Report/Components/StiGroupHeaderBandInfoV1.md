@@ -4,12 +4,7 @@ title: "StiGroupHeaderBandInfoV1 Class"
 
 ## StiGroupHeaderBandInfoV1 Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGroupHeaderBandInfoV1
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Inheritance
 

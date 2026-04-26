@@ -4,12 +4,7 @@ title: "LigatureSet Class"
 
 ## LigatureSet Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class LigatureSet
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

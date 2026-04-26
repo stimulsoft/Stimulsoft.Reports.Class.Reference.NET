@@ -4,12 +4,7 @@ title: "StiShadowGraphics Class"
 
 ## StiShadowGraphics Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiShadowGraphics
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Inheritance
 
@@ -21,11 +16,18 @@ Implements: IDisposable
 | --- | --- |
 | **StiShadowGraphics**(RectangleF rect) |  |
 
+**StiShadowGraphics**(**rect**: RectangleF)
+
+**Parameters**
+
+- **rect** (RectangleF)  
+
+
 ### Properties
 
 | Property | Type | Description |
 | --- | --- | --- |
-| **Graphics** | [Graphics](../../Stimulsoft_Drawing/Graphics.md) |  |
+| **Graphics** | [Graphics](../../Stimulsoft_Drawing/root/Graphics.md) |  |
 
 ### Methods
 
@@ -33,3 +35,35 @@ Implements: IDisposable
 | --- | --- | --- |
 | **Dispose** | void |  |
 | **DrawShadow** *(+1 overloads)* | void |  |
+
+---
+
+### Method Details
+
+#### Dispose
+
+**Dispose**(): void
+
+
+---
+
+#### DrawShadow
+
+**DrawShadow**(**g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **rect**: Rectangle, **shadowSize**: int): void
+
+**Parameters**
+
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **rect** (Rectangle)  
+- **shadowSize** (int)  
+
+---
+
+**DrawShadow**(**g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **rect**: RectangleF, **shadowSize**: float): void
+
+**Parameters**
+
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **rect** (RectangleF)  
+- **shadowSize** (float)  
+

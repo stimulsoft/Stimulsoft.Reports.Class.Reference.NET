@@ -4,12 +4,7 @@ title: "StiSerializeTypes Enum"
 
 ## StiSerializeTypes Enum
 
-**Namespace:** `Stimulsoft.Base.Serializing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiSerializeTypes
-```
+**Namespace:** `Stimulsoft.Base.Serializing`
 
 ### Members
 

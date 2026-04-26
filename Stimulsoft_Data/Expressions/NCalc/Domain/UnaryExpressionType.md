@@ -4,12 +4,7 @@ title: "UnaryExpressionType Enum"
 
 ## UnaryExpressionType Enum
 
-**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum UnaryExpressionType
-```
+**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`
 
 ### Members
 

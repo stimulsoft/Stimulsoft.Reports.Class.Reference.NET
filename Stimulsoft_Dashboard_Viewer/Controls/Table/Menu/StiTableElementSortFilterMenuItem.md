@@ -4,12 +4,7 @@ title: "StiTableElementSortFilterMenuItem Class"
 
 ## StiTableElementSortFilterMenuItem Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Table.Menu`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiTableElementSortFilterMenuItem
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Table.Menu`
 
 ### Constructors
 
@@ -17,6 +12,18 @@ public class StiTableElementSortFilterMenuItem
 | --- | --- |
 | **StiTableElementSortFilterMenuItem**() |  |
 | **StiTableElementSortFilterMenuItem**(object item, Type type) |  |
+
+**StiTableElementSortFilterMenuItem**()
+
+---
+
+**StiTableElementSortFilterMenuItem**(**item**: object, **type**: Type)
+
+**Parameters**
+
+- **item** (object)  
+- **type** (Type)  
+
 
 ### Properties
 
@@ -31,3 +38,14 @@ public class StiTableElementSortFilterMenuItem
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

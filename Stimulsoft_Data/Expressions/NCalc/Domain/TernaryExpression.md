@@ -4,12 +4,7 @@ title: "TernaryExpression Class"
 
 ## TernaryExpression Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class TernaryExpression
-```
+**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`
 
 ### Inheritance
 
@@ -20,6 +15,15 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 | Constructor | Description |
 | --- | --- |
 | **TernaryExpression**([LogicalExpression](LogicalExpression.md) leftExpression, [LogicalExpression](LogicalExpression.md) middleExpression, [LogicalExpression](LogicalExpression.md) rightExpression) |  |
+
+**TernaryExpression**(**leftExpression**: [LogicalExpression](LogicalExpression.md), **middleExpression**: [LogicalExpression](LogicalExpression.md), **rightExpression**: [LogicalExpression](LogicalExpression.md))
+
+**Parameters**
+
+- **leftExpression** ([LogicalExpression](LogicalExpression.md))  
+- **middleExpression** ([LogicalExpression](LogicalExpression.md))  
+- **rightExpression** ([LogicalExpression](LogicalExpression.md))  
+
 
 ### Properties
 
@@ -34,3 +38,16 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Accept** | void |  |
+
+---
+
+### Method Details
+
+#### Accept
+
+**Accept**(**visitor**: [LogicalExpressionVisitor](LogicalExpressionVisitor.md)): void
+
+**Parameters**
+
+- **visitor** ([LogicalExpressionVisitor](LogicalExpressionVisitor.md))  
+

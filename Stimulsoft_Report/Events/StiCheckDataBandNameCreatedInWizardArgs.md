@@ -4,12 +4,7 @@ title: "StiCheckDataBandNameCreatedInWizardArgs Class"
 
 ## StiCheckDataBandNameCreatedInWizardArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCheckDataBandNameCreatedInWizardArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiCheckDataBandNameCreatedInWizardArgs**(StiBand band) |  |
+
+**StiCheckDataBandNameCreatedInWizardArgs**(**band**: StiBand)
+
+**Parameters**
+
+- **band** (StiBand)  
+
 
 ### Properties
 

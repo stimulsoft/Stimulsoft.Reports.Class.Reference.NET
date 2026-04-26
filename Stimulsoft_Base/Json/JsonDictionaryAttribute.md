@@ -4,12 +4,7 @@ title: "JsonDictionaryAttribute Class"
 
 ## JsonDictionaryAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class JsonDictionaryAttribute
-```
+**Namespace:** `Stimulsoft.Base.Json`
 
 ### Inheritance
 
@@ -21,3 +16,18 @@ Inherits from: [JsonContainerAttribute](JsonContainerAttribute.md)
 | --- | --- |
 | **JsonDictionaryAttribute**() | Initializes a new instance of the JsonDictionaryAttribute class. |
 | **JsonDictionaryAttribute**(string id) | Initializes a new instance of the JsonDictionaryAttribute class with the specified container Id. |
+
+**JsonDictionaryAttribute**()
+
+Initializes a new instance of the JsonDictionaryAttribute class.
+
+---
+
+**JsonDictionaryAttribute**(**id**: string)
+
+Initializes a new instance of the JsonDictionaryAttribute class with the specified container Id.
+
+**Parameters**
+
+- **id** (string) — The container Id.  
+

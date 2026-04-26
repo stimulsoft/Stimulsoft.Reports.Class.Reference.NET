@@ -4,12 +4,7 @@ title: "StiGrayIndicatorElementStyle Class"
 
 ## StiGrayIndicatorElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGrayIndicatorElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 

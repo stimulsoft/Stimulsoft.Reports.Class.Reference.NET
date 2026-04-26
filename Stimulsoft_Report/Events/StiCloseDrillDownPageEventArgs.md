@@ -4,12 +4,7 @@ title: "StiCloseDrillDownPageEventArgs Class"
 
 ## StiCloseDrillDownPageEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCloseDrillDownPageEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiCloseDrillDownPageEventArgs**(int tabIndex) |  |
+
+**StiCloseDrillDownPageEventArgs**(**tabIndex**: int)
+
+**Parameters**
+
+- **tabIndex** (int)  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiParserParameters Class"
 
 ## StiParserParameters Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiParserParameters
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Properties
 

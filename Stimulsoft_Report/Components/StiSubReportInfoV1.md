@@ -4,12 +4,7 @@ title: "StiSubReportInfoV1 Class"
 
 ## StiSubReportInfoV1 Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSubReportInfoV1
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Inheritance
 

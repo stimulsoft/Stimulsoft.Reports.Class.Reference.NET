@@ -8,7 +8,7 @@ title: "Stimulsoft.Map"
 
 | Namespace | Types |
 | --- | --- |
-| [Stimulsoft.Map](index.md) | 3 |
+| [Stimulsoft.Map](root/index.md) | 3 |
 | [Stimulsoft.Map.Gis](Gis/index.md) | 3 |
 | [Stimulsoft.Map.Gis.Core](Gis/Core/index.md) | 15 |
 | [Stimulsoft.Map.Gis.Geography](Gis/Geography/index.md) | 1 |

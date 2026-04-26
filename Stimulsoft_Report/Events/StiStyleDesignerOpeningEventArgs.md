@@ -4,12 +4,7 @@ title: "StiStyleDesignerOpeningEventArgs Class"
 
 ## StiStyleDesignerOpeningEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiStyleDesignerOpeningEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 

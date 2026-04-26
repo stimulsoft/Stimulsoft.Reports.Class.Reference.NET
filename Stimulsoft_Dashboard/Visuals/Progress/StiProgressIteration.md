@@ -4,14 +4,9 @@ title: "StiProgressIteration Class"
 
 ## StiProgressIteration Class
 
-**Namespace:** `Stimulsoft.Dashboard.Visuals.Progress`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Visuals.Progress`
 
 This class is used for the progress element rendering.
-
-```csharp
-public class StiProgressIteration
-```
 
 ### Properties
 

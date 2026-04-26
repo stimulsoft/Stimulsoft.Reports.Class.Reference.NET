@@ -4,12 +4,7 @@ title: "StiReportDataSourceCollection Class"
 
 ## StiReportDataSourceCollection Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiReportDataSourceCollection
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Inheritance
 
@@ -19,13 +14,20 @@ Inherits from: CollectionBase
 
 | Constructor | Description |
 | --- | --- |
-| **StiReportDataSourceCollection**([StiReport](../StiReport.md) report) |  |
+| **StiReportDataSourceCollection**([StiReport](../root/StiReport.md) report) |  |
+
+**StiReportDataSourceCollection**(**report**: [StiReport](../root/StiReport.md))
+
+**Parameters**
+
+- **report** ([StiReport](../root/StiReport.md))  
+
 
 ### Properties
 
 | Property | Type | Description |
 | --- | --- | --- |
-| **Report** | [StiReport](../StiReport.md) |  |
+| **Report** | [StiReport](../root/StiReport.md) |  |
 
 ### Methods
 
@@ -33,3 +35,36 @@ Inherits from: CollectionBase
 | --- | --- | --- |
 | **Add** *(+1 overloads)* | void |  |
 | **Remove** | void |  |
+
+---
+
+### Method Details
+
+#### Add
+
+**Add**(**name**: string, **value**: object): void
+
+**Parameters**
+
+- **name** (string)  
+- **value** (object)  
+
+---
+
+**Add**(**item**: [StiReportDataSource](StiReportDataSource.md)): void
+
+**Parameters**
+
+- **item** ([StiReportDataSource](StiReportDataSource.md))  
+
+
+---
+
+#### Remove
+
+**Remove**(**name**: string): void
+
+**Parameters**
+
+- **name** (string)  
+

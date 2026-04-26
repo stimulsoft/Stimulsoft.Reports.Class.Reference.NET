@@ -4,14 +4,9 @@ title: "StiValueChartMeterConverter Class"
 
 ## StiValueChartMeterConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart.Design`
 
 Converts a StiValueChartMeter object from one data type to another.
-
-```csharp
-public class StiValueChartMeterConverter
-```
 
 ### Inheritance
 

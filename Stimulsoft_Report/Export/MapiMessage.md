@@ -4,12 +4,7 @@ title: "MapiMessage Class"
 
 ## MapiMessage Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class MapiMessage
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Fields
 

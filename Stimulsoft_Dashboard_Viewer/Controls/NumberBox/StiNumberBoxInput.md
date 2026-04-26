@@ -4,12 +4,7 @@ title: "StiNumberBoxInput Class"
 
 ## StiNumberBoxInput Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.NumberBox`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiNumberBoxInput
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.NumberBox`
 
 ### Inheritance
 
@@ -29,3 +24,49 @@ Inherits from: StiNumericUpDown
 | **GetButtonBackground** | Color |  |
 | **GetValueString** | string |  |
 | **RefreshThemeColors** | void |  |
+
+---
+
+### Method Details
+
+#### GetButtonArrowColor
+
+**GetButtonArrowColor**(**isMouseOverButton**: bool, **isButtonPressed**: bool): Color
+
+**Parameters**
+
+- **isMouseOverButton** (bool)  
+- **isButtonPressed** (bool)  
+
+**Returns** Color
+
+
+---
+
+#### GetButtonBackground
+
+**GetButtonBackground**(**isMouseOverButton**: bool, **isButtonPressed**: bool): Color
+
+**Parameters**
+
+- **isMouseOverButton** (bool)  
+- **isButtonPressed** (bool)  
+
+**Returns** Color
+
+
+---
+
+#### GetValueString
+
+**GetValueString**(): string
+
+**Returns** string
+
+
+---
+
+#### RefreshThemeColors
+
+**RefreshThemeColors**(): void
+

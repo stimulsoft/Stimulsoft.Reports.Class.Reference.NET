@@ -4,12 +4,7 @@ title: "StiDataFilterConditionGroupType Enum"
 
 ## StiDataFilterConditionGroupType Enum
 
-**Namespace:** `Stimulsoft.Data.Engine`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum StiDataFilterConditionGroupType
-```
+**Namespace:** `Stimulsoft.Data.Engine`
 
 ### Members
 

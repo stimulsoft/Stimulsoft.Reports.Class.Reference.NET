@@ -4,12 +4,7 @@ title: "StiHtmlSvg Class"
 
 ## StiHtmlSvg Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiHtmlSvg
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Fields
 

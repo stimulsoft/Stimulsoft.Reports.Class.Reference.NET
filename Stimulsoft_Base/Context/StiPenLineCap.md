@@ -4,12 +4,7 @@ title: "StiPenLineCap Enum"
 
 ## StiPenLineCap Enum
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiPenLineCap
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Members
 

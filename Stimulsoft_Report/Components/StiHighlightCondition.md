@@ -4,12 +4,7 @@ title: "StiHighlightCondition Class"
 
 ## StiHighlightCondition Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiHighlightCondition
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Inheritance
 
@@ -21,7 +16,7 @@ Implements: ICloneable
 | --- | --- | --- |
 | **Brush** | [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) |  |
 | **Condition** | StiExpression |  |
-| **Font** | [Font](../../Stimulsoft_Drawing/Font.md) |  |
+| **Font** | [Font](../../Stimulsoft_Drawing/root/Font.md) |  |
 | **TextBrush** | [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) |  |
 
 ### Methods
@@ -29,3 +24,16 @@ Implements: ICloneable
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Clone** | object | Creates a new object that is a copy of the current instance. |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+Creates a new object that is a copy of the current instance.
+
+**Returns** object — A new object that is a copy of this instance.
+

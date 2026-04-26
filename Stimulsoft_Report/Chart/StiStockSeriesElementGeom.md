@@ -4,12 +4,7 @@ title: "StiStockSeriesElementGeom Class"
 
 ## StiStockSeriesElementGeom Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiStockSeriesElementGeom
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,16 @@ Inherits from: [StiFinancialSeriesElementGeom](StiFinancialSeriesElementGeom.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Draw** | void |  |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+

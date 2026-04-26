@@ -4,12 +4,7 @@ title: "StiVector4 Class"
 
 ## StiVector4 Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiVector4
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,6 +15,16 @@ Inherits from: [StiVector3](StiVector3.md)
 | Constructor | Description |
 | --- | --- |
 | **StiVector4**(double x, double y, double z, double w) |  |
+
+**StiVector4**(**x**: double, **y**: double, **z**: double, **w**: double)
+
+**Parameters**
+
+- **x** (double)  
+- **y** (double)  
+- **z** (double)  
+- **w** (double)  
+
 
 ### Properties
 

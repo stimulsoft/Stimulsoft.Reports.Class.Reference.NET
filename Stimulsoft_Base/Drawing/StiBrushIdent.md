@@ -4,12 +4,7 @@ title: "StiBrushIdent Enum"
 
 ## StiBrushIdent Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiBrushIdent
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

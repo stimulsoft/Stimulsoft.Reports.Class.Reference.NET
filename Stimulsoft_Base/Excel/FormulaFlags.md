@@ -4,12 +4,7 @@ title: "FormulaFlags Enum"
 
 ## FormulaFlags Enum
 
-**Namespace:** `Stimulsoft.Base.Excel`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum FormulaFlags
-```
+**Namespace:** `Stimulsoft.Base.Excel`
 
 ### Inheritance
 

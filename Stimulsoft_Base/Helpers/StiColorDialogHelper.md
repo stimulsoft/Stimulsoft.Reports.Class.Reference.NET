@@ -4,12 +4,7 @@ title: "StiColorDialogHelper Class"
 
 ## StiColorDialogHelper Class
 
-**Namespace:** `Stimulsoft.Base.Helpers`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiColorDialogHelper
-```
+**Namespace:** `Stimulsoft.Base.Helpers`
 
 ### Methods
 
@@ -17,3 +12,25 @@ public static class StiColorDialogHelper
 | --- | --- | --- |
 | **Load** `static` | int[] |  |
 | **Save** `static` | void |  |
+
+---
+
+### Method Details
+
+#### Load `static`
+
+**Load**(): int[]
+
+**Returns** int[]
+
+
+---
+
+#### Save `static`
+
+**Save**(****: intcolors): void
+
+**Parameters**
+
+- **** (intcolors)  
+

@@ -4,12 +4,7 @@ title: "StiOutsideRightFunnelLabelsCoreXF Class"
 
 ## StiOutsideRightFunnelLabelsCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiOutsideRightFunnelLabelsCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiFunnelSeriesLabelsCoreXF](StiFunnelSeriesLabelsCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiOutsideRightFunnelLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |
+
+**StiOutsideRightFunnelLabelsCoreXF**(**seriesLabels**: IStiSeriesLabels)
+
+**Parameters**
+
+- **seriesLabels** (IStiSeriesLabels)  
+

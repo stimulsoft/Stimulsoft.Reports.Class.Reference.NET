@@ -4,12 +4,7 @@ title: "StiThemeAccentColor Enum"
 
 ## StiThemeAccentColor Enum
 
-**Namespace:** `Stimulsoft.Base.Theme`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiThemeAccentColor
-```
+**Namespace:** `Stimulsoft.Base.Theme`
 
 ### Members
 

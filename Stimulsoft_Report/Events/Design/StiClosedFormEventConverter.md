@@ -4,14 +4,9 @@ title: "StiClosedFormEventConverter Class"
 
 ## StiClosedFormEventConverter Class
 
-**Namespace:** `Stimulsoft.Report.Events.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events.Design`
 
 Provides a type converter to convert StiClosedFormEvent objects to and from various other representations.
-
-```csharp
-public class StiClosedFormEventConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,20 @@ Inherits from: [StiEventConverter](StiEventConverter.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ConvertFrom** | object |  |
+
+---
+
+### Method Details
+
+#### ConvertFrom
+
+**ConvertFrom**(**context**: ITypeDescriptorContext, **culture**: CultureInfo, **value**: object): object
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **culture** (CultureInfo)  
+- **value** (object)  
+
+**Returns** object
+

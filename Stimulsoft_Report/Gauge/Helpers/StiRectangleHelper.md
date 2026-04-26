@@ -4,12 +4,7 @@ title: "StiRectangleHelper Class"
 
 ## StiRectangleHelper Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiRectangleHelper
-```
+**Namespace:** `Stimulsoft.Report.Gauge.Helpers`
 
 ### Methods
 
@@ -17,3 +12,31 @@ public static class StiRectangleHelper
 | --- | --- | --- |
 | **CenterX** `static` | float |  |
 | **CenterY** `static` | float |  |
+
+---
+
+### Method Details
+
+#### CenterX `static`
+
+**CenterX**(**rect**: RectangleF): float
+
+**Parameters**
+
+- **rect** (RectangleF)  
+
+**Returns** float
+
+
+---
+
+#### CenterY `static`
+
+**CenterY**(**rect**: RectangleF): float
+
+**Parameters**
+
+- **rect** (RectangleF)  
+
+**Returns** float
+

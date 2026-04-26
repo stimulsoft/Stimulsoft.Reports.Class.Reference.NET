@@ -4,12 +4,7 @@ title: "StiFullStackedSplineAreaSeriesCoreXF Class"
 
 ## StiFullStackedSplineAreaSeriesCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiFullStackedSplineAreaSeriesCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiStackedSplineAreaSeriesCoreXF](StiStackedSplineAreaSeriesCore
 | Constructor | Description |
 | --- | --- |
 | **StiFullStackedSplineAreaSeriesCoreXF**(IStiSeries series) |  |
+
+**StiFullStackedSplineAreaSeriesCoreXF**(**series**: IStiSeries)
+
+**Parameters**
+
+- **series** (IStiSeries)  
+

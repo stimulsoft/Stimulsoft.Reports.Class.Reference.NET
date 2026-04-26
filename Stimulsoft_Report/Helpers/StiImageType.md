@@ -4,12 +4,7 @@ title: "StiImageType Enum"
 
 ## StiImageType Enum
 
-**Namespace:** `Stimulsoft.Report.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiImageType
-```
+**Namespace:** `Stimulsoft.Report.Helpers`
 
 ### Members
 

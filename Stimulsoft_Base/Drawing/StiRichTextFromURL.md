@@ -4,12 +4,7 @@ title: "StiRichTextFromURL Class"
 
 ## StiRichTextFromURL Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiRichTextFromURL
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 
@@ -22,3 +17,21 @@ public sealed class StiRichTextFromURL
 | Method | Returns | Description |
 | --- | --- | --- |
 | **LoadRichText** `static` | string | Load RichText from URL. |
+
+---
+
+### Method Details
+
+#### LoadRichText `static`
+
+**LoadRichText**(**url**: string, **cookieContainer**: CookieContainer): string
+
+Load RichText from URL.
+
+**Parameters**
+
+- **url** (string)  
+- **cookieContainer** (CookieContainer)  
+
+**Returns** string
+

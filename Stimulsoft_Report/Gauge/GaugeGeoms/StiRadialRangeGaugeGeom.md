@@ -4,12 +4,7 @@ title: "StiRadialRangeGaugeGeom Class"
 
 ## StiRadialRangeGaugeGeom Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRadialRangeGaugeGeom
-```
+**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`
 
 ### Inheritance
 

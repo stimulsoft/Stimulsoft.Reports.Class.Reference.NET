@@ -4,12 +4,7 @@ title: "StiEditDataStoreAdapterEventArgs Class"
 
 ## StiEditDataStoreAdapterEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiEditDataStoreAdapterEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 
@@ -20,6 +15,16 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiEditDataStoreAdapterEventArgs**(object designer, [StiDataAdapterService](../Dictionary/StiDataAdapterService.md) adapter, StiDictionary dictionary, StiDataSource dataSource) |  |
+
+**StiEditDataStoreAdapterEventArgs**(**designer**: object, **adapter**: [StiDataAdapterService](../Dictionary/StiDataAdapterService.md), **dictionary**: StiDictionary, **dataSource**: StiDataSource)
+
+**Parameters**
+
+- **designer** (object)  
+- **adapter** ([StiDataAdapterService](../Dictionary/StiDataAdapterService.md))  
+- **dictionary** (StiDictionary)  
+- **dataSource** (StiDataSource)  
+
 
 ### Properties
 

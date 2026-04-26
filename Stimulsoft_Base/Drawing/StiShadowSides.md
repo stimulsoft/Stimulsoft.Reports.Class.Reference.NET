@@ -4,12 +4,7 @@ title: "StiShadowSides Enum"
 
 ## StiShadowSides Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiShadowSides
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

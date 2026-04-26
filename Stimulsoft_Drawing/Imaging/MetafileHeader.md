@@ -4,12 +4,7 @@ title: "MetafileHeader Class"
 
 ## MetafileHeader Class
 
-**Namespace:** `Stimulsoft.Drawing.Imaging`  
-**Assembly:** `Stimulsoft.Drawing`
-
-```csharp
-public sealed class MetafileHeader
-```
+**Namespace:** `Stimulsoft.Drawing.Imaging`
 
 ### Methods
 
@@ -23,3 +18,77 @@ public sealed class MetafileHeader
 | **IsEmfPlusOnly** | bool |  |
 | **IsWmf** | bool |  |
 | **IsWmfPlaceable** | bool |  |
+
+---
+
+### Method Details
+
+#### IsDisplay
+
+**IsDisplay**(): bool
+
+**Returns** bool
+
+
+---
+
+#### IsEmf
+
+**IsEmf**(): bool
+
+**Returns** bool
+
+
+---
+
+#### IsEmfOrEmfPlus
+
+**IsEmfOrEmfPlus**(): bool
+
+**Returns** bool
+
+
+---
+
+#### IsEmfPlus
+
+**IsEmfPlus**(): bool
+
+**Returns** bool
+
+
+---
+
+#### IsEmfPlusDual
+
+**IsEmfPlusDual**(): bool
+
+**Returns** bool
+
+
+---
+
+#### IsEmfPlusOnly
+
+**IsEmfPlusOnly**(): bool
+
+**Returns** bool
+
+
+---
+
+#### IsWmf
+
+**IsWmf**(): bool
+
+**Returns** bool
+
+
+---
+
+#### IsWmfPlaceable
+
+**IsWmfPlaceable**(): bool
+
+**Returns** bool
+

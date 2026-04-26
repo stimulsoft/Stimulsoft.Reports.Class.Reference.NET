@@ -4,14 +4,9 @@ title: "JTokenType Enum"
 
 ## JTokenType Enum
 
-**Namespace:** `Stimulsoft.Base.Json.Linq`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Linq`
 
 Specifies the type of token.
-
-```csharp
-public enum JTokenType
-```
 
 ### Members
 

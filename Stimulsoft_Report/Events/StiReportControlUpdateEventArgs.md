@@ -4,14 +4,9 @@ title: "StiReportControlUpdateEventArgs Class"
 
 ## StiReportControlUpdateEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event ReportControlUpdate.
-
-```csharp
-public class StiReportControlUpdateEventArgs
-```
 
 ### Inheritance
 
@@ -22,6 +17,15 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiReportControlUpdateEventArgs**(string propertyName) | Creates a new object of the type StiReportControlUpdateEventArgs. |
+
+**StiReportControlUpdateEventArgs**(**propertyName**: string)
+
+Creates a new object of the type StiReportControlUpdateEventArgs.
+
+**Parameters**
+
+- **propertyName** (string) — A property name.  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiWpfIndicatorTypePainterAttribute Class"
 
 ## StiWpfIndicatorTypePainterAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Painters`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiWpfIndicatorTypePainterAttribute
-```
+**Namespace:** `Stimulsoft.Report.Painters`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiWpfIndicatorTypePainterAttribute**(string painterTypeName) |  |
 | **StiWpfIndicatorTypePainterAttribute**(Type painterType) |  |
+
+**StiWpfIndicatorTypePainterAttribute**(**painterTypeName**: string)
+
+**Parameters**
+
+- **painterTypeName** (string)  
+
+---
+
+**StiWpfIndicatorTypePainterAttribute**(**painterType**: Type)
+
+**Parameters**
+
+- **painterType** (Type)  
+
 
 ### Properties
 

@@ -4,14 +4,9 @@ title: "StiGetCrossValueEventArgs Class"
 
 ## StiGetCrossValueEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.CrossTab`
 
 Describes an argument for the event GetCrossValue.
-
-```csharp
-public class StiGetCrossValueEventArgs
-```
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiDataBandInfoV2 Class"
 
 ## StiDataBandInfoV2 Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDataBandInfoV2
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiElementMeterAction Enum"
 
 ## StiElementMeterAction Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiElementMeterAction
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

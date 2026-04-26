@@ -4,12 +4,7 @@ title: "StiGrid Class"
 
 ## StiGrid Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab.Core`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGrid
-```
+**Namespace:** `Stimulsoft.Report.CrossTab.Core`
 
 ### Properties
 
@@ -23,7 +18,7 @@ public class StiGrid
 | **Heights** | decimal[] |  |
 | **MaxHeight** | decimal |  |
 | **MaxWidth** | decimal |  |
-| **Report** | [StiReport](../../StiReport.md) |  |
+| **Report** | [StiReport](../../root/StiReport.md) |  |
 | **Widths** | decimal[] |  |
 
 ### Methods
@@ -35,6 +30,62 @@ public class StiGrid
 | **Init** | void |  |
 | **SetCellField** | void |  |
 | **SetTextOfCell** | void |  |
+
+---
+
+### Method Details
+
+#### DoAutoSize
+
+**DoAutoSize**(): void
+
+
+---
+
+#### HasRightCrossTitle
+
+**HasRightCrossTitle**(): bool
+
+**Returns** bool
+
+
+---
+
+#### Init
+
+**Init**(**colCount**: int, **rowCount**: int): void
+
+**Parameters**
+
+- **colCount** (int)  
+- **rowCount** (int)  
+
+
+---
+
+#### SetCellField
+
+**SetCellField**(**cellX**: int, **cellY**: int, **field**: StiCrossField): void
+
+**Parameters**
+
+- **cellX** (int)  
+- **cellY** (int)  
+- **field** (StiCrossField)  
+
+
+---
+
+#### SetTextOfCell
+
+**SetTextOfCell**(**x**: int, **y**: int, **value**: string): void
+
+**Parameters**
+
+- **x** (int)  
+- **y** (int)  
+- **value** (string)  
+
 
 ### Fields
 

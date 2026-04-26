@@ -2,7 +2,7 @@ title: Stimulsoft Reports Documentation
 description:
 baseurl: "/Stimulsoft.Reports.Class.Reference.NET"
 url: "https://stimulsoft.github.io"
-sidebar_title: "Class Reference"
+sidebar_title: "Class Reference for NET"
 exclude_from_menu: []
 
 plugins:

@@ -4,12 +4,7 @@ title: "StiAISuggestColumn Class"
 
 ## StiAISuggestColumn Class
 
-**Namespace:** `Stimulsoft.Base.StimulAI`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiAISuggestColumn
-```
+**Namespace:** `Stimulsoft.Base.StimulAI`
 
 ### Properties
 
@@ -25,3 +20,14 @@ public sealed class StiAISuggestColumn
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

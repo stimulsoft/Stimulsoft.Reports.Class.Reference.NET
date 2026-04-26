@@ -4,12 +4,7 @@ title: "StiInteractionOnHover Enum"
 
 ## StiInteractionOnHover Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiInteractionOnHover
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

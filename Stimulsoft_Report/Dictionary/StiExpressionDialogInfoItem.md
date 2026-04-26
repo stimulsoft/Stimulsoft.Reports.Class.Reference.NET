@@ -4,12 +4,7 @@ title: "StiExpressionDialogInfoItem Class"
 
 ## StiExpressionDialogInfoItem Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiExpressionDialogInfoItem
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 
@@ -20,3 +15,6 @@ Inherits from: StiDialogInfoItem
 | Constructor | Description |
 | --- | --- |
 | **StiExpressionDialogInfoItem**() |  |
+
+**StiExpressionDialogInfoItem**()
+

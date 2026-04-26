@@ -4,12 +4,7 @@ title: "StiNumberCondition Enum"
 
 ## StiNumberCondition Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiNumberCondition
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

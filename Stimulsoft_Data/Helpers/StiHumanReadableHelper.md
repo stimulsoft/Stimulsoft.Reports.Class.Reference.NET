@@ -4,12 +4,7 @@ title: "StiHumanReadableHelper Class"
 
 ## StiHumanReadableHelper Class
 
-**Namespace:** `Stimulsoft.Data.Helpers`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public static class StiHumanReadableHelper
-```
+**Namespace:** `Stimulsoft.Data.Helpers`
 
 ### Methods
 
@@ -17,3 +12,31 @@ public static class StiHumanReadableHelper
 | --- | --- | --- |
 | **GetHumanReadableName** `static` | string |  |
 | **GetSize** `static` | string |  |
+
+---
+
+### Method Details
+
+#### GetHumanReadableName `static`
+
+**GetHumanReadableName**(**name**: string): string
+
+**Parameters**
+
+- **name** (string)  
+
+**Returns** string
+
+
+---
+
+#### GetSize `static`
+
+**GetSize**(**size**: long): string
+
+**Parameters**
+
+- **size** (long)  
+
+**Returns** string
+

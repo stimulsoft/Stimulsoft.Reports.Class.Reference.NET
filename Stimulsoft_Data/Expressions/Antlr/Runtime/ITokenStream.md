@@ -4,12 +4,7 @@ title: "ITokenStream Interface"
 
 ## ITokenStream Interface
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public interface ITokenStream
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`
 
 ### Inheritance
 

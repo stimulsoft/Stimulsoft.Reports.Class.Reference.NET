@@ -4,12 +4,7 @@ title: "PreserveReferencesHandling Enum"
 
 ## PreserveReferencesHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum PreserveReferencesHandling
-```
+**Namespace:** `Stimulsoft.Base.Json`
 
 ### Members
 

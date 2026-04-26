@@ -4,12 +4,7 @@ title: "StiGreenIndicatorElementStyle Class"
 
 ## StiGreenIndicatorElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGreenIndicatorElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 

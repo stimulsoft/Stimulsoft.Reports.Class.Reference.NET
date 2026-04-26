@@ -4,14 +4,9 @@ title: "StiProcessExportEventArgs Class"
 
 ## StiProcessExportEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event ProcessExport.
-
-```csharp
-public class StiProcessExportEventArgs
-```
 
 ### Inheritance
 
@@ -21,7 +16,17 @@ Inherits from: [StiExportEventArgs](StiExportEventArgs.md)
 
 | Constructor | Description |
 | --- | --- |
-| **StiProcessExportEventArgs**([StiExportFormat](../StiExportFormat.md) format, [StiExportService](../Export/StiExportService.md) exportService, Stream stream, [StiExportSettings](../Export/StiExportSettings.md) settings) |  |
+| **StiProcessExportEventArgs**([StiExportFormat](../root/StiExportFormat.md) format, [StiExportService](../Export/StiExportService.md) exportService, Stream stream, [StiExportSettings](../Export/StiExportSettings.md) settings) |  |
+
+**StiProcessExportEventArgs**(**format**: [StiExportFormat](../root/StiExportFormat.md), **exportService**: [StiExportService](../Export/StiExportService.md), **stream**: Stream, **settings**: [StiExportSettings](../Export/StiExportSettings.md))
+
+**Parameters**
+
+- **format** ([StiExportFormat](../root/StiExportFormat.md))  
+- **exportService** ([StiExportService](../Export/StiExportService.md))  
+- **stream** (Stream)  
+- **settings** ([StiExportSettings](../Export/StiExportSettings.md))  
+
 
 ### Properties
 

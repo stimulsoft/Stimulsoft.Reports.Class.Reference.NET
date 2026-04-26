@@ -4,12 +4,7 @@ title: "AstParserRuleReturnScope<TTree, TToken> Class"
 
 ## AstParserRuleReturnScope<TTree, TToken> Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class AstParserRuleReturnScope<TTree, TToken>
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`
 
 ### Inheritance
 

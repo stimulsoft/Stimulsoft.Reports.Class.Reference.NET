@@ -4,12 +4,7 @@ title: "StiWCFOpeningReportEventArgs Class"
 
 ## StiWCFOpeningReportEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiWCFOpeningReportEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiWCFOpeningReportEventArgs**([IStiDesignerBase](../Design/IStiDesignerBase.md) designer) |  |
+
+**StiWCFOpeningReportEventArgs**(**designer**: [IStiDesignerBase](../Design/IStiDesignerBase.md))
+
+**Parameters**
+
+- **designer** ([IStiDesignerBase](../Design/IStiDesignerBase.md))  
+
 
 ### Fields
 

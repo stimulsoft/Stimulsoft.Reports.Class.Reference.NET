@@ -4,12 +4,7 @@ title: "StiQuickInfoType Enum"
 
 ## StiQuickInfoType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiQuickInfoType
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

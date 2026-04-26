@@ -4,12 +4,7 @@ title: "StiStopBeforePageException Class"
 
 ## StiStopBeforePageException Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiStopBeforePageException
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Inheritance
 

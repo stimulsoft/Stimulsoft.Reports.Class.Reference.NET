@@ -4,12 +4,7 @@ title: "IStiScatterLineSeries Interface"
 
 ## IStiScatterLineSeries Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiScatterLineSeries
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

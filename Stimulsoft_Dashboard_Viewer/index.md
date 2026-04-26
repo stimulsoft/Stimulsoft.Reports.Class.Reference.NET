@@ -8,7 +8,7 @@ title: "Stimulsoft.Dashboard.Viewer"
 
 | Namespace | Types |
 | --- | --- |
-| [Stimulsoft.Dashboard.Viewer](index.md) | 12 |
+| [Stimulsoft.Dashboard.Viewer](root/index.md) | 12 |
 | [Stimulsoft.Dashboard.Viewer.Controls](Controls/index.md) | 39 |
 | [Stimulsoft.Dashboard.Viewer.Controls.ComboBox](Controls/ComboBox/index.md) | 1 |
 | [Stimulsoft.Dashboard.Viewer.Controls.DatePicker](Controls/DatePicker/index.md) | 4 |

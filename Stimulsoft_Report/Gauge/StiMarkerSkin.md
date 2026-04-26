@@ -4,12 +4,7 @@ title: "StiMarkerSkin Enum"
 
 ## StiMarkerSkin Enum
 
-**Namespace:** `Stimulsoft.Report.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiMarkerSkin
-```
+**Namespace:** `Stimulsoft.Report.Gauge`
 
 ### Members
 

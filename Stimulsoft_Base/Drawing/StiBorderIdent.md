@@ -4,12 +4,7 @@ title: "StiBorderIdent Enum"
 
 ## StiBorderIdent Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiBorderIdent
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

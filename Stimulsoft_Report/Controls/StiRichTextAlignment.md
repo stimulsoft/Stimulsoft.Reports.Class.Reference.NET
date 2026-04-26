@@ -4,12 +4,7 @@ title: "StiRichTextAlignment Enum"
 
 ## StiRichTextAlignment Enum
 
-**Namespace:** `Stimulsoft.Report.Controls`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiRichTextAlignment
-```
+**Namespace:** `Stimulsoft.Report.Controls`
 
 ### Members
 

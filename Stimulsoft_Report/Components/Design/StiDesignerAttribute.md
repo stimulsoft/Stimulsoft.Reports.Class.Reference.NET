@@ -4,12 +4,7 @@ title: "StiDesignerAttribute Class"
 
 ## StiDesignerAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiDesignerAttribute
-```
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiDesignerAttribute**(string designerTypeName) |  |
 | **StiDesignerAttribute**(Type type) |  |
+
+**StiDesignerAttribute**(**designerTypeName**: string)
+
+**Parameters**
+
+- **designerTypeName** (string)  
+
+---
+
+**StiDesignerAttribute**(**type**: Type)
+
+**Parameters**
+
+- **type** (Type)  
+
 
 ### Properties
 

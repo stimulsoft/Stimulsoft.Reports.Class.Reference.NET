@@ -4,12 +4,7 @@ title: "StiSerializeHeaders Enum"
 
 ## StiSerializeHeaders Enum
 
-**Namespace:** `Stimulsoft.Base.Serializing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiSerializeHeaders
-```
+**Namespace:** `Stimulsoft.Base.Serializing`
 
 ### Members
 

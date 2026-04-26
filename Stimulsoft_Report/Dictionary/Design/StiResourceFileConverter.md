@@ -4,14 +4,9 @@ title: "StiResourceFileConverter Class"
 
 ## StiResourceFileConverter Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dictionary.Design`
 
 Converts StiResource from one data type to another.
-
-```csharp
-public class StiResourceFileConverter
-```
 
 ### Inheritance
 
@@ -23,3 +18,36 @@ Inherits from: [StiExtConverter](StiExtConverter.md)
 | --- | --- | --- |
 | **ConvertFrom** | object |  |
 | **ConvertTo** | object |  |
+
+---
+
+### Method Details
+
+#### ConvertFrom
+
+**ConvertFrom**(**context**: ITypeDescriptorContext, **culture**: CultureInfo, **value**: object): object
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **culture** (CultureInfo)  
+- **value** (object)  
+
+**Returns** object
+
+
+---
+
+#### ConvertTo
+
+**ConvertTo**(**context**: ITypeDescriptorContext, **culture**: CultureInfo, **value**: object, **destinationType**: Type): object
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **culture** (CultureInfo)  
+- **value** (object)  
+- **destinationType** (Type)  
+
+**Returns** object
+

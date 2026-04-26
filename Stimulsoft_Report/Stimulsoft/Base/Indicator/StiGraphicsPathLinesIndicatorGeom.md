@@ -4,12 +4,7 @@ title: "StiGraphicsPathLinesIndicatorGeom Class"
 
 ## StiGraphicsPathLinesIndicatorGeom Class
 
-**Namespace:** `Stimulsoft.Base.Indicator`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGraphicsPathLinesIndicatorGeom
-```
+**Namespace:** `Stimulsoft.Base.Indicator`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: [StiIndicatorGeom](StiIndicatorGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiGraphicsPathLinesIndicatorGeom**(PointFpoints ) |  |
+
+**StiGraphicsPathLinesIndicatorGeom**(****: PointFpoints)
+
+**Parameters**
+
+- **** (PointFpoints)  
+
 
 ### Properties
 

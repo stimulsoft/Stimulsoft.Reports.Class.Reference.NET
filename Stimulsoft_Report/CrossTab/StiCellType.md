@@ -4,12 +4,7 @@ title: "StiCellType Enum"
 
 ## StiCellType Enum
 
-**Namespace:** `Stimulsoft.Report.CrossTab`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiCellType
-```
+**Namespace:** `Stimulsoft.Report.CrossTab`
 
 ### Members
 

@@ -4,14 +4,9 @@ title: "WriteState Enum"
 
 ## WriteState Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies the state of the JsonWriter.
-
-```csharp
-public enum WriteState
-```
 
 ### Members
 

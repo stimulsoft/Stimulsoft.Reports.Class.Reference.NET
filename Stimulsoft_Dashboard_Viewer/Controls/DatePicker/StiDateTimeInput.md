@@ -4,12 +4,7 @@ title: "StiDateTimeInput Class"
 
 ## StiDateTimeInput Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.DatePicker`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiDateTimeInput
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.DatePicker`
 
 ### Inheritance
 
@@ -21,11 +16,30 @@ Inherits from: MaskedTextBox
 | --- | --- |
 | **StiDateTimeInput**() |  |
 
+**StiDateTimeInput**()
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ProcessCmdKey** | bool |  |
+
+---
+
+### Method Details
+
+#### ProcessCmdKey
+
+**ProcessCmdKey**(**msg**: Message, **keyData**: Keys): bool
+
+**Parameters**
+
+- **msg** (Message)  
+- **keyData** (Keys)  
+
+**Returns** bool
+
 
 ### Events
 

@@ -4,12 +4,7 @@ title: "StiRtfFormatType Enum"
 
 ## StiRtfFormatType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiRtfFormatType
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

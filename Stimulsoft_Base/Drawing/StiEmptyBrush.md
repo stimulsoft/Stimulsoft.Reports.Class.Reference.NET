@@ -4,12 +4,7 @@ title: "StiEmptyBrush Class"
 
 ## StiEmptyBrush Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiEmptyBrush
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Inheritance
 
@@ -21,3 +16,27 @@ Inherits from: [StiBrush](StiBrush.md)
 | --- | --- | --- |
 | **Equals** | bool |  |
 | **GetHashCode** | int |  |
+
+---
+
+### Method Details
+
+#### Equals
+
+**Equals**(**obj**: object): bool
+
+**Parameters**
+
+- **obj** (object)  
+
+**Returns** bool
+
+
+---
+
+#### GetHashCode
+
+**GetHashCode**(): int
+
+**Returns** int
+

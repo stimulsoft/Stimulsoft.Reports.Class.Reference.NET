@@ -4,9 +4,4 @@ title: "IStiOddEvenStyles Interface"
 
 ## IStiOddEvenStyles Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiOddEvenStyles
-```
+**Namespace:** `Stimulsoft.Report.Components`

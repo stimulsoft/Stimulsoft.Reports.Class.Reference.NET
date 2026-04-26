@@ -4,12 +4,7 @@ title: "StiGisSize Struct"
 
 ## StiGisSize Struct
 
-**Namespace:** `Stimulsoft.Map.Gis.Core`  
-**Assembly:** `Stimulsoft.Map`
-
-```csharp
-public struct StiGisSize
-```
+**Namespace:** `Stimulsoft.Map.Gis.Core`
 
 ### Constructors
 
@@ -17,6 +12,22 @@ public struct StiGisSize
 | --- | --- |
 | **StiGisSize**([StiGisPoint](StiGisPoint.md) pt) |  |
 | **StiGisSize**(int width, int height) |  |
+
+**StiGisSize**(**pt**: [StiGisPoint](StiGisPoint.md))
+
+**Parameters**
+
+- **pt** ([StiGisPoint](StiGisPoint.md))  
+
+---
+
+**StiGisSize**(**width**: int, **height**: int)
+
+**Parameters**
+
+- **width** (int)  
+- **height** (int)  
+
 
 ### Properties
 
@@ -32,6 +43,39 @@ public struct StiGisSize
 | **Equals** | bool |  |
 | **GetHashCode** | int |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### Equals
+
+**Equals**(**obj**: object): bool
+
+**Parameters**
+
+- **obj** (object)  
+
+**Returns** bool
+
+
+---
+
+#### GetHashCode
+
+**GetHashCode**(): int
+
+**Returns** int
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+
 
 ### Fields
 

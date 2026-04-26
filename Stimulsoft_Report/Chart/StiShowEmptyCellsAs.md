@@ -4,12 +4,7 @@ title: "StiShowEmptyCellsAs Enum"
 
 ## StiShowEmptyCellsAs Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiShowEmptyCellsAs
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

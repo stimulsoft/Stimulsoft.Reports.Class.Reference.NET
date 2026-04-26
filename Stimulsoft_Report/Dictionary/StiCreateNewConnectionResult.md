@@ -4,12 +4,7 @@ title: "StiCreateNewConnectionResult Class"
 
 ## StiCreateNewConnectionResult Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCreateNewConnectionResult
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Properties
 

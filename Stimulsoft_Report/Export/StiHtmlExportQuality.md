@@ -4,14 +4,9 @@ title: "StiHtmlExportQuality Enum"
 
 ## StiHtmlExportQuality Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration which sets a quality of images which will be exported.
-
-```csharp
-public enum StiHtmlExportQuality
-```
 
 ### Members
 

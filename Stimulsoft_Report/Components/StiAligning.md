@@ -4,14 +4,9 @@ title: "StiAligning Enum"
 
 ## StiAligning Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Modes of the components alignment.
-
-```csharp
-public enum StiAligning
-```
 
 ### Members
 

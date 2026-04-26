@@ -4,12 +4,7 @@ title: "StiCloudReportLimits Class"
 
 ## StiCloudReportLimits Class
 
-**Namespace:** `Stimulsoft.Base.Plans`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiCloudReportLimits
-```
+**Namespace:** `Stimulsoft.Base.Plans`
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiChartInfoV2 Class"
 
 ## StiChartInfoV2 Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiChartInfoV2
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

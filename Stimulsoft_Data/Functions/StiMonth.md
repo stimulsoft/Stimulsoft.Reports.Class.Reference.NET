@@ -4,12 +4,7 @@ title: "StiMonth Enum"
 
 ## StiMonth Enum
 
-**Namespace:** `Stimulsoft.Data.Functions`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum StiMonth
-```
+**Namespace:** `Stimulsoft.Data.Functions`
 
 ### Members
 

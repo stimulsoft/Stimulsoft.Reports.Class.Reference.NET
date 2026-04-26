@@ -4,14 +4,9 @@ title: "StiButtonStretchConverter Class"
 
 ## StiButtonStretchConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Button.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Button.Design`
 
 Converts a StiButtonStretch object from one data type to another.
-
-```csharp
-public class StiButtonStretchConverter
-```
 
 ### Inheritance
 
@@ -23,3 +18,14 @@ Inherits from: [StiEnumConverter](../../../../Stimulsoft_Base/Localization/StiEn
 | --- | --- |
 | **StiButtonStretchConverter**() |  |
 | **StiButtonStretchConverter**(Type type) |  |
+
+**StiButtonStretchConverter**()
+
+---
+
+**StiButtonStretchConverter**(**type**: Type)
+
+**Parameters**
+
+- **type** (Type)  
+

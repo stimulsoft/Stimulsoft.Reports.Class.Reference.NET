@@ -4,12 +4,7 @@ title: "StiDataMatrixSize Enum"
 
 ## StiDataMatrixSize Enum
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDataMatrixSize
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Members
 

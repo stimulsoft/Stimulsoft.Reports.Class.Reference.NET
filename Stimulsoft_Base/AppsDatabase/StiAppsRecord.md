@@ -4,18 +4,22 @@ title: "StiAppsRecord Class"
 
 ## StiAppsRecord Class
 
-**Namespace:** `Stimulsoft.Base.AppsDatabase`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiAppsRecord
-```
+**Namespace:** `Stimulsoft.Base.AppsDatabase`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiAppsRecord**(int index, int position, List<object> values) |  |
+
+**StiAppsRecord**(**index**: int, **position**: int, **values**: List<object>)
+
+**Parameters**
+
+- **index** (int)  
+- **position** (int)  
+- **values** (List<object>)  
+
 
 ### Properties
 
@@ -31,3 +35,21 @@ public class StiAppsRecord
 | --- | --- | --- |
 | **SetEmptyValues** | void |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### SetEmptyValues
+
+**SetEmptyValues**(): void
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

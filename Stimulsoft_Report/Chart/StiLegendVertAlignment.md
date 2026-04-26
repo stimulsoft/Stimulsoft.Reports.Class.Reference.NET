@@ -4,12 +4,7 @@ title: "StiLegendVertAlignment Enum"
 
 ## StiLegendVertAlignment Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiLegendVertAlignment
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

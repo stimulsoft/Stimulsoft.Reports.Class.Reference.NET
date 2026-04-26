@@ -4,12 +4,7 @@ title: "Maxp Class"
 
 ## Maxp Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class Maxp
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

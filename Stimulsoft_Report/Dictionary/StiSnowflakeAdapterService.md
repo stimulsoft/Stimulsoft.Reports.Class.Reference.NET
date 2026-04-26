@@ -4,12 +4,7 @@ title: "StiSnowflakeAdapterService Class"
 
 ## StiSnowflakeAdapterService Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSnowflakeAdapterService
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 
@@ -19,5 +14,29 @@ Inherits from: [StiSqlAdapterService](StiSqlAdapterService.md)
 
 | Method | Returns | Description |
 | --- | --- | --- |
-| **CreateConnector** | [StiSqlDataConnector](../../Stimulsoft_Base/StiSqlDataConnector.md) |  |
+| **CreateConnector** | [StiSqlDataConnector](../../Stimulsoft_Base/root/StiSqlDataConnector.md) |  |
 | **GetDataSourceType** | Type |  |
+
+---
+
+### Method Details
+
+#### CreateConnector
+
+**CreateConnector**(**connectionString**: string): [StiSqlDataConnector](../../Stimulsoft_Base/root/StiSqlDataConnector.md)
+
+**Parameters**
+
+- **connectionString** (string)  
+
+**Returns** [StiSqlDataConnector](../../Stimulsoft_Base/root/StiSqlDataConnector.md)
+
+
+---
+
+#### GetDataSourceType
+
+**GetDataSourceType**(): Type
+
+**Returns** Type
+

@@ -4,12 +4,7 @@ title: "StiDropFileInViewerEventArgs Class"
 
 ## StiDropFileInViewerEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDropFileInViewerEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 
@@ -20,6 +15,16 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiDropFileInViewerEventArgs**([IStiViewerControl](../Viewer/IStiViewerControl.md) viewer, string fileName, Point pos, StiComponent comp) |  |
+
+**StiDropFileInViewerEventArgs**(**viewer**: [IStiViewerControl](../Viewer/IStiViewerControl.md), **fileName**: string, **pos**: Point, **comp**: StiComponent)
+
+**Parameters**
+
+- **viewer** ([IStiViewerControl](../Viewer/IStiViewerControl.md))  
+- **fileName** (string)  
+- **pos** (Point)  
+- **comp** (StiComponent)  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "ImageFormat Class"
 
 ## ImageFormat Class
 
-**Namespace:** `Stimulsoft.Drawing.Imaging`  
-**Assembly:** `Stimulsoft.Drawing`
-
-```csharp
-public class ImageFormat
-```
+**Namespace:** `Stimulsoft.Drawing.Imaging`
 
 ### Constructors
 
@@ -17,8 +12,26 @@ public class ImageFormat
 | --- | --- |
 | **ImageFormat**(Guid guid) |  |
 
+**ImageFormat**(**guid**: Guid)
+
+**Parameters**
+
+- **guid** (Guid)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

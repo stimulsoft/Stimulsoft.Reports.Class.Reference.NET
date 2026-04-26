@@ -4,12 +4,7 @@ title: "StiDirection Enum"
 
 ## StiDirection Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDirection
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

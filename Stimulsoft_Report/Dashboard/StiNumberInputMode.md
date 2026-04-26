@@ -4,12 +4,7 @@ title: "StiNumberInputMode Enum"
 
 ## StiNumberInputMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiNumberInputMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

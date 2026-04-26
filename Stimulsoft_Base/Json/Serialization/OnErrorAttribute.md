@@ -4,12 +4,7 @@ title: "OnErrorAttribute Class"
 
 ## OnErrorAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Json.Serialization`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class OnErrorAttribute
-```
+**Namespace:** `Stimulsoft.Base.Json.Serialization`
 
 ### Inheritance
 

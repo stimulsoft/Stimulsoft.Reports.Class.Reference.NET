@@ -4,12 +4,7 @@ title: "StiQuickButtonAlignment Enum"
 
 ## StiQuickButtonAlignment Enum
 
-**Namespace:** `Stimulsoft.Report.QuickButtons`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiQuickButtonAlignment
-```
+**Namespace:** `Stimulsoft.Report.QuickButtons`
 
 ### Members
 

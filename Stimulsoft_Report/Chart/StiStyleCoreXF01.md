@@ -4,12 +4,7 @@ title: "StiStyleCoreXF01 Class"
 
 ## StiStyleCoreXF01 Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiStyleCoreXF01
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -27,3 +22,18 @@ Inherits from: [StiStyleCoreXF](StiStyleCoreXF.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetColumnBrush** | [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) |  |
+
+---
+
+### Method Details
+
+#### GetColumnBrush
+
+**GetColumnBrush**(**color**: Color): [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)
+
+**Parameters**
+
+- **color** (Color)  
+
+**Returns** [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)
+

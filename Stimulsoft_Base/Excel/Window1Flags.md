@@ -4,12 +4,7 @@ title: "Window1Flags Enum"
 
 ## Window1Flags Enum
 
-**Namespace:** `Stimulsoft.Base.Excel`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum Window1Flags
-```
+**Namespace:** `Stimulsoft.Base.Excel`
 
 ### Inheritance
 

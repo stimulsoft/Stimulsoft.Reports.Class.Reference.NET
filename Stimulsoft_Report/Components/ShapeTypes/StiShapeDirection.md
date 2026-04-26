@@ -4,14 +4,9 @@ title: "StiShapeDirection Enum"
 
 ## StiShapeDirection Enum
 
-**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`
 
 Shape direction.
-
-```csharp
-public enum StiShapeDirection
-```
 
 ### Members
 

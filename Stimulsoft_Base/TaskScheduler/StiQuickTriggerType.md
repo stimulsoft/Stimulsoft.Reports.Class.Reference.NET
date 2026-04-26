@@ -4,12 +4,7 @@ title: "StiQuickTriggerType Enum"
 
 ## StiQuickTriggerType Enum
 
-**Namespace:** `Stimulsoft.Base.TaskScheduler`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiQuickTriggerType
-```
+**Namespace:** `Stimulsoft.Base.TaskScheduler`
 
 ### Members
 

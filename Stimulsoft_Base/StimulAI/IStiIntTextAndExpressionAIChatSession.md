@@ -4,12 +4,7 @@ title: "IStiIntTextAndExpressionAIChatSession Interface"
 
 ## IStiIntTextAndExpressionAIChatSession Interface
 
-**Namespace:** `Stimulsoft.Base.StimulAI`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public interface IStiIntTextAndExpressionAIChatSession
-```
+**Namespace:** `Stimulsoft.Base.StimulAI`
 
 ### Inheritance
 

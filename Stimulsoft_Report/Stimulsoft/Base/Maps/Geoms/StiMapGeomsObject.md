@@ -4,12 +4,7 @@ title: "StiMapGeomsObject Class"
 
 ## StiMapGeomsObject Class
 
-**Namespace:** `Stimulsoft.Base.Maps.Geoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiMapGeomsObject
-```
+**Namespace:** `Stimulsoft.Base.Maps.Geoms`
 
 ### Properties
 
@@ -25,3 +20,14 @@ public class StiMapGeomsObject
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

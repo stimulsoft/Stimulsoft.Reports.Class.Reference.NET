@@ -4,12 +4,7 @@ title: "IStiRadarGridLinesVert Interface"
 
 ## IStiRadarGridLinesVert Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiRadarGridLinesVert
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

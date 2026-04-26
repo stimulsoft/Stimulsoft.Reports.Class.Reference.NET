@@ -4,12 +4,7 @@ title: "StiQRCodeECIMode Enum"
 
 ## StiQRCodeECIMode Enum
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiQRCodeECIMode
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Members
 

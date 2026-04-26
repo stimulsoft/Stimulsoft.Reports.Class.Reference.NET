@@ -4,12 +4,7 @@ title: "StiLoadingObjectEventArgs Class"
 
 ## StiLoadingObjectEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiLoadingObjectEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Inheritance
 

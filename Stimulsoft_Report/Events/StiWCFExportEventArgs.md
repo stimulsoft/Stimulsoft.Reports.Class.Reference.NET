@@ -4,12 +4,7 @@ title: "StiWCFExportEventArgs Class"
 
 ## StiWCFExportEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiWCFExportEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 
@@ -19,7 +14,16 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| **StiWCFExportEventArgs**(bytedata , string filter, [StiReport](../StiReport.md) report) |  |
+| **StiWCFExportEventArgs**(bytedata , string filter, [StiReport](../root/StiReport.md) report) |  |
+
+**StiWCFExportEventArgs**(****: bytedata, **filter**: string, **report**: [StiReport](../root/StiReport.md))
+
+**Parameters**
+
+- **** (bytedata)  
+- **filter** (string)  
+- **report** ([StiReport](../root/StiReport.md))  
+
 
 ### Fields
 

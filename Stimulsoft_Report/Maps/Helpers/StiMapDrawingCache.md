@@ -4,12 +4,7 @@ title: "StiMapDrawingCache Class"
 
 ## StiMapDrawingCache Class
 
-**Namespace:** `Stimulsoft.Report.Maps.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiMapDrawingCache
-```
+**Namespace:** `Stimulsoft.Report.Maps.Helpers`
 
 ### Properties
 

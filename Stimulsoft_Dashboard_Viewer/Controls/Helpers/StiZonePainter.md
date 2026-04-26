@@ -4,12 +4,7 @@ title: "StiZonePainter Class"
 
 ## StiZonePainter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Helpers`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public static class StiZonePainter
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Helpers`
 
 ### Methods
 
@@ -17,3 +12,32 @@ public static class StiZonePainter
 | --- | --- | --- |
 | **DrawCross** `static` | void |  |
 | **GetCloseRect** `static` | Rectangle |  |
+
+---
+
+### Method Details
+
+#### DrawCross `static`
+
+**DrawCross**(**g**: [Graphics](../../../Stimulsoft_Drawing/root/Graphics.md), **rect**: Rectangle, **isHot**: bool, **foreColor**: Color): void
+
+**Parameters**
+
+- **g** ([Graphics](../../../Stimulsoft_Drawing/root/Graphics.md))  
+- **rect** (Rectangle)  
+- **isHot** (bool)  
+- **foreColor** (Color)  
+
+
+---
+
+#### GetCloseRect `static`
+
+**GetCloseRect**(**rect**: Rectangle): Rectangle
+
+**Parameters**
+
+- **rect** (Rectangle)  
+
+**Returns** Rectangle
+

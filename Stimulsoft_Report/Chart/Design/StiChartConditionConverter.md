@@ -4,14 +4,9 @@ title: "StiChartConditionConverter Class"
 
 ## StiChartConditionConverter Class
 
-**Namespace:** `Stimulsoft.Report.Chart.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Chart.Design`
 
 Converts StiChartCondition from one data type to another.
-
-```csharp
-public class StiChartConditionConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,20 @@ Inherits from: [StiChartFilterConverter](StiChartFilterConverter.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ConvertFrom** | object |  |
+
+---
+
+### Method Details
+
+#### ConvertFrom
+
+**ConvertFrom**(**context**: ITypeDescriptorContext, **culture**: CultureInfo, **value**: object): object
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **culture** (CultureInfo)  
+- **value** (object)  
+
+**Returns** object
+

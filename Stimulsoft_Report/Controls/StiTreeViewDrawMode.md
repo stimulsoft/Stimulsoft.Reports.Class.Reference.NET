@@ -4,12 +4,7 @@ title: "StiTreeViewDrawMode Enum"
 
 ## StiTreeViewDrawMode Enum
 
-**Namespace:** `Stimulsoft.Report.Controls`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiTreeViewDrawMode
-```
+**Namespace:** `Stimulsoft.Report.Controls`
 
 ### Members
 

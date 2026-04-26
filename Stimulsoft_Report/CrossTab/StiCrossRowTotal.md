@@ -4,14 +4,9 @@ title: "StiCrossRowTotal Class"
 
 ## StiCrossRowTotal Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.CrossTab`
 
 Summary description for StiCrossRowTotal.
-
-```csharp
-public class StiCrossRowTotal
-```
 
 ### Inheritance
 
@@ -22,3 +17,6 @@ Inherits from: [StiCrossTotal](StiCrossTotal.md)
 | Constructor | Description |
 | --- | --- |
 | **StiCrossRowTotal**() |  |
+
+**StiCrossRowTotal**()
+

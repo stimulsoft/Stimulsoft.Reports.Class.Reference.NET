@@ -4,14 +4,9 @@ title: "StiMonochromeDitheringType Enum"
 
 ## StiMonochromeDitheringType Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration describes a type of dithering for monochrome PCX file.
-
-```csharp
-public enum StiMonochromeDitheringType
-```
 
 ### Members
 

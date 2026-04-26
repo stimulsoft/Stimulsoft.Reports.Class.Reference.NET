@@ -4,18 +4,16 @@ title: "StiHtmlHyperlink Class"
 
 ## StiHtmlHyperlink Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiHtmlHyperlink
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiHtmlHyperlink**() |  |
+
+**StiHtmlHyperlink**()
+
 
 ### Fields
 

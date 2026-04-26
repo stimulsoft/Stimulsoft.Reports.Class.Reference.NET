@@ -4,12 +4,7 @@ title: "StiCrossSummary Class"
 
 ## StiCrossSummary Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCrossSummary
-```
+**Namespace:** `Stimulsoft.Report.CrossTab`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: StiCrossCell
 | Constructor | Description |
 | --- | --- |
 | **StiCrossSummary**() |  |
+
+**StiCrossSummary**()
+
 
 ### Properties
 
@@ -48,6 +46,45 @@ Inherits from: StiCrossCell
 | **Clone** | object |  |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(**cloneProperties**: bool): object
+
+**Parameters**
+
+- **cloneProperties** (bool)  
+
+**Returns** object
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
 
 ### Fields
 

@@ -4,14 +4,9 @@ title: "MetadataPropertyHandling Enum"
 
 ## MetadataPropertyHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies metadata property handling options for the JsonSerializer.
-
-```csharp
-public enum MetadataPropertyHandling
-```
 
 ### Members
 

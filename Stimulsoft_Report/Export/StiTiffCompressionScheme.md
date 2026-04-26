@@ -4,14 +4,9 @@ title: "StiTiffCompressionScheme Enum"
 
 ## StiTiffCompressionScheme Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for setting compression scheme of the exported Tiff image.
-
-```csharp
-public enum StiTiffCompressionScheme
-```
 
 ### Members
 

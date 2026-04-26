@@ -4,12 +4,7 @@ title: "StiStockAreaCoreXF Class"
 
 ## StiStockAreaCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiStockAreaCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiCandlestickAreaCoreXF](StiCandlestickAreaCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiStockAreaCoreXF**(IStiArea area) |  |
+
+**StiStockAreaCoreXF**(**area**: IStiArea)
+
+**Parameters**
+
+- **area** (IStiArea)  
+

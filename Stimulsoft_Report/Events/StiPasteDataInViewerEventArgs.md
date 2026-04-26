@@ -4,12 +4,7 @@ title: "StiPasteDataInViewerEventArgs Class"
 
 ## StiPasteDataInViewerEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPasteDataInViewerEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 
@@ -20,6 +15,15 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiPasteDataInViewerEventArgs**([IStiViewerControl](../Viewer/IStiViewerControl.md) viewer, Point pos, StiComponent comp) |  |
+
+**StiPasteDataInViewerEventArgs**(**viewer**: [IStiViewerControl](../Viewer/IStiViewerControl.md), **pos**: Point, **comp**: StiComponent)
+
+**Parameters**
+
+- **viewer** ([IStiViewerControl](../Viewer/IStiViewerControl.md))  
+- **pos** (Point)  
+- **comp** (StiComponent)  
+
 
 ### Properties
 

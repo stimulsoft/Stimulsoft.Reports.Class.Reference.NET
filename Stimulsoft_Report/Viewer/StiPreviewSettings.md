@@ -4,12 +4,7 @@ title: "StiPreviewSettings Enum"
 
 ## StiPreviewSettings Enum
 
-**Namespace:** `Stimulsoft.Report.Viewer`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiPreviewSettings
-```
+**Namespace:** `Stimulsoft.Report.Viewer`
 
 ### Members
 

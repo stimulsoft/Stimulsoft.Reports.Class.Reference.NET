@@ -4,18 +4,21 @@ title: "StiRibbonSeriesMetadata Class"
 
 ## StiRibbonSeriesMetadata Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRibbonSeriesMetadata
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiRibbonSeriesMetadata**([StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) brush, Color borderColor) |  |
+
+**StiRibbonSeriesMetadata**(**brush**: [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md), **borderColor**: Color)
+
+**Parameters**
+
+- **brush** ([StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md))  
+- **borderColor** (Color)  
+
 
 ### Properties
 

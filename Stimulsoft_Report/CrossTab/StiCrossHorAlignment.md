@@ -4,14 +4,9 @@ title: "StiCrossHorAlignment Enum"
 
 ## StiCrossHorAlignment Enum
 
-**Namespace:** `Stimulsoft.Report.CrossTab`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.CrossTab`
 
 Horizontal alignment of an Cross-Tab.
-
-```csharp
-public enum StiCrossHorAlignment
-```
 
 ### Members
 

@@ -4,14 +4,9 @@ title: "FloatFormatHandling Enum"
 
 ## FloatFormatHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies float format handling options when writing special floating point numbers, e.g. NaN, PositiveInfinity and NegativeInfinity with JsonWriter.
-
-```csharp
-public enum FloatFormatHandling
-```
 
 ### Members
 

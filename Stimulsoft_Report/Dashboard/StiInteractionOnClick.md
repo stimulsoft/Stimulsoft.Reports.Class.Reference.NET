@@ -4,12 +4,7 @@ title: "StiInteractionOnClick Enum"
 
 ## StiInteractionOnClick Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiInteractionOnClick
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

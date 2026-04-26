@@ -4,14 +4,9 @@ title: "DateParseHandling Enum"
 
 ## DateParseHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies how date formatted strings, e.g. "\/Date(1198908717056)\/" and "2012-03-21T05:40Z", are parsed when reading JSON text.
-
-```csharp
-public enum DateParseHandling
-```
 
 ### Members
 

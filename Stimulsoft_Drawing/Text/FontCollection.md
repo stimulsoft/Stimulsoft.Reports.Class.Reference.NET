@@ -4,12 +4,7 @@ title: "FontCollection Class"
 
 ## FontCollection Class
 
-**Namespace:** `Stimulsoft.Drawing.Text`  
-**Assembly:** `Stimulsoft.Drawing`
-
-```csharp
-public class FontCollection
-```
+**Namespace:** `Stimulsoft.Drawing.Text`
 
 ### Inheritance
 
@@ -20,3 +15,12 @@ Implements: IDisposable
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Dispose** | void |  |
+
+---
+
+### Method Details
+
+#### Dispose
+
+**Dispose**(): void
+

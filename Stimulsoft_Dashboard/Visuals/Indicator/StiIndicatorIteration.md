@@ -4,14 +4,9 @@ title: "StiIndicatorIteration Class"
 
 ## StiIndicatorIteration Class
 
-**Namespace:** `Stimulsoft.Dashboard.Visuals.Indicator`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Visuals.Indicator`
 
 This class is used for the indicator element rendering.
-
-```csharp
-public class StiIndicatorIteration
-```
 
 ### Properties
 

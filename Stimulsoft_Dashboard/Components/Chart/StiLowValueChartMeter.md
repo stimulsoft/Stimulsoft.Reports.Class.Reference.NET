@@ -4,14 +4,9 @@ title: "StiLowValueChartMeter Class"
 
 ## StiLowValueChartMeter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart`
 
 Describes a meter class which contains information about Low-Values of the chart element.
-
-```csharp
-public class StiLowValueChartMeter
-```
 
 ### Inheritance
 
@@ -24,6 +19,28 @@ Inherits from: StiMeasureMeter
 | **StiLowValueChartMeter**() |  |
 | **StiLowValueChartMeter**(string expression, string label) |  |
 | **StiLowValueChartMeter**(string key, string expression, string label) |  |
+
+**StiLowValueChartMeter**()
+
+---
+
+**StiLowValueChartMeter**(**expression**: string, **label**: string)
+
+**Parameters**
+
+- **expression** (string)  
+- **label** (string)  
+
+---
+
+**StiLowValueChartMeter**(**key**: string, **expression**: string, **label**: string)
+
+**Parameters**
+
+- **key** (string)  
+- **expression** (string)  
+- **label** (string)  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiTurquoiseCardsElementStyle Class"
 
 ## StiTurquoiseCardsElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTurquoiseCardsElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 

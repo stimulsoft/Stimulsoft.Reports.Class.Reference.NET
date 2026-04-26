@@ -4,12 +4,7 @@ title: "StiTableProperty Class"
 
 ## StiTableProperty Class
 
-**Namespace:** `Stimulsoft.Base.Databases`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiTableProperty
-```
+**Namespace:** `Stimulsoft.Base.Databases`
 
 ### Constructors
 
@@ -17,6 +12,17 @@ public class StiTableProperty
 | --- | --- |
 | **StiTableProperty**() |  |
 | **StiTableProperty**(PropertyInfo prop) |  |
+
+**StiTableProperty**()
+
+---
+
+**StiTableProperty**(**prop**: PropertyInfo)
+
+**Parameters**
+
+- **prop** (PropertyInfo)  
+
 
 ### Properties
 
@@ -31,6 +37,17 @@ public class StiTableProperty
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+
 
 ### Fields
 

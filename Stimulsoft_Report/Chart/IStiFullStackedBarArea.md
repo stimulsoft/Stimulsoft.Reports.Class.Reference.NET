@@ -4,12 +4,7 @@ title: "IStiFullStackedBarArea Interface"
 
 ## IStiFullStackedBarArea Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiFullStackedBarArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

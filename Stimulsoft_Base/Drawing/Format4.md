@@ -4,12 +4,7 @@ title: "Format4 Class"
 
 ## Format4 Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class Format4
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

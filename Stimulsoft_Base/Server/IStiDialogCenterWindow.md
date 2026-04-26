@@ -4,12 +4,7 @@ title: "IStiDialogCenterWindow Interface"
 
 ## IStiDialogCenterWindow Interface
 
-**Namespace:** `Stimulsoft.Base.Server`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public interface IStiDialogCenterWindow
-```
+**Namespace:** `Stimulsoft.Base.Server`
 
 ### Inheritance
 

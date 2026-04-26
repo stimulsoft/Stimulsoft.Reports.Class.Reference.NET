@@ -4,12 +4,7 @@ title: "StiDataFiltersDesignerAttribute Class"
 
 ## StiDataFiltersDesignerAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiDataFiltersDesignerAttribute
-```
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiDataFiltersDesignerAttribute**(string designerTypeName) |  |
 | **StiDataFiltersDesignerAttribute**(Type type) |  |
+
+**StiDataFiltersDesignerAttribute**(**designerTypeName**: string)
+
+**Parameters**
+
+- **designerTypeName** (string)  
+
+---
+
+**StiDataFiltersDesignerAttribute**(**type**: Type)
+
+**Parameters**
+
+- **type** (Type)  
+
 
 ### Properties
 

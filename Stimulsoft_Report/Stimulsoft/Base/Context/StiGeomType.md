@@ -4,12 +4,7 @@ title: "StiGeomType Enum"
 
 ## StiGeomType Enum
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiGeomType
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Members
 

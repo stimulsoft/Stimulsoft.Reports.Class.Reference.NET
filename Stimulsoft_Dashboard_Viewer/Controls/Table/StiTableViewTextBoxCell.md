@@ -4,12 +4,7 @@ title: "StiTableViewTextBoxCell Class"
 
 ## StiTableViewTextBoxCell Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Table`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiTableViewTextBoxCell
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Table`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: DataGridViewTextBoxCell
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetRowValues** | object[] |  |
+
+---
+
+### Method Details
+
+#### GetRowValues
+
+**GetRowValues**(**rowIndex**: int): object[]
+
+**Parameters**
+
+- **rowIndex** (int)  
+
+**Returns** object[]
+

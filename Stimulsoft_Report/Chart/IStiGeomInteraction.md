@@ -4,11 +4,6 @@ title: "IStiGeomInteraction Interface"
 
 ## IStiGeomInteraction Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Chart`
 
 Interface provides interactive properties for chart elements.
-
-```csharp
-public interface IStiGeomInteraction
-```

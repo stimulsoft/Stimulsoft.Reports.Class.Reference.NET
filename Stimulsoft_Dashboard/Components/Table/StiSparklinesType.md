@@ -4,14 +4,9 @@ title: "StiSparklinesType Enum"
 
 ## StiSparklinesType Enum
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Table`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Table`
 
 Types of the sparklines
-
-```csharp
-public enum StiSparklinesType
-```
 
 ### Members
 

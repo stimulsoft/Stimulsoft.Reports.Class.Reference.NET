@@ -4,12 +4,7 @@ title: "Name Class"
 
 ## Name Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class Name
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

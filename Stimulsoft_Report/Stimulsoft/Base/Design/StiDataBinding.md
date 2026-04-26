@@ -4,20 +4,26 @@ title: "StiDataBinding Class"
 
 ## StiDataBinding Class
 
-**Namespace:** `Stimulsoft.Base.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Base.Design`
 
 Class describes databinding properties.
-
-```csharp
-public class StiDataBinding
-```
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiDataBinding**([StiDataBindingsCollection](StiDataBindingsCollection.md) collection, string propertyName, string displayName) | Creates an object of the type StiDataBinding that contains an object. |
+
+**StiDataBinding**(**collection**: [StiDataBindingsCollection](StiDataBindingsCollection.md), **propertyName**: string, **displayName**: string)
+
+Creates an object of the type StiDataBinding that contains an object.
+
+**Parameters**
+
+- **collection** ([StiDataBindingsCollection](StiDataBindingsCollection.md)) — Collection of DataBinding.  
+- **propertyName** (string) — Property name.  
+- **displayName** (string) — Display name.  
+
 
 ### Properties
 

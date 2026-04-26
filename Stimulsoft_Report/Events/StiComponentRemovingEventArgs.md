@@ -4,14 +4,9 @@ title: "StiComponentRemovingEventArgs Class"
 
 ## StiComponentRemovingEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event ComponentRemoved.
-
-```csharp
-public class StiComponentRemovingEventArgs
-```
 
 ### Inheritance
 
@@ -22,6 +17,14 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiComponentRemovingEventArgs**([IStiDesignerBase](../Design/IStiDesignerBase.md) designer, StiComponent component) |  |
+
+**StiComponentRemovingEventArgs**(**designer**: [IStiDesignerBase](../Design/IStiDesignerBase.md), **component**: StiComponent)
+
+**Parameters**
+
+- **designer** ([IStiDesignerBase](../Design/IStiDesignerBase.md))  
+- **component** (StiComponent)  
+
 
 ### Properties
 

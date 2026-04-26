@@ -4,12 +4,7 @@ title: "TreePatternLexer Class"
 
 ## TreePatternLexer Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Tree`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class TreePatternLexer
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Tree`
 
 ### Constructors
 
@@ -17,12 +12,37 @@ public class TreePatternLexer
 | --- | --- |
 | **TreePatternLexer**(string pattern) |  |
 
+**TreePatternLexer**(**pattern**: string)
+
+**Parameters**
+
+- **pattern** (string)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Consume** | void |  |
 | **NextToken** | int |  |
+
+---
+
+### Method Details
+
+#### Consume
+
+**Consume**(): void
+
+
+---
+
+#### NextToken
+
+**NextToken**(): int
+
+**Returns** int
+
 
 ### Fields
 

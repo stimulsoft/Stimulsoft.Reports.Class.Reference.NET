@@ -4,12 +4,7 @@ title: "StiElectronicSignature Class"
 
 ## StiElectronicSignature Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiElectronicSignature
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: StiSignature
 | --- | --- |
 | **StiElectronicSignature**() | Creates a new component of the type StiElectronicSignature. |
 | **StiElectronicSignature**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new component of the type StiElectronicSignature. |
+
+**StiElectronicSignature**()
+
+Creates a new component of the type StiElectronicSignature.
+
+---
+
+**StiElectronicSignature**(**rect**: [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md))
+
+Creates a new component of the type StiElectronicSignature.
+
+**Parameters**
+
+- **rect** ([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md)) — The rectangle describes size and position of the component.  
+
 
 ### Properties
 
@@ -43,3 +53,44 @@ Inherits from: StiSignature
 | **Clone** | object | Creates a new object that is a copy of the current instance. |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(**cloneProperties**: bool): object
+
+Creates a new object that is a copy of the current instance.
+
+**Parameters**
+
+- **cloneProperties** (bool)  
+
+**Returns** object — A new object that is a copy of this instance.
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+

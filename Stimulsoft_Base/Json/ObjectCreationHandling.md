@@ -4,14 +4,9 @@ title: "ObjectCreationHandling Enum"
 
 ## ObjectCreationHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies how object creation is handled by the JsonSerializer.
-
-```csharp
-public enum ObjectCreationHandling
-```
 
 ### Members
 

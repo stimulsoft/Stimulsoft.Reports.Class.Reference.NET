@@ -4,12 +4,7 @@ title: "StiTimeSpanDialogInfoItem Class"
 
 ## StiTimeSpanDialogInfoItem Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTimeSpanDialogInfoItem
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 
@@ -20,3 +15,6 @@ Inherits from: StiDialogInfoItem
 | Constructor | Description |
 | --- | --- |
 | **StiTimeSpanDialogInfoItem**() |  |
+
+**StiTimeSpanDialogInfoItem**()
+

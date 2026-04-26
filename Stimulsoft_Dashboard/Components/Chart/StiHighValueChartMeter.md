@@ -4,14 +4,9 @@ title: "StiHighValueChartMeter Class"
 
 ## StiHighValueChartMeter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart`
 
 Describes a meter class which contains information about High-Values of the chart element.
-
-```csharp
-public class StiHighValueChartMeter
-```
 
 ### Inheritance
 
@@ -24,6 +19,28 @@ Inherits from: StiMeasureMeter
 | **StiHighValueChartMeter**() |  |
 | **StiHighValueChartMeter**(string expression, string label) |  |
 | **StiHighValueChartMeter**(string key, string expression, string label) |  |
+
+**StiHighValueChartMeter**()
+
+---
+
+**StiHighValueChartMeter**(**expression**: string, **label**: string)
+
+**Parameters**
+
+- **expression** (string)  
+- **label** (string)  
+
+---
+
+**StiHighValueChartMeter**(**key**: string, **expression**: string, **label**: string)
+
+**Parameters**
+
+- **key** (string)  
+- **expression** (string)  
+- **label** (string)  
+
 
 ### Properties
 

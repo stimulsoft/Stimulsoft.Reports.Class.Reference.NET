@@ -4,14 +4,9 @@ title: "DateFormatHandling Enum"
 
 ## DateFormatHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies how dates are formatted when writing JSON text.
-
-```csharp
-public enum DateFormatHandling
-```
 
 ### Members
 

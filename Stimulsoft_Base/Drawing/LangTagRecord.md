@@ -4,12 +4,7 @@ title: "LangTagRecord Class"
 
 ## LangTagRecord Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class LangTagRecord
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

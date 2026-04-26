@@ -4,12 +4,7 @@ title: "StiCenterPie3dLabels Class"
 
 ## StiCenterPie3dLabels Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCenterPie3dLabels
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,8 +16,22 @@ Inherits from: StiPieSeriesLabels
 | --- | --- |
 | **StiCenterPie3dLabels**() |  |
 
+**StiCenterPie3dLabels**()
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **CreateNew** | StiSeriesLabels |  |
+
+---
+
+### Method Details
+
+#### CreateNew
+
+**CreateNew**(): StiSeriesLabels
+
+**Returns** StiSeriesLabels
+

@@ -4,12 +4,7 @@ title: "StiAggregateData Class"
 
 ## StiAggregateData Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiAggregateData
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Fields
 

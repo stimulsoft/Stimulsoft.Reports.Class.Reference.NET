@@ -4,14 +4,9 @@ title: "StiPrintProvider Class"
 
 ## StiPrintProvider Class
 
-**Namespace:** `Stimulsoft.Report.Print`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Print`
 
 This class provide print service.
-
-```csharp
-public class StiPrintProvider
-```
 
 ### Properties
 

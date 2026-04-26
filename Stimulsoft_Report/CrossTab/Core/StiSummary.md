@@ -4,18 +4,20 @@ title: "StiSummary Class"
 
 ## StiSummary Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab.Core`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSummary
-```
+**Namespace:** `Stimulsoft.Report.CrossTab.Core`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiSummary**(int level) |  |
+
+**StiSummary**(**level**: int)
+
+**Parameters**
+
+- **level** (int)  
+
 
 ### Properties
 

@@ -4,14 +4,9 @@ title: "StiReportIconConverter Class"
 
 ## StiReportIconConverter Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 Converts icon to string description.
-
-```csharp
-public class StiReportIconConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

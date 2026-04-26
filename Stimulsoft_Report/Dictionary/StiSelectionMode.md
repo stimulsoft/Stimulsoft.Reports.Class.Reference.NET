@@ -4,12 +4,7 @@ title: "StiSelectionMode Enum"
 
 ## StiSelectionMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiSelectionMode
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Members
 

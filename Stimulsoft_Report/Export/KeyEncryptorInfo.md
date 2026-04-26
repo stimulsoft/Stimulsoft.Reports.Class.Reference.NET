@@ -4,12 +4,7 @@ title: "KeyEncryptorInfo Class"
 
 ## KeyEncryptorInfo Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class KeyEncryptorInfo
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Inheritance
 

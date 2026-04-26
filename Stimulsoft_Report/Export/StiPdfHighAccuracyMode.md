@@ -4,14 +4,9 @@ title: "StiPdfHighAccuracyMode Enum"
 
 ## StiPdfHighAccuracyMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for setting modes of HighAccuracy
-
-```csharp
-public enum StiPdfHighAccuracyMode
-```
 
 ### Members
 

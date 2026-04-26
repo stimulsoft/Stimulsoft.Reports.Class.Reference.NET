@@ -4,12 +4,7 @@ title: "StiAIButtonActionId Enum"
 
 ## StiAIButtonActionId Enum
 
-**Namespace:** `Stimulsoft.Base.StimulAI`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiAIButtonActionId
-```
+**Namespace:** `Stimulsoft.Base.StimulAI`
 
 ### Members
 

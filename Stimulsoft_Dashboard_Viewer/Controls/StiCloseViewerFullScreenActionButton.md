@@ -4,12 +4,7 @@ title: "StiCloseViewerFullScreenActionButton Class"
 
 ## StiCloseViewerFullScreenActionButton Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiCloseViewerFullScreenActionButton
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`
 
 ### Inheritance
 
@@ -21,8 +16,25 @@ Inherits from: StiActionButton
 | --- | --- |
 | **StiCloseViewerFullScreenActionButton**([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position) |  |
 
+**StiCloseViewerFullScreenActionButton**(**colors**: [StiControlColorCollection](StiControlColorCollection.md), **position**: Point?)
+
+**Parameters**
+
+- **colors** ([StiControlColorCollection](StiControlColorCollection.md))  
+- **position** (Point?)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **RefreshImageOrIcon** | void |  |
+
+---
+
+### Method Details
+
+#### RefreshImageOrIcon
+
+**RefreshImageOrIcon**(): void
+

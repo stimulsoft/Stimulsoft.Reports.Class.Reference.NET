@@ -4,12 +4,7 @@ title: "StiScaleRangeList Class"
 
 ## StiScaleRangeList Class
 
-**Namespace:** `Stimulsoft.Report.Components.Gauge.Primitives`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiScaleRangeList
-```
+**Namespace:** `Stimulsoft.Report.Components.Gauge.Primitives`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: StiGaugeElement
 | Constructor | Description |
 | --- | --- |
 | **StiScaleRangeList**() |  |
+
+**StiScaleRangeList**()
+
 
 ### Properties
 
@@ -34,3 +32,38 @@ Inherits from: StiGaugeElement
 | **Clone** | object |  |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+**Returns** object
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+

@@ -4,12 +4,7 @@ title: "TreeNodeEx Class"
 
 ## TreeNodeEx Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class TreeNodeEx
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 
@@ -21,3 +16,14 @@ Inherits from: TreeNode
 | --- | --- |
 | **TreeNodeEx**() |  |
 | **TreeNodeEx**(string text) |  |
+
+**TreeNodeEx**()
+
+---
+
+**TreeNodeEx**(**text**: string)
+
+**Parameters**
+
+- **text** (string)  
+

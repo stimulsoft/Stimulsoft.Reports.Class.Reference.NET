@@ -4,12 +4,7 @@ title: "StiAnchorMode Enum"
 
 ## StiAnchorMode Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiAnchorMode
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

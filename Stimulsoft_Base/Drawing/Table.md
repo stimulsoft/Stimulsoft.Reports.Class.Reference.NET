@@ -4,12 +4,7 @@ title: "Table Class"
 
 ## Table Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class Table
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

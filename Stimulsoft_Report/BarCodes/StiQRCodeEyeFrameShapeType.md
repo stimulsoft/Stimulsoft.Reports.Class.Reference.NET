@@ -4,12 +4,7 @@ title: "StiQRCodeEyeFrameShapeType Enum"
 
 ## StiQRCodeEyeFrameShapeType Enum
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiQRCodeEyeFrameShapeType
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Members
 

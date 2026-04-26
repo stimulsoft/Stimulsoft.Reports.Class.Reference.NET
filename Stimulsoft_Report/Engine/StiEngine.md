@@ -4,20 +4,22 @@ title: "StiEngine Class"
 
 ## StiEngine Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Engine`
 
 Report engine core.
-
-```csharp
-public class StiEngine
-```
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
-| **StiEngine**([StiReport](../StiReport.md) report) |  |
+| **StiEngine**([StiReport](../root/StiReport.md) report) |  |
+
+**StiEngine**(**report**: [StiReport](../root/StiReport.md))
+
+**Parameters**
+
+- **report** ([StiReport](../root/StiReport.md))  
+
 
 ### Properties
 
@@ -32,13 +34,13 @@ public class StiEngine
 | **IsDynamicBookmarksMode** | bool | If true then it is allowed to add any Bookmarks. If false then add Bookmarks of components which the IsRendered property = false (in other words it is rendered first time). This property allows adding Bookmarks for static components only once (to avoid duplication). |
 | **IsFirstDataBandOnPage** | bool | Returns true if the first DataBand is printed on the current page. |
 | **IsLastDataBandOnPage** | bool | Returns true if the last DataBand is printed on the current page. |
-| **MasterReport** | [StiReport](../StiReport.md) | Gets or sets a master report that is being rendered in the current moment. |
+| **MasterReport** | [StiReport](../root/StiReport.md) | Gets or sets a master report that is being rendered in the current moment. |
 | **Page** | StiPage | Gets or sets a page in what rendering of bands is done. |
 | **PageLineRenderingEnabled** | bool | Gets or sets a value indicating whether page line rendering is enabled. |
 | **PositionBottomY** | double | Indicates the current position bands output on the Y axis on the bottom of a page. |
 | **PositionX** | double | Indicates the current position bands output on the X axis. |
 | **PositionY** | double | Indicates the current position bands output on the Y axis. |
-| **Report** | [StiReport](../StiReport.md) | Gets or sets a report that is being rendered in the current moment. |
+| **Report** | [StiReport](../root/StiReport.md) | Gets or sets a report that is being rendered in the current moment. |
 | **TemplateContainer** | StiContainer | Gets or sets a container from a template. This page is being rendered in the current moment. If a page is output then the TemplateContainer property is equal in TemplatePage. |
 | **TemplatePage** | StiPage | Gets or sets a page from a template. This page is being rendered in the current moment. |
 
@@ -68,6 +70,283 @@ public class StiEngine
 | **RemoveLevel** | void | Adds a container-marker of the end of grouping into the current position of output in the stream. |
 | **RenderBand** | StiComponentsCollection | Renders a specified band taking Child bands into consideration. |
 | **ResetProcessingDuplicates** *(+1 overloads)* | void |  |
+
+---
+
+### Method Details
+
+#### AddContainerToDestination
+
+**AddContainerToDestination**(**container**: StiContainer): void
+
+Adds a specified container into the container for output.
+
+**Parameters**
+
+- **container** (StiContainer)  
+
+
+---
+
+#### AddFooterMarker
+
+**AddFooterMarker**(**footerMaster**: StiFooterBand): void
+
+Adds a FooterMarker (special container) into the current container of output. A container-marker is used for the engine to know on what place in a container of output FooterBands for PrintOnAllPages should be replaced after their rendering is complete.
+
+**Parameters**
+
+- **footerMaster** (StiFooterBand)  
+
+
+---
+
+#### AddKeepLevelAtLatestDataBand
+
+**AddKeepLevelAtLatestDataBand**(): void
+
+Adds a container-marker of the beginning of grouping before the last rendered DataBand.
+
+
+---
+
+#### AddLevel
+
+**AddLevel**(): void
+
+Adds a container-marker of the beginning of grouping into the current position of output in the stream.
+
+
+---
+
+#### AddPageToRenderedPages
+
+**AddPageToRenderedPages**(**page**: StiPage): void
+
+Adds a specified page into the collection of rendered pages.
+
+**Parameters**
+
+- **page** (StiPage)  
+
+
+---
+
+#### CheckForDuplicate
+
+**CheckForDuplicate**(**textName**: string, **value**: string, **tag**: string): bool
+
+**Parameters**
+
+- **textName** (string)  
+- **value** (string)  
+- **tag** (string)  
+
+**Returns** bool
+
+
+---
+
+#### ClearCachedTotals
+
+**ClearCachedTotals**(): void
+
+
+---
+
+#### ClearPageBreakSkipFirst
+
+**ClearPageBreakSkipFirst**(): void
+
+Clears a collection of bands which once passed the generation of a new page or column.
+
+
+---
+
+#### FinalClear
+
+**FinalClear**(): void
+
+A method is called to finalize operations over the output stream.
+
+
+---
+
+#### FinishColumns
+
+**FinishColumns**(**containerForRender**: StiContainer): void
+
+Finds all the column containers and finishes them. The finishing procedure includes a call to the FinishColumns method. This method arranges the containers into columns.
+
+**Parameters**
+
+- **containerForRender** (StiContainer)  
+
+
+---
+
+#### FinishContainer
+
+**FinishContainer**(**containerForRender**: StiContainer): void
+
+Find all containers and zero the ParentBand property.
+
+**Parameters**
+
+- **containerForRender** (StiContainer)  
+
+
+---
+
+#### FinishResetPageNumberContainer
+
+**FinishResetPageNumberContainer**(**containerForRender**: StiContainer, **isFinal**: bool): void
+
+The method checks the ResetPageNumber property and resets the page number if necessary.
+
+**Parameters**
+
+- **containerForRender** (StiContainer)  
+- **isFinal** (bool)  
+
+
+---
+
+#### GetComponentByNameFromRenderedPage
+
+**GetComponentByNameFromRenderedPage**(**page**: StiPage, **componentName**: string): StiComponent
+
+**Parameters**
+
+- **page** (StiPage)  
+- **componentName** (string)  
+
+**Returns** StiComponent
+
+
+---
+
+#### GetSumTagsOnPage
+
+**GetSumTagsOnPage**(**page**: StiPage, **componentName**: string): decimal
+
+**Parameters**
+
+- **page** (StiPage)  
+- **componentName** (string)  
+
+**Returns** decimal
+
+
+---
+
+#### NewColumn
+
+**NewColumn**(): void
+
+A method forms a new column.
+
+
+---
+
+#### NewDestination
+
+**NewDestination**(): void
+
+Forms a new page of a new column (if there are some).
+
+---
+
+**NewDestination**(**ignoreKeepContainers**: bool): void
+
+Forms a new page of a new column (if there are some).
+
+**Parameters**
+
+- **ignoreKeepContainers** (bool) — If true, then when generating a new page (or column), keep-container commands will be ignored.  
+
+
+---
+
+#### NewList
+
+**NewList**(): void
+
+A method is called for each new page or column. If the first column is output or thre are no columns then a method outputs statis bands. In addition, it resets the pointer to the last output DataBand. Also a method prints bands which should be output on all pages.
+
+---
+
+**NewList**(**skipStaticBands**: bool): void
+
+A method is called for each new page or column. If the first column is output or there are no columns at all, then the method outputs static bands. In addition, it zeroes the pointer to the last output DataBand. Also, the method prints those bands that should be output on all pages.
+
+**Parameters**
+
+- **skipStaticBands** (bool) — If true then static bands will not be rendered. It is used to render cross-bands which are placed in static bands.  
+
+
+---
+
+#### NewPage
+
+**NewPage**(): void
+
+A method forms a new page in a report.
+
+
+---
+
+#### RemoveBandFromPageBreakSkipList
+
+**RemoveBandFromPageBreakSkipList**(**pageBreak**: [IStiPageBreak](../Components/IStiPageBreak.md)): void
+
+**Parameters**
+
+- **pageBreak** ([IStiPageBreak](../Components/IStiPageBreak.md))  
+
+
+---
+
+#### RemoveLevel
+
+**RemoveLevel**(): void
+
+Adds a container-marker of the end of grouping into the current position of output in the stream.
+
+
+---
+
+#### RenderBand
+
+**RenderBand**(**band**: StiBand): StiComponentsCollection
+
+Renders a specified band taking Child bands into consideration.
+
+**Parameters**
+
+- **band** (StiBand)  
+
+**Returns** StiComponentsCollection
+
+
+---
+
+#### ResetProcessingDuplicates
+
+**ResetProcessingDuplicates**(**componentName**: string): void
+
+**Parameters**
+
+- **componentName** (string)  
+
+---
+
+**ResetProcessingDuplicates**(**component**: StiSimpleText): void
+
+**Parameters**
+
+- **component** (StiSimpleText)  
+
 
 ### Fields
 

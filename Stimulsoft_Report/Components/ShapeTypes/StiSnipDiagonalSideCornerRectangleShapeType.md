@@ -4,12 +4,7 @@ title: "StiSnipDiagonalSideCornerRectangleShapeType Class"
 
 ## StiSnipDiagonalSideCornerRectangleShapeType Class
 
-**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSnipDiagonalSideCornerRectangleShapeType
-```
+**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`
 
 ### Inheritance
 

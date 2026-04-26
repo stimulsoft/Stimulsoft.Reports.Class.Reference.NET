@@ -4,12 +4,7 @@ title: "StiOnlineMapLocationColorType Enum"
 
 ## StiOnlineMapLocationColorType Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiOnlineMapLocationColorType
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

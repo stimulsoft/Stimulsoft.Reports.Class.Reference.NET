@@ -4,12 +4,7 @@ title: "StiStringFormatGeom Class"
 
 ## StiStringFormatGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiStringFormatGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 
@@ -19,7 +14,14 @@ Inherits from: [StiGeom](StiGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| **StiStringFormatGeom**([StringFormat](../../../../Stimulsoft_Drawing/StringFormat.md) sf) |  |
+| **StiStringFormatGeom**([StringFormat](../../../../Stimulsoft_Drawing/root/StringFormat.md) sf) |  |
+
+**StiStringFormatGeom**(**sf**: [StringFormat](../../../../Stimulsoft_Drawing/root/StringFormat.md))
+
+**Parameters**
+
+- **sf** ([StringFormat](../../../../Stimulsoft_Drawing/root/StringFormat.md))  
+
 
 ### Properties
 
@@ -38,3 +40,29 @@ Inherits from: [StiGeom](StiGeom.md)
 | --- | --- | --- |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+

@@ -4,12 +4,7 @@ title: "Win32 Class"
 
 ## Win32 Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class Win32
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Fields
 

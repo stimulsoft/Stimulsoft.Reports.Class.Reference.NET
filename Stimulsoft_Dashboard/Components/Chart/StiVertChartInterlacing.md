@@ -4,12 +4,7 @@ title: "StiVertChartInterlacing Class"
 
 ## StiVertChartInterlacing Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiVertChartInterlacing
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart`
 
 ### Inheritance
 
@@ -21,3 +16,15 @@ Inherits from: StiChartInterlacing
 | --- | --- |
 | **StiVertChartInterlacing**() |  |
 | **StiVertChartInterlacing**(Color color, bool visible) |  |
+
+**StiVertChartInterlacing**()
+
+---
+
+**StiVertChartInterlacing**(**color**: Color, **visible**: bool)
+
+**Parameters**
+
+- **color** (Color)  
+- **visible** (bool)  
+

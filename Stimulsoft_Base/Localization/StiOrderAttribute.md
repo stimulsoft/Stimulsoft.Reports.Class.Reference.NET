@@ -4,12 +4,7 @@ title: "StiOrderAttribute Class"
 
 ## StiOrderAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Localization`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiOrderAttribute
-```
+**Namespace:** `Stimulsoft.Base.Localization`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: Attribute
 | Constructor | Description |
 | --- | --- |
 | **StiOrderAttribute**(int position) |  |
+
+**StiOrderAttribute**(**position**: int)
+
+**Parameters**
+
+- **position** (int)  
+
 
 ### Properties
 

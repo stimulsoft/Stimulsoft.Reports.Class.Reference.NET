@@ -4,14 +4,9 @@ title: "StiImageBytesConverter Class"
 
 ## StiImageBytesConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Image.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Image.Design`
 
 Converts image to string description.
-
-```csharp
-public class StiImageBytesConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

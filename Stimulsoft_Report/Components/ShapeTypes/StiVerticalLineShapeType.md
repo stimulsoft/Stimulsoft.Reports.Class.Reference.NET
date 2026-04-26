@@ -4,12 +4,7 @@ title: "StiVerticalLineShapeType Class"
 
 ## StiVerticalLineShapeType Class
 
-**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiVerticalLineShapeType
-```
+**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`
 
 ### Inheritance
 

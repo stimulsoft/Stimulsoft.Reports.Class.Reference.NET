@@ -4,12 +4,7 @@ title: "StiReportContentType Enum"
 
 ## StiReportContentType Enum
 
-**Namespace:** `Stimulsoft.Base.Helpers`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiReportContentType
-```
+**Namespace:** `Stimulsoft.Base.Helpers`
 
 ### Members
 

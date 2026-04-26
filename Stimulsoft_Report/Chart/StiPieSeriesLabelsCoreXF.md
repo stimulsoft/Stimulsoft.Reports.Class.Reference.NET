@@ -4,12 +4,7 @@ title: "StiPieSeriesLabelsCoreXF Class"
 
 ## StiPieSeriesLabelsCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiPieSeriesLabelsCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: StiSeriesLabelsCoreXF
 | Constructor | Description |
 | --- | --- |
 | **StiPieSeriesLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |
+
+**StiPieSeriesLabelsCoreXF**(**seriesLabels**: IStiSeriesLabels)
+
+**Parameters**
+
+- **seriesLabels** (IStiSeriesLabels)  
+
 
 ### Fields
 

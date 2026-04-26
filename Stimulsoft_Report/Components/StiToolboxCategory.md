@@ -4,12 +4,7 @@ title: "StiToolboxCategory Enum"
 
 ## StiToolboxCategory Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiToolboxCategory
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

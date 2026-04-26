@@ -4,12 +4,7 @@ title: "IStiRangeBarArea Interface"
 
 ## IStiRangeBarArea Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiRangeBarArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

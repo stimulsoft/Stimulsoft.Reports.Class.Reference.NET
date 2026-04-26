@@ -4,12 +4,7 @@ title: "StiChartSeriesType Enum"
 
 ## StiChartSeriesType Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiChartSeriesType
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

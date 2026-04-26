@@ -4,12 +4,7 @@ title: "IStiXTopAxis Interface"
 
 ## IStiXTopAxis Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiXTopAxis
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

@@ -4,14 +4,9 @@ title: "MissingMemberHandling Enum"
 
 ## MissingMemberHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies missing member handling options for the JsonSerializer.
-
-```csharp
-public enum MissingMemberHandling
-```
 
 ### Members
 

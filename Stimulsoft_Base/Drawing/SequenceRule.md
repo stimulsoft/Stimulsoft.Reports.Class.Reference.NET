@@ -4,12 +4,7 @@ title: "SequenceRule Class"
 
 ## SequenceRule Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class SequenceRule
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 
@@ -24,3 +19,19 @@ public class SequenceRule
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Read** `static` | [SequenceRule](SequenceRule.md) |  |
+
+---
+
+### Method Details
+
+#### Read `static`
+
+**Read**(**reader**: StiFontReader, **offset**: uint): [SequenceRule](SequenceRule.md)
+
+**Parameters**
+
+- **reader** (StiFontReader)  
+- **offset** (uint)  
+
+**Returns** [SequenceRule](SequenceRule.md)
+

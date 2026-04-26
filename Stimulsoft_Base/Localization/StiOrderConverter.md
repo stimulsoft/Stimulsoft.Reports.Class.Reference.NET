@@ -4,12 +4,7 @@ title: "StiOrderConverter Class"
 
 ## StiOrderConverter Class
 
-**Namespace:** `Stimulsoft.Base.Localization`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiOrderConverter
-```
+**Namespace:** `Stimulsoft.Base.Localization`
 
 ### Inheritance
 
@@ -29,3 +24,46 @@ Inherits from: ExpandableObjectConverter
 | **CompareTo** | int |  |
 | **GetProperties** | PropertyDescriptorCollection |  |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### CompareTo
+
+**CompareTo**(**obj**: object): int
+
+**Parameters**
+
+- **obj** (object)  
+
+**Returns** int
+
+
+---
+
+#### GetProperties
+
+**GetProperties**(**context**: ITypeDescriptorContext, **value**: object, ****: Attributeattributes): PropertyDescriptorCollection
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **value** (object)  
+- **** (Attributeattributes)  
+
+**Returns** PropertyDescriptorCollection
+
+
+---
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

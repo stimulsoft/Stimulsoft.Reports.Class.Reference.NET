@@ -4,11 +4,6 @@ title: "IStiTable Interface"
 
 ## IStiTable Interface
 
-**Namespace:** `Stimulsoft.Base.Databases`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Databases`
 
 An universal interface for table access.
-
-```csharp
-public interface IStiTable
-```

@@ -4,12 +4,7 @@ title: "StiGeoMapProviderType Enum"
 
 ## StiGeoMapProviderType Enum
 
-**Namespace:** `Stimulsoft.Base.Gis`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiGeoMapProviderType
-```
+**Namespace:** `Stimulsoft.Base.Gis`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiRefreshDashboardActionButton Class"
 
 ## StiRefreshDashboardActionButton Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiRefreshDashboardActionButton
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`
 
 ### Inheritance
 
@@ -21,8 +16,25 @@ Inherits from: StiActionButton
 | --- | --- |
 | **StiRefreshDashboardActionButton**([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position) |  |
 
+**StiRefreshDashboardActionButton**(**colors**: [StiControlColorCollection](StiControlColorCollection.md), **position**: Point?)
+
+**Parameters**
+
+- **colors** ([StiControlColorCollection](StiControlColorCollection.md))  
+- **position** (Point?)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **RefreshImageOrIcon** | void |  |
+
+---
+
+### Method Details
+
+#### RefreshImageOrIcon
+
+**RefreshImageOrIcon**(): void
+

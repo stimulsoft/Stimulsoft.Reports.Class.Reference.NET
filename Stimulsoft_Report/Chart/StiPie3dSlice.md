@@ -4,12 +4,7 @@ title: "StiPie3dSlice Class"
 
 ## StiPie3dSlice Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPie3dSlice
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Properties
 

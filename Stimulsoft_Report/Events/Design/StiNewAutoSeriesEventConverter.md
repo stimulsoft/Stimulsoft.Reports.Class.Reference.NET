@@ -4,14 +4,9 @@ title: "StiNewAutoSeriesEventConverter Class"
 
 ## StiNewAutoSeriesEventConverter Class
 
-**Namespace:** `Stimulsoft.Report.Events.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events.Design`
 
 Provides a type converter to convert StiNewAutoSeriesEvent objects to and from various other representations.
-
-```csharp
-public class StiNewAutoSeriesEventConverter
-```
 
 ### Inheritance
 
@@ -24,3 +19,47 @@ Inherits from: TypeConverter
 | **CanConvertFrom** | bool |  |
 | **ConvertFrom** | object |  |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### CanConvertFrom
+
+**CanConvertFrom**(**context**: ITypeDescriptorContext, **sourceType**: Type): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **sourceType** (Type)  
+
+**Returns** bool
+
+
+---
+
+#### ConvertFrom
+
+**ConvertFrom**(**context**: ITypeDescriptorContext, **culture**: CultureInfo, **value**: object): object
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **culture** (CultureInfo)  
+- **value** (object)  
+
+**Returns** object
+
+
+---
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

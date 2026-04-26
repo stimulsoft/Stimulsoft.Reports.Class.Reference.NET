@@ -4,12 +4,7 @@ title: "StiEmptyCellsAs Enum"
 
 ## StiEmptyCellsAs Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiEmptyCellsAs
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

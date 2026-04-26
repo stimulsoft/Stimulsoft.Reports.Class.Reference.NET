@@ -4,12 +4,7 @@ title: "StiMapGeom Class"
 
 ## StiMapGeom Class
 
-**Namespace:** `Stimulsoft.Base.Maps.Geoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiMapGeom
-```
+**Namespace:** `Stimulsoft.Base.Maps.Geoms`
 
 ### Properties
 
@@ -22,3 +17,14 @@ public abstract class StiMapGeom
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetLastPoint** | [PointD](../../../../../Stimulsoft_Base/Drawing/PointD.md) |  |
+
+---
+
+### Method Details
+
+#### GetLastPoint
+
+**GetLastPoint**(): [PointD](../../../../../Stimulsoft_Base/Drawing/PointD.md)
+
+**Returns** [PointD](../../../../../Stimulsoft_Base/Drawing/PointD.md)
+

@@ -4,12 +4,7 @@ title: "IStiPivotItem Interface"
 
 ## IStiPivotItem Interface
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiPivotItem
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Inheritance
 

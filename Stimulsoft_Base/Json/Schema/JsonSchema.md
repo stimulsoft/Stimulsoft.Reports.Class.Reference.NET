@@ -4,18 +4,18 @@ title: "JsonSchema Class"
 
 ## JsonSchema Class
 
-**Namespace:** `Stimulsoft.Base.Json.Schema`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class JsonSchema
-```
+**Namespace:** `Stimulsoft.Base.Json.Schema`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **JsonSchema**() | Initializes a new instance of the JsonSchema class. |
+
+**JsonSchema**()
+
+Initializes a new instance of the JsonSchema class.
+
 
 ### Properties
 
@@ -61,3 +61,96 @@ public class JsonSchema
 | **Read** `static` *(+1 overloads)* | [JsonSchema](JsonSchema.md) | Reads a JsonSchema from the specified JsonReader. |
 | **ToString** | string | Returns a String that represents the current Object. |
 | **WriteTo** *(+1 overloads)* | void | Writes this schema to a JsonWriter. |
+
+---
+
+### Method Details
+
+#### Parse `static`
+
+**Parse**(**json**: string): [JsonSchema](JsonSchema.md)
+
+Load a JsonSchema from a string that contains schema JSON.
+
+**Parameters**
+
+- **json** (string) — A String that contains JSON.  
+
+**Returns** [JsonSchema](JsonSchema.md) — A JsonSchema populated from the string that contains JSON.
+
+---
+
+**Parse**(**json**: string, **resolver**: [JsonSchemaResolver](JsonSchemaResolver.md)): [JsonSchema](JsonSchema.md)
+
+Parses the specified json.
+
+**Parameters**
+
+- **json** (string) — The json.  
+- **resolver** ([JsonSchemaResolver](JsonSchemaResolver.md)) — The resolver.  
+
+**Returns** [JsonSchema](JsonSchema.md) — A JsonSchema populated from the string that contains JSON.
+
+
+---
+
+#### Read `static`
+
+**Read**(**reader**: [JsonReader](../JsonReader.md)): [JsonSchema](JsonSchema.md)
+
+Reads a JsonSchema from the specified JsonReader.
+
+**Parameters**
+
+- **reader** ([JsonReader](../JsonReader.md)) — The JsonReader containing the JSON Schema to read.  
+
+**Returns** [JsonSchema](JsonSchema.md) — The JsonSchema object representing the JSON Schema.
+
+---
+
+**Read**(**reader**: [JsonReader](../JsonReader.md), **resolver**: [JsonSchemaResolver](JsonSchemaResolver.md)): [JsonSchema](JsonSchema.md)
+
+Reads a JsonSchema from the specified JsonReader.
+
+**Parameters**
+
+- **reader** ([JsonReader](../JsonReader.md)) — The JsonReader containing the JSON Schema to read.  
+- **resolver** ([JsonSchemaResolver](JsonSchemaResolver.md)) — The JsonSchemaResolver to use when resolving schema references.  
+
+**Returns** [JsonSchema](JsonSchema.md) — The JsonSchema object representing the JSON Schema.
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+Returns a String that represents the current Object.
+
+**Returns** string — A String that represents the current Object.
+
+
+---
+
+#### WriteTo
+
+**WriteTo**(**writer**: [JsonWriter](../JsonWriter.md)): void
+
+Writes this schema to a JsonWriter.
+
+**Parameters**
+
+- **writer** ([JsonWriter](../JsonWriter.md)) — A JsonWriter into which this method will write.  
+
+---
+
+**WriteTo**(**writer**: [JsonWriter](../JsonWriter.md), **resolver**: [JsonSchemaResolver](JsonSchemaResolver.md)): void
+
+Writes this schema to a JsonWriter using the specified JsonSchemaResolver.
+
+**Parameters**
+
+- **writer** ([JsonWriter](../JsonWriter.md)) — A JsonWriter into which this method will write.  
+- **resolver** ([JsonSchemaResolver](JsonSchemaResolver.md)) — The resolver used.  
+

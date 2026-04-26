@@ -4,12 +4,7 @@ title: "StiQRCodeBodyShapeType Enum"
 
 ## StiQRCodeBodyShapeType Enum
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiQRCodeBodyShapeType
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Members
 

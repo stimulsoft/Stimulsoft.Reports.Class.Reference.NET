@@ -4,12 +4,7 @@ title: "StiCrossSummaryHeader Class"
 
 ## StiCrossSummaryHeader Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCrossSummaryHeader
-```
+**Namespace:** `Stimulsoft.Report.CrossTab`
 
 ### Inheritance
 

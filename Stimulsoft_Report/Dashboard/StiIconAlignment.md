@@ -4,14 +4,9 @@ title: "StiIconAlignment Enum"
 
 ## StiIconAlignment Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 Variants of the Icon object alignment.
-
-```csharp
-public enum StiIconAlignment
-```
 
 ### Members
 

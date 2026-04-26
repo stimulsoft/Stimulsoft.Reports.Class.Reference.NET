@@ -4,12 +4,7 @@ title: "StiUXTheme Class"
 
 ## StiUXTheme Class
 
-**Namespace:** `Stimulsoft.Base.Theme`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiUXTheme
-```
+**Namespace:** `Stimulsoft.Base.Theme`
 
 ### Properties
 
@@ -27,6 +22,93 @@ public static class StiUXTheme
 | --- | --- | --- |
 | **ApplyNewIconSet** `static` | void |  |
 | **ApplyNewTheme** `static` *(+5 overloads)* | bool |  |
+
+---
+
+### Method Details
+
+#### ApplyNewIconSet `static`
+
+**ApplyNewIconSet**(**iconSet**: [StiUIIconSet](../Drawing/StiUIIconSet.md), **saveChanged**: bool): void
+
+**Parameters**
+
+- **iconSet** ([StiUIIconSet](../Drawing/StiUIIconSet.md))  
+- **saveChanged** (bool)  
+
+
+---
+
+#### ApplyNewTheme `static`
+
+**ApplyNewTheme**(**appearance**: [StiThemeAppearance](StiThemeAppearance.md), **saveChanged**: bool): bool
+
+**Parameters**
+
+- **appearance** ([StiThemeAppearance](StiThemeAppearance.md))  
+- **saveChanged** (bool)  
+
+**Returns** bool
+
+---
+
+**ApplyNewTheme**(**accentColor**: [StiThemeAccentColor](StiThemeAccentColor.md), **saveChanged**: bool): bool
+
+**Parameters**
+
+- **accentColor** ([StiThemeAccentColor](StiThemeAccentColor.md))  
+- **saveChanged** (bool)  
+
+**Returns** bool
+
+---
+
+**ApplyNewTheme**(**accentColor**: [StiThemeAccentColor](StiThemeAccentColor.md), **customAccentColor**: Color, **saveChanged**: bool): bool
+
+**Parameters**
+
+- **accentColor** ([StiThemeAccentColor](StiThemeAccentColor.md))  
+- **customAccentColor** (Color)  
+- **saveChanged** (bool)  
+
+**Returns** bool
+
+---
+
+**ApplyNewTheme**(**appearance**: [StiThemeAppearance](StiThemeAppearance.md), **accentColor**: [StiThemeAccentColor](StiThemeAccentColor.md), **saveChanged**: bool): bool
+
+**Parameters**
+
+- **appearance** ([StiThemeAppearance](StiThemeAppearance.md))  
+- **accentColor** ([StiThemeAccentColor](StiThemeAccentColor.md))  
+- **saveChanged** (bool)  
+
+**Returns** bool
+
+---
+
+**ApplyNewTheme**(**appearance**: [StiThemeAppearance](StiThemeAppearance.md), **accentColor**: [StiThemeAccentColor](StiThemeAccentColor.md), **customAccentColor**: Color, **saveChanged**: bool): bool
+
+**Parameters**
+
+- **appearance** ([StiThemeAppearance](StiThemeAppearance.md))  
+- **accentColor** ([StiThemeAccentColor](StiThemeAccentColor.md))  
+- **customAccentColor** (Color)  
+- **saveChanged** (bool)  
+
+**Returns** bool
+
+---
+
+**ApplyNewTheme**(**customAccentColor**: Color, **saveChanged**: bool): bool
+
+**Parameters**
+
+- **customAccentColor** (Color)  
+- **saveChanged** (bool)  
+
+**Returns** bool
+
 
 ### Events
 

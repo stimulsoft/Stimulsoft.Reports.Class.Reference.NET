@@ -4,11 +4,6 @@ title: "IStiKeepGroupFooterTogether Interface"
 
 ## IStiKeepGroupFooterTogether Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Allows to keep group footer with data togehter.
-
-```csharp
-public interface IStiKeepGroupFooterTogether
-```

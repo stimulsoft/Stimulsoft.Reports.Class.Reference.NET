@@ -4,12 +4,7 @@ title: "StiSignatureCacheItem Class"
 
 ## StiSignatureCacheItem Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiSignatureCacheItem
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Constructors
 
@@ -17,6 +12,17 @@ public sealed class StiSignatureCacheItem
 | --- | --- |
 | **StiSignatureCacheItem**() |  |
 | **StiSignatureCacheItem**([StiElectronicSignature](StiElectronicSignature.md) signature) |  |
+
+**StiSignatureCacheItem**()
+
+---
+
+**StiSignatureCacheItem**(**signature**: [StiElectronicSignature](StiElectronicSignature.md))
+
+**Parameters**
+
+- **signature** ([StiElectronicSignature](StiElectronicSignature.md))  
+
 
 ### Properties
 
@@ -38,7 +44,7 @@ public sealed class StiSignatureCacheItem
 | **SignatureImageBytesHashCode** | int |  |
 | **SignatureType** | [StiSignatureMode](StiSignatureMode.md) |  |
 | **TextColor** | Color |  |
-| **TextFont** | [Font](../../Stimulsoft_Drawing/Font.md) |  |
+| **TextFont** | [Font](../../Stimulsoft_Drawing/root/Font.md) |  |
 | **TextHorAlignment** | [StiTextHorAlignment](../../Stimulsoft_Base/Drawing/StiTextHorAlignment.md) |  |
 | **TextText** | string |  |
 | **TextVertAlignment** | [StiVertAlignment](../../Stimulsoft_Base/Drawing/StiVertAlignment.md) |  |
@@ -49,3 +55,19 @@ public sealed class StiSignatureCacheItem
 | --- | --- | --- |
 | **Delete** | void |  |
 | **Save** | void |  |
+
+---
+
+### Method Details
+
+#### Delete
+
+**Delete**(): void
+
+
+---
+
+#### Save
+
+**Save**(): void
+

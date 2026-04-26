@@ -4,12 +4,7 @@ title: "StiAppsColumnSortRule Class"
 
 ## StiAppsColumnSortRule Class
 
-**Namespace:** `Stimulsoft.Base.AppsDatabase`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiAppsColumnSortRule
-```
+**Namespace:** `Stimulsoft.Base.AppsDatabase`
 
 ### Constructors
 
@@ -17,6 +12,18 @@ public class StiAppsColumnSortRule
 | --- | --- |
 | **StiAppsColumnSortRule**() |  |
 | **StiAppsColumnSortRule**(string columnName, [StiAppsColumnSortDirection](StiAppsColumnSortDirection.md) direction) |  |
+
+**StiAppsColumnSortRule**()
+
+---
+
+**StiAppsColumnSortRule**(**columnName**: string, **direction**: [StiAppsColumnSortDirection](StiAppsColumnSortDirection.md))
+
+**Parameters**
+
+- **columnName** (string)  
+- **direction** ([StiAppsColumnSortDirection](StiAppsColumnSortDirection.md))  
+
 
 ### Properties
 

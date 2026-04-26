@@ -4,12 +4,7 @@ title: "StiOutsideBaseAxisLabelsCoreXF Class"
 
 ## StiOutsideBaseAxisLabelsCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiOutsideBaseAxisLabelsCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiCenterAxisLabelsCoreXF](StiCenterAxisLabelsCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiOutsideBaseAxisLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |
+
+**StiOutsideBaseAxisLabelsCoreXF**(**seriesLabels**: IStiSeriesLabels)
+
+**Parameters**
+
+- **seriesLabels** (IStiSeriesLabels)  
+

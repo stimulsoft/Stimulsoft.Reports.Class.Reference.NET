@@ -4,12 +4,7 @@ title: "StiContextOptions Class"
 
 ## StiContextOptions Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiContextOptions
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Properties
 

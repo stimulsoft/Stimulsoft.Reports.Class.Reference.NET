@@ -4,12 +4,7 @@ title: "Lexer Class"
 
 ## Lexer Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public abstract class Lexer
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`
 
 ### Inheritance
 
@@ -23,6 +18,26 @@ Implements: [ITokenSource](ITokenSource.md)
 | **Lexer**() |  |
 | **Lexer**([ICharStream](ICharStream.md) input) |  |
 | **Lexer**([ICharStream](ICharStream.md) input, [RecognizerSharedState](RecognizerSharedState.md) state) |  |
+
+**Lexer**()
+
+---
+
+**Lexer**(**input**: [ICharStream](ICharStream.md))
+
+**Parameters**
+
+- **input** ([ICharStream](ICharStream.md))  
+
+---
+
+**Lexer**(**input**: [ICharStream](ICharStream.md), **state**: [RecognizerSharedState](RecognizerSharedState.md))
+
+**Parameters**
+
+- **input** ([ICharStream](ICharStream.md))  
+- **state** ([RecognizerSharedState](RecognizerSharedState.md))  
+
 
 ### Methods
 
@@ -44,6 +59,182 @@ Implements: [ITokenSource](ITokenSource.md)
 | **TraceIn** | void |  |
 | **TraceOut** | void |  |
 | **mTokens** | void |  |
+
+---
+
+### Method Details
+
+#### Emit
+
+**Emit**(**token**: [IToken](IToken.md)): void
+
+**Parameters**
+
+- **token** ([IToken](IToken.md))  
+
+---
+
+**Emit**(): [IToken](IToken.md)
+
+**Returns** [IToken](IToken.md)
+
+
+---
+
+#### GetCharErrorDisplay
+
+**GetCharErrorDisplay**(**c**: int): string
+
+**Parameters**
+
+- **c** (int)  
+
+**Returns** string
+
+
+---
+
+#### GetEndOfFileToken
+
+**GetEndOfFileToken**(): [IToken](IToken.md)
+
+**Returns** [IToken](IToken.md)
+
+
+---
+
+#### GetErrorMessage
+
+**GetErrorMessage**(**e**: [RecognitionException](RecognitionException.md), ****: stringtokenNames): string
+
+**Parameters**
+
+- **e** ([RecognitionException](RecognitionException.md))  
+- **** (stringtokenNames)  
+
+**Returns** string
+
+
+---
+
+#### Match
+
+**Match**(**s**: string): void
+
+**Parameters**
+
+- **s** (string)  
+
+---
+
+**Match**(**c**: int): void
+
+**Parameters**
+
+- **c** (int)  
+
+
+---
+
+#### MatchAny
+
+**MatchAny**(): void
+
+
+---
+
+#### MatchRange
+
+**MatchRange**(**a**: int, **b**: int): void
+
+**Parameters**
+
+- **a** (int)  
+- **b** (int)  
+
+
+---
+
+#### NextToken
+
+**NextToken**(): [IToken](IToken.md)
+
+**Returns** [IToken](IToken.md)
+
+
+---
+
+#### ParseNextToken
+
+**ParseNextToken**(): void
+
+
+---
+
+#### Recover
+
+**Recover**(**re**: [RecognitionException](RecognitionException.md)): void
+
+**Parameters**
+
+- **re** ([RecognitionException](RecognitionException.md))  
+
+
+---
+
+#### ReportError
+
+**ReportError**(**e**: [RecognitionException](RecognitionException.md)): void
+
+**Parameters**
+
+- **e** ([RecognitionException](RecognitionException.md))  
+
+
+---
+
+#### Reset
+
+**Reset**(): void
+
+
+---
+
+#### Skip
+
+**Skip**(): void
+
+
+---
+
+#### TraceIn
+
+**TraceIn**(**ruleName**: string, **ruleIndex**: int): void
+
+**Parameters**
+
+- **ruleName** (string)  
+- **ruleIndex** (int)  
+
+
+---
+
+#### TraceOut
+
+**TraceOut**(**ruleName**: string, **ruleIndex**: int): void
+
+**Parameters**
+
+- **ruleName** (string)  
+- **ruleIndex** (int)  
+
+
+---
+
+#### mTokens
+
+**mTokens**(): void
+
 
 ### Fields
 

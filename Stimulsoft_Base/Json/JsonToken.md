@@ -4,14 +4,9 @@ title: "JsonToken Enum"
 
 ## JsonToken Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies the type of JSON token.
-
-```csharp
-public enum JsonToken
-```
 
 ### Members
 

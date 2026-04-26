@@ -4,12 +4,7 @@ title: "StiReportSavedToCloudEventArgs Class"
 
 ## StiReportSavedToCloudEventArgs Class
 
-**Namespace:** `Stimulsoft.Base.Wpf.SaveLoad`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiReportSavedToCloudEventArgs
-```
+**Namespace:** `Stimulsoft.Base.Wpf.SaveLoad`
 
 ### Inheritance
 
@@ -20,6 +15,14 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiReportSavedToCloudEventArgs**(string reportItemKey, string reportName) |  |
+
+**StiReportSavedToCloudEventArgs**(**reportItemKey**: string, **reportName**: string)
+
+**Parameters**
+
+- **reportItemKey** (string)  
+- **reportName** (string)  
+
 
 ### Properties
 

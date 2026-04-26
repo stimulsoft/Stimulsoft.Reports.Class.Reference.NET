@@ -4,14 +4,9 @@ title: "JsonDynamicContract Class"
 
 ## JsonDynamicContract Class
 
-**Namespace:** `Stimulsoft.Base.Json.Serialization`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Serialization`
 
 Contract details for a Type used by the JsonSerializer.
-
-```csharp
-public class JsonDynamicContract
-```
 
 ### Inheritance
 
@@ -22,6 +17,15 @@ Inherits from: [JsonContainerContract](JsonContainerContract.md)
 | Constructor | Description |
 | --- | --- |
 | **JsonDynamicContract**(Type underlyingType) | Initializes a new instance of the JsonDynamicContract class. |
+
+**JsonDynamicContract**(**underlyingType**: Type)
+
+Initializes a new instance of the JsonDynamicContract class.
+
+**Parameters**
+
+- **underlyingType** (Type) — The underlying type for the contract.  
+
 
 ### Properties
 

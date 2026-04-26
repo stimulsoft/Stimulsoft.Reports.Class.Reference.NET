@@ -4,12 +4,7 @@ title: "StiFormStartMode Enum"
 
 ## StiFormStartMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dialogs`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiFormStartMode
-```
+**Namespace:** `Stimulsoft.Report.Dialogs`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "GSUB_Header Class"
 
 ## GSUB_Header Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class GSUB_Header
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

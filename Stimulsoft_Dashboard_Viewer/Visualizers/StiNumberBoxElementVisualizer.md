@@ -4,12 +4,7 @@ title: "StiNumberBoxElementVisualizer Class"
 
 ## StiNumberBoxElementVisualizer Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Visualizers`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiNumberBoxElementVisualizer
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Visualizers`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: [StiGdiVisualizer](../../Stimulsoft_Dashboard/Visualizers/StiGdiV
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Render** | Control |  |
+
+---
+
+### Method Details
+
+#### Render
+
+**Render**(**element**: IStiElement): Control
+
+**Parameters**
+
+- **element** (IStiElement)  
+
+**Returns** Control
+

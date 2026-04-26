@@ -4,12 +4,7 @@ title: "StiTaskSchedulerSettings Class"
 
 ## StiTaskSchedulerSettings Class
 
-**Namespace:** `Stimulsoft.Base.TaskScheduler`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiTaskSchedulerSettings
-```
+**Namespace:** `Stimulsoft.Base.TaskScheduler`
 
 ### Properties
 
@@ -26,3 +21,36 @@ public static class StiTaskSchedulerSettings
 | **Run** `static` | void |  |
 | **RunLogViewer** `static` | void |  |
 | **TryToLoadTaskShedulerAssembly** `static` | bool |  |
+
+---
+
+### Method Details
+
+#### Run `static`
+
+**Run**(**key**: string): void
+
+**Parameters**
+
+- **key** (string)  
+
+
+---
+
+#### RunLogViewer `static`
+
+**RunLogViewer**(**logFileName**: string): void
+
+**Parameters**
+
+- **logFileName** (string)  
+
+
+---
+
+#### TryToLoadTaskShedulerAssembly `static`
+
+**TryToLoadTaskShedulerAssembly**(): bool
+
+**Returns** bool
+

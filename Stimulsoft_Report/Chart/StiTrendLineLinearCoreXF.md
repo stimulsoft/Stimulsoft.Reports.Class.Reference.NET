@@ -4,12 +4,7 @@ title: "StiTrendLineLinearCoreXF Class"
 
 ## StiTrendLineLinearCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTrendLineLinearCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,8 +16,30 @@ Inherits from: StiTrendLineCoreXF
 | --- | --- |
 | **StiTrendLineLinearCoreXF**(IStiTrendLine trendLine) |  |
 
+**StiTrendLineLinearCoreXF**(**trendLine**: IStiTrendLine)
+
+**Parameters**
+
+- **trendLine** (IStiTrendLine)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **RenderTrendLine** | void |  |
+
+---
+
+### Method Details
+
+#### RenderTrendLine
+
+**RenderTrendLine**(**geom**: [StiAreaGeom](StiAreaGeom.md), ****: PointF?points, **posY**: float): void
+
+**Parameters**
+
+- **geom** ([StiAreaGeom](StiAreaGeom.md))  
+- **** (PointF?points)  
+- **posY** (float)  
+

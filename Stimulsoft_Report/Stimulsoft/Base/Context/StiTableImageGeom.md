@@ -4,12 +4,7 @@ title: "StiTableImageGeom Class"
 
 ## StiTableImageGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTableImageGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 
@@ -19,13 +14,21 @@ Inherits from: [StiTableGeom](StiTableGeom.md)
 
 | Constructor | Description |
 | --- | --- |
-| **StiTableImageGeom**([Image](../../../../Stimulsoft_Drawing/Image.md) image, RectangleF rect) |  |
+| **StiTableImageGeom**([Image](../../../../Stimulsoft_Drawing/root/Image.md) image, RectangleF rect) |  |
+
+**StiTableImageGeom**(**image**: [Image](../../../../Stimulsoft_Drawing/root/Image.md), **rect**: RectangleF)
+
+**Parameters**
+
+- **image** ([Image](../../../../Stimulsoft_Drawing/root/Image.md))  
+- **rect** (RectangleF)  
+
 
 ### Properties
 
 | Property | Type | Description |
 | --- | --- | --- |
-| **Image** | [Image](../../../../Stimulsoft_Drawing/Image.md) |  |
+| **Image** | [Image](../../../../Stimulsoft_Drawing/root/Image.md) |  |
 | **Rect** | RectangleF |  |
 
 ### Methods
@@ -33,3 +36,17 @@ Inherits from: [StiTableGeom](StiTableGeom.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **CheckImage** `static` | void |  |
+
+---
+
+### Method Details
+
+#### CheckImage `static`
+
+**CheckImage**(**image**: [Image](../../../../Stimulsoft_Drawing/root/Image.md), **rect**: RectangleF): void
+
+**Parameters**
+
+- **image** ([Image](../../../../Stimulsoft_Drawing/root/Image.md))  
+- **rect** (RectangleF)  
+

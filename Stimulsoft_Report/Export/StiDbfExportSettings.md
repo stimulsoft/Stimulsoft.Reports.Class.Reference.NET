@@ -4,14 +4,9 @@ title: "StiDbfExportSettings Class"
 
 ## StiDbfExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Class describes settings for export to DBF format.
-
-```csharp
-public class StiDbfExportSettings
-```
 
 ### Inheritance
 
@@ -22,3 +17,6 @@ Inherits from: StiDataExportSettings
 | Constructor | Description |
 | --- | --- |
 | **StiDbfExportSettings**() |  |
+
+**StiDbfExportSettings**()
+

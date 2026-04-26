@@ -4,11 +4,6 @@ title: "IStiNumberFormat Interface"
 
 ## IStiNumberFormat Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Desribes formatting of the text.
-
-```csharp
-public interface IStiNumberFormat
-```

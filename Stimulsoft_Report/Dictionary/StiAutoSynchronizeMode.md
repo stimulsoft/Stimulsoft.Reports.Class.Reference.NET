@@ -4,14 +4,9 @@ title: "StiAutoSynchronizeMode Enum"
 
 ## StiAutoSynchronizeMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 Sets the time of the Synchronization dictionary.
-
-```csharp
-public enum StiAutoSynchronizeMode
-```
 
 ### Members
 

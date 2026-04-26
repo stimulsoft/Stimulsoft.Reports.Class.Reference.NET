@@ -4,12 +4,7 @@ title: "IStiFullStackedLineSeries Interface"
 
 ## IStiFullStackedLineSeries Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiFullStackedLineSeries
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

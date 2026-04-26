@@ -4,12 +4,7 @@ title: "StiPropertyObject Class"
 
 ## StiPropertyObject Class
 
-**Namespace:** `Stimulsoft.Report.PropertyGrid`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiPropertyObject
-```
+**Namespace:** `Stimulsoft.Report.PropertyGrid`
 
 ### Properties
 
@@ -22,3 +17,19 @@ public abstract class StiPropertyObject
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetProperty** | [IStiProperty](IStiProperty.md) |  |
+
+---
+
+### Method Details
+
+#### GetProperty
+
+**GetProperty**(**progGrid**: [IStiPropertyGrid](IStiPropertyGrid.md), ****: objectobj): [IStiProperty](IStiProperty.md)
+
+**Parameters**
+
+- **progGrid** ([IStiPropertyGrid](IStiPropertyGrid.md))  
+- **** (objectobj)  
+
+**Returns** [IStiProperty](IStiProperty.md)
+

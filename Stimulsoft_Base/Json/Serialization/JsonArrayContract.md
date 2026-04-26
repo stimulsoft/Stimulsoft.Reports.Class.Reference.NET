@@ -4,14 +4,9 @@ title: "JsonArrayContract Class"
 
 ## JsonArrayContract Class
 
-**Namespace:** `Stimulsoft.Base.Json.Serialization`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Serialization`
 
 Contract details for a Type used by the JsonSerializer.
-
-```csharp
-public class JsonArrayContract
-```
 
 ### Inheritance
 
@@ -22,6 +17,15 @@ Inherits from: [JsonContainerContract](JsonContainerContract.md)
 | Constructor | Description |
 | --- | --- |
 | **JsonArrayContract**(Type underlyingType) | Initializes a new instance of the JsonArrayContract class. |
+
+**JsonArrayContract**(**underlyingType**: Type)
+
+Initializes a new instance of the JsonArrayContract class.
+
+**Parameters**
+
+- **underlyingType** (Type) — The underlying type for the contract.  
+
 
 ### Properties
 

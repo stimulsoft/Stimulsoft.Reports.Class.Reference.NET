@@ -4,12 +4,7 @@ title: "StiComponentV2Builder Class"
 
 ## StiComponentV2Builder Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiComponentV2Builder
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Inheritance
 
@@ -24,3 +19,70 @@ Inherits from: [StiV2Builder](StiV2Builder.md)
 | **Render** | StiComponent |  |
 | **SetReportVariables** | void | Sets system variables which are specific for the specified component. |
 | **UnPrepare** | void | Clears a component after rendering. |
+
+---
+
+### Method Details
+
+#### InternalRender
+
+**InternalRender**(**masterComp**: StiComponent): StiComponent
+
+**Parameters**
+
+- **masterComp** (StiComponent)  
+
+**Returns** StiComponent
+
+
+---
+
+#### Prepare
+
+**Prepare**(**masterComp**: StiComponent): void
+
+Prepares a component for rendering.
+
+**Parameters**
+
+- **masterComp** (StiComponent)  
+
+
+---
+
+#### Render
+
+**Render**(**masterComp**: StiComponent): StiComponent
+
+**Parameters**
+
+- **masterComp** (StiComponent)  
+
+**Returns** StiComponent
+
+
+---
+
+#### SetReportVariables
+
+**SetReportVariables**(**masterComp**: StiComponent): void
+
+Sets system variables which are specific for the specified component.
+
+**Parameters**
+
+- **masterComp** (StiComponent)  
+
+
+---
+
+#### UnPrepare
+
+**UnPrepare**(**masterComp**: StiComponent): void
+
+Clears a component after rendering.
+
+**Parameters**
+
+- **masterComp** (StiComponent)  
+

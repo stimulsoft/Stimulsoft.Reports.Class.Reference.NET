@@ -4,12 +4,7 @@ title: "IStiBoxAndWhiskerArea Interface"
 
 ## IStiBoxAndWhiskerArea Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiBoxAndWhiskerArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

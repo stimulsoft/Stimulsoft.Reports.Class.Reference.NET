@@ -4,12 +4,7 @@ title: "StiOpacityAnimation Class"
 
 ## StiOpacityAnimation Class
 
-**Namespace:** `Stimulsoft.Base.Context.Animation`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiOpacityAnimation
-```
+**Namespace:** `Stimulsoft.Base.Context.Animation`
 
 ### Inheritance
 
@@ -20,3 +15,11 @@ Inherits from: [StiAnimation](StiAnimation.md)
 | Constructor | Description |
 | --- | --- |
 | **StiOpacityAnimation**(TimeSpan duration, TimeSpan beginTime) |  |
+
+**StiOpacityAnimation**(**duration**: TimeSpan, **beginTime**: TimeSpan)
+
+**Parameters**
+
+- **duration** (TimeSpan)  
+- **beginTime** (TimeSpan)  
+

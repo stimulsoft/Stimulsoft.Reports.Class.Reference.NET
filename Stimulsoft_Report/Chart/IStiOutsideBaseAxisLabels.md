@@ -4,12 +4,7 @@ title: "IStiOutsideBaseAxisLabels Interface"
 
 ## IStiOutsideBaseAxisLabels Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiOutsideBaseAxisLabels
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

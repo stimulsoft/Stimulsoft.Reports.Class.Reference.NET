@@ -4,12 +4,7 @@ title: "StiAppNotSupportedException Class"
 
 ## StiAppNotSupportedException Class
 
-**Namespace:** `Stimulsoft.Base.Serializing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiAppNotSupportedException
-```
+**Namespace:** `Stimulsoft.Base.Serializing`
 
 ### Inheritance
 

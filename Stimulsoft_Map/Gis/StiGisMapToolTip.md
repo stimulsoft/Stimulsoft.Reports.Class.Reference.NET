@@ -4,12 +4,7 @@ title: "StiGisMapToolTip Class"
 
 ## StiGisMapToolTip Class
 
-**Namespace:** `Stimulsoft.Map.Gis`  
-**Assembly:** `Stimulsoft.Map`
-
-```csharp
-public class StiGisMapToolTip
-```
+**Namespace:** `Stimulsoft.Map.Gis`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: ToolTip
 | Constructor | Description |
 | --- | --- |
 | **StiGisMapToolTip**() |  |
+
+**StiGisMapToolTip**()
+
 
 ### Properties
 

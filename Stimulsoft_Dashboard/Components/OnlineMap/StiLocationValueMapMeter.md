@@ -4,14 +4,9 @@ title: "StiLocationValueMapMeter Class"
 
 ## StiLocationValueMapMeter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.OnlineMap`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.OnlineMap`
 
 Describes a meter class which contains information about Location Values of the map element.
-
-```csharp
-public class StiLocationValueMapMeter
-```
 
 ### Inheritance
 
@@ -24,6 +19,28 @@ Inherits from: StiDimensionMeter
 | **StiLocationValueMapMeter**() |  |
 | **StiLocationValueMapMeter**(string expression, string label) |  |
 | **StiLocationValueMapMeter**(string key, string expression, string label) |  |
+
+**StiLocationValueMapMeter**()
+
+---
+
+**StiLocationValueMapMeter**(**expression**: string, **label**: string)
+
+**Parameters**
+
+- **expression** (string)  
+- **label** (string)  
+
+---
+
+**StiLocationValueMapMeter**(**key**: string, **expression**: string, **label**: string)
+
+**Parameters**
+
+- **key** (string)  
+- **expression** (string)  
+- **label** (string)  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "IStiSqlConnectionEditorStimulAI Interface"
 
 ## IStiSqlConnectionEditorStimulAI Interface
 
-**Namespace:** `Stimulsoft.Base.StimulAI`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public interface IStiSqlConnectionEditorStimulAI
-```
+**Namespace:** `Stimulsoft.Base.StimulAI`
 
 ### Inheritance
 

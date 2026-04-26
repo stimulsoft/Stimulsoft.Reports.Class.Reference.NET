@@ -4,12 +4,7 @@ title: "StiServiceActionEventArgs Class"
 
 ## StiServiceActionEventArgs Class
 
-**Namespace:** `Stimulsoft.Base.Services`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiServiceActionEventArgs
-```
+**Namespace:** `Stimulsoft.Base.Services`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiServiceActionEventArgs**([StiServiceActionType](StiServiceActionType.md) type) |  |
+
+**StiServiceActionEventArgs**(**type**: [StiServiceActionType](StiServiceActionType.md))
+
+**Parameters**
+
+- **type** ([StiServiceActionType](StiServiceActionType.md))  
+
 
 ### Properties
 

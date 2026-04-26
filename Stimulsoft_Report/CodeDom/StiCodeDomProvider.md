@@ -4,12 +4,7 @@ title: "StiCodeDomProvider Class"
 
 ## StiCodeDomProvider Class
 
-**Namespace:** `Stimulsoft.Report.CodeDom`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiCodeDomProvider
-```
+**Namespace:** `Stimulsoft.Report.CodeDom`
 
 ### Properties
 
@@ -22,3 +17,14 @@ public abstract class StiCodeDomProvider
 | Method | Returns | Description |
 | --- | --- | --- |
 | **CreateGenerator** | ICodeGenerator |  |
+
+---
+
+### Method Details
+
+#### CreateGenerator
+
+**CreateGenerator**(): ICodeGenerator
+
+**Returns** ICodeGenerator
+

@@ -4,12 +4,7 @@ title: "StiChartHelper Class"
 
 ## StiChartHelper Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiChartHelper
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Properties
 
@@ -23,3 +18,19 @@ public class StiChartHelper
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetAnimationCompatibilitySeries** `static` | bool |  |
+
+---
+
+### Method Details
+
+#### GetAnimationCompatibilitySeries `static`
+
+**GetAnimationCompatibilitySeries**(**series1**: IStiSeries, **series2**: IStiSeries): bool
+
+**Parameters**
+
+- **series1** (IStiSeries)  
+- **series2** (IStiSeries)  
+
+**Returns** bool
+

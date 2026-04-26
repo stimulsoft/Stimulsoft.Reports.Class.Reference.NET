@@ -4,12 +4,7 @@ title: "StiScriptLanguageConverter Class"
 
 ## StiScriptLanguageConverter Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiScriptLanguageConverter
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Inheritance
 
@@ -20,3 +15,21 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ConvertTo** | object |  |
+
+---
+
+### Method Details
+
+#### ConvertTo
+
+**ConvertTo**(**context**: ITypeDescriptorContext, **culture**: CultureInfo, **value**: object, **destinationType**: Type): object
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **culture** (CultureInfo)  
+- **value** (object)  
+- **destinationType** (Type)  
+
+**Returns** object
+

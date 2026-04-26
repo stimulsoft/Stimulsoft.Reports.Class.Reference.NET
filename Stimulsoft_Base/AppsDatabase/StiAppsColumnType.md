@@ -4,12 +4,7 @@ title: "StiAppsColumnType Enum"
 
 ## StiAppsColumnType Enum
 
-**Namespace:** `Stimulsoft.Base.AppsDatabase`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiAppsColumnType
-```
+**Namespace:** `Stimulsoft.Base.AppsDatabase`
 
 ### Members
 

@@ -4,14 +4,9 @@ title: "StiPastedEventArgs Class"
 
 ## StiPastedEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event Pasted.
-
-```csharp
-public class StiPastedEventArgs
-```
 
 ### Inheritance
 
@@ -23,6 +18,21 @@ Inherits from: EventArgs
 | --- | --- |
 | **StiPastedEventArgs**(StiComponent comp) |  |
 | **StiPastedEventArgs**(StiComponentsCollection comps) |  |
+
+**StiPastedEventArgs**(**comp**: StiComponent)
+
+**Parameters**
+
+- **comp** (StiComponent)  
+
+---
+
+**StiPastedEventArgs**(**comps**: StiComponentsCollection)
+
+**Parameters**
+
+- **comps** (StiComponentsCollection)  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiGdiIndicatorTypePainterAttribute Class"
 
 ## StiGdiIndicatorTypePainterAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Painters`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGdiIndicatorTypePainterAttribute
-```
+**Namespace:** `Stimulsoft.Report.Painters`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiGdiIndicatorTypePainterAttribute**(string painterTypeName) |  |
 | **StiGdiIndicatorTypePainterAttribute**(Type painterType) |  |
+
+**StiGdiIndicatorTypePainterAttribute**(**painterTypeName**: string)
+
+**Parameters**
+
+- **painterTypeName** (string)  
+
+---
+
+**StiGdiIndicatorTypePainterAttribute**(**painterType**: Type)
+
+**Parameters**
+
+- **painterType** (Type)  
+
 
 ### Properties
 

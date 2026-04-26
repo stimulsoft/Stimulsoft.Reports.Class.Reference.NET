@@ -4,12 +4,7 @@ title: "StiGaugeControl Class"
 
 ## StiGaugeControl Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiGaugeControl
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: StiAtomElementControl
 | Constructor | Description |
 | --- | --- |
 | **StiGaugeControl**(IStiElement element) |  |
+
+**StiGaugeControl**(**element**: IStiElement)
+
+**Parameters**
+
+- **element** (IStiElement)  
+
 
 ### Properties
 
@@ -40,6 +42,92 @@ Inherits from: StiAtomElementControl
 | **OnPaint** | void |  |
 | **RecalculateSize** | void |  |
 | **RefreshChild** | void |  |
+
+---
+
+### Method Details
+
+#### CreateChild
+
+**CreateChild**(): void
+
+
+---
+
+#### Dispose
+
+**Dispose**(**disposing**: bool): void
+
+**Parameters**
+
+- **disposing** (bool)  
+
+
+---
+
+#### OnClick
+
+**OnClick**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseLeave
+
+**OnMouseLeave**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseMove
+
+**OnMouseMove**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnPaint
+
+**OnPaint**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+
+
+---
+
+#### RecalculateSize
+
+**RecalculateSize**(**rect**: Rectangle): void
+
+**Parameters**
+
+- **rect** (Rectangle)  
+
+
+---
+
+#### RefreshChild
+
+**RefreshChild**(**dataTable**: [StiDataTable](../../Stimulsoft_Data/Engine/StiDataTable.md)): void
+
+**Parameters**
+
+- **dataTable** ([StiDataTable](../../Stimulsoft_Data/Engine/StiDataTable.md))  
+
 
 ### Fields
 

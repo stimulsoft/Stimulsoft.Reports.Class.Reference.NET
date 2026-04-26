@@ -4,14 +4,9 @@ title: "ReferenceLoopHandling Enum"
 
 ## ReferenceLoopHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies reference loop handling options for the JsonSerializer.
-
-```csharp
-public enum ReferenceLoopHandling
-```
 
 ### Members
 

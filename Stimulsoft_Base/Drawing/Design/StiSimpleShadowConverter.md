@@ -4,14 +4,9 @@ title: "StiSimpleShadowConverter Class"
 
 ## StiSimpleShadowConverter Class
 
-**Namespace:** `Stimulsoft.Base.Drawing.Design`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Drawing.Design`
 
 Converts a StiSimpleShadow object from one data type to another.
-
-```csharp
-public class StiSimpleShadowConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

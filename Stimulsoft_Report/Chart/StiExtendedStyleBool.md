@@ -4,12 +4,7 @@ title: "StiExtendedStyleBool Enum"
 
 ## StiExtendedStyleBool Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiExtendedStyleBool
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

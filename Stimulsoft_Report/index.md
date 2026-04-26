@@ -17,7 +17,7 @@ title: "Stimulsoft.Report"
 | [Stimulsoft.Base.Maps.Geoms](Stimulsoft/Base/Maps/Geoms/index.md) | 14 |
 | [Stimulsoft.Controls](Stimulsoft/Controls/index.md) | 1 |
 | [Stimulsoft.Gauge.Painters](Stimulsoft/Gauge/Painters/index.md) | 1 |
-| [Stimulsoft.Report](index.md) | 170 |
+| [Stimulsoft.Report](root/index.md) | 170 |
 | [Stimulsoft.Report.App](App/index.md) | 6 |
 | [Stimulsoft.Report.BarCodes](BarCodes/index.md) | 65 |
 | [Stimulsoft.Report.BarCodes.Design](BarCodes/Design/index.md) | 19 |

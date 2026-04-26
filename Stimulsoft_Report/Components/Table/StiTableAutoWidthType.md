@@ -4,12 +4,7 @@ title: "StiTableAutoWidthType Enum"
 
 ## StiTableAutoWidthType Enum
 
-**Namespace:** `Stimulsoft.Report.Components.Table`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiTableAutoWidthType
-```
+**Namespace:** `Stimulsoft.Report.Components.Table`
 
 ### Members
 

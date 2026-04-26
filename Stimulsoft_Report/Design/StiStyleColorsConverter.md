@@ -4,14 +4,9 @@ title: "StiStyleColorsConverter Class"
 
 ## StiStyleColorsConverter Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Design`
 
 Converts colors array from one data type to another.
-
-```csharp
-public class StiStyleColorsConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

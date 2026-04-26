@@ -4,12 +4,7 @@ title: "StiDashboardScaleMode Enum"
 
 ## StiDashboardScaleMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDashboardScaleMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

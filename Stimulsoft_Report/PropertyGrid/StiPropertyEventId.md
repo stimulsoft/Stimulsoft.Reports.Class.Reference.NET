@@ -4,12 +4,7 @@ title: "StiPropertyEventId Enum"
 
 ## StiPropertyEventId Enum
 
-**Namespace:** `Stimulsoft.Report.PropertyGrid`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiPropertyEventId
-```
+**Namespace:** `Stimulsoft.Report.PropertyGrid`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiPivotElementStyle Class"
 
 ## StiPivotElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiPivotElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 
@@ -40,3 +35,17 @@ Inherits from: [StiElementStyle](StiElementStyle.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **DrawStyleForGallery** | void |  |
+
+---
+
+### Method Details
+
+#### DrawStyleForGallery
+
+**DrawStyleForGallery**(**g**: [Graphics](../../../Stimulsoft_Drawing/root/Graphics.md), **rect**: Rectangle): void
+
+**Parameters**
+
+- **g** ([Graphics](../../../Stimulsoft_Drawing/root/Graphics.md))  
+- **rect** (Rectangle)  
+

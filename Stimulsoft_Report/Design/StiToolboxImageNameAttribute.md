@@ -4,12 +4,7 @@ title: "StiToolboxImageNameAttribute Class"
 
 ## StiToolboxImageNameAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiToolboxImageNameAttribute
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Inheritance
 
@@ -21,6 +16,17 @@ Inherits from: Attribute
 | --- | --- |
 | **StiToolboxImageNameAttribute**() |  |
 | **StiToolboxImageNameAttribute**(string name) |  |
+
+**StiToolboxImageNameAttribute**()
+
+---
+
+**StiToolboxImageNameAttribute**(**name**: string)
+
+**Parameters**
+
+- **name** (string)  
+
 
 ### Properties
 

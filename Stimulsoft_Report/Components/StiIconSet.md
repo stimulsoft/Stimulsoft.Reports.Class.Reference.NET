@@ -4,14 +4,9 @@ title: "StiIconSet Enum"
 
 ## StiIconSet Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 List of icons for Icon Sets Indicator.
-
-```csharp
-public enum StiIconSet
-```
 
 ### Members
 

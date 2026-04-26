@@ -4,12 +4,7 @@ title: "StiLoadCustomEventArgs Class"
 
 ## StiLoadCustomEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiLoadCustomEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiLoadCustomEventArgs**(string ident) |  |
+
+**StiLoadCustomEventArgs**(**ident**: string)
+
+**Parameters**
+
+- **ident** (string)  
+
 
 ### Properties
 

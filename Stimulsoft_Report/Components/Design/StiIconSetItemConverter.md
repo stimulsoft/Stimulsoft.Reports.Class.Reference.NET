@@ -4,14 +4,9 @@ title: "StiIconSetItemConverter Class"
 
 ## StiIconSetItemConverter Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 Converts StiIconSetItem from one data type to another.
-
-```csharp
-public class StiIconSetItemConverter
-```
 
 ### Inheritance
 
@@ -25,3 +20,61 @@ Inherits from: TypeConverter
 | **CanConvertTo** | bool |  |
 | **ConvertFrom** | object |  |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### CanConvertFrom
+
+**CanConvertFrom**(**context**: ITypeDescriptorContext, **sourceType**: Type): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **sourceType** (Type)  
+
+**Returns** bool
+
+
+---
+
+#### CanConvertTo
+
+**CanConvertTo**(**context**: ITypeDescriptorContext, **destinationType**: Type): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **destinationType** (Type)  
+
+**Returns** bool
+
+
+---
+
+#### ConvertFrom
+
+**ConvertFrom**(**context**: ITypeDescriptorContext, **culture**: CultureInfo, **value**: object): object
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **culture** (CultureInfo)  
+- **value** (object)  
+
+**Returns** object
+
+
+---
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

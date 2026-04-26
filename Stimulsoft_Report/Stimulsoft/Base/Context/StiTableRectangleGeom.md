@@ -4,12 +4,7 @@ title: "StiTableRectangleGeom Class"
 
 ## StiTableRectangleGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTableRectangleGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 
@@ -20,6 +15,14 @@ Inherits from: [StiTableGeom](StiTableGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiTableRectangleGeom**(Color color, RectangleF rect) |  |
+
+**StiTableRectangleGeom**(**color**: Color, **rect**: RectangleF)
+
+**Parameters**
+
+- **color** (Color)  
+- **rect** (RectangleF)  
+
 
 ### Properties
 

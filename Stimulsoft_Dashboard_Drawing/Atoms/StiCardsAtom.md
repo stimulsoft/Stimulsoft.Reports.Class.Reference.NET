@@ -4,12 +4,7 @@ title: "StiCardsAtom Class"
 
 ## StiCardsAtom Class
 
-**Namespace:** `Stimulsoft.Dashboard.Drawing.Atoms`  
-**Assembly:** `Stimulsoft.Dashboard.Drawing`
-
-```csharp
-public class StiCardsAtom
-```
+**Namespace:** `Stimulsoft.Dashboard.Drawing.Atoms`
 
 ### Inheritance
 
@@ -21,6 +16,15 @@ Inherits from: [StiElementAtom](StiElementAtom.md)
 | --- | --- |
 | **StiCardsAtom**(IStiElement element, [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) location, [StiDataTable](../../Stimulsoft_Data/Engine/StiDataTable.md) dataTable) |  |
 
+**StiCardsAtom**(**element**: IStiElement, **location**: [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md), **dataTable**: [StiDataTable](../../Stimulsoft_Data/Engine/StiDataTable.md))
+
+**Parameters**
+
+- **element** (IStiElement)  
+- **location** ([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md))  
+- **dataTable** ([StiDataTable](../../Stimulsoft_Data/Engine/StiDataTable.md))  
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -28,6 +32,39 @@ Inherits from: [StiElementAtom](StiElementAtom.md)
 | **GetContentRectangle** | RectangleF |  |
 | **Paint** | void |  |
 | **Render** | void |  |
+
+---
+
+### Method Details
+
+#### GetContentRectangle
+
+**GetContentRectangle**(**rect**: [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md)): RectangleF
+
+**Parameters**
+
+- **rect** ([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md))  
+
+**Returns** RectangleF
+
+
+---
+
+#### Paint
+
+**Paint**(**g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md)): void
+
+**Parameters**
+
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+
+
+---
+
+#### Render
+
+**Render**(): void
+
 
 ### Fields
 

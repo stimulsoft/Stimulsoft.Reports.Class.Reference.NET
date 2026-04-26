@@ -4,12 +4,7 @@ title: "StiVertAlignment Enum"
 
 ## StiVertAlignment Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiVertAlignment
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

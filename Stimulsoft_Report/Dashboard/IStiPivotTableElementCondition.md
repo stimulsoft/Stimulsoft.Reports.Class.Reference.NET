@@ -4,13 +4,8 @@ title: "IStiPivotTableElementCondition Interface"
 
 ## IStiPivotTableElementCondition Interface
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiPivotTableElementCondition
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Inheritance
 
-Implements: ICloneable, [IStiJsonReportObject](../../Stimulsoft_Base/IStiJsonReportObject.md)  
+Implements: ICloneable, [IStiJsonReportObject](../../Stimulsoft_Base/root/IStiJsonReportObject.md)  

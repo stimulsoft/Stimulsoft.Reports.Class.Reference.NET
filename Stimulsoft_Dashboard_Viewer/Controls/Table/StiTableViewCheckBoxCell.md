@@ -4,12 +4,7 @@ title: "StiTableViewCheckBoxCell Class"
 
 ## StiTableViewCheckBoxCell Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Table`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiTableViewCheckBoxCell
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Table`
 
 ### Inheritance
 

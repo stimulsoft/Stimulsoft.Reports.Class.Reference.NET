@@ -4,12 +4,7 @@ title: "StiAxis3D Class"
 
 ## StiAxis3D Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiAxis3D
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Implements: IStiAxis3D
 | Constructor | Description |
 | --- | --- |
 | **StiAxis3D**() |  |
+
+**StiAxis3D**()
+
 
 ### Properties
 
@@ -40,3 +38,49 @@ Implements: IStiAxis3D
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
 | **ShouldSerializeVisible** | bool |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+Creates a new object that is a copy of the current instance.
+
+**Returns** object — A new object that is a copy of this instance.
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+
+---
+
+#### ShouldSerializeVisible
+
+**ShouldSerializeVisible**(): bool
+
+**Returns** bool
+

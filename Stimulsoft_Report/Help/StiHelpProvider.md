@@ -4,12 +4,7 @@ title: "StiHelpProvider Class"
 
 ## StiHelpProvider Class
 
-**Namespace:** `Stimulsoft.Report.Help`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiHelpProvider
-```
+**Namespace:** `Stimulsoft.Report.Help`
 
 ### Properties
 
@@ -23,3 +18,27 @@ public static class StiHelpProvider
 | --- | --- | --- |
 | **ShowHelpInBrowser** `static` | void |  |
 | **ShowHelpViewer** `static` | void |  |
+
+---
+
+### Method Details
+
+#### ShowHelpInBrowser `static`
+
+**ShowHelpInBrowser**(**url**: string): void
+
+**Parameters**
+
+- **url** (string)  
+
+
+---
+
+#### ShowHelpViewer `static`
+
+**ShowHelpViewer**(**url**: string): void
+
+**Parameters**
+
+- **url** (string)  
+

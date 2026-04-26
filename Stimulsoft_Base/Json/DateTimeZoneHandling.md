@@ -4,14 +4,9 @@ title: "DateTimeZoneHandling Enum"
 
 ## DateTimeZoneHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies how to treat the time value when converting between string and DateTime.
-
-```csharp
-public enum DateTimeZoneHandling
-```
 
 ### Members
 

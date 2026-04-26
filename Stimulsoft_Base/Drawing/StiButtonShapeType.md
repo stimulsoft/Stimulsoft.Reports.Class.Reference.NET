@@ -4,12 +4,7 @@ title: "StiButtonShapeType Enum"
 
 ## StiButtonShapeType Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiButtonShapeType
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

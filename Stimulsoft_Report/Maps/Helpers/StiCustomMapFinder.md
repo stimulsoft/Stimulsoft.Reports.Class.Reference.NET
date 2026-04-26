@@ -4,12 +4,7 @@ title: "StiCustomMapFinder Class"
 
 ## StiCustomMapFinder Class
 
-**Namespace:** `Stimulsoft.Report.Maps.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiCustomMapFinder
-```
+**Namespace:** `Stimulsoft.Report.Maps.Helpers`
 
 ### Properties
 
@@ -23,3 +18,31 @@ public static class StiCustomMapFinder
 | --- | --- | --- |
 | **ContainsName** `static` | bool |  |
 | **IsCustom** `static` | bool |  |
+
+---
+
+### Method Details
+
+#### ContainsName `static`
+
+**ContainsName**(**name**: string): bool
+
+**Parameters**
+
+- **name** (string)  
+
+**Returns** bool
+
+
+---
+
+#### IsCustom `static`
+
+**IsCustom**(**mapIdent**: string): bool
+
+**Parameters**
+
+- **mapIdent** (string)  
+
+**Returns** bool
+

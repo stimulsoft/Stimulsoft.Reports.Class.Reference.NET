@@ -4,12 +4,7 @@ title: "StiDrillDownMode Enum"
 
 ## StiDrillDownMode Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDrillDownMode
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

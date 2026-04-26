@@ -4,12 +4,7 @@ title: "StiImageGeom Class"
 
 ## StiImageGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiImageGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 
@@ -20,6 +15,14 @@ Inherits from: [StiGeom](StiGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiImageGeom**(RectangleF rect, byteimage ) |  |
+
+**StiImageGeom**(**rect**: RectangleF, ****: byteimage)
+
+**Parameters**
+
+- **rect** (RectangleF)  
+- **** (byteimage)  
+
 
 ### Properties
 

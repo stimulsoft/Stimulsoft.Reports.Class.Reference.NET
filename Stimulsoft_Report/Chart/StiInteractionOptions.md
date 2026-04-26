@@ -4,12 +4,7 @@ title: "StiInteractionOptions Class"
 
 ## StiInteractionOptions Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiInteractionOptions
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Properties
 

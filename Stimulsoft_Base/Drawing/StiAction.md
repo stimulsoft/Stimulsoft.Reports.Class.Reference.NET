@@ -4,14 +4,9 @@ title: "StiAction Enum"
 
 ## StiAction Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 Actions, which indicate actions in the rectangle.
-
-```csharp
-public enum StiAction
-```
 
 ### Members
 

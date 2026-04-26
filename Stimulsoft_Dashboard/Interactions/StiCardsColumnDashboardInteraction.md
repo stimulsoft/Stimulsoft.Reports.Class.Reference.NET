@@ -4,14 +4,9 @@ title: "StiCardsColumnDashboardInteraction Class"
 
 ## StiCardsColumnDashboardInteraction Class
 
-**Namespace:** `Stimulsoft.Dashboard.Interactions`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Interactions`
 
 Describes an interaction functionality of the card column.
-
-```csharp
-public class StiCardsColumnDashboardInteraction
-```
 
 ### Inheritance
 
@@ -22,6 +17,9 @@ Inherits from: StiDashboardInteraction
 | Constructor | Description |
 | --- | --- |
 | **StiCardsColumnDashboardInteraction**() |  |
+
+**StiCardsColumnDashboardInteraction**()
+
 
 ### Properties
 
@@ -37,3 +35,23 @@ Inherits from: StiDashboardInteraction
 | --- | --- | --- |
 | **ShouldSerializeOnClick** | bool |  |
 | **ShouldSerializeOnHover** | bool |  |
+
+---
+
+### Method Details
+
+#### ShouldSerializeOnClick
+
+**ShouldSerializeOnClick**(): bool
+
+**Returns** bool
+
+
+---
+
+#### ShouldSerializeOnHover
+
+**ShouldSerializeOnHover**(): bool
+
+**Returns** bool
+

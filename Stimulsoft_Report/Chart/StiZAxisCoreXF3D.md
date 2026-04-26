@@ -4,12 +4,7 @@ title: "StiZAxisCoreXF3D Class"
 
 ## StiZAxisCoreXF3D Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiZAxisCoreXF3D
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,8 +16,32 @@ Inherits from: StiAxisCoreXF3D
 | --- | --- |
 | **StiZAxisCoreXF3D**(IStiAxis3D axis) |  |
 
+**StiZAxisCoreXF3D**(**axis**: IStiAxis3D)
+
+**Parameters**
+
+- **axis** (IStiAxis3D)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Render3D** | StiCellGeom |  |
+
+---
+
+### Method Details
+
+#### Render3D
+
+**Render3D**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **rect3D**: [StiRectangle3D](StiRectangle3D.md), **render**: [StiRender3D](StiRender3D.md)): StiCellGeom
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **rect3D** ([StiRectangle3D](StiRectangle3D.md))  
+- **render** ([StiRender3D](StiRender3D.md))  
+
+**Returns** StiCellGeom
+

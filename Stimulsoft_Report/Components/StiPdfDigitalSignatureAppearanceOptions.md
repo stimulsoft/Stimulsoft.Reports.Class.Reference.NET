@@ -4,12 +4,7 @@ title: "StiPdfDigitalSignatureAppearanceOptions Enum"
 
 ## StiPdfDigitalSignatureAppearanceOptions Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiPdfDigitalSignatureAppearanceOptions
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

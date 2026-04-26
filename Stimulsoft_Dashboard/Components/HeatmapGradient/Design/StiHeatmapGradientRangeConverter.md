@@ -4,14 +4,9 @@ title: "StiHeatmapGradientRangeConverter Class"
 
 ## StiHeatmapGradientRangeConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.HeatmapGradient.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.HeatmapGradient.Design`
 
 Converts a StiHeatmapGradientRange object from one data type to another.
-
-```csharp
-public class StiHeatmapGradientRangeConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,19 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **CreateNewInstanceDescriptor** | object |  |
+
+---
+
+### Method Details
+
+#### CreateNewInstanceDescriptor
+
+**CreateNewInstanceDescriptor**(**info**: ConstructorInfo, ****: objectobjs): object
+
+**Parameters**
+
+- **info** (ConstructorInfo)  
+- **** (objectobjs)  
+
+**Returns** object
+

@@ -4,12 +4,7 @@ title: "StiAISuggestTable Class"
 
 ## StiAISuggestTable Class
 
-**Namespace:** `Stimulsoft.Base.StimulAI`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiAISuggestTable
-```
+**Namespace:** `Stimulsoft.Base.StimulAI`
 
 ### Properties
 
@@ -24,3 +19,14 @@ public sealed class StiAISuggestTable
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

@@ -4,14 +4,9 @@ title: "StiVariableSortDirection Enum"
 
 ## StiVariableSortDirection Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 Enum contains types of the sort direction.
-
-```csharp
-public enum StiVariableSortDirection
-```
 
 ### Members
 

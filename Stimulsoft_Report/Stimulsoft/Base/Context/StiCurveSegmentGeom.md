@@ -4,12 +4,7 @@ title: "StiCurveSegmentGeom Class"
 
 ## StiCurveSegmentGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCurveSegmentGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 
@@ -21,6 +16,24 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 | --- | --- |
 | **StiCurveSegmentGeom**(PointFpoints , float tension) |  |
 | **StiCurveSegmentGeom**(PointFpoints , float tension, [StiAnimation](Animation/StiAnimation.md) animation) |  |
+
+**StiCurveSegmentGeom**(****: PointFpoints, **tension**: float)
+
+**Parameters**
+
+- **** (PointFpoints)  
+- **tension** (float)  
+
+---
+
+**StiCurveSegmentGeom**(****: PointFpoints, **tension**: float, **animation**: [StiAnimation](Animation/StiAnimation.md))
+
+**Parameters**
+
+- **** (PointFpoints)  
+- **tension** (float)  
+- **animation** ([StiAnimation](Animation/StiAnimation.md))  
+
 
 ### Properties
 
@@ -36,3 +49,29 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 | --- | --- | --- |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+

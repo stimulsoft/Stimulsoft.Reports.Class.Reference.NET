@@ -4,12 +4,7 @@ title: "StiGisParserExeption Class"
 
 ## StiGisParserExeption Class
 
-**Namespace:** `Stimulsoft.Map.Gis.Geography`  
-**Assembly:** `Stimulsoft.Map`
-
-```csharp
-public sealed class StiGisParserExeption
-```
+**Namespace:** `Stimulsoft.Map.Gis.Geography`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: Exception
 | Constructor | Description |
 | --- | --- |
 | **StiGisParserExeption**(string command) |  |
+
+**StiGisParserExeption**(**command**: string)
+
+**Parameters**
+
+- **command** (string)  
+

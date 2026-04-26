@@ -4,14 +4,9 @@ title: "StiGisMapLineSizeMeter Class"
 
 ## StiGisMapLineSizeMeter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.OnlineMap`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.OnlineMap`
 
 Describes a meter class which contains information about GIS of the map element.
-
-```csharp
-public class StiGisMapLineSizeMeter
-```
 
 ### Inheritance
 
@@ -24,6 +19,28 @@ Inherits from: StiDimensionMeter
 | **StiGisMapLineSizeMeter**() |  |
 | **StiGisMapLineSizeMeter**(string expression, string label) |  |
 | **StiGisMapLineSizeMeter**(string key, string expression, string label) |  |
+
+**StiGisMapLineSizeMeter**()
+
+---
+
+**StiGisMapLineSizeMeter**(**expression**: string, **label**: string)
+
+**Parameters**
+
+- **expression** (string)  
+- **label** (string)  
+
+---
+
+**StiGisMapLineSizeMeter**(**key**: string, **expression**: string, **label**: string)
+
+**Parameters**
+
+- **key** (string)  
+- **expression** (string)  
+- **label** (string)  
+
 
 ### Properties
 

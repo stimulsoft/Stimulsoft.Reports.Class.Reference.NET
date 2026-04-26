@@ -4,12 +4,7 @@ title: "StiToolboxSetup Class"
 
 ## StiToolboxSetup Class
 
-**Namespace:** `Stimulsoft.Report.Toolbox`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiToolboxSetup
-```
+**Namespace:** `Stimulsoft.Report.Toolbox`
 
 ### Properties
 
@@ -30,6 +25,49 @@ public static class StiToolboxSetup
 | **LoadFromString** `static` | void |  |
 | **Save** `static` | void |  |
 | **SaveToString** `static` | string |  |
+
+---
+
+### Method Details
+
+#### InitDefaultSettings `static`
+
+**InitDefaultSettings**(): void
+
+
+---
+
+#### Load `static`
+
+**Load**(): void
+
+
+---
+
+#### LoadFromString `static`
+
+**LoadFromString**(**text**: string): void
+
+**Parameters**
+
+- **text** (string)  
+
+
+---
+
+#### Save `static`
+
+**Save**(): void
+
+
+---
+
+#### SaveToString `static`
+
+**SaveToString**(): string
+
+**Returns** string
+
 
 ### Fields
 

@@ -4,14 +4,9 @@ title: "StiCurrencyFormatConverter Class"
 
 ## StiCurrencyFormatConverter Class
 
-**Namespace:** `Stimulsoft.Report.Components.TextFormats.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components.TextFormats.Design`
 
 Provides a type converter to convert StiCurrencyFormatService objects to and from various other representations.
-
-```csharp
-public class StiCurrencyFormatConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

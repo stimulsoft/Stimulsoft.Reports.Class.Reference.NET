@@ -4,12 +4,7 @@ title: "StiColumnFooterBandV2Builder Class"
 
 ## StiColumnFooterBandV2Builder Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiColumnFooterBandV2Builder
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: [StiFooterBandV2Builder](StiFooterBandV2Builder.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **InternalRender** | StiComponent |  |
+
+---
+
+### Method Details
+
+#### InternalRender
+
+**InternalRender**(**masterComp**: StiComponent): StiComponent
+
+**Parameters**
+
+- **masterComp** (StiComponent)  
+
+**Returns** StiComponent
+

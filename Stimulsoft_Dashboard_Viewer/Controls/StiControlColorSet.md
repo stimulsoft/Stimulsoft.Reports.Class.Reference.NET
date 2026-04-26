@@ -4,12 +4,7 @@ title: "StiControlColorSet Class"
 
 ## StiControlColorSet Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiControlColorSet
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`
 
 ### Constructors
 
@@ -17,6 +12,19 @@ public class StiControlColorSet
 | --- | --- |
 | **StiControlColorSet**() |  |
 | **StiControlColorSet**(Color foreColor, Color backColor, Color glyphColor) |  |
+
+**StiControlColorSet**()
+
+---
+
+**StiControlColorSet**(**foreColor**: Color, **backColor**: Color, **glyphColor**: Color)
+
+**Parameters**
+
+- **foreColor** (Color)  
+- **backColor** (Color)  
+- **glyphColor** (Color)  
+
 
 ### Properties
 

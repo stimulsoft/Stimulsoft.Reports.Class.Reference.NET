@@ -4,12 +4,7 @@ title: "StiYRadarAxisCoreXF Class"
 
 ## StiYRadarAxisCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiYRadarAxisCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,6 +16,13 @@ Inherits from: StiRadarAxisCoreXF
 | --- | --- |
 | **StiYRadarAxisCoreXF**(IStiRadarAxis axis) |  |
 
+**StiYRadarAxisCoreXF**(**axis**: IStiRadarAxis)
+
+**Parameters**
+
+- **axis** (IStiRadarAxis)  
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -28,3 +30,47 @@ Inherits from: StiRadarAxisCoreXF
 | **ApplyStyle** | void |  |
 | **GetAxisRect** | RectangleF |  |
 | **Render** | StiCellGeom |  |
+
+---
+
+### Method Details
+
+#### ApplyStyle
+
+**ApplyStyle**(**style**: IStiChartStyle): void
+
+**Parameters**
+
+- **style** (IStiChartStyle)  
+
+
+---
+
+#### GetAxisRect
+
+**GetAxisRect**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **rect**: RectangleF, **includeAxisArrow**: bool, **includeLabelsHeight**: bool, **isDrawing**: bool): RectangleF
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **rect** (RectangleF)  
+- **includeAxisArrow** (bool)  
+- **includeLabelsHeight** (bool)  
+- **isDrawing** (bool)  
+
+**Returns** RectangleF
+
+
+---
+
+#### Render
+
+**Render**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **rect**: RectangleF): StiCellGeom
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **rect** (RectangleF)  
+
+**Returns** StiCellGeom
+

@@ -4,12 +4,7 @@ title: "StiMultiConditionContainer Class"
 
 ## StiMultiConditionContainer Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiMultiConditionContainer
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Properties
 
@@ -23,7 +18,7 @@ public class StiMultiConditionContainer
 | **Enabled** | bool |  |
 | **FilterMode** | [StiFilterMode](StiFilterMode.md) |  |
 | **Filters** | StiFiltersCollection |  |
-| **Font** | [Font](../../Stimulsoft_Drawing/Font.md) |  |
+| **Font** | [Font](../../Stimulsoft_Drawing/root/Font.md) |  |
 | **Permissions** | [StiConditionPermissions](StiConditionPermissions.md) |  |
 | **Style** | string |  |
 | **TextColor** | Color |  |

@@ -4,12 +4,7 @@ title: "StiHeatmapSeriesElementGeom Class"
 
 ## StiHeatmapSeriesElementGeom Class
 
-**Namespace:** `Stimulsoft.Report.Chart.Geoms.Series.Heatmap`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiHeatmapSeriesElementGeom
-```
+**Namespace:** `Stimulsoft.Report.Chart.Geoms.Series.Heatmap`
 
 ### Inheritance
 
@@ -27,3 +22,18 @@ Inherits from: StiSeriesElementGeom
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Draw** | void | Draws area geom object on spefied context. |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: [StiContext](../../../../Stimulsoft/Base/Context/StiContext.md)): void
+
+Draws area geom object on spefied context.
+
+**Parameters**
+
+- **context** ([StiContext](../../../../Stimulsoft/Base/Context/StiContext.md))  
+

@@ -4,14 +4,9 @@ title: "StiPcxPaletteType Enum"
 
 ## StiPcxPaletteType Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration describes a type of palette of the PCX file.
-
-```csharp
-public enum StiPcxPaletteType
-```
 
 ### Members
 

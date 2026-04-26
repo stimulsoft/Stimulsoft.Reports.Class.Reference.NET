@@ -4,12 +4,7 @@ title: "Encoder Class"
 
 ## Encoder Class
 
-**Namespace:** `Stimulsoft.Drawing.Imaging`  
-**Assembly:** `Stimulsoft.Drawing`
-
-```csharp
-public sealed class Encoder
-```
+**Namespace:** `Stimulsoft.Drawing.Imaging`
 
 ### Fields
 

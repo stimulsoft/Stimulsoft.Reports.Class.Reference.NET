@@ -4,12 +4,7 @@ title: "StiContentAlignmentConverter Class"
 
 ## StiContentAlignmentConverter Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiContentAlignmentConverter
-```
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 ### Inheritance
 
@@ -20,3 +15,19 @@ Inherits from: [StiExpressionEnumConverter](../../../Stimulsoft_Base/Localizatio
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetLocName** | string |  |
+
+---
+
+### Method Details
+
+#### GetLocName
+
+**GetLocName**(**typeName**: string, **valueName**: string): string
+
+**Parameters**
+
+- **typeName** (string)  
+- **valueName** (string)  
+
+**Returns** string
+

@@ -4,12 +4,7 @@ title: "StiPivotToContainerCache Class"
 
 ## StiPivotToContainerCache Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiPivotToContainerCache
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Methods
 
@@ -20,3 +15,65 @@ public static class StiPivotToContainerCache
 | **Get** `static` | [IStiPivotGridContainer](IStiPivotGridContainer.md) |  |
 | **Put** `static` | void |  |
 | **Remove** `static` | void |  |
+
+---
+
+### Method Details
+
+#### Clean `static`
+
+**Clean**(**reportKey**: string): void
+
+**Parameters**
+
+- **reportKey** (string)  
+
+
+---
+
+#### Contains `static`
+
+**Contains**(**element**: IStiPivotTableElement): bool
+
+**Parameters**
+
+- **element** (IStiPivotTableElement)  
+
+**Returns** bool
+
+
+---
+
+#### Get `static`
+
+**Get**(**element**: IStiPivotTableElement): [IStiPivotGridContainer](IStiPivotGridContainer.md)
+
+**Parameters**
+
+- **element** (IStiPivotTableElement)  
+
+**Returns** [IStiPivotGridContainer](IStiPivotGridContainer.md)
+
+
+---
+
+#### Put `static`
+
+**Put**(**element**: IStiPivotTableElement, **container**: [IStiPivotGridContainer](IStiPivotGridContainer.md)): void
+
+**Parameters**
+
+- **element** (IStiPivotTableElement)  
+- **container** ([IStiPivotGridContainer](IStiPivotGridContainer.md))  
+
+
+---
+
+#### Remove `static`
+
+**Remove**(**element**: IStiPivotTableElement): void
+
+**Parameters**
+
+- **element** (IStiPivotTableElement)  
+

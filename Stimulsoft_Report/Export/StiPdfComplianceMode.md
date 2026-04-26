@@ -4,14 +4,9 @@ title: "StiPdfComplianceMode Enum"
 
 ## StiPdfComplianceMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for setting modes of compliance
-
-```csharp
-public enum StiPdfComplianceMode
-```
 
 ### Members
 

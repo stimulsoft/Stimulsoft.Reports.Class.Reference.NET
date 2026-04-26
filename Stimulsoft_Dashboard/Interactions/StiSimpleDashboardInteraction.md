@@ -4,14 +4,9 @@ title: "StiSimpleDashboardInteraction Class"
 
 ## StiSimpleDashboardInteraction Class
 
-**Namespace:** `Stimulsoft.Dashboard.Interactions`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Interactions`
 
 Describes a basic interaction functionality of simple elements.
-
-```csharp
-public abstract class StiSimpleDashboardInteraction
-```
 
 ### Inheritance
 
@@ -22,6 +17,9 @@ Inherits from: StiDashboardInteraction
 | Constructor | Description |
 | --- | --- |
 | **StiSimpleDashboardInteraction**() |  |
+
+**StiSimpleDashboardInteraction**()
+
 
 ### Properties
 
@@ -34,3 +32,14 @@ Inherits from: StiDashboardInteraction
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ShouldSerializeOnClick** | bool |  |
+
+---
+
+### Method Details
+
+#### ShouldSerializeOnClick
+
+**ShouldSerializeOnClick**(): bool
+
+**Returns** bool
+

@@ -4,12 +4,7 @@ title: "StiProgressHelperV1 Class"
 
 ## StiProgressHelperV1 Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiProgressHelperV1
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Properties
 

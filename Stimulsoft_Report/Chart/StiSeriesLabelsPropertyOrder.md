@@ -4,12 +4,7 @@ title: "StiSeriesLabelsPropertyOrder Class"
 
 ## StiSeriesLabelsPropertyOrder Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSeriesLabelsPropertyOrder
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Fields
 

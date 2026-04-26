@@ -4,12 +4,7 @@ title: "StiStyle05 Class"
 
 ## StiStyle05 Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiStyle05
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,8 +16,22 @@ Inherits from: StiChartStyle
 | --- | --- |
 | **StiStyle05**() |  |
 
+**StiStyle05**()
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **CreateNew** | StiChartStyle |  |
+
+---
+
+### Method Details
+
+#### CreateNew
+
+**CreateNew**(): StiChartStyle
+
+**Returns** StiChartStyle
+

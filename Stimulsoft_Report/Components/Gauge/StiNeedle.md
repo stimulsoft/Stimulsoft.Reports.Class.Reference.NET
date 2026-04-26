@@ -4,12 +4,7 @@ title: "StiNeedle Class"
 
 ## StiNeedle Class
 
-**Namespace:** `Stimulsoft.Report.Components.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiNeedle
-```
+**Namespace:** `Stimulsoft.Report.Components.Gauge`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: StiIndicatorBase
 | Constructor | Description |
 | --- | --- |
 | **StiNeedle**() |  |
+
+**StiNeedle**()
+
 
 ### Properties
 
@@ -32,7 +30,7 @@ Inherits from: StiIndicatorBase
 | **CenterPoint** | PointF |  |
 | **CustomSkin** | [StiGaugeElementSkin](../../Gauge/StiGaugeElementSkin.md) |  |
 | **EndWidth** | float |  |
-| **Font** | [Font](../../../Stimulsoft_Drawing/Font.md) |  |
+| **Font** | [Font](../../../Stimulsoft_Drawing/root/Font.md) |  |
 | **Format** | string |  |
 | **OffsetNeedle** | float |  |
 | **RelativeHeight** | float |  |
@@ -49,3 +47,40 @@ Inherits from: StiIndicatorBase
 | **ApplyStyle** | void |  |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### ApplyStyle
+
+**ApplyStyle**(**style**: IStiGaugeStyle): void
+
+**Parameters**
+
+- **style** (IStiGaugeStyle)  
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md)
+

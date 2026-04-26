@@ -4,14 +4,9 @@ title: "StiSystemVariableNotRecognizedException Class"
 
 ## StiSystemVariableNotRecognizedException Class
 
-**Namespace:** `Stimulsoft.Data.Exceptions`  
-**Assembly:** `Stimulsoft.Data`
+**Namespace:** `Stimulsoft.Data.Exceptions`
 
 An exception occurs if the specified name of a system variable not recognized.
-
-```csharp
-public class StiSystemVariableNotRecognizedException
-```
 
 ### Inheritance
 
@@ -22,3 +17,10 @@ Inherits from: [StiDataException](StiDataException.md)
 | Constructor | Description |
 | --- | --- |
 | **StiSystemVariableNotRecognizedException**(string name) |  |
+
+**StiSystemVariableNotRecognizedException**(**name**: string)
+
+**Parameters**
+
+- **name** (string)  
+

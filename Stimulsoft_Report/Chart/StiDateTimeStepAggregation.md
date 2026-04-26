@@ -4,12 +4,7 @@ title: "StiDateTimeStepAggregation Enum"
 
 ## StiDateTimeStepAggregation Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDateTimeStepAggregation
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

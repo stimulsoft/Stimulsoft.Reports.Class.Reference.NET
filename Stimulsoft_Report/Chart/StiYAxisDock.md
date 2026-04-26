@@ -4,12 +4,7 @@ title: "StiYAxisDock Enum"
 
 ## StiYAxisDock Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiYAxisDock
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

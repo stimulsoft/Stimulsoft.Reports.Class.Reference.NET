@@ -11,7 +11,7 @@ const ROOT = path.join(__dirname, "..");
 const INDEX = path.join(ROOT, "index.md");
 const JSON_OUTPUT = path.join(ROOT, "sidebar.json");
 
-// Maximum depth to include in the sidebar tree (1 = top-level only, 2 = two levels, etc.)
+// Maximum depth to include in the sidebar tree (1=assembly, 2=namespace)
 const MAX_SIDEBAR_DEPTH = 2;
 
 const ITEM_RE = /^( *)- \[([^\]]+)\]\(([^)]+)\)/;

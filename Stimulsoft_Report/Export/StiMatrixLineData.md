@@ -4,18 +4,20 @@ title: "StiMatrixLineData Class"
 
 ## StiMatrixLineData Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiMatrixLineData
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiMatrixLineData**(int size) |  |
+
+**StiMatrixLineData**(**size**: int)
+
+**Parameters**
+
+- **size** (int)  
+
 
 ### Fields
 

@@ -4,12 +4,7 @@ title: "StiAxisInfoXF Class"
 
 ## StiAxisInfoXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiAxisInfoXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -27,6 +22,17 @@ Implements: ICloneable
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Clone** | object |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+**Returns** object
+
 
 ### Fields
 

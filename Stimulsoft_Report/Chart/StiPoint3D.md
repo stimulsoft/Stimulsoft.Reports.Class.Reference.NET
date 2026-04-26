@@ -4,18 +4,22 @@ title: "StiPoint3D Struct"
 
 ## StiPoint3D Struct
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public struct StiPoint3D
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiPoint3D**(double x, double y, double z) |  |
+
+**StiPoint3D**(**x**: double, **y**: double, **z**: double)
+
+**Parameters**
+
+- **x** (double)  
+- **y** (double)  
+- **z** (double)  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiZipCodeExpression Class"
 
 ## StiZipCodeExpression Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiZipCodeExpression
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Inheritance
 
@@ -23,8 +18,47 @@ Inherits from: [StiUnifiedExpression](StiUnifiedExpression.md)
 | **StiZipCodeExpression**(string value) | Creates a new expression. |
 | **StiZipCodeExpression**(StiComponent parent, string propertyName) | Creates a new expression. |
 
+**StiZipCodeExpression**()
+
+Creates a new expression.
+
+---
+
+**StiZipCodeExpression**(**value**: string)
+
+Creates a new expression.
+
+**Parameters**
+
+- **value** (string) — Expression value.  
+
+---
+
+**StiZipCodeExpression**(**parent**: StiComponent, **propertyName**: string)
+
+Creates a new expression.
+
+**Parameters**
+
+- **parent** (StiComponent)  
+- **propertyName** (string)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetDefaultEvent** | StiEvent | Returns the event for processing of the expession when generation the report script. |
+
+---
+
+### Method Details
+
+#### GetDefaultEvent
+
+**GetDefaultEvent**(): StiEvent
+
+Returns the event for processing of the expession when generation the report script.
+
+**Returns** StiEvent — The event for processing of the expession.
+

@@ -4,14 +4,9 @@ title: "StiStyleColorConverter Class"
 
 ## StiStyleColorConverter Class
 
-**Namespace:** `Stimulsoft.Base.Drawing.Design`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Drawing.Design`
 
 Converts colors from one data type to another.
-
-```csharp
-public class StiStyleColorConverter
-```
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiYLeftAxisCoreXF Class"
 
 ## StiYLeftAxisCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiYLeftAxisCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiYAxisCoreXF](StiYAxisCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiYLeftAxisCoreXF**(IStiAxis axis) |  |
+
+**StiYLeftAxisCoreXF**(**axis**: IStiAxis)
+
+**Parameters**
+
+- **axis** (IStiAxis)  
+

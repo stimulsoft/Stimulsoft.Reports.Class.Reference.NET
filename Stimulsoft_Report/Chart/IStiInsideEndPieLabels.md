@@ -4,12 +4,7 @@ title: "IStiInsideEndPieLabels Interface"
 
 ## IStiInsideEndPieLabels Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiInsideEndPieLabels
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

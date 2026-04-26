@@ -4,12 +4,7 @@ title: "StiReportParser Class"
 
 ## StiReportParser Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiReportParser
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Methods
 
@@ -17,6 +12,31 @@ public static class StiReportParser
 | --- | --- | --- |
 | **CleanCache** `static` | void |  |
 | **GetDataFieldValueProcessor** `static` | void |  |
+
+---
+
+### Method Details
+
+#### CleanCache `static`
+
+**CleanCache**(**reportKey**: string): void
+
+**Parameters**
+
+- **reportKey** (string)  
+
+
+---
+
+#### GetDataFieldValueProcessor `static`
+
+**GetDataFieldValueProcessor**(**sender**: object, **e**: StiParser.StiParserGetDataFieldValueEventArgs): void
+
+**Parameters**
+
+- **sender** (object)  
+- **e** (StiParser.StiParserGetDataFieldValueEventArgs)  
+
 
 ### Fields
 

@@ -4,12 +4,7 @@ title: "StiHorChartGridLines Class"
 
 ## StiHorChartGridLines Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiHorChartGridLines
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart`
 
 ### Inheritance
 
@@ -21,6 +16,18 @@ Inherits from: StiChartGridLines
 | --- | --- |
 | **StiHorChartGridLines**() |  |
 | **StiHorChartGridLines**(Color color, bool visible) |  |
+
+**StiHorChartGridLines**()
+
+---
+
+**StiHorChartGridLines**(**color**: Color, **visible**: bool)
+
+**Parameters**
+
+- **color** (Color)  
+- **visible** (bool)  
+
 
 ### Properties
 

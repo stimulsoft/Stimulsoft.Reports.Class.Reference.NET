@@ -4,12 +4,7 @@ title: "StiProgressElementMode Enum"
 
 ## StiProgressElementMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiProgressElementMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

@@ -4,11 +4,6 @@ title: "IStiCanGrow Interface"
 
 ## IStiCanGrow Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Interface describes a component growing.
-
-```csharp
-public interface IStiCanGrow
-```

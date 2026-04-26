@@ -4,12 +4,7 @@ title: "StiGraphicsPathLinesGaugeGeom Class"
 
 ## StiGraphicsPathLinesGaugeGeom Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGraphicsPathLinesGaugeGeom
-```
+**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: [StiGaugeGeom](StiGaugeGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiGraphicsPathLinesGaugeGeom**(PointFpoints ) |  |
+
+**StiGraphicsPathLinesGaugeGeom**(****: PointFpoints)
+
+**Parameters**
+
+- **** (PointFpoints)  
+
 
 ### Properties
 

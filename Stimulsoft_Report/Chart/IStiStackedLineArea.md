@@ -4,12 +4,7 @@ title: "IStiStackedLineArea Interface"
 
 ## IStiStackedLineArea Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiStackedLineArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

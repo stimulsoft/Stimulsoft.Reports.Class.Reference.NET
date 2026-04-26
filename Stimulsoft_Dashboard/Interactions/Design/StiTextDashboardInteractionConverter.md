@@ -4,14 +4,9 @@ title: "StiTextDashboardInteractionConverter Class"
 
 ## StiTextDashboardInteractionConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Interactions.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Interactions.Design`
 
 Converts the StiTextDashboardInteraction object from one data type to another.
-
-```csharp
-public class StiTextDashboardInteractionConverter
-```
 
 ### Inheritance
 

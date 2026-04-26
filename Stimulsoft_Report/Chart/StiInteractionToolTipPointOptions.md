@@ -4,14 +4,9 @@ title: "StiInteractionToolTipPointOptions Class"
 
 ## StiInteractionToolTipPointOptions Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Chart`
 
 Meta data for DBS tool tip point
-
-```csharp
-public class StiInteractionToolTipPointOptions
-```
 
 ### Properties
 
@@ -25,3 +20,17 @@ public class StiInteractionToolTipPointOptions
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Offset** | void |  |
+
+---
+
+### Method Details
+
+#### Offset
+
+**Offset**(**x**: float, **y**: float): void
+
+**Parameters**
+
+- **x** (float)  
+- **y** (float)  
+

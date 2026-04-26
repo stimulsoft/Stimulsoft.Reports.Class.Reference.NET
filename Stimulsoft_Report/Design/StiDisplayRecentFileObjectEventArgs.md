@@ -4,12 +4,7 @@ title: "StiDisplayRecentFileObjectEventArgs Class"
 
 ## StiDisplayRecentFileObjectEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDisplayRecentFileObjectEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiDisplayRecentFileObjectEventArgs**([Stimulsoft.Base.RecentFiles.StiRecentFile](../../Stimulsoft_Base/RecentFiles/StiRecentFile.md) recentFile) |  |
+
+**StiDisplayRecentFileObjectEventArgs**(**recentFile**: [Stimulsoft.Base.RecentFiles.StiRecentFile](../../Stimulsoft_Base/RecentFiles/StiRecentFile.md))
+
+**Parameters**
+
+- **recentFile** ([Stimulsoft.Base.RecentFiles.StiRecentFile](../../Stimulsoft_Base/RecentFiles/StiRecentFile.md))  
+
 
 ### Properties
 

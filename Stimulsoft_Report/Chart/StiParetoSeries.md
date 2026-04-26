@@ -4,12 +4,7 @@ title: "StiParetoSeries Class"
 
 ## StiParetoSeries Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiParetoSeries
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,6 +16,9 @@ Implements: IStiParetoSeries
 | Constructor | Description |
 | --- | --- |
 | **StiParetoSeries**() |  |
+
+**StiParetoSeries**()
+
 
 ### Properties
 
@@ -51,3 +49,58 @@ Implements: IStiParetoSeries
 | **GetDefaultAreaType** | Type |  |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+Creates a new object that is a copy of the current instance.
+
+**Returns** object — A new object that is a copy of this instance.
+
+
+---
+
+#### CreateNew
+
+**CreateNew**(): StiSeries
+
+**Returns** StiSeries
+
+
+---
+
+#### GetDefaultAreaType
+
+**GetDefaultAreaType**(): Type
+
+**Returns** Type
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+

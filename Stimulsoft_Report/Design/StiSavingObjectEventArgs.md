@@ -4,12 +4,7 @@ title: "StiSavingObjectEventArgs Class"
 
 ## StiSavingObjectEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSavingObjectEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Inheritance
 
@@ -20,6 +15,14 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiSavingObjectEventArgs**(bool saveAs, [StiSaveEventSource](StiSaveEventSource.md) eventSource) |  |
+
+**StiSavingObjectEventArgs**(**saveAs**: bool, **eventSource**: [StiSaveEventSource](StiSaveEventSource.md))
+
+**Parameters**
+
+- **saveAs** (bool)  
+- **eventSource** ([StiSaveEventSource](StiSaveEventSource.md))  
+
 
 ### Properties
 

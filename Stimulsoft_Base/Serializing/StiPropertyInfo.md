@@ -4,20 +4,29 @@ title: "StiPropertyInfo Class"
 
 ## StiPropertyInfo Class
 
-**Namespace:** `Stimulsoft.Base.Serializing`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Serializing`
 
 Class keep an object properties information.
-
-```csharp
-public class StiPropertyInfo
-```
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiPropertyInfo**(string name, object value, bool isKey, bool isReference, bool isList, string typeName) | Creates a new instance of the StiPropertyInfo class. |
+
+**StiPropertyInfo**(**name**: string, **value**: object, **isKey**: bool, **isReference**: bool, **isList**: bool, **typeName**: string)
+
+Creates a new instance of the StiPropertyInfo class.
+
+**Parameters**
+
+- **name** (string) — Name of an object properties  
+- **value** (object) — Value of an object property.  
+- **isKey** (bool) — Value indicates that this property describes an object.  
+- **isReference** (bool) — Value indicates that this is a reference to an object.  
+- **isList** (bool) — Value indicates that this is a collection.  
+- **typeName** (string)  
+
 
 ### Properties
 
@@ -42,6 +51,17 @@ public class StiPropertyInfo
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+
 
 ### Fields
 

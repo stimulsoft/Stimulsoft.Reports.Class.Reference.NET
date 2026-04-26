@@ -4,12 +4,7 @@ title: "StiViewerUIIconSet Enum"
 
 ## StiViewerUIIconSet Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiViewerUIIconSet
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

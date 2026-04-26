@@ -4,12 +4,7 @@ title: "StiMapToolboxInfo Class"
 
 ## StiMapToolboxInfo Class
 
-**Namespace:** `Stimulsoft.Report.Toolbox`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiMapToolboxInfo
-```
+**Namespace:** `Stimulsoft.Report.Toolbox`
 
 ### Constructors
 
@@ -19,6 +14,41 @@ public sealed class StiMapToolboxInfo
 | **StiMapToolboxInfo**([StiMapID](../Maps/StiMapID.md) mapID, stringlocalization ) |  |
 | **StiMapToolboxInfo**(string customMapID, byteicon ) |  |
 | **StiMapToolboxInfo**([StiMapCategory](../Maps/StiMapCategory.md) category, string locEnName, string locRuName) |  |
+
+**StiMapToolboxInfo**(**mapID**: [StiMapID](../Maps/StiMapID.md))
+
+**Parameters**
+
+- **mapID** ([StiMapID](../Maps/StiMapID.md))  
+
+---
+
+**StiMapToolboxInfo**(**mapID**: [StiMapID](../Maps/StiMapID.md), ****: stringlocalization)
+
+**Parameters**
+
+- **mapID** ([StiMapID](../Maps/StiMapID.md))  
+- **** (stringlocalization)  
+
+---
+
+**StiMapToolboxInfo**(**customMapID**: string, ****: byteicon)
+
+**Parameters**
+
+- **customMapID** (string)  
+- **** (byteicon)  
+
+---
+
+**StiMapToolboxInfo**(**category**: [StiMapCategory](../Maps/StiMapCategory.md), **locEnName**: string, **locRuName**: string)
+
+**Parameters**
+
+- **category** ([StiMapCategory](../Maps/StiMapCategory.md))  
+- **locEnName** (string)  
+- **locRuName** (string)  
+
 
 ### Properties
 
@@ -40,3 +70,27 @@ public sealed class StiMapToolboxInfo
 | --- | --- | --- |
 | **GetLangOriginalName** | string |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### GetLangOriginalName
+
+**GetLangOriginalName**(**id**: string): string
+
+**Parameters**
+
+- **id** (string)  
+
+**Returns** string
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

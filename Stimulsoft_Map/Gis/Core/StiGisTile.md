@@ -4,12 +4,7 @@ title: "StiGisTile Struct"
 
 ## StiGisTile Struct
 
-**Namespace:** `Stimulsoft.Map.Gis.Core`  
-**Assembly:** `Stimulsoft.Map`
-
-```csharp
-public struct StiGisTile
-```
+**Namespace:** `Stimulsoft.Map.Gis.Core`
 
 ### Inheritance
 
@@ -20,6 +15,14 @@ Implements: IDisposable
 | Constructor | Description |
 | --- | --- |
 | **StiGisTile**(int zoom, [StiGisPoint](StiGisPoint.md) pos) |  |
+
+**StiGisTile**(**zoom**: int, **pos**: [StiGisPoint](StiGisPoint.md))
+
+**Parameters**
+
+- **zoom** (int)  
+- **pos** ([StiGisPoint](StiGisPoint.md))  
+
 
 ### Properties
 
@@ -35,6 +38,37 @@ Implements: IDisposable
 | **Dispose** | void |  |
 | **Equals** | bool |  |
 | **GetHashCode** | int |  |
+
+---
+
+### Method Details
+
+#### Dispose
+
+**Dispose**(): void
+
+
+---
+
+#### Equals
+
+**Equals**(**obj**: object): bool
+
+**Parameters**
+
+- **obj** (object)  
+
+**Returns** bool
+
+
+---
+
+#### GetHashCode
+
+**GetHashCode**(): int
+
+**Returns** int
+
 
 ### Fields
 

@@ -4,14 +4,9 @@ title: "IStiBusinessObject Interface"
 
 ## IStiBusinessObject Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Inteface describes a business object in the component.
-
-```csharp
-public interface IStiBusinessObject
-```
 
 ### Inheritance
 

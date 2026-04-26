@@ -4,12 +4,7 @@ title: "StiImageHyperlinkLoader Class"
 
 ## StiImageHyperlinkLoader Class
 
-**Namespace:** `Stimulsoft.Report.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiImageHyperlinkLoader
-```
+**Namespace:** `Stimulsoft.Report.Helpers`
 
 ### Properties
 
@@ -23,3 +18,17 @@ public static class StiImageHyperlinkLoader
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Load** `static` | void |  |
+
+---
+
+### Method Details
+
+#### Load `static`
+
+**Load**(**image**: StiImage, **url**: string): void
+
+**Parameters**
+
+- **image** (StiImage)  
+- **url** (string)  
+

@@ -4,14 +4,9 @@ title: "StiImageFormat Enum"
 
 ## StiImageFormat Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for setting format of the exported images.
-
-```csharp
-public enum StiImageFormat
-```
 
 ### Members
 

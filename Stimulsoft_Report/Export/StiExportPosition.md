@@ -4,14 +4,9 @@ title: "StiExportPosition Enum"
 
 ## StiExportPosition Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration which defines a position of the export item in the export menu.
-
-```csharp
-public enum StiExportPosition
-```
 
 ### Members
 

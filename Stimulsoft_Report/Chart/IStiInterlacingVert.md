@@ -4,12 +4,7 @@ title: "IStiInterlacingVert Interface"
 
 ## IStiInterlacingVert Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiInterlacingVert
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

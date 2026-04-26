@@ -4,12 +4,7 @@ title: "StiDataFormatKind Enum"
 
 ## StiDataFormatKind Enum
 
-**Namespace:** `Stimulsoft.Data.Engine`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum StiDataFormatKind
-```
+**Namespace:** `Stimulsoft.Data.Engine`
 
 ### Members
 

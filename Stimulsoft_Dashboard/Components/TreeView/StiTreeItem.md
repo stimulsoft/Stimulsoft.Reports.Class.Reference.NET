@@ -4,14 +4,9 @@ title: "StiTreeItem Class"
 
 ## StiTreeItem Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.TreeView`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.TreeView`
 
 Describes base information about tree-view items.
-
-```csharp
-public class StiTreeItem
-```
 
 ### Constructors
 
@@ -20,6 +15,26 @@ public class StiTreeItem
 | **StiTreeItem**() |  |
 | **StiTreeItem**(object key) |  |
 | **StiTreeItem**(object key, [IStiMeter](../../../Stimulsoft_Base/Meters/IStiMeter.md) meter) |  |
+
+**StiTreeItem**()
+
+---
+
+**StiTreeItem**(**key**: object)
+
+**Parameters**
+
+- **key** (object)  
+
+---
+
+**StiTreeItem**(**key**: object, **meter**: [IStiMeter](../../../Stimulsoft_Base/Meters/IStiMeter.md))
+
+**Parameters**
+
+- **key** (object)  
+- **meter** ([IStiMeter](../../../Stimulsoft_Base/Meters/IStiMeter.md))  
+
 
 ### Properties
 
@@ -34,3 +49,14 @@ public class StiTreeItem
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

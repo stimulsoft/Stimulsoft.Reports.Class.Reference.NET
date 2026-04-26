@@ -4,9 +4,4 @@ title: "IStiMeasureColumn Interface"
 
 ## IStiMeasureColumn Interface
 
-**Namespace:** `Stimulsoft.Base.Meters`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public interface IStiMeasureColumn
-```
+**Namespace:** `Stimulsoft.Base.Meters`

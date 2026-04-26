@@ -4,18 +4,21 @@ title: "StiColumnDeletedArg Class"
 
 ## StiColumnDeletedArg Class
 
-**Namespace:** `Stimulsoft.Base.AppsDatabase.SignalR.Event`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiColumnDeletedArg
-```
+**Namespace:** `Stimulsoft.Base.AppsDatabase.SignalR.Event`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiColumnDeletedArg**(string tableKey, string columnName) |  |
+
+**StiColumnDeletedArg**(**tableKey**: string, **columnName**: string)
+
+**Parameters**
+
+- **tableKey** (string)  
+- **columnName** (string)  
+
 
 ### Properties
 

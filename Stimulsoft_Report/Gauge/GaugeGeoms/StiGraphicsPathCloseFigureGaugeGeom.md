@@ -4,12 +4,7 @@ title: "StiGraphicsPathCloseFigureGaugeGeom Class"
 
 ## StiGraphicsPathCloseFigureGaugeGeom Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGraphicsPathCloseFigureGaugeGeom
-```
+**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`
 
 ### Inheritance
 

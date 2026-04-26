@@ -4,12 +4,7 @@ title: "NameRecord Class"
 
 ## NameRecord Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class NameRecord
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

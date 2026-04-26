@@ -4,12 +4,7 @@ title: "StiMapID Enum"
 
 ## StiMapID Enum
 
-**Namespace:** `Stimulsoft.Report.Maps`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiMapID
-```
+**Namespace:** `Stimulsoft.Report.Maps`
 
 ### Members
 

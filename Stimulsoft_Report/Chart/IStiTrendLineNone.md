@@ -4,12 +4,7 @@ title: "IStiTrendLineNone Interface"
 
 ## IStiTrendLineNone Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiTrendLineNone
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

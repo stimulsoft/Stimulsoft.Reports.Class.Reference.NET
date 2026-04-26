@@ -4,12 +4,7 @@ title: "StiIndicatorConditionPermissions Enum"
 
 ## StiIndicatorConditionPermissions Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiIndicatorConditionPermissions
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

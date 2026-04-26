@@ -4,12 +4,7 @@ title: "StiMapGeomsContainer Class"
 
 ## StiMapGeomsContainer Class
 
-**Namespace:** `Stimulsoft.Base.Maps.Geoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiMapGeomsContainer
-```
+**Namespace:** `Stimulsoft.Base.Maps.Geoms`
 
 ### Properties
 
@@ -24,6 +19,17 @@ public class StiMapGeomsContainer
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+
 
 ### Fields
 

@@ -4,14 +4,9 @@ title: "StiExcelType Enum"
 
 ## StiExcelType Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration describes a type of the excel exports.
-
-```csharp
-public enum StiExcelType
-```
 
 ### Members
 

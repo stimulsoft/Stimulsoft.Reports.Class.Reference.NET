@@ -4,12 +4,7 @@ title: "StiShapeElementGdiPainter Class"
 
 ## StiShapeElementGdiPainter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters`  
-**Assembly:** `Stimulsoft.Dashboard.Drawing`
-
-```csharp
-public class StiShapeElementGdiPainter
-```
+**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters`
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiRangeSelectorSeriesType Enum"
 
 ## StiRangeSelectorSeriesType Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiRangeSelectorSeriesType
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

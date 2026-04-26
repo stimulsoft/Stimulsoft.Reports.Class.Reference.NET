@@ -4,12 +4,7 @@ title: "StiValidationSettings Class"
 
 ## StiValidationSettings Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiValidationSettings
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Properties
 
@@ -35,3 +30,53 @@ public class StiValidationSettings
 | **Parse** `static` | [StiValidationSettings](StiValidationSettings.md) |  |
 | **ToString** `static` *(+1 overloads)* | string |  |
 | **Validate** | [StiValidationResult](StiValidationResult.md) |  |
+
+---
+
+### Method Details
+
+#### Parse `static`
+
+**Parse**(**validationString**: string): [StiValidationSettings](StiValidationSettings.md)
+
+**Parameters**
+
+- **validationString** (string)  
+
+**Returns** [StiValidationSettings](StiValidationSettings.md)
+
+
+---
+
+#### ToString `static`
+
+**ToString**(**settings**: [StiValidationSettings](StiValidationSettings.md)): string
+
+**Parameters**
+
+- **settings** ([StiValidationSettings](StiValidationSettings.md))  
+
+**Returns** string
+
+---
+
+**ToString**(): string
+
+**Returns** string
+
+
+---
+
+#### Validate
+
+**Validate**(**value**: object, **type**: Type, **report**: [StiReport](../root/StiReport.md), **variable**: StiVariable): [StiValidationResult](StiValidationResult.md)
+
+**Parameters**
+
+- **value** (object)  
+- **type** (Type)  
+- **report** ([StiReport](../root/StiReport.md))  
+- **variable** (StiVariable)  
+
+**Returns** [StiValidationResult](StiValidationResult.md)
+

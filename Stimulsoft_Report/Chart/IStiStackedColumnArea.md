@@ -4,12 +4,7 @@ title: "IStiStackedColumnArea Interface"
 
 ## IStiStackedColumnArea Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiStackedColumnArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

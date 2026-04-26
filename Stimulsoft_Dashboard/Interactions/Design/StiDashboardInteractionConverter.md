@@ -4,14 +4,9 @@ title: "StiDashboardInteractionConverter Class"
 
 ## StiDashboardInteractionConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Interactions.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Interactions.Design`
 
 Converts the StiDashboardInteraction object from one data type to another.
-
-```csharp
-public class StiDashboardInteractionConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,19 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **CreateNewInstanceDescriptor** | object |  |
+
+---
+
+### Method Details
+
+#### CreateNewInstanceDescriptor
+
+**CreateNewInstanceDescriptor**(**info**: ConstructorInfo, ****: objectobjs): object
+
+**Parameters**
+
+- **info** (ConstructorInfo)  
+- **** (objectobjs)  
+
+**Returns** object
+

@@ -4,12 +4,7 @@ title: "StiColumnsSynchronizationMode Enum"
 
 ## StiColumnsSynchronizationMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiColumnsSynchronizationMode
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiTableFiltersGroupsType Enum"
 
 ## StiTableFiltersGroupsType Enum
 
-**Namespace:** `Stimulsoft.Data.Engine`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum StiTableFiltersGroupsType
-```
+**Namespace:** `Stimulsoft.Data.Engine`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiShowDialogCompleteEvetArgs Class"
 
 ## StiShowDialogCompleteEvetArgs Class
 
-**Namespace:** `Stimulsoft.Report.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiShowDialogCompleteEvetArgs
-```
+**Namespace:** `Stimulsoft.Report.Helpers`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiShowDialogCompleteEvetArgs**(bool dialogResult) |  |
+
+**StiShowDialogCompleteEvetArgs**(**dialogResult**: bool)
+
+**Parameters**
+
+- **dialogResult** (bool)  
+
 
 ### Properties
 

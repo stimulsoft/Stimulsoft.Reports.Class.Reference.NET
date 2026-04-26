@@ -4,12 +4,7 @@ title: "IStiBubbleArea Interface"
 
 ## IStiBubbleArea Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiBubbleArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

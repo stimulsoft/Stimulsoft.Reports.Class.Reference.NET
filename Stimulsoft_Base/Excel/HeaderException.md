@@ -4,12 +4,7 @@ title: "HeaderException Class"
 
 ## HeaderException Class
 
-**Namespace:** `Stimulsoft.Base.Excel`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class HeaderException
-```
+**Namespace:** `Stimulsoft.Base.Excel`
 
 ### Inheritance
 
@@ -22,3 +17,23 @@ Inherits from: Exception
 | **HeaderException**() |  |
 | **HeaderException**(string message) |  |
 | **HeaderException**(string message, Exception innerException) |  |
+
+**HeaderException**()
+
+---
+
+**HeaderException**(**message**: string)
+
+**Parameters**
+
+- **message** (string)  
+
+---
+
+**HeaderException**(**message**: string, **innerException**: Exception)
+
+**Parameters**
+
+- **message** (string)  
+- **innerException** (Exception)  
+

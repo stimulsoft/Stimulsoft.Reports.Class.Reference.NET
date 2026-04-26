@@ -4,12 +4,7 @@ title: "StiAnimation Class"
 
 ## StiAnimation Class
 
-**Namespace:** `Stimulsoft.Base.Context.Animation`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiAnimation
-```
+**Namespace:** `Stimulsoft.Base.Context.Animation`
 
 ### Constructors
 
@@ -17,6 +12,22 @@ public abstract class StiAnimation
 | --- | --- |
 | **StiAnimation**(TimeSpan duration) |  |
 | **StiAnimation**(TimeSpan duration, TimeSpan beginTime) |  |
+
+**StiAnimation**(**duration**: TimeSpan)
+
+**Parameters**
+
+- **duration** (TimeSpan)  
+
+---
+
+**StiAnimation**(**duration**: TimeSpan, **beginTime**: TimeSpan)
+
+**Parameters**
+
+- **duration** (TimeSpan)  
+- **beginTime** (TimeSpan)  
+
 
 ### Properties
 
@@ -27,4 +38,4 @@ public abstract class StiAnimation
 | **BeginTimeCorrect** | TimeSpan |  |
 | **Duration** | TimeSpan |  |
 | **Id** | object |  |
-| **Type** | [StiAnimationType](../../../../../Stimulsoft_Base/StiAnimationType.md) |  |
+| **Type** | [StiAnimationType](../../../../../Stimulsoft_Base/root/StiAnimationType.md) |  |

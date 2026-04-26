@@ -4,14 +4,9 @@ title: "StiDbfCodePages Enum"
 
 ## StiDbfCodePages Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for setting Code Pages.
-
-```csharp
-public enum StiDbfCodePages
-```
 
 ### Members
 

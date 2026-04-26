@@ -4,12 +4,7 @@ title: "MapiFileDesc Class"
 
 ## MapiFileDesc Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class MapiFileDesc
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Fields
 

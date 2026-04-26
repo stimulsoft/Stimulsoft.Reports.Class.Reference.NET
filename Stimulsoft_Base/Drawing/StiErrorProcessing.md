@@ -4,12 +4,7 @@ title: "StiErrorProcessing Enum"
 
 ## StiErrorProcessing Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiErrorProcessing
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

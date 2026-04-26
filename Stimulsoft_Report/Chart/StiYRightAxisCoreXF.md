@@ -4,12 +4,7 @@ title: "StiYRightAxisCoreXF Class"
 
 ## StiYRightAxisCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiYRightAxisCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,8 +16,26 @@ Inherits from: [StiYAxisCoreXF](StiYAxisCoreXF.md)
 | --- | --- |
 | **StiYRightAxisCoreXF**(IStiAxis axis) |  |
 
+**StiYRightAxisCoreXF**(**axis**: IStiAxis)
+
+**Parameters**
+
+- **axis** (IStiAxis)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetStartFromZero** | bool |  |
+
+---
+
+### Method Details
+
+#### GetStartFromZero
+
+**GetStartFromZero**(): bool
+
+**Returns** bool
+

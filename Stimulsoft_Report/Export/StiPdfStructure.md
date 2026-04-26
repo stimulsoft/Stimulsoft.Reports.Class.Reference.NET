@@ -4,18 +4,16 @@ title: "StiPdfStructure Class"
 
 ## StiPdfStructure Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiPdfStructure
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiPdfStructure**() |  |
+
+**StiPdfStructure**()
+
 
 ### Methods
 
@@ -31,6 +29,143 @@ public sealed class StiPdfStructure
 | **CreatePatternsObject** | StiPdfPatternsObjInfo |  |
 | **CreateStructTreeRootObject** | StiPdfStructTreeRootObjInfo |  |
 | **CreateXObject** | StiPdfXObjectObjInfo |  |
+
+---
+
+### Method Details
+
+#### AddRef
+
+**AddRef**(**info**: StiPdfObjInfo): void
+
+**Parameters**
+
+- **info** (StiPdfObjInfo)  
+
+
+---
+
+#### CreateAcroFormObject
+
+**CreateAcroFormObject**(**addRef**: bool): StiPdfAcroFormObjInfo
+
+**Parameters**
+
+- **addRef** (bool)  
+
+**Returns** StiPdfAcroFormObjInfo
+
+
+---
+
+#### CreateAnnotObject
+
+**CreateAnnotObject**(**addRef**: bool, **createAP**: bool, **numberAA**: int): StiPdfAnnotObjInfo
+
+**Parameters**
+
+- **addRef** (bool)  
+- **createAP** (bool)  
+- **numberAA** (int)  
+
+**Returns** StiPdfAnnotObjInfo
+
+
+---
+
+#### CreateContentObject
+
+**CreateContentObject**(**addRef**: bool): StiPdfContentObjInfo
+
+**Parameters**
+
+- **addRef** (bool)  
+
+**Returns** StiPdfContentObjInfo
+
+
+---
+
+#### CreateFontObject
+
+**CreateFontObject**(**addRef**: bool, **useUnicodeMode**: bool, **standardPdfFonts**: bool, **embeddedFonts**: bool, **annotFont**: bool): StiPdfFontObjInfo
+
+**Parameters**
+
+- **addRef** (bool)  
+- **useUnicodeMode** (bool)  
+- **standardPdfFonts** (bool)  
+- **embeddedFonts** (bool)  
+- **annotFont** (bool)  
+
+**Returns** StiPdfFontObjInfo
+
+
+---
+
+#### CreateObject
+
+**CreateObject**(**addRef**: bool): StiPdfObjInfo
+
+**Parameters**
+
+- **addRef** (bool)  
+
+**Returns** StiPdfObjInfo
+
+
+---
+
+#### CreateOutlinesObject
+
+**CreateOutlinesObject**(**addRef**: bool): StiPdfOutlinesObjInfo
+
+**Parameters**
+
+- **addRef** (bool)  
+
+**Returns** StiPdfOutlinesObjInfo
+
+
+---
+
+#### CreatePatternsObject
+
+**CreatePatternsObject**(**addRef**: bool): StiPdfPatternsObjInfo
+
+**Parameters**
+
+- **addRef** (bool)  
+
+**Returns** StiPdfPatternsObjInfo
+
+
+---
+
+#### CreateStructTreeRootObject
+
+**CreateStructTreeRootObject**(**addRef**: bool): StiPdfStructTreeRootObjInfo
+
+**Parameters**
+
+- **addRef** (bool)  
+
+**Returns** StiPdfStructTreeRootObjInfo
+
+
+---
+
+#### CreateXObject
+
+**CreateXObject**(**addRef**: bool, **haveMask**: bool): StiPdfXObjectObjInfo
+
+**Parameters**
+
+- **addRef** (bool)  
+- **haveMask** (bool)  
+
+**Returns** StiPdfXObjectObjInfo
+
 
 ### Fields
 

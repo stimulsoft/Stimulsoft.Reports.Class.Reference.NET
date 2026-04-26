@@ -4,12 +4,7 @@ title: "StiBezierMapGeom Class"
 
 ## StiBezierMapGeom Class
 
-**Namespace:** `Stimulsoft.Base.Maps.Geoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiBezierMapGeom
-```
+**Namespace:** `Stimulsoft.Base.Maps.Geoms`
 
 ### Inheritance
 
@@ -32,3 +27,23 @@ Inherits from: [StiMapGeom](StiMapGeom.md)
 | --- | --- | --- |
 | **GetLastPoint** | [PointD](../../../../../Stimulsoft_Base/Drawing/PointD.md) |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### GetLastPoint
+
+**GetLastPoint**(): [PointD](../../../../../Stimulsoft_Base/Drawing/PointD.md)
+
+**Returns** [PointD](../../../../../Stimulsoft_Base/Drawing/PointD.md)
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

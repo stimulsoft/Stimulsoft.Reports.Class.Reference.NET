@@ -4,12 +4,7 @@ title: "StiPushMatrixGaugeGeom Class"
 
 ## StiPushMatrixGaugeGeom Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPushMatrixGaugeGeom
-```
+**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`
 
 ### Inheritance
 
@@ -20,6 +15,14 @@ Inherits from: [StiGaugeGeom](StiGaugeGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiPushMatrixGaugeGeom**(float angle, PointF centerPoint) |  |
+
+**StiPushMatrixGaugeGeom**(**angle**: float, **centerPoint**: PointF)
+
+**Parameters**
+
+- **angle** (float)  
+- **centerPoint** (PointF)  
+
 
 ### Properties
 

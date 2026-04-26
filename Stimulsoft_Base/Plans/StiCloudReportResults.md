@@ -4,12 +4,7 @@ title: "StiCloudReportResults Class"
 
 ## StiCloudReportResults Class
 
-**Namespace:** `Stimulsoft.Base.Plans`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiCloudReportResults
-```
+**Namespace:** `Stimulsoft.Base.Plans`
 
 ### Methods
 
@@ -19,3 +14,53 @@ public static class StiCloudReportResults
 | **GetAndRemoveLimits** `static` | [StiCloudReportLimits](StiCloudReportLimits.md) |  |
 | **InitMaxDataRows** `static` | void |  |
 | **InitMaxReportPages** `static` | void |  |
+
+---
+
+### Method Details
+
+#### ClearLimits `static`
+
+**ClearLimits**(**reportGuid**: string): void
+
+**Parameters**
+
+- **reportGuid** (string)  
+
+
+---
+
+#### GetAndRemoveLimits `static`
+
+**GetAndRemoveLimits**(**reportGuid**: string): [StiCloudReportLimits](StiCloudReportLimits.md)
+
+**Parameters**
+
+- **reportGuid** (string)  
+
+**Returns** [StiCloudReportLimits](StiCloudReportLimits.md)
+
+
+---
+
+#### InitMaxDataRows `static`
+
+**InitMaxDataRows**(**reportGuid**: string, **max**: int): void
+
+**Parameters**
+
+- **reportGuid** (string)  
+- **max** (int)  
+
+
+---
+
+#### InitMaxReportPages `static`
+
+**InitMaxReportPages**(**reportGuid**: string, **max**: int): void
+
+**Parameters**
+
+- **reportGuid** (string)  
+- **max** (int)  
+

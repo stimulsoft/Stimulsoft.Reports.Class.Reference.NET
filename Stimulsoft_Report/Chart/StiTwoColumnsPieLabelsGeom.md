@@ -4,12 +4,7 @@ title: "StiTwoColumnsPieLabelsGeom Class"
 
 ## StiTwoColumnsPieLabelsGeom Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTwoColumnsPieLabelsGeom
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -39,3 +34,32 @@ Inherits from: [StiSeriesLabelsGeom](StiSeriesLabelsGeom.md)
 | --- | --- | --- |
 | **Draw** | void | Draws area geom object on spefied context. |
 | **DrawMarker** | void |  |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md)): void
+
+Draws area geom object on spefied context.
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+
+
+---
+
+#### DrawMarker
+
+**DrawMarker**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **itemRect**: Rectangle, **markerColor**: object, **markerBrush**: [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **itemRect** (Rectangle)  
+- **markerColor** (object)  
+- **markerBrush** ([StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md))  
+

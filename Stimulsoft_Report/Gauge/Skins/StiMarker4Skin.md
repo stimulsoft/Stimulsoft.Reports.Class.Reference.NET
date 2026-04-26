@@ -4,12 +4,7 @@ title: "StiMarker4Skin Class"
 
 ## StiMarker4Skin Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.Skins`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiMarker4Skin
-```
+**Namespace:** `Stimulsoft.Report.Gauge.Skins`
 
 ### Inheritance
 
@@ -20,3 +15,20 @@ Inherits from: [StiMarkerBaseSkin](StiMarkerBaseSkin.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Draw** | void |  |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: [StiGaugeContextPainter](../../Painters/StiGaugeContextPainter.md), **element**: StiGaugeElement, **rect**: RectangleF, **angle**: float?, **centerPoint**: PointF?): void
+
+**Parameters**
+
+- **context** ([StiGaugeContextPainter](../../Painters/StiGaugeContextPainter.md))  
+- **element** (StiGaugeElement)  
+- **rect** (RectangleF)  
+- **angle** (float?)  
+- **centerPoint** (PointF?)  
+

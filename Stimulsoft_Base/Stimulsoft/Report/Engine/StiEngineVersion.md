@@ -4,14 +4,9 @@ title: "StiEngineVersion Enum"
 
 ## StiEngineVersion Enum
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Report.Engine`
 
 A type of the report engine core.
-
-```csharp
-public enum StiEngineVersion
-```
 
 ### Members
 

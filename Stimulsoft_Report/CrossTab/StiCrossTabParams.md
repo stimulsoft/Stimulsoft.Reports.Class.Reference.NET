@@ -4,12 +4,7 @@ title: "StiCrossTabParams Class"
 
 ## StiCrossTabParams Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCrossTabParams
-```
+**Namespace:** `Stimulsoft.Report.CrossTab`
 
 ### Properties
 

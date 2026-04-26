@@ -4,12 +4,7 @@ title: "RecognizerSharedState Class"
 
 ## RecognizerSharedState Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class RecognizerSharedState
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`
 
 ### Constructors
 
@@ -17,6 +12,17 @@ public class RecognizerSharedState
 | --- | --- |
 | **RecognizerSharedState**() |  |
 | **RecognizerSharedState**([RecognizerSharedState](RecognizerSharedState.md) state) |  |
+
+**RecognizerSharedState**()
+
+---
+
+**RecognizerSharedState**(**state**: [RecognizerSharedState](RecognizerSharedState.md))
+
+**Parameters**
+
+- **state** ([RecognizerSharedState](RecognizerSharedState.md))  
+
 
 ### Fields
 

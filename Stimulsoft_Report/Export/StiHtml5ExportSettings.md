@@ -4,14 +4,9 @@ title: "StiHtml5ExportSettings Class"
 
 ## StiHtml5ExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Class describes settings for export to HTML5 format.
-
-```csharp
-public class StiHtml5ExportSettings
-```
 
 ### Inheritance
 
@@ -22,3 +17,6 @@ Inherits from: StiHtmlExportSettings
 | Constructor | Description |
 | --- | --- |
 | **StiHtml5ExportSettings**() |  |
+
+**StiHtml5ExportSettings**()
+

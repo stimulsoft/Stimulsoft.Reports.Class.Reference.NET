@@ -4,12 +4,7 @@ title: "StiPivotTableElementCondition Class"
 
 ## StiPivotTableElementCondition Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.PivotTable`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiPivotTableElementCondition
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.PivotTable`
 
 ### Inheritance
 
@@ -21,6 +16,9 @@ Implements: [IStiPivotTableElementCondition](../../../Stimulsoft_Report/Dashboar
 | --- | --- |
 | **StiPivotTableElementCondition**() |  |
 
+**StiPivotTableElementCondition**()
+
+
 ### Properties
 
 | Property | Type | Description |
@@ -29,7 +27,7 @@ Implements: [IStiPivotTableElementCondition](../../../Stimulsoft_Report/Dashboar
 | **Condition** | Report.Components.StiFilterCondition |  |
 | **ConditionType** | [StiPivotTableConditionType](../../../Stimulsoft_Report/Dashboard/StiPivotTableConditionType.md) |  |
 | **DataType** | Report.Components.StiFilterDataType |  |
-| **Font** | [Font](../../../Stimulsoft_Drawing/Font.md) |  |
+| **Font** | [Font](../../../Stimulsoft_Drawing/root/Font.md) |  |
 | **Icon** | [StiFontIcons](../../../Stimulsoft_Base/Stimulsoft/Report/Helpers/StiFontIcons.md) |  |
 | **IconAlignment** | [StiIconAlignment](../../../Stimulsoft_Report/Dashboard/StiIconAlignment.md) |  |
 | **IconColor** | Color |  |
@@ -54,3 +52,73 @@ Implements: [IStiPivotTableElementCondition](../../../Stimulsoft_Report/Dashboar
 | **LoadFromJson** `static` | [StiPivotTableElementCondition](StiPivotTableElementCondition.md) |  |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+**Returns** object
+
+
+---
+
+#### GetIcon
+
+**GetIcon**(**isExporting**: bool): byte[]
+
+**Parameters**
+
+- **isExporting** (bool)  
+
+**Returns** byte[]
+
+
+---
+
+#### GetUniqueCode
+
+**GetUniqueCode**(): int
+
+**Returns** int
+
+
+---
+
+#### LoadFromJson `static`
+
+**LoadFromJson**(**json**: [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md)): [StiPivotTableElementCondition](StiPivotTableElementCondition.md)
+
+**Parameters**
+
+- **json** ([JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+**Returns** [StiPivotTableElementCondition](StiPivotTableElementCondition.md)
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md)
+

@@ -4,12 +4,7 @@ title: "StiHeatmapAreaCoreXF Class"
 
 ## StiHeatmapAreaCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiHeatmapAreaCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,6 +16,13 @@ Inherits from: [StiAxisAreaCoreXF](StiAxisAreaCoreXF.md)
 | --- | --- |
 | **StiHeatmapAreaCoreXF**(IStiArea area) |  |
 
+**StiHeatmapAreaCoreXF**(**area**: IStiArea)
+
+**Parameters**
+
+- **area** (IStiArea)  
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -28,3 +30,39 @@ Inherits from: [StiAxisAreaCoreXF](StiAxisAreaCoreXF.md)
 | **CreateStripLinesXAxis** | void |  |
 | **CreateStripLinesYAxis** | void |  |
 | **PrepareInfo** | void |  |
+
+---
+
+### Method Details
+
+#### CreateStripLinesXAxis
+
+**CreateStripLinesXAxis**(**axis**: IStiAxis): void
+
+**Parameters**
+
+- **axis** (IStiAxis)  
+
+
+---
+
+#### CreateStripLinesYAxis
+
+**CreateStripLinesYAxis**(**axis**: IStiAxis, **isDateTimeValues**: bool): void
+
+**Parameters**
+
+- **axis** (IStiAxis)  
+- **isDateTimeValues** (bool)  
+
+
+---
+
+#### PrepareInfo
+
+**PrepareInfo**(**rect**: RectangleF): void
+
+**Parameters**
+
+- **rect** (RectangleF)  
+

@@ -4,14 +4,9 @@ title: "StiComponentCreationEventArgs Class"
 
 ## StiComponentCreationEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event ComponentCreated.
-
-```csharp
-public class StiComponentCreationEventArgs
-```
 
 ### Inheritance
 
@@ -22,6 +17,14 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiComponentCreationEventArgs**([IStiDesignerBase](../Design/IStiDesignerBase.md) designer, StiComponent component) |  |
+
+**StiComponentCreationEventArgs**(**designer**: [IStiDesignerBase](../Design/IStiDesignerBase.md), **component**: StiComponent)
+
+**Parameters**
+
+- **designer** ([IStiDesignerBase](../Design/IStiDesignerBase.md))  
+- **component** (StiComponent)  
+
 
 ### Properties
 

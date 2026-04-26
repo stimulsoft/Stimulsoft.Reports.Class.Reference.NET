@@ -4,12 +4,7 @@ title: "StiRecentGroup Enum"
 
 ## StiRecentGroup Enum
 
-**Namespace:** `Stimulsoft.Base.RecentFiles`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiRecentGroup
-```
+**Namespace:** `Stimulsoft.Base.RecentFiles`
 
 ### Members
 

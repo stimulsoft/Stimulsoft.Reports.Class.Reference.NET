@@ -4,12 +4,7 @@ title: "StiSiennaPivotElementStyle Class"
 
 ## StiSiennaPivotElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSiennaPivotElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 

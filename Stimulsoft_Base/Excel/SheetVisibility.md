@@ -4,12 +4,7 @@ title: "SheetVisibility Enum"
 
 ## SheetVisibility Enum
 
-**Namespace:** `Stimulsoft.Base.Excel`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum SheetVisibility
-```
+**Namespace:** `Stimulsoft.Base.Excel`
 
 ### Inheritance
 

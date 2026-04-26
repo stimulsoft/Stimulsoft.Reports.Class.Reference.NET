@@ -4,14 +4,9 @@ title: "StiStylesConverter Class"
 
 ## StiStylesConverter Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Design`
 
 Converts StiStyleCollection from one data type to another.
-
-```csharp
-public class StiStylesConverter
-```
 
 ### Inheritance
 
@@ -23,3 +18,32 @@ Inherits from: TypeConverter
 | --- | --- | --- |
 | **CanConvertTo** | bool |  |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### CanConvertTo
+
+**CanConvertTo**(**context**: ITypeDescriptorContext, **destinationType**: Type): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **destinationType** (Type)  
+
+**Returns** bool
+
+
+---
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

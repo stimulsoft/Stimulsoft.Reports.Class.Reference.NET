@@ -4,14 +4,9 @@ title: "ConstructorHandling Enum"
 
 ## ConstructorHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies how constructors are used when initializing objects during deserialization by the JsonSerializer.
-
-```csharp
-public enum ConstructorHandling
-```
 
 ### Members
 

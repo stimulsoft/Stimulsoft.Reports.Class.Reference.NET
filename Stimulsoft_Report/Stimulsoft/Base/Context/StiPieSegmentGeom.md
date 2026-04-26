@@ -4,12 +4,7 @@ title: "StiPieSegmentGeom Class"
 
 ## StiPieSegmentGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPieSegmentGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 
@@ -21,6 +16,29 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 | --- | --- |
 | **StiPieSegmentGeom**(RectangleF rect, float startAngle, float sweepAngle, [StiAnimation](Animation/StiAnimation.md) animation) |  |
 | **StiPieSegmentGeom**(RectangleF rect, float startAngle, float sweepAngle, float realStartAngle, float realSweepAngle, [StiAnimation](Animation/StiAnimation.md) animation) |  |
+
+**StiPieSegmentGeom**(**rect**: RectangleF, **startAngle**: float, **sweepAngle**: float, **animation**: [StiAnimation](Animation/StiAnimation.md))
+
+**Parameters**
+
+- **rect** (RectangleF)  
+- **startAngle** (float)  
+- **sweepAngle** (float)  
+- **animation** ([StiAnimation](Animation/StiAnimation.md))  
+
+---
+
+**StiPieSegmentGeom**(**rect**: RectangleF, **startAngle**: float, **sweepAngle**: float, **realStartAngle**: float, **realSweepAngle**: float, **animation**: [StiAnimation](Animation/StiAnimation.md))
+
+**Parameters**
+
+- **rect** (RectangleF)  
+- **startAngle** (float)  
+- **sweepAngle** (float)  
+- **realStartAngle** (float)  
+- **realSweepAngle** (float)  
+- **animation** ([StiAnimation](Animation/StiAnimation.md))  
+
 
 ### Properties
 
@@ -40,6 +58,32 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 | --- | --- | --- |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
 
 ### Fields
 

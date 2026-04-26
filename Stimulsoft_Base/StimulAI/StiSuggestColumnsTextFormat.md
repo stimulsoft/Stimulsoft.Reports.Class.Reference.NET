@@ -4,12 +4,7 @@ title: "StiSuggestColumnsTextFormat Enum"
 
 ## StiSuggestColumnsTextFormat Enum
 
-**Namespace:** `Stimulsoft.Base.StimulAI`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiSuggestColumnsTextFormat
-```
+**Namespace:** `Stimulsoft.Base.StimulAI`
 
 ### Members
 

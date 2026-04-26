@@ -4,12 +4,7 @@ title: "StiHtmlImage Class"
 
 ## StiHtmlImage Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiHtmlImage
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Fields
 

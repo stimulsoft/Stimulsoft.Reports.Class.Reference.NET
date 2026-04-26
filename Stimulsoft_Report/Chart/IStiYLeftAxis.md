@@ -4,12 +4,7 @@ title: "IStiYLeftAxis Interface"
 
 ## IStiYLeftAxis Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiYLeftAxis
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

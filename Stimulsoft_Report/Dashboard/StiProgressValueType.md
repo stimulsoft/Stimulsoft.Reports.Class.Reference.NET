@@ -4,12 +4,7 @@ title: "StiProgressValueType Enum"
 
 ## StiProgressValueType Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiProgressValueType
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

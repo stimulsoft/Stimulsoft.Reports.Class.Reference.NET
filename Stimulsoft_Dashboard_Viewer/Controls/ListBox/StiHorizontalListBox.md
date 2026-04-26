@@ -4,12 +4,7 @@ title: "StiHorizontalListBox Class"
 
 ## StiHorizontalListBox Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.ListBox`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiHorizontalListBox
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.ListBox`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: Panel
 | Constructor | Description |
 | --- | --- |
 | **StiHorizontalListBox**() |  |
+
+**StiHorizontalListBox**()
+
 
 ### Properties
 
@@ -48,6 +46,120 @@ Inherits from: Panel
 | **ResetAllItemsSelectionAndSelectFirstOnly** | void |  |
 | **SelectAllItems** | void |  |
 | **SelectFirstItemOnly** | void |  |
+
+---
+
+### Method Details
+
+#### Dispose
+
+**Dispose**(**disposing**: bool): void
+
+**Parameters**
+
+- **disposing** (bool)  
+
+
+---
+
+#### OnMouseDown
+
+**OnMouseDown**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnMouseHover
+
+**OnMouseHover**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseLeave
+
+**OnMouseLeave**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseMove
+
+**OnMouseMove**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnPaint
+
+**OnPaint**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+
+
+---
+
+#### OnSizeChanged
+
+**OnSizeChanged**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### RefreshUI
+
+**RefreshUI**(): void
+
+
+---
+
+#### ResetAllItemsSelection
+
+**ResetAllItemsSelection**(): void
+
+
+---
+
+#### ResetAllItemsSelectionAndSelectFirstOnly
+
+**ResetAllItemsSelectionAndSelectFirstOnly**(): void
+
+
+---
+
+#### SelectAllItems
+
+**SelectAllItems**(): void
+
+
+---
+
+#### SelectFirstItemOnly
+
+**SelectFirstItemOnly**(): void
+
 
 ### Events
 

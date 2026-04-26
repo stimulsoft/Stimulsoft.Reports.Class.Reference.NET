@@ -4,11 +4,6 @@ title: "IStiHorAlignment Interface"
 
 ## IStiHorAlignment Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Inteface describes the horizontal alignment of an object.
-
-```csharp
-public interface IStiHorAlignment
-```

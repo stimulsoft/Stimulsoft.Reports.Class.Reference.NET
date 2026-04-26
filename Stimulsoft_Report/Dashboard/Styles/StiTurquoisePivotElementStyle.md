@@ -4,12 +4,7 @@ title: "StiTurquoisePivotElementStyle Class"
 
 ## StiTurquoisePivotElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTurquoisePivotElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 

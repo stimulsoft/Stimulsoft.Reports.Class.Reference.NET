@@ -4,14 +4,9 @@ title: "StiDataBarsBrushType Enum"
 
 ## StiDataBarsBrushType Enum
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Table`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Table`
 
 Styles of brush for drawing Data Bars Indicator
-
-```csharp
-public enum StiDataBarsBrushType
-```
 
 ### Members
 

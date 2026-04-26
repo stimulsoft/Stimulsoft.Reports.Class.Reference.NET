@@ -4,12 +4,7 @@ title: "StiAppDatabaseColumnSizes Class"
 
 ## StiAppDatabaseColumnSizes Class
 
-**Namespace:** `Stimulsoft.Base.AppsDatabase`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiAppDatabaseColumnSizes
-```
+**Namespace:** `Stimulsoft.Base.AppsDatabase`
 
 ### Methods
 
@@ -17,3 +12,29 @@ public static class StiAppDatabaseColumnSizes
 | --- | --- | --- |
 | **Get** `static` | TableDetails |  |
 | **SetAndSave** `static` | void |  |
+
+---
+
+### Method Details
+
+#### Get `static`
+
+**Get**(**tableKey**: string): TableDetails
+
+**Parameters**
+
+- **tableKey** (string)  
+
+**Returns** TableDetails
+
+
+---
+
+#### SetAndSave `static`
+
+**SetAndSave**(**details**: TableDetails): void
+
+**Parameters**
+
+- **details** (TableDetails)  
+

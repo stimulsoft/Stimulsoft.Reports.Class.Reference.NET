@@ -4,12 +4,7 @@ title: "StiCopyStyleExtHub Class"
 
 ## StiCopyStyleExtHub Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiCopyStyleExtHub
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Properties
 

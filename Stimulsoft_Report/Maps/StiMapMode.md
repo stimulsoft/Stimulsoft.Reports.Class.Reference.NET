@@ -4,12 +4,7 @@ title: "StiMapMode Enum"
 
 ## StiMapMode Enum
 
-**Namespace:** `Stimulsoft.Report.Maps`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiMapMode
-```
+**Namespace:** `Stimulsoft.Report.Maps`
 
 ### Members
 

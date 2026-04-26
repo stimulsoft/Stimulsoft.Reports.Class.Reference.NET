@@ -4,12 +4,7 @@ title: "IStiImageDashboardExportSettings Interface"
 
 ## IStiImageDashboardExportSettings Interface
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiImageDashboardExportSettings
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Export`
 
 ### Inheritance
 

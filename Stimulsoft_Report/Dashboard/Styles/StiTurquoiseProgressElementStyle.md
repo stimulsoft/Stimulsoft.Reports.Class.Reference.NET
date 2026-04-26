@@ -4,12 +4,7 @@ title: "StiTurquoiseProgressElementStyle Class"
 
 ## StiTurquoiseProgressElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTurquoiseProgressElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiDecimalHelper Class"
 
 ## StiDecimalHelper Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab.Core`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiDecimalHelper
-```
+**Namespace:** `Stimulsoft.Report.CrossTab.Core`
 
 ### Methods
 
@@ -17,3 +12,31 @@ public static class StiDecimalHelper
 | --- | --- | --- |
 | **CanConvertToDecimal** `static` | bool |  |
 | **ConvertToDecimal** `static` | decimal |  |
+
+---
+
+### Method Details
+
+#### CanConvertToDecimal `static`
+
+**CanConvertToDecimal**(**value**: object): bool
+
+**Parameters**
+
+- **value** (object)  
+
+**Returns** bool
+
+
+---
+
+#### ConvertToDecimal `static`
+
+**ConvertToDecimal**(**value**: object): decimal
+
+**Parameters**
+
+- **value** (object)  
+
+**Returns** decimal
+

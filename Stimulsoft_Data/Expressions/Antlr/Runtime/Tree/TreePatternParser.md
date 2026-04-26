@@ -4,18 +4,22 @@ title: "TreePatternParser Class"
 
 ## TreePatternParser Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Tree`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class TreePatternParser
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Tree`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **TreePatternParser**([TreePatternLexer](TreePatternLexer.md) tokenizer, [TreeWizard](TreeWizard.md) wizard, [ITreeAdaptor](ITreeAdaptor.md) adaptor) |  |
+
+**TreePatternParser**(**tokenizer**: [TreePatternLexer](TreePatternLexer.md), **wizard**: [TreeWizard](TreeWizard.md), **adaptor**: [ITreeAdaptor](ITreeAdaptor.md))
+
+**Parameters**
+
+- **tokenizer** ([TreePatternLexer](TreePatternLexer.md))  
+- **wizard** ([TreeWizard](TreeWizard.md))  
+- **adaptor** ([ITreeAdaptor](ITreeAdaptor.md))  
+
 
 ### Methods
 
@@ -24,6 +28,35 @@ public class TreePatternParser
 | **ParseNode** | object |  |
 | **ParseTree** | object |  |
 | **Pattern** | object |  |
+
+---
+
+### Method Details
+
+#### ParseNode
+
+**ParseNode**(): object
+
+**Returns** object
+
+
+---
+
+#### ParseTree
+
+**ParseTree**(): object
+
+**Returns** object
+
+
+---
+
+#### Pattern
+
+**Pattern**(): object
+
+**Returns** object
+
 
 ### Fields
 

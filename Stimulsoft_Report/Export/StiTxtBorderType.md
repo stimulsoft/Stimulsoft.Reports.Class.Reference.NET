@@ -4,14 +4,9 @@ title: "StiTxtBorderType Enum"
 
 ## StiTxtBorderType Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration describes a type of the border.
-
-```csharp
-public enum StiTxtBorderType
-```
 
 ### Members
 

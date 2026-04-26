@@ -4,11 +4,6 @@ title: "IStiMargin Interface"
 
 ## IStiMargin Interface
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 Describes margins around component.
-
-```csharp
-public interface IStiMargin
-```

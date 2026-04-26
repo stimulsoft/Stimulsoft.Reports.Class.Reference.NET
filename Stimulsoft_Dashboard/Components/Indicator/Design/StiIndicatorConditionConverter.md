@@ -4,12 +4,7 @@ title: "StiIndicatorConditionConverter Class"
 
 ## StiIndicatorConditionConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Indicator.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiIndicatorConditionConverter
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Indicator.Design`
 
 ### Inheritance
 

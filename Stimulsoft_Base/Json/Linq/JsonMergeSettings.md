@@ -4,11 +4,6 @@ title: "JsonMergeSettings Class"
 
 ## JsonMergeSettings Class
 
-**Namespace:** `Stimulsoft.Base.Json.Linq`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Linq`
 
 Specifies the settings used when merging JSON.
-
-```csharp
-public class JsonMergeSettings
-```

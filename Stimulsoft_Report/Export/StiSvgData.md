@@ -4,12 +4,7 @@ title: "StiSvgData Struct"
 
 ## StiSvgData Struct
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public struct StiSvgData
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Properties
 
@@ -26,6 +21,17 @@ public struct StiSvgData
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Clone** | [StiSvgData](StiSvgData.md) |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): [StiSvgData](StiSvgData.md)
+
+**Returns** [StiSvgData](StiSvgData.md)
+
 
 ### Fields
 

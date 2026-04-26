@@ -4,14 +4,9 @@ title: "StiRankFunctionService Class"
 
 ## StiRankFunctionService Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 Describes the class for work with Rank aggregate function. To calculate the type Int is used.
-
-```csharp
-public class StiRankFunctionService
-```
 
 ### Inheritance
 
@@ -23,7 +18,28 @@ Inherits from: StiAggregateFunctionService
 | --- | --- |
 | **StiRankFunctionService**() |  |
 | **StiRankFunctionService**(bool runningTotal) |  |
-| **StiRankFunctionService**(bool runningTotal, bool dense, [StiRankOrder](../StiRankOrder.md) sortOrder) |  |
+| **StiRankFunctionService**(bool runningTotal, bool dense, [StiRankOrder](../root/StiRankOrder.md) sortOrder) |  |
+
+**StiRankFunctionService**()
+
+---
+
+**StiRankFunctionService**(**runningTotal**: bool)
+
+**Parameters**
+
+- **runningTotal** (bool)  
+
+---
+
+**StiRankFunctionService**(**runningTotal**: bool, **dense**: bool, **sortOrder**: [StiRankOrder](../root/StiRankOrder.md))
+
+**Parameters**
+
+- **runningTotal** (bool)  
+- **dense** (bool)  
+- **sortOrder** ([StiRankOrder](../root/StiRankOrder.md))  
+
 
 ### Methods
 
@@ -36,3 +52,88 @@ Inherits from: StiAggregateFunctionService
 | **RestoreState** | void | Restores the earlier saved object state. |
 | **SaveState** | void | Saves the current state of an object. |
 | **SetValue** | void | Sets the calculation result. |
+
+---
+
+### Method Details
+
+#### CalcItem
+
+**CalcItem**(**value**: object): void
+
+A value calculation.
+
+**Parameters**
+
+- **value** (object) — Value.  
+
+
+---
+
+#### GetResultType
+
+**GetResultType**(): Type
+
+Returns the type of the result.
+
+**Returns** Type
+
+
+---
+
+#### GetValue
+
+**GetValue**(): object
+
+Returns the calculation result.
+
+**Returns** object — Calculation result.
+
+
+---
+
+#### Init
+
+**Init**(): void
+
+First initialization.
+
+
+---
+
+#### RestoreState
+
+**RestoreState**(**stateName**: string): void
+
+Restores the earlier saved object state.
+
+**Parameters**
+
+- **stateName** (string) — A name of the state being restored.  
+
+
+---
+
+#### SaveState
+
+**SaveState**(**stateName**: string): void
+
+Saves the current state of an object.
+
+**Parameters**
+
+- **stateName** (string) — A name of the state being saved.  
+
+
+---
+
+#### SetValue
+
+**SetValue**(**value**: object): void
+
+Sets the calculation result.
+
+**Parameters**
+
+- **value** (object)  
+

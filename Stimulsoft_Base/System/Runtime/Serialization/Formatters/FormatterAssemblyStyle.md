@@ -4,14 +4,9 @@ title: "FormatterAssemblyStyle Enum"
 
 ## FormatterAssemblyStyle Enum
 
-**Namespace:** `System.Runtime.Serialization.Formatters`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `System.Runtime.Serialization.Formatters`
 
 Indicates the method that will be used during deserialization for locating and loading assemblies.
-
-```csharp
-public enum FormatterAssemblyStyle
-```
 
 ### Members
 

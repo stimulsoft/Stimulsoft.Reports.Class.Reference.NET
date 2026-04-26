@@ -4,12 +4,7 @@ title: "StiRichBoxControl Class"
 
 ## StiRichBoxControl Class
 
-**Namespace:** `Stimulsoft.Report.Controls`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRichBoxControl
-```
+**Namespace:** `Stimulsoft.Report.Controls`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: RichTextBox
 | Constructor | Description |
 | --- | --- |
 | **StiRichBoxControl**() |  |
+
+**StiRichBoxControl**()
+
 
 ### Properties
 
@@ -41,6 +39,120 @@ Inherits from: RichTextBox
 | **SetSelectionSize** | bool |  |
 | **SetSelectionUnderlined** | bool |  |
 | **WndProc** | void |  |
+
+---
+
+### Method Details
+
+#### BeginUpdate
+
+**BeginUpdate**(): void
+
+
+---
+
+#### EndUpdate
+
+**EndUpdate**(): void
+
+
+---
+
+#### OnHandleCreated
+
+**OnHandleCreated**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnKeyDown
+
+**OnKeyDown**(**e**: KeyEventArgs): void
+
+**Parameters**
+
+- **e** (KeyEventArgs)  
+
+
+---
+
+#### SetSelectionBold
+
+**SetSelectionBold**(**bold**: bool): bool
+
+**Parameters**
+
+- **bold** (bool)  
+
+**Returns** bool
+
+
+---
+
+#### SetSelectionFont
+
+**SetSelectionFont**(**face**: string): bool
+
+**Parameters**
+
+- **face** (string)  
+
+**Returns** bool
+
+
+---
+
+#### SetSelectionItalic
+
+**SetSelectionItalic**(**italic**: bool): bool
+
+**Parameters**
+
+- **italic** (bool)  
+
+**Returns** bool
+
+
+---
+
+#### SetSelectionSize
+
+**SetSelectionSize**(**size**: int): bool
+
+**Parameters**
+
+- **size** (int)  
+
+**Returns** bool
+
+
+---
+
+#### SetSelectionUnderlined
+
+**SetSelectionUnderlined**(**underlined**: bool): bool
+
+**Parameters**
+
+- **underlined** (bool)  
+
+**Returns** bool
+
+
+---
+
+#### WndProc
+
+**WndProc**(**m**: Message): void
+
+**Parameters**
+
+- **m** (Message)  
+
 
 ### Fields
 

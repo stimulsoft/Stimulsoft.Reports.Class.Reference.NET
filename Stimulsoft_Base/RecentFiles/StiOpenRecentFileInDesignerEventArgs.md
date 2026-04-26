@@ -4,18 +4,21 @@ title: "StiOpenRecentFileInDesignerEventArgs Class"
 
 ## StiOpenRecentFileInDesignerEventArgs Class
 
-**Namespace:** `Stimulsoft.Base.RecentFiles`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiOpenRecentFileInDesignerEventArgs
-```
+**Namespace:** `Stimulsoft.Base.RecentFiles`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiOpenRecentFileInDesignerEventArgs**(object designerControl, [StiRecentFile](../../Stimulsoft_Report/Design/StiRecentFile.md) recentFile) |  |
+
+**StiOpenRecentFileInDesignerEventArgs**(**designerControl**: object, **recentFile**: [StiRecentFile](../../Stimulsoft_Report/Design/StiRecentFile.md))
+
+**Parameters**
+
+- **designerControl** (object)  
+- **recentFile** ([StiRecentFile](../../Stimulsoft_Report/Design/StiRecentFile.md))  
+
 
 ### Properties
 

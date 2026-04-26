@@ -4,12 +4,7 @@ title: "StiWaterfallAreaCoreXF Class"
 
 ## StiWaterfallAreaCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiWaterfallAreaCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,8 +16,31 @@ Inherits from: [StiAxisAreaCoreXF](StiAxisAreaCoreXF.md)
 | --- | --- |
 | **StiWaterfallAreaCoreXF**(IStiArea area) |  |
 
+**StiWaterfallAreaCoreXF**(**area**: IStiArea)
+
+**Parameters**
+
+- **area** (IStiArea)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **PrepareRange** | void |  |
+
+---
+
+### Method Details
+
+#### PrepareRange
+
+**PrepareRange**(**specXAxis**: IStiAxis, **specXTopAxis**: IStiAxis, **specYAxis**: IStiAxis, **specYRightAxis**: IStiAxis): void
+
+**Parameters**
+
+- **specXAxis** (IStiAxis)  
+- **specXTopAxis** (IStiAxis)  
+- **specYAxis** (IStiAxis)  
+- **specYRightAxis** (IStiAxis)  
+

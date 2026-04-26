@@ -4,12 +4,7 @@ title: "StiListBoxItem Class"
 
 ## StiListBoxItem Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.ListBox`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiListBoxItem
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.ListBox`
 
 ### Constructors
 
@@ -17,6 +12,22 @@ public class StiListBoxItem
 | --- | --- |
 | **StiListBoxItem**(string label) |  |
 | **StiListBoxItem**(string label, object value) |  |
+
+**StiListBoxItem**(**label**: string)
+
+**Parameters**
+
+- **label** (string)  
+
+---
+
+**StiListBoxItem**(**label**: string, **value**: object)
+
+**Parameters**
+
+- **label** (string)  
+- **value** (object)  
+
 
 ### Properties
 
@@ -31,3 +42,14 @@ public class StiListBoxItem
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

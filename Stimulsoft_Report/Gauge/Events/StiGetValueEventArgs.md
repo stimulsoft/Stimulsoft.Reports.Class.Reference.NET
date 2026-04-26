@@ -4,14 +4,9 @@ title: "StiGetValueEventArgs Class"
 
 ## StiGetValueEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Gauge.Events`
 
 Describes an argument for the event GetValue.
-
-```csharp
-public class StiGetValueEventArgs
-```
 
 ### Inheritance
 
@@ -22,6 +17,9 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiGetValueEventArgs**() |  |
+
+**StiGetValueEventArgs**()
+
 
 ### Properties
 

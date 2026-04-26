@@ -4,12 +4,7 @@ title: "StiValidationResult Class"
 
 ## StiValidationResult Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiValidationResult
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Properties
 
@@ -27,3 +22,41 @@ public class StiValidationResult
 | **Fail** `static` | [StiValidationResult](StiValidationResult.md) |  |
 | **Success** `static` | [StiValidationResult](StiValidationResult.md) |  |
 | **Warning** `static` | [StiValidationResult](StiValidationResult.md) |  |
+
+---
+
+### Method Details
+
+#### Fail `static`
+
+**Fail**(**message**: string, **level**: [StiValidationLevel](StiValidationLevel.md)): [StiValidationResult](StiValidationResult.md)
+
+**Parameters**
+
+- **message** (string)  
+- **level** ([StiValidationLevel](StiValidationLevel.md))  
+
+**Returns** [StiValidationResult](StiValidationResult.md)
+
+
+---
+
+#### Success `static`
+
+**Success**(): [StiValidationResult](StiValidationResult.md)
+
+**Returns** [StiValidationResult](StiValidationResult.md)
+
+
+---
+
+#### Warning `static`
+
+**Warning**(**message**: string): [StiValidationResult](StiValidationResult.md)
+
+**Parameters**
+
+- **message** (string)  
+
+**Returns** [StiValidationResult](StiValidationResult.md)
+

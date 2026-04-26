@@ -4,12 +4,7 @@ title: "StiFunnelWeightedSlicesSeries Class"
 
 ## StiFunnelWeightedSlicesSeries Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiFunnelWeightedSlicesSeries
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -22,6 +17,9 @@ Implements: [IStiFunnelWeightedSlicesSeries](IStiFunnelWeightedSlicesSeries.md)
 | --- | --- |
 | **StiFunnelWeightedSlicesSeries**() |  |
 
+**StiFunnelWeightedSlicesSeries**()
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -29,3 +27,34 @@ Implements: [IStiFunnelWeightedSlicesSeries](IStiFunnelWeightedSlicesSeries.md)
 | **Clone** | object | Creates a new object that is a copy of the current instance. |
 | **CreateNew** | StiSeries |  |
 | **GetDefaultAreaType** | Type |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+Creates a new object that is a copy of the current instance.
+
+**Returns** object — A new object that is a copy of this instance.
+
+
+---
+
+#### CreateNew
+
+**CreateNew**(): StiSeries
+
+**Returns** StiSeries
+
+
+---
+
+#### GetDefaultAreaType
+
+**GetDefaultAreaType**(): Type
+
+**Returns** Type
+

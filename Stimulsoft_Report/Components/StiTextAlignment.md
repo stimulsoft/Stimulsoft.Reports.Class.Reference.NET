@@ -4,14 +4,9 @@ title: "StiTextAlignment Enum"
 
 ## StiTextAlignment Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Variants of the text alignment.
-
-```csharp
-public enum StiTextAlignment
-```
 
 ### Members
 

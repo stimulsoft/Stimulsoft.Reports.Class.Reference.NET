@@ -4,18 +4,20 @@ title: "StiProjection Class"
 
 ## StiProjection Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiProjection
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiProjection**([StiRender3D](StiRender3D.md) render) |  |
+
+**StiProjection**(**render**: [StiRender3D](StiRender3D.md))
+
+**Parameters**
+
+- **render** ([StiRender3D](StiRender3D.md))  
+
 
 ### Properties
 

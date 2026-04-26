@@ -4,12 +4,7 @@ title: "StiMaxGaugeMeter Class"
 
 ## StiMaxGaugeMeter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Gauge`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiMaxGaugeMeter
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Gauge`
 
 ### Inheritance
 
@@ -23,6 +18,28 @@ Implements: [IStiMaxGaugeMeter](../../../Stimulsoft_Base/Meters/IStiMaxGaugeMete
 | **StiMaxGaugeMeter**() |  |
 | **StiMaxGaugeMeter**(string expression, string label) |  |
 | **StiMaxGaugeMeter**(string key, string expression, string label) |  |
+
+**StiMaxGaugeMeter**()
+
+---
+
+**StiMaxGaugeMeter**(**expression**: string, **label**: string)
+
+**Parameters**
+
+- **expression** (string)  
+- **label** (string)  
+
+---
+
+**StiMaxGaugeMeter**(**key**: string, **expression**: string, **label**: string)
+
+**Parameters**
+
+- **key** (string)  
+- **expression** (string)  
+- **label** (string)  
+
 
 ### Properties
 

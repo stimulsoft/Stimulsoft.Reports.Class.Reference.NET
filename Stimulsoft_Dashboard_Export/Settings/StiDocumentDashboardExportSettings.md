@@ -4,12 +4,7 @@ title: "StiDocumentDashboardExportSettings Class"
 
 ## StiDocumentDashboardExportSettings Class
 
-**Namespace:** `Stimulsoft.Dashboard.Export.Settings`  
-**Assembly:** `Stimulsoft.Dashboard.Export`
-
-```csharp
-public class StiDocumentDashboardExportSettings
-```
+**Namespace:** `Stimulsoft.Dashboard.Export.Settings`
 
 ### Inheritance
 
@@ -20,3 +15,6 @@ Inherits from: StiDashboardExportSettings
 | Constructor | Description |
 | --- | --- |
 | **StiDocumentDashboardExportSettings**() |  |
+
+**StiDocumentDashboardExportSettings**()
+

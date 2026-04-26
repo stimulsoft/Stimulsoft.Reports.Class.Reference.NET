@@ -4,12 +4,7 @@ title: "StiFontIconGroup Enum"
 
 ## StiFontIconGroup Enum
 
-**Namespace:** `Stimulsoft.Report.Helpers`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiFontIconGroup
-```
+**Namespace:** `Stimulsoft.Report.Helpers`
 
 ### Members
 

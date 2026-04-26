@@ -4,12 +4,7 @@ title: "StiMaxDataRowsException Class"
 
 ## StiMaxDataRowsException Class
 
-**Namespace:** `Stimulsoft.Base.Exceptions`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiMaxDataRowsException
-```
+**Namespace:** `Stimulsoft.Base.Exceptions`
 
 ### Inheritance
 

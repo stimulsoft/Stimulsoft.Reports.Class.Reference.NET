@@ -4,12 +4,7 @@ title: "StiDbsThumbnaiModelHelper Class"
 
 ## StiDbsThumbnaiModelHelper Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiDbsThumbnaiModelHelper
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Helpers`
 
 ### Methods
 
@@ -18,3 +13,40 @@ public static class StiDbsThumbnaiModelHelper
 | **Add** `static` | void |  |
 | **AllowPage** `static` | bool |  |
 | **Remove** `static` | void |  |
+
+---
+
+### Method Details
+
+#### Add `static`
+
+**Add**(**page**: StiPage): void
+
+**Parameters**
+
+- **page** (StiPage)  
+
+
+---
+
+#### AllowPage `static`
+
+**AllowPage**(**page**: StiPage): bool
+
+**Parameters**
+
+- **page** (StiPage)  
+
+**Returns** bool
+
+
+---
+
+#### Remove `static`
+
+**Remove**(**page**: StiPage): void
+
+**Parameters**
+
+- **page** (StiPage)  
+

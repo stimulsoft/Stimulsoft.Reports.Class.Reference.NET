@@ -4,12 +4,7 @@ title: "StiSliderDatePickerElementGdiPainter Class"
 
 ## StiSliderDatePickerElementGdiPainter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters`  
-**Assembly:** `Stimulsoft.Dashboard.Drawing`
-
-```csharp
-public class StiSliderDatePickerElementGdiPainter
-```
+**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: [StiDatePickerElementGdiPainter](StiDatePickerElementGdiPainter.m
 | Constructor | Description |
 | --- | --- |
 | **StiSliderDatePickerElementGdiPainter**(StiDatePickerElement element) |  |
+
+**StiSliderDatePickerElementGdiPainter**(**element**: StiDatePickerElement)
+
+**Parameters**
+
+- **element** (StiDatePickerElement)  
+
 
 ### Properties
 
@@ -34,3 +36,17 @@ Inherits from: [StiDatePickerElementGdiPainter](StiDatePickerElementGdiPainter.m
 | Method | Returns | Description |
 | --- | --- | --- |
 | **PaintSlider** | void |  |
+
+---
+
+### Method Details
+
+#### PaintSlider
+
+**PaintSlider**(**g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **rect**: [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md)): void
+
+**Parameters**
+
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **rect** ([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md))  
+

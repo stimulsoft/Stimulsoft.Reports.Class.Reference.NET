@@ -4,14 +4,9 @@ title: "StiExcel2007RestrictEditing Enum"
 
 ## StiExcel2007RestrictEditing Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for setting modes of restrict editing
-
-```csharp
-public enum StiExcel2007RestrictEditing
-```
 
 ### Members
 

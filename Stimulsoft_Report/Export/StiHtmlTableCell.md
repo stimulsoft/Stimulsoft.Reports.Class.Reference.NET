@@ -4,18 +4,16 @@ title: "StiHtmlTableCell Class"
 
 ## StiHtmlTableCell Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiHtmlTableCell
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiHtmlTableCell**() |  |
+
+**StiHtmlTableCell**()
+
 
 ### Fields
 

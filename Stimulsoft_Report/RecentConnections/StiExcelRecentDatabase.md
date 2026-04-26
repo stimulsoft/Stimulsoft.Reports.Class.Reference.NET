@@ -4,12 +4,7 @@ title: "StiExcelRecentDatabase Class"
 
 ## StiExcelRecentDatabase Class
 
-**Namespace:** `Stimulsoft.Report.RecentConnections`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiExcelRecentDatabase
-```
+**Namespace:** `Stimulsoft.Report.RecentConnections`
 
 ### Inheritance
 

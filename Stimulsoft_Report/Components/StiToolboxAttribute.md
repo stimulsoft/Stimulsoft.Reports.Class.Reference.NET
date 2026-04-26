@@ -4,12 +4,7 @@ title: "StiToolboxAttribute Class"
 
 ## StiToolboxAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiToolboxAttribute
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Inheritance
 
@@ -20,6 +15,15 @@ Inherits from: Attribute
 | Constructor | Description |
 | --- | --- |
 | **StiToolboxAttribute**(bool enable) | Creates a new object of the type StiToolboxAttribute. |
+
+**StiToolboxAttribute**(**enable**: bool)
+
+Creates a new object of the type StiToolboxAttribute.
+
+**Parameters**
+
+- **enable** (bool) — Can the component in the Toolbox be shown or not?  
+
 
 ### Properties
 

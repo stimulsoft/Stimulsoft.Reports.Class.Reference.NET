@@ -4,12 +4,7 @@ title: "StiRenderToConverter Class"
 
 ## StiRenderToConverter Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRenderToConverter
-```
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 ### Inheritance
 

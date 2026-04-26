@@ -4,12 +4,7 @@ title: "IStiTextMeasureMeter Interface"
 
 ## IStiTextMeasureMeter Interface
 
-**Namespace:** `Stimulsoft.Base.Meters`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public interface IStiTextMeasureMeter
-```
+**Namespace:** `Stimulsoft.Base.Meters`
 
 ### Inheritance
 

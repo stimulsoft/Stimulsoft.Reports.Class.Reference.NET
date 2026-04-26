@@ -4,12 +4,7 @@ title: "StiAngle Enum"
 
 ## StiAngle Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiAngle
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

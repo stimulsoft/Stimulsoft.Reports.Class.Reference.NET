@@ -4,12 +4,7 @@ title: "StiPlanIdent Enum"
 
 ## StiPlanIdent Enum
 
-**Namespace:** `Stimulsoft.Base.Plans`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiPlanIdent
-```
+**Namespace:** `Stimulsoft.Base.Plans`
 
 ### Members
 

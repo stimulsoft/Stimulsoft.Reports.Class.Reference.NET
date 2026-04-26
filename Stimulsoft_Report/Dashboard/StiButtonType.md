@@ -4,12 +4,7 @@ title: "StiButtonType Enum"
 
 ## StiButtonType Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiButtonType
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiByteArrayRangeDialogInfoItem Class"
 
 ## StiByteArrayRangeDialogInfoItem Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiByteArrayRangeDialogInfoItem
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 

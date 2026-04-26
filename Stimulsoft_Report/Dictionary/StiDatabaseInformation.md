@@ -4,12 +4,7 @@ title: "StiDatabaseInformation Class"
 
 ## StiDatabaseInformation Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDatabaseInformation
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Constructors
 
@@ -18,6 +13,25 @@ public class StiDatabaseInformation
 | **StiDatabaseInformation**() |  |
 | **StiDatabaseInformation**(List<DataTable> tables) |  |
 | **StiDatabaseInformation**(DataTableCollection tables) |  |
+
+**StiDatabaseInformation**()
+
+---
+
+**StiDatabaseInformation**(**tables**: List<DataTable>)
+
+**Parameters**
+
+- **tables** (List<DataTable>)  
+
+---
+
+**StiDatabaseInformation**(**tables**: DataTableCollection)
+
+**Parameters**
+
+- **tables** (DataTableCollection)  
+
 
 ### Properties
 

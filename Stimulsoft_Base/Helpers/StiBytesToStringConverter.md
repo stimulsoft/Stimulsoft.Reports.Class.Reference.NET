@@ -4,12 +4,7 @@ title: "StiBytesToStringConverter Class"
 
 ## StiBytesToStringConverter Class
 
-**Namespace:** `Stimulsoft.Base.Helpers`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiBytesToStringConverter
-```
+**Namespace:** `Stimulsoft.Base.Helpers`
 
 ### Methods
 
@@ -17,3 +12,31 @@ public static class StiBytesToStringConverter
 | --- | --- | --- |
 | **ConvertBytesToString** `static` | string |  |
 | **ConvertStringToBytes** `static` | byte[] |  |
+
+---
+
+### Method Details
+
+#### ConvertBytesToString `static`
+
+**ConvertBytesToString**(****: bytebytes): string
+
+**Parameters**
+
+- **** (bytebytes)  
+
+**Returns** string
+
+
+---
+
+#### ConvertStringToBytes `static`
+
+**ConvertStringToBytes**(**str**: string): byte[]
+
+**Parameters**
+
+- **str** (string)  
+
+**Returns** byte[]
+

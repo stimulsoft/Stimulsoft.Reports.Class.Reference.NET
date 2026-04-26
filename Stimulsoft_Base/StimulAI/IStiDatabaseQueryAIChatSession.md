@@ -4,12 +4,7 @@ title: "IStiDatabaseQueryAIChatSession Interface"
 
 ## IStiDatabaseQueryAIChatSession Interface
 
-**Namespace:** `Stimulsoft.Base.StimulAI`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public interface IStiDatabaseQueryAIChatSession
-```
+**Namespace:** `Stimulsoft.Base.StimulAI`
 
 ### Inheritance
 

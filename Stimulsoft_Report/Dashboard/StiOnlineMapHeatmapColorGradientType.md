@@ -4,12 +4,7 @@ title: "StiOnlineMapHeatmapColorGradientType Enum"
 
 ## StiOnlineMapHeatmapColorGradientType Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiOnlineMapHeatmapColorGradientType
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "IStiTableSyncSignalRClient Interface"
 
 ## IStiTableSyncSignalRClient Interface
 
-**Namespace:** `Stimulsoft.Base.AppsDatabase`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public interface IStiTableSyncSignalRClient
-```
+**Namespace:** `Stimulsoft.Base.AppsDatabase`
 
 ### Inheritance
 

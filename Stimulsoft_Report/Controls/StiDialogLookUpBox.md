@@ -4,12 +4,7 @@ title: "StiDialogLookUpBox Class"
 
 ## StiDialogLookUpBox Class
 
-**Namespace:** `Stimulsoft.Report.Controls`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDialogLookUpBox
-```
+**Namespace:** `Stimulsoft.Report.Controls`
 
 ### Inheritance
 

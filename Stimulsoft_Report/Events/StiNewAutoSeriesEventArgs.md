@@ -4,14 +4,9 @@ title: "StiNewAutoSeriesEventArgs Class"
 
 ## StiNewAutoSeriesEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event StiNewAutoSeries.
-
-```csharp
-public class StiNewAutoSeriesEventArgs
-```
 
 ### Inheritance
 
@@ -22,3 +17,14 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiNewAutoSeriesEventArgs**(int seriesIndex, IStiSeries series, object color) | Creates a new object of the type StiNewAutoSeriesEventArgs. |
+
+**StiNewAutoSeriesEventArgs**(**seriesIndex**: int, **series**: IStiSeries, **color**: object)
+
+Creates a new object of the type StiNewAutoSeriesEventArgs.
+
+**Parameters**
+
+- **seriesIndex** (int)  
+- **series** (IStiSeries)  
+- **color** (object)  
+

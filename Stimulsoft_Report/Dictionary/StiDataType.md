@@ -4,12 +4,7 @@ title: "StiDataType Enum"
 
 ## StiDataType Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDataType
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Members
 

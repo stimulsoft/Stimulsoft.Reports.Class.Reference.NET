@@ -4,12 +4,7 @@ title: "StiWhiteBlackStyleColors Class"
 
 ## StiWhiteBlackStyleColors Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiWhiteBlackStyleColors
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Properties
 

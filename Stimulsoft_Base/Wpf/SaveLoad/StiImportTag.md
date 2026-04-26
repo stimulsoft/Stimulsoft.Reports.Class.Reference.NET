@@ -4,12 +4,7 @@ title: "StiImportTag Class"
 
 ## StiImportTag Class
 
-**Namespace:** `Stimulsoft.Base.Wpf.SaveLoad`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiImportTag
-```
+**Namespace:** `Stimulsoft.Base.Wpf.SaveLoad`
 
 ### Properties
 
@@ -23,3 +18,14 @@ public sealed class StiImportTag
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

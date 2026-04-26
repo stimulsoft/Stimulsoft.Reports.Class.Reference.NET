@@ -4,11 +4,6 @@ title: "IAttributeProvider Interface"
 
 ## IAttributeProvider Interface
 
-**Namespace:** `Stimulsoft.Base.Json.Serialization`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Serialization`
 
 Provides methods to get attributes.
-
-```csharp
-public interface IAttributeProvider
-```

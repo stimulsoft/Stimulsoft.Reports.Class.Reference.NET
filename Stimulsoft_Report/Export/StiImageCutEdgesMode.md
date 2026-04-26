@@ -4,14 +4,9 @@ title: "StiImageCutEdgesMode Enum"
 
 ## StiImageCutEdgesMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for the setting of edge cutting modes
-
-```csharp
-public enum StiImageCutEdgesMode
-```
 
 ### Members
 

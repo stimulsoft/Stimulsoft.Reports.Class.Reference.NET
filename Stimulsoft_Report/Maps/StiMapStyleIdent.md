@@ -4,12 +4,7 @@ title: "StiMapStyleIdent Enum"
 
 ## StiMapStyleIdent Enum
 
-**Namespace:** `Stimulsoft.Report.Maps`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiMapStyleIdent
-```
+**Namespace:** `Stimulsoft.Report.Maps`
 
 ### Members
 

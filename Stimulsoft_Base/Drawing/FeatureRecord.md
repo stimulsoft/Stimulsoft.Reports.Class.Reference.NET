@@ -4,12 +4,7 @@ title: "FeatureRecord Class"
 
 ## FeatureRecord Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class FeatureRecord
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiGdiGaugeContextPainter Class"
 
 ## StiGdiGaugeContextPainter Class
 
-**Namespace:** `Stimulsoft.Gauge.Painters`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGdiGaugeContextPainter
-```
+**Namespace:** `Stimulsoft.Gauge.Painters`
 
 ### Inheritance
 
@@ -20,7 +15,17 @@ Implements: [IStiAnimationContextPainter](../../../Painters/Context/Animation/IS
 
 | Constructor | Description |
 | --- | --- |
-| **StiGdiGaugeContextPainter**([Graphics](../../../../Stimulsoft_Drawing/Graphics.md) g, StiGauge gauge, RectangleF rect, float zoom) |  |
+| **StiGdiGaugeContextPainter**([Graphics](../../../../Stimulsoft_Drawing/root/Graphics.md) g, StiGauge gauge, RectangleF rect, float zoom) |  |
+
+**StiGdiGaugeContextPainter**(**g**: [Graphics](../../../../Stimulsoft_Drawing/root/Graphics.md), **gauge**: StiGauge, **rect**: RectangleF, **zoom**: float)
+
+**Parameters**
+
+- **g** ([Graphics](../../../../Stimulsoft_Drawing/root/Graphics.md))  
+- **gauge** (StiGauge)  
+- **rect** (RectangleF)  
+- **zoom** (float)  
+
 
 ### Properties
 
@@ -34,3 +39,26 @@ Implements: [IStiAnimationContextPainter](../../../Painters/Context/Animation/IS
 | --- | --- | --- |
 | **MeasureString** | SizeF |  |
 | **Render** | void |  |
+
+---
+
+### Method Details
+
+#### MeasureString
+
+**MeasureString**(**text**: string, **font**: [Font](../../../../Stimulsoft_Drawing/root/Font.md)): SizeF
+
+**Parameters**
+
+- **text** (string)  
+- **font** ([Font](../../../../Stimulsoft_Drawing/root/Font.md))  
+
+**Returns** SizeF
+
+
+---
+
+#### Render
+
+**Render**(): void
+

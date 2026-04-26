@@ -4,12 +4,7 @@ title: "StiIndicatorControl Class"
 
 ## StiIndicatorControl Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.Indicator`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiIndicatorControl
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.Indicator`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: StiAtomElementControl
 | Constructor | Description |
 | --- | --- |
 | **StiIndicatorControl**(IStiElement element) |  |
+
+**StiIndicatorControl**(**element**: IStiElement)
+
+**Parameters**
+
+- **element** (IStiElement)  
+
 
 ### Properties
 
@@ -40,6 +42,96 @@ Inherits from: StiAtomElementControl
 | **PaintAtom** | void |  |
 | **RecalculateSize** | void |  |
 | **RefreshChild** | void |  |
+
+---
+
+### Method Details
+
+#### Dispose
+
+**Dispose**(**disposing**: bool): void
+
+**Parameters**
+
+- **disposing** (bool)  
+
+
+---
+
+#### OnClick
+
+**OnClick**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseLeave
+
+**OnMouseLeave**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseMove
+
+**OnMouseMove**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnPaint
+
+**OnPaint**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+
+
+---
+
+#### PaintAtom
+
+**PaintAtom**(**g**: [Graphics](../../../Stimulsoft_Drawing/root/Graphics.md)): void
+
+**Parameters**
+
+- **g** ([Graphics](../../../Stimulsoft_Drawing/root/Graphics.md))  
+
+
+---
+
+#### RecalculateSize
+
+**RecalculateSize**(**rect**: Rectangle): void
+
+**Parameters**
+
+- **rect** (Rectangle)  
+
+
+---
+
+#### RefreshChild
+
+**RefreshChild**(**dataTable**: [StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md)): void
+
+**Parameters**
+
+- **dataTable** ([StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md))  
+
 
 ### Fields
 

@@ -4,12 +4,7 @@ title: "StiGdiVisualizerAttribute Class"
 
 ## StiGdiVisualizerAttribute Class
 
-**Namespace:** `Stimulsoft.Dashboard.Visualizers`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiGdiVisualizerAttribute
-```
+**Namespace:** `Stimulsoft.Dashboard.Visualizers`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiGdiVisualizerAttribute**(string visualizerTypeName) |  |
 | **StiGdiVisualizerAttribute**(Type visualizerType) |  |
+
+**StiGdiVisualizerAttribute**(**visualizerTypeName**: string)
+
+**Parameters**
+
+- **visualizerTypeName** (string)  
+
+---
+
+**StiGdiVisualizerAttribute**(**visualizerType**: Type)
+
+**Parameters**
+
+- **visualizerType** (Type)  
+
 
 ### Properties
 

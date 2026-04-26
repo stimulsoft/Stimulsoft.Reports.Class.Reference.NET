@@ -4,14 +4,9 @@ title: "StiPdfAutoPrintMode Enum"
 
 ## StiPdfAutoPrintMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration which sets an AutoPrint mode for pdf files
-
-```csharp
-public enum StiPdfAutoPrintMode
-```
 
 ### Members
 

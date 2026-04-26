@@ -4,14 +4,9 @@ title: "StiButtonShapeTypeConverter Class"
 
 ## StiButtonShapeTypeConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Button.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Button.Design`
 
 Converts a StiButtonShapeType object from one data type to another.
-
-```csharp
-public class StiButtonShapeTypeConverter
-```
 
 ### Inheritance
 
@@ -23,3 +18,14 @@ Inherits from: [StiEnumConverter](../../../../Stimulsoft_Base/Localization/StiEn
 | --- | --- |
 | **StiButtonShapeTypeConverter**() |  |
 | **StiButtonShapeTypeConverter**(Type type) |  |
+
+**StiButtonShapeTypeConverter**()
+
+---
+
+**StiButtonShapeTypeConverter**(**type**: Type)
+
+**Parameters**
+
+- **type** (Type)  
+

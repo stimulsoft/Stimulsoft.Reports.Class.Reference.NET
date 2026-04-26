@@ -4,11 +4,6 @@ title: "StiAutoSizeTextHelper Class"
 
 ## StiAutoSizeTextHelper Class
 
-**Namespace:** `Stimulsoft.Dashboard.Helpers`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Helpers`
 
 Helps in drawing of a text.
-
-```csharp
-public static class StiAutoSizeTextHelper
-```

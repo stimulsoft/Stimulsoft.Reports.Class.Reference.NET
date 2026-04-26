@@ -4,14 +4,9 @@ title: "StiNumberFormatConverter Class"
 
 ## StiNumberFormatConverter Class
 
-**Namespace:** `Stimulsoft.Report.Components.TextFormats.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components.TextFormats.Design`
 
 Provides a type converter to convert StiNumberFormatService objects to and from various other representations.
-
-```csharp
-public class StiNumberFormatConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

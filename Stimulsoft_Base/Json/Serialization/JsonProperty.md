@@ -4,14 +4,9 @@ title: "JsonProperty Class"
 
 ## JsonProperty Class
 
-**Namespace:** `Stimulsoft.Base.Json.Serialization`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Serialization`
 
 Maps a JSON property to a .NET member or constructor parameter.
-
-```csharp
-public class JsonProperty
-```
 
 ### Properties
 
@@ -46,3 +41,16 @@ public class JsonProperty
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string | Returns a String that represents this instance. |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+Returns a String that represents this instance.
+
+**Returns** string — A String that represents this instance.
+

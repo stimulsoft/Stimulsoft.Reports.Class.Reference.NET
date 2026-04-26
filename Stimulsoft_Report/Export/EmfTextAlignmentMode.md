@@ -4,12 +4,7 @@ title: "EmfTextAlignmentMode Enum"
 
 ## EmfTextAlignmentMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum EmfTextAlignmentMode
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Members
 

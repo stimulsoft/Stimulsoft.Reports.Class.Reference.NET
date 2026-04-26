@@ -4,12 +4,7 @@ title: "StiProductIdent Enum"
 
 ## StiProductIdent Enum
 
-**Namespace:** `Stimulsoft.Base.Licenses`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiProductIdent
-```
+**Namespace:** `Stimulsoft.Base.Licenses`
 
 ### Inheritance
 

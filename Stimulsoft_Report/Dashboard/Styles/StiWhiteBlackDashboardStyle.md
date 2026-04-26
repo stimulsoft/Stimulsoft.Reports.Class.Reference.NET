@@ -4,12 +4,7 @@ title: "StiWhiteBlackDashboardStyle Class"
 
 ## StiWhiteBlackDashboardStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiWhiteBlackDashboardStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 

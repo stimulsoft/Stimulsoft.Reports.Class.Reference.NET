@@ -4,12 +4,7 @@ title: "StiStyleBasedHelper Class"
 
 ## StiStyleBasedHelper Class
 
-**Namespace:** `Stimulsoft.Report.Styles.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiStyleBasedHelper
-```
+**Namespace:** `Stimulsoft.Report.Styles.Helpers`
 
 ### Methods
 
@@ -18,3 +13,45 @@ public static class StiStyleBasedHelper
 | **GetCrossTabStyleName** `static` | string |  |
 | **GetInfo** `static` | StyleInfo |  |
 | **GetStyleName** `static` | string |  |
+
+---
+
+### Method Details
+
+#### GetCrossTabStyleName `static`
+
+**GetCrossTabStyleName**(**style**: StiCrossTabStyle): string
+
+**Parameters**
+
+- **style** (StiCrossTabStyle)  
+
+**Returns** string
+
+
+---
+
+#### GetInfo `static`
+
+**GetInfo**(**styleType**: Type, **isDashboard**: bool): StyleInfo
+
+**Parameters**
+
+- **styleType** (Type)  
+- **isDashboard** (bool)  
+
+**Returns** StyleInfo
+
+
+---
+
+#### GetStyleName `static`
+
+**GetStyleName**(**style**: StiBaseStyle): string
+
+**Parameters**
+
+- **style** (StiBaseStyle)  
+
+**Returns** string
+

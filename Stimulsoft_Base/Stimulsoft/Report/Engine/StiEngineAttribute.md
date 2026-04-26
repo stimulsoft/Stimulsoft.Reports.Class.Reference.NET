@@ -4,12 +4,7 @@ title: "StiEngineAttribute Class"
 
 ## StiEngineAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiEngineAttribute
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: Attribute
 | Constructor | Description |
 | --- | --- |
 | **StiEngineAttribute**([StiEngineVersion](StiEngineVersion.md) version) |  |
+
+**StiEngineAttribute**(**version**: [StiEngineVersion](StiEngineVersion.md))
+
+**Parameters**
+
+- **version** ([StiEngineVersion](StiEngineVersion.md))  
+
 
 ### Properties
 

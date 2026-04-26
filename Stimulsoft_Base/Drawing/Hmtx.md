@@ -4,12 +4,7 @@ title: "Hmtx Class"
 
 ## Hmtx Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class Hmtx
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

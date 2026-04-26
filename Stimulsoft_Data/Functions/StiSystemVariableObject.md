@@ -4,12 +4,7 @@ title: "StiSystemVariableObject Enum"
 
 ## StiSystemVariableObject Enum
 
-**Namespace:** `Stimulsoft.Data.Functions`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum StiSystemVariableObject
-```
+**Namespace:** `Stimulsoft.Data.Functions`
 
 ### Members
 

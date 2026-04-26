@@ -4,12 +4,7 @@ title: "FastQueue<T> Class"
 
 ## FastQueue<T> Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Misc`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class FastQueue<T>
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Misc`
 
 ### Methods
 
@@ -20,3 +15,50 @@ public class FastQueue<T>
 | **Enqueue** | void |  |
 | **Peek** | T |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### Clear
+
+**Clear**(): void
+
+
+---
+
+#### Dequeue
+
+**Dequeue**(): T
+
+**Returns** T
+
+
+---
+
+#### Enqueue
+
+**Enqueue**(**o**: T): void
+
+**Parameters**
+
+- **o** (T)  
+
+
+---
+
+#### Peek
+
+**Peek**(): T
+
+**Returns** T
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

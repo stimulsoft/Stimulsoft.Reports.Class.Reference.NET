@@ -4,12 +4,7 @@ title: "StiTableConditionConverter Class"
 
 ## StiTableConditionConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Table.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiTableConditionConverter
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Table.Design`
 
 ### Inheritance
 

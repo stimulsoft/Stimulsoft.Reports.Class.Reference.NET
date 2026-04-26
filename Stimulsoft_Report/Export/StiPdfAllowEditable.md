@@ -4,14 +4,9 @@ title: "StiPdfAllowEditable Enum"
 
 ## StiPdfAllowEditable Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for setting modes of restrict editing
-
-```csharp
-public enum StiPdfAllowEditable
-```
 
 ### Members
 

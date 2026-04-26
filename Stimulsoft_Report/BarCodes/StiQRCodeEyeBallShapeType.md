@@ -4,12 +4,7 @@ title: "StiQRCodeEyeBallShapeType Enum"
 
 ## StiQRCodeEyeBallShapeType Enum
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiQRCodeEyeBallShapeType
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Members
 

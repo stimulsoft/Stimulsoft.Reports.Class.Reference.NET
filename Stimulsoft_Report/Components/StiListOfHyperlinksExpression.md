@@ -4,12 +4,7 @@ title: "StiListOfHyperlinksExpression Class"
 
 ## StiListOfHyperlinksExpression Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiListOfHyperlinksExpression
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Inheritance
 
@@ -22,8 +17,36 @@ Inherits from: StiExpression
 | **StiListOfHyperlinksExpression**() | Creates a new expression. |
 | **StiListOfHyperlinksExpression**(string value) | Creates a new expression. |
 
+**StiListOfHyperlinksExpression**()
+
+Creates a new expression.
+
+---
+
+**StiListOfHyperlinksExpression**(**value**: string)
+
+Creates a new expression.
+
+**Parameters**
+
+- **value** (string) — Expression value.  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetDefaultEvent** | StiEvent | Returns the event for processing of the expession when generation the report script. |
+
+---
+
+### Method Details
+
+#### GetDefaultEvent
+
+**GetDefaultEvent**(): StiEvent
+
+Returns the event for processing of the expession when generation the report script.
+
+**Returns** StiEvent — The event for processing of the expession.
+

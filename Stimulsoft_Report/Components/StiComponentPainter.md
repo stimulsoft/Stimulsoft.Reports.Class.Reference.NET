@@ -4,11 +4,6 @@ title: "StiComponentPainter Class"
 
 ## StiComponentPainter Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Summary description for StiComponentPainter.
-
-```csharp
-public class StiComponentPainter
-```

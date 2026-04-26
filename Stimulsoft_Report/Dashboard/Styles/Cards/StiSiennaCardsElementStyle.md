@@ -4,12 +4,7 @@ title: "StiSiennaCardsElementStyle Class"
 
 ## StiSiennaCardsElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles.Cards`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSiennaCardsElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles.Cards`
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "IStiCenterAxisLabels Interface"
 
 ## IStiCenterAxisLabels Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiCenterAxisLabels
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

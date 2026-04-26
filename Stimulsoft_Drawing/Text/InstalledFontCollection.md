@@ -4,12 +4,7 @@ title: "InstalledFontCollection Class"
 
 ## InstalledFontCollection Class
 
-**Namespace:** `Stimulsoft.Drawing.Text`  
-**Assembly:** `Stimulsoft.Drawing`
-
-```csharp
-public class InstalledFontCollection
-```
+**Namespace:** `Stimulsoft.Drawing.Text`
 
 ### Inheritance
 
@@ -20,3 +15,6 @@ Inherits from: [FontCollection](FontCollection.md)
 | Constructor | Description |
 | --- | --- |
 | **InstalledFontCollection**() |  |
+
+**InstalledFontCollection**()
+

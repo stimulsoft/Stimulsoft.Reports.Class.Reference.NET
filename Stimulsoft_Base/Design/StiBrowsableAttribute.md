@@ -4,12 +4,7 @@ title: "StiBrowsableAttribute Class"
 
 ## StiBrowsableAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Design`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiBrowsableAttribute
-```
+**Namespace:** `Stimulsoft.Base.Design`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiBrowsableAttribute**() | Creates a new object of the type StiBrowsableAttribute. |
 | **StiBrowsableAttribute**(bool browsable) | Creates a new object of the type StiBrowsableAttribute. |
+
+**StiBrowsableAttribute**()
+
+Creates a new object of the type StiBrowsableAttribute.
+
+---
+
+**StiBrowsableAttribute**(**browsable**: bool)
+
+Creates a new object of the type StiBrowsableAttribute.
+
+**Parameters**
+
+- **browsable** (bool)  
+
 
 ### Properties
 

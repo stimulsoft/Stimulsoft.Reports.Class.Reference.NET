@@ -4,12 +4,7 @@ title: "StiBarBase Class"
 
 ## StiBarBase Class
 
-**Namespace:** `Stimulsoft.Report.Components.Gauge.Primitives`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiBarBase
-```
+**Namespace:** `Stimulsoft.Report.Components.Gauge.Primitives`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: StiIndicatorBase
 | Constructor | Description |
 | --- | --- |
 | **StiBarBase**() |  |
+
+**StiBarBase**()
+
 
 ### Properties
 
@@ -44,3 +42,59 @@ Inherits from: StiIndicatorBase
 | **OnRangeColorChanged** | void |  |
 | **OnValueChanged** | void |  |
 | **SaveToJsonObject** | [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### CheckActualBrushForTopGeometry
+
+**CheckActualBrushForTopGeometry**(): void
+
+
+---
+
+#### Clone
+
+**Clone**(): object
+
+**Returns** object
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### OnRangeColorChanged
+
+**OnRangeColorChanged**(): void
+
+
+---
+
+#### OnValueChanged
+
+**OnValueChanged**(): void
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+

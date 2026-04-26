@@ -4,12 +4,7 @@ title: "StiChartConditionalField Enum"
 
 ## StiChartConditionalField Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiChartConditionalField
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiPlan Class"
 
 ## StiPlan Class
 
-**Namespace:** `Stimulsoft.Base.Plans`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public abstract class StiPlan
-```
+**Namespace:** `Stimulsoft.Base.Plans`
 
 ### Properties
 

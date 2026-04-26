@@ -4,12 +4,7 @@ title: "StiPrintOnEvenOddPagesType Enum"
 
 ## StiPrintOnEvenOddPagesType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiPrintOnEvenOddPagesType
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

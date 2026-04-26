@@ -4,12 +4,7 @@ title: "StiTreemapEmptySeriesElementGeom Class"
 
 ## StiTreemapEmptySeriesElementGeom Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTreemapEmptySeriesElementGeom
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,8 +16,28 @@ Inherits from: StiCellGeom
 | --- | --- |
 | **StiTreemapEmptySeriesElementGeom**(RectangleF clientRectangle) |  |
 
+**StiTreemapEmptySeriesElementGeom**(**clientRectangle**: RectangleF)
+
+**Parameters**
+
+- **clientRectangle** (RectangleF)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Draw** | void |  |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+

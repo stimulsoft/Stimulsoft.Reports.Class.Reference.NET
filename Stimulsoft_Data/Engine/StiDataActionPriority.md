@@ -4,12 +4,7 @@ title: "StiDataActionPriority Enum"
 
 ## StiDataActionPriority Enum
 
-**Namespace:** `Stimulsoft.Data.Engine`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum StiDataActionPriority
-```
+**Namespace:** `Stimulsoft.Data.Engine`
 
 ### Members
 

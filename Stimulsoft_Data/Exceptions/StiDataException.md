@@ -4,12 +4,7 @@ title: "StiDataException Class"
 
 ## StiDataException Class
 
-**Namespace:** `Stimulsoft.Data.Exceptions`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public abstract class StiDataException
-```
+**Namespace:** `Stimulsoft.Data.Exceptions`
 
 ### Inheritance
 
@@ -21,3 +16,14 @@ Inherits from: Exception
 | --- | --- |
 | **StiDataException**() |  |
 | **StiDataException**(string message) |  |
+
+**StiDataException**()
+
+---
+
+**StiDataException**(**message**: string)
+
+**Parameters**
+
+- **message** (string)  
+

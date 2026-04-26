@@ -4,12 +4,7 @@ title: "StiSerialiazableToCodeAttributre Class"
 
 ## StiSerialiazableToCodeAttributre Class
 
-**Namespace:** `Stimulsoft.Report.CodeDom`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiSerialiazableToCodeAttributre
-```
+**Namespace:** `Stimulsoft.Report.CodeDom`
 
 ### Inheritance
 

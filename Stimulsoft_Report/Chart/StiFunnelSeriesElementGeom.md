@@ -4,12 +4,7 @@ title: "StiFunnelSeriesElementGeom Class"
 
 ## StiFunnelSeriesElementGeom Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiFunnelSeriesElementGeom
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -30,3 +25,30 @@ Inherits from: StiSeriesElementGeom
 | --- | --- | --- |
 | **Contains** | bool |  |
 | **Draw** | void |  |
+
+---
+
+### Method Details
+
+#### Contains
+
+**Contains**(**x**: float, **y**: float): bool
+
+**Parameters**
+
+- **x** (float)  
+- **y** (float)  
+
+**Returns** bool
+
+
+---
+
+#### Draw
+
+**Draw**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+

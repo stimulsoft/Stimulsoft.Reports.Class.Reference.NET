@@ -4,14 +4,9 @@ title: "StiChartAreaPosition Enum"
 
 ## StiChartAreaPosition Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Chart`
 
 Describes position of chart areas.
-
-```csharp
-public enum StiChartAreaPosition
-```
 
 ### Members
 

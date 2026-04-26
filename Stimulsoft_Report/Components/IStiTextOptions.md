@@ -4,11 +4,6 @@ title: "IStiTextOptions Interface"
 
 ## IStiTextOptions Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Describes text options.
-
-```csharp
-public interface IStiTextOptions
-```

@@ -4,14 +4,9 @@ title: "StiCrossTabTopNCondition Class"
 
 ## StiCrossTabTopNCondition Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 The class describes the CrossTab TopN Condition.
-
-```csharp
-public class StiCrossTabTopNCondition
-```
 
 ### Inheritance
 

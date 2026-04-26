@@ -4,14 +4,9 @@ title: "StiItemsInitializationType Enum"
 
 ## StiItemsInitializationType Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 Enum describes methods of items elements initialization.
-
-```csharp
-public enum StiItemsInitializationType
-```
 
 ### Members
 

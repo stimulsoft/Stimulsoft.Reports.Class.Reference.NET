@@ -4,12 +4,7 @@ title: "StiDateRangeControl Class"
 
 ## StiDateRangeControl Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.DatePicker`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiDateRangeControl
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.DatePicker`
 
 ### Inheritance
 
@@ -21,6 +16,9 @@ Inherits from: UserControl
 | --- | --- |
 | **StiDateRangeControl**() |  |
 
+**StiDateRangeControl**()
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -28,6 +26,37 @@ Inherits from: UserControl
 | **OnBackColorChanged** | void |  |
 | **OnForeColorChanged** | void |  |
 | **RefreshSize** | void |  |
+
+---
+
+### Method Details
+
+#### OnBackColorChanged
+
+**OnBackColorChanged**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnForeColorChanged
+
+**OnForeColorChanged**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### RefreshSize
+
+**RefreshSize**(): void
+
 
 ### Events
 

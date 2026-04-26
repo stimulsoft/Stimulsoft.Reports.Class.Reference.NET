@@ -4,20 +4,20 @@ title: "JsonSerializerSettings Class"
 
 ## JsonSerializerSettings Class
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies the settings on a JsonSerializer object.
-
-```csharp
-public class JsonSerializerSettings
-```
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **JsonSerializerSettings**() | Initializes a new instance of the JsonSerializerSettings class. |
+
+**JsonSerializerSettings**()
+
+Initializes a new instance of the JsonSerializerSettings class.
+
 
 ### Properties
 

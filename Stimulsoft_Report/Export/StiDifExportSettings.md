@@ -4,14 +4,9 @@ title: "StiDifExportSettings Class"
 
 ## StiDifExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Class describes settings for export to DIF format.
-
-```csharp
-public class StiDifExportSettings
-```
 
 ### Inheritance
 
@@ -22,3 +17,6 @@ Inherits from: StiDataExportSettings
 | Constructor | Description |
 | --- | --- |
 | **StiDifExportSettings**() |  |
+
+**StiDifExportSettings**()
+

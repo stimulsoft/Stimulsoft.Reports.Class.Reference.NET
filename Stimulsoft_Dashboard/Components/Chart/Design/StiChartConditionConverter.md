@@ -4,12 +4,7 @@ title: "StiChartConditionConverter Class"
 
 ## StiChartConditionConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiChartConditionConverter
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart.Design`
 
 ### Inheritance
 

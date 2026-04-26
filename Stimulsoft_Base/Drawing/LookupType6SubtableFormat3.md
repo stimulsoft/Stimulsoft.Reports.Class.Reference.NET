@@ -4,12 +4,7 @@ title: "LookupType6SubtableFormat3 Class"
 
 ## LookupType6SubtableFormat3 Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class LookupType6SubtableFormat3
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: [LookupSubtable](LookupSubtable.md)
 | Constructor | Description |
 | --- | --- |
 | **LookupType6SubtableFormat3**() |  |
+
+**LookupType6SubtableFormat3**()
+
 
 ### Properties
 
@@ -36,3 +34,28 @@ Inherits from: [LookupSubtable](LookupSubtable.md)
 | --- | --- | --- |
 | **GetDigestCoverage** | ushort[] |  |
 | **Read** `static` | [LookupSubtable](LookupSubtable.md) |  |
+
+---
+
+### Method Details
+
+#### GetDigestCoverage
+
+**GetDigestCoverage**(): ushort[]
+
+**Returns** ushort[]
+
+
+---
+
+#### Read `static`
+
+**Read**(**reader**: StiFontReader, **offset**: uint): [LookupSubtable](LookupSubtable.md)
+
+**Parameters**
+
+- **reader** (StiFontReader)  
+- **offset** (uint)  
+
+**Returns** [LookupSubtable](LookupSubtable.md)
+

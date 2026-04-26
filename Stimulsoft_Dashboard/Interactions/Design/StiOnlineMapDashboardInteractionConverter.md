@@ -4,14 +4,9 @@ title: "StiOnlineMapDashboardInteractionConverter Class"
 
 ## StiOnlineMapDashboardInteractionConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Interactions.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Interactions.Design`
 
 Converts the StiOnlineMapDashboardInteraction object from one data type to another.
-
-```csharp
-public class StiOnlineMapDashboardInteractionConverter
-```
 
 ### Inheritance
 

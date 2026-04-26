@@ -4,12 +4,7 @@ title: "StiSortHelper Class"
 
 ## StiSortHelper Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiSortHelper
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Methods
 
@@ -20,3 +15,76 @@ public sealed class StiSortHelper
 | **GetColumnIndexInSorting** `static` | int |  |
 | **GetColumnSortDirection** `static` | [StiInteractionSortDirection](StiInteractionSortDirection.md) |  |
 | **IsColumnExistInSorting** `static` | bool |  |
+
+---
+
+### Method Details
+
+#### AddColumnToSorting `static`
+
+**AddColumnToSorting**(****: stringsorts, **columnName**: string, **isAscending**: bool): string[]
+
+**Parameters**
+
+- **** (stringsorts)  
+- **columnName** (string)  
+- **isAscending** (bool)  
+
+**Returns** string[]
+
+
+---
+
+#### ChangeColumnSortDirection `static`
+
+**ChangeColumnSortDirection**(****: stringsorts, **columnName**: string): string[]
+
+**Parameters**
+
+- **** (stringsorts)  
+- **columnName** (string)  
+
+**Returns** string[]
+
+
+---
+
+#### GetColumnIndexInSorting `static`
+
+**GetColumnIndexInSorting**(****: stringsorts, **columnName**: string): int
+
+**Parameters**
+
+- **** (stringsorts)  
+- **columnName** (string)  
+
+**Returns** int
+
+
+---
+
+#### GetColumnSortDirection `static`
+
+**GetColumnSortDirection**(****: stringsorts, **columnName**: string): [StiInteractionSortDirection](StiInteractionSortDirection.md)
+
+**Parameters**
+
+- **** (stringsorts)  
+- **columnName** (string)  
+
+**Returns** [StiInteractionSortDirection](StiInteractionSortDirection.md)
+
+
+---
+
+#### IsColumnExistInSorting `static`
+
+**IsColumnExistInSorting**(****: stringsorts, **columnName**: string): bool
+
+**Parameters**
+
+- **** (stringsorts)  
+- **columnName** (string)  
+
+**Returns** bool
+

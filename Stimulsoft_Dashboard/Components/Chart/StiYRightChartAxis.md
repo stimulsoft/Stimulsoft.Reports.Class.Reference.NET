@@ -4,12 +4,7 @@ title: "StiYRightChartAxis Class"
 
 ## StiYRightChartAxis Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiYRightChartAxis
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart`
 
 ### Inheritance
 
@@ -21,6 +16,19 @@ Inherits from: StiYChartAxis
 | --- | --- |
 | **StiYRightChartAxis**() |  |
 | **StiYRightChartAxis**(StiChartAxisLabels labels, [StiYChartAxisTitle](StiYChartAxisTitle.md) title, bool visible) |  |
+
+**StiYRightChartAxis**()
+
+---
+
+**StiYRightChartAxis**(**labels**: StiChartAxisLabels, **title**: [StiYChartAxisTitle](StiYChartAxisTitle.md), **visible**: bool)
+
+**Parameters**
+
+- **labels** (StiChartAxisLabels)  
+- **title** ([StiYChartAxisTitle](StiYChartAxisTitle.md))  
+- **visible** (bool)  
+
 
 ### Properties
 
@@ -38,3 +46,45 @@ Inherits from: StiYChartAxis
 | **ShouldSerializeLabels** | bool |  |
 | **ShouldSerializeRange** | bool |  |
 | **ShouldSerializeVisible** | bool |  |
+
+---
+
+### Method Details
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+
+---
+
+#### ShouldSerializeLabels
+
+**ShouldSerializeLabels**(): bool
+
+**Returns** bool
+
+
+---
+
+#### ShouldSerializeRange
+
+**ShouldSerializeRange**(): bool
+
+**Returns** bool
+
+
+---
+
+#### ShouldSerializeVisible
+
+**ShouldSerializeVisible**(): bool
+
+**Returns** bool
+

@@ -4,12 +4,7 @@ title: "StiTreeView Class"
 
 ## StiTreeView Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.TreeView`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiTreeView
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.TreeView`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: System.Windows.Forms.TreeView
 | Constructor | Description |
 | --- | --- |
 | **StiTreeView**() |  |
+
+**StiTreeView**()
+
 
 ### Properties
 
@@ -35,3 +33,49 @@ Inherits from: System.Windows.Forms.TreeView
 | **OnDrawNode** | void |  |
 | **OnHandleCreated** | void |  |
 | **OnMouseDown** | void |  |
+
+---
+
+### Method Details
+
+#### OnAfterCheck
+
+**OnAfterCheck**(**e**: TreeViewEventArgs): void
+
+**Parameters**
+
+- **e** (TreeViewEventArgs)  
+
+
+---
+
+#### OnDrawNode
+
+**OnDrawNode**(**e**: DrawTreeNodeEventArgs): void
+
+**Parameters**
+
+- **e** (DrawTreeNodeEventArgs)  
+
+
+---
+
+#### OnHandleCreated
+
+**OnHandleCreated**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseDown
+
+**OnMouseDown**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+

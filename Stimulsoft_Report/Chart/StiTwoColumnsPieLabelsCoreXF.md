@@ -4,12 +4,7 @@ title: "StiTwoColumnsPieLabelsCoreXF Class"
 
 ## StiTwoColumnsPieLabelsCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTwoColumnsPieLabelsCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiOutsidePieLabelsCoreXF](StiOutsidePieLabelsCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiTwoColumnsPieLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |
+
+**StiTwoColumnsPieLabelsCoreXF**(**seriesLabels**: IStiSeriesLabels)
+
+**Parameters**
+
+- **seriesLabels** (IStiSeriesLabels)  
+

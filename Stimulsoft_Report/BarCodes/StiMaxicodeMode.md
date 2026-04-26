@@ -4,12 +4,7 @@ title: "StiMaxicodeMode Enum"
 
 ## StiMaxicodeMode Enum
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiMaxicodeMode
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Members
 

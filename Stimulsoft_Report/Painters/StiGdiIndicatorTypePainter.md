@@ -4,12 +4,7 @@ title: "StiGdiIndicatorTypePainter Class"
 
 ## StiGdiIndicatorTypePainter Class
 
-**Namespace:** `Stimulsoft.Report.Painters`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiGdiIndicatorTypePainter
-```
+**Namespace:** `Stimulsoft.Report.Painters`
 
 ### Inheritance
 

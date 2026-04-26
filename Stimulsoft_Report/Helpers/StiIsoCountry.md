@@ -4,20 +4,22 @@ title: "StiIsoCountry Class"
 
 ## StiIsoCountry Class
 
-**Namespace:** `Stimulsoft.Report.Helpers`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Helpers`
 
 Representation of an ISO3166-1 Country or State
-
-```csharp
-public class StiIsoCountry
-```
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiIsoCountry**(stringnames ) |  |
+
+**StiIsoCountry**(****: stringnames)
+
+**Parameters**
+
+- **** (stringnames)  
+
 
 ### Properties
 

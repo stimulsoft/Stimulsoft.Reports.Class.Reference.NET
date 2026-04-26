@@ -4,12 +4,7 @@ title: "StiPushClipGeom Class"
 
 ## StiPushClipGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPushClipGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: [StiGeom](StiGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiPushClipGeom**(RectangleF clipRectangle) |  |
+
+**StiPushClipGeom**(**clipRectangle**: RectangleF)
+
+**Parameters**
+
+- **clipRectangle** (RectangleF)  
+
 
 ### Properties
 

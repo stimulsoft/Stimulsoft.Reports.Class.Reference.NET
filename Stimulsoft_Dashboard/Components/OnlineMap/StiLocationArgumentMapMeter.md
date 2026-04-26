@@ -4,14 +4,9 @@ title: "StiLocationArgumentMapMeter Class"
 
 ## StiLocationArgumentMapMeter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.OnlineMap`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.OnlineMap`
 
 Describes a meter class which contains information about Location Argument of the map element.
-
-```csharp
-public class StiLocationArgumentMapMeter
-```
 
 ### Inheritance
 
@@ -24,6 +19,28 @@ Inherits from: StiDimensionMeter
 | **StiLocationArgumentMapMeter**() |  |
 | **StiLocationArgumentMapMeter**(string expression, string label) |  |
 | **StiLocationArgumentMapMeter**(string key, string expression, string label) |  |
+
+**StiLocationArgumentMapMeter**()
+
+---
+
+**StiLocationArgumentMapMeter**(**expression**: string, **label**: string)
+
+**Parameters**
+
+- **expression** (string)  
+- **label** (string)  
+
+---
+
+**StiLocationArgumentMapMeter**(**key**: string, **expression**: string, **label**: string)
+
+**Parameters**
+
+- **key** (string)  
+- **expression** (string)  
+- **label** (string)  
+
 
 ### Properties
 

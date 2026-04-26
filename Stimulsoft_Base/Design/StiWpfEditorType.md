@@ -4,12 +4,7 @@ title: "StiWpfEditorType Enum"
 
 ## StiWpfEditorType Enum
 
-**Namespace:** `Stimulsoft.Base.Design`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiWpfEditorType
-```
+**Namespace:** `Stimulsoft.Base.Design`
 
 ### Members
 

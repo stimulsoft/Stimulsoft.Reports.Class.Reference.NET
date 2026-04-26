@@ -4,12 +4,7 @@ title: "StiTreeViewBox Class"
 
 ## StiTreeViewBox Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.TreeView`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiTreeViewBox
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.TreeView`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: Panel
 | Constructor | Description |
 | --- | --- |
 | **StiTreeViewBox**(StiTreeViewBoxElement element) |  |
+
+**StiTreeViewBox**(**element**: StiTreeViewBoxElement)
+
+**Parameters**
+
+- **element** (StiTreeViewBoxElement)  
+
 
 ### Properties
 
@@ -47,6 +49,111 @@ Inherits from: Panel
 | **OnMouseUp** | void |  |
 | **OnPaint** | void |  |
 | **ShowDropDown** | void |  |
+
+---
+
+### Method Details
+
+#### BeginUpdate
+
+**BeginUpdate**(): void
+
+
+---
+
+#### CloseDropDown
+
+**CloseDropDown**(): void
+
+
+---
+
+#### Dispose
+
+**Dispose**(**disposing**: bool): void
+
+**Parameters**
+
+- **disposing** (bool)  
+
+
+---
+
+#### EndUpdate
+
+**EndUpdate**(): void
+
+
+---
+
+#### GetButtonWidth
+
+**GetButtonWidth**(): int
+
+**Returns** int
+
+
+---
+
+#### OnMouseEnter
+
+**OnMouseEnter**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseLeave
+
+**OnMouseLeave**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseMove
+
+**OnMouseMove**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnMouseUp
+
+**OnMouseUp**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnPaint
+
+**OnPaint**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+
+
+---
+
+#### ShowDropDown
+
+**ShowDropDown**(): void
+
 
 ### Fields
 

@@ -4,15 +4,25 @@ title: "StiArrayCloner Class"
 
 ## StiArrayCloner Class
 
-**Namespace:** `Stimulsoft.Report.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiArrayCloner
-```
+**Namespace:** `Stimulsoft.Report.Helpers`
 
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Clone** `static` | byte[] |  |
+
+---
+
+### Method Details
+
+#### Clone `static`
+
+**Clone**(****: bytearray): byte[]
+
+**Parameters**
+
+- **** (bytearray)  
+
+**Returns** byte[]
+

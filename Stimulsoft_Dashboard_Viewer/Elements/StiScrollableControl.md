@@ -4,12 +4,7 @@ title: "StiScrollableControl Class"
 
 ## StiScrollableControl Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiScrollableControl
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: ScrollableControl
 | Constructor | Description |
 | --- | --- |
 | **StiScrollableControl**(IStiElement element) |  |
+
+**StiScrollableControl**(**element**: IStiElement)
+
+**Parameters**
+
+- **element** (IStiElement)  
+
 
 ### Properties
 
@@ -33,3 +35,29 @@ Inherits from: ScrollableControl
 | --- | --- | --- |
 | **OnPaintBackground** | void |  |
 | **ScrollToControl** | Point |  |
+
+---
+
+### Method Details
+
+#### OnPaintBackground
+
+**OnPaintBackground**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+
+
+---
+
+#### ScrollToControl
+
+**ScrollToControl**(**activeControl**: Control): Point
+
+**Parameters**
+
+- **activeControl** (Control)  
+
+**Returns** Point
+

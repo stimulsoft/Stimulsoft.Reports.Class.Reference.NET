@@ -4,12 +4,7 @@ title: "StiAppDatabaseConnectorHelper Class"
 
 ## StiAppDatabaseConnectorHelper Class
 
-**Namespace:** `Stimulsoft.Base.Server`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiAppDatabaseConnectorHelper
-```
+**Namespace:** `Stimulsoft.Base.Server`
 
 ### Properties
 

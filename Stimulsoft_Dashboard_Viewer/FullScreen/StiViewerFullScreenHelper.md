@@ -4,12 +4,7 @@ title: "StiViewerFullScreenHelper Class"
 
 ## StiViewerFullScreenHelper Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.FullScreen`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiViewerFullScreenHelper
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.FullScreen`
 
 ### Inheritance
 
@@ -19,4 +14,11 @@ Inherits from: [StiFullScreenHelper](StiFullScreenHelper.md)
 
 | Constructor | Description |
 | --- | --- |
-| **StiViewerFullScreenHelper**([StiDashboardViewerControl](../StiDashboardViewerControl.md) viewer) |  |
+| **StiViewerFullScreenHelper**([StiDashboardViewerControl](../root/StiDashboardViewerControl.md) viewer) |  |
+
+**StiViewerFullScreenHelper**(**viewer**: [StiDashboardViewerControl](../root/StiDashboardViewerControl.md))
+
+**Parameters**
+
+- **viewer** ([StiDashboardViewerControl](../root/StiDashboardViewerControl.md))  
+

@@ -4,12 +4,7 @@ title: "StiAccountNotificationCollectionEventArgs Class"
 
 ## StiAccountNotificationCollectionEventArgs Class
 
-**Namespace:** `Stimulsoft.Base.Server`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiAccountNotificationCollectionEventArgs
-```
+**Namespace:** `Stimulsoft.Base.Server`
 
 ### Inheritance
 

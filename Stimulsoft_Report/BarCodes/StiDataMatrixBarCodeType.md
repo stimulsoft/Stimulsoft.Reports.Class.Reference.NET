@@ -4,12 +4,7 @@ title: "StiDataMatrixBarCodeType Class"
 
 ## StiDataMatrixBarCodeType Class
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDataMatrixBarCodeType
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Inheritance
 
@@ -22,6 +17,32 @@ Inherits from: StiBarCodeTypeService
 | **StiDataMatrixBarCodeType**() |  |
 | **StiDataMatrixBarCodeType**(float module, [StiDataMatrixEncodingType](StiDataMatrixEncodingType.md) encodingType, bool useRectangularSymbols, [StiDataMatrixSize](StiDataMatrixSize.md) matrixSize) |  |
 | **StiDataMatrixBarCodeType**(float module, [StiDataMatrixEncodingType](StiDataMatrixEncodingType.md) encodingType, bool useRectangularSymbols, [StiDataMatrixSize](StiDataMatrixSize.md) matrixSize, bool processTilde) |  |
+
+**StiDataMatrixBarCodeType**()
+
+---
+
+**StiDataMatrixBarCodeType**(**module**: float, **encodingType**: [StiDataMatrixEncodingType](StiDataMatrixEncodingType.md), **useRectangularSymbols**: bool, **matrixSize**: [StiDataMatrixSize](StiDataMatrixSize.md))
+
+**Parameters**
+
+- **module** (float)  
+- **encodingType** ([StiDataMatrixEncodingType](StiDataMatrixEncodingType.md))  
+- **useRectangularSymbols** (bool)  
+- **matrixSize** ([StiDataMatrixSize](StiDataMatrixSize.md))  
+
+---
+
+**StiDataMatrixBarCodeType**(**module**: float, **encodingType**: [StiDataMatrixEncodingType](StiDataMatrixEncodingType.md), **useRectangularSymbols**: bool, **matrixSize**: [StiDataMatrixSize](StiDataMatrixSize.md), **processTilde**: bool)
+
+**Parameters**
+
+- **module** (float)  
+- **encodingType** ([StiDataMatrixEncodingType](StiDataMatrixEncodingType.md))  
+- **useRectangularSymbols** (bool)  
+- **matrixSize** ([StiDataMatrixSize](StiDataMatrixSize.md))  
+- **processTilde** (bool)  
+
 
 ### Properties
 
@@ -39,6 +60,46 @@ Inherits from: StiBarCodeTypeService
 | **Draw** | void |  |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: object, **barCode**: StiBarCode, **rect**: RectangleF, **zoom**: float): void
+
+**Parameters**
+
+- **context** (object)  
+- **barCode** (StiBarCode)  
+- **rect** (RectangleF)  
+- **zoom** (float)  
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
 
 ### Fields
 

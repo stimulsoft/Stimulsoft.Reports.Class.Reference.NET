@@ -4,12 +4,7 @@ title: "StiCheckSum Enum"
 
 ## StiCheckSum Enum
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiCheckSum
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Members
 

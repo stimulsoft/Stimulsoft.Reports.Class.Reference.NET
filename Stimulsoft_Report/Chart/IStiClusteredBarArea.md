@@ -4,12 +4,7 @@ title: "IStiClusteredBarArea Interface"
 
 ## IStiClusteredBarArea Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiClusteredBarArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

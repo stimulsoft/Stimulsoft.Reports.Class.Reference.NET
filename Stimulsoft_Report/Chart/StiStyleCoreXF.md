@@ -4,12 +4,7 @@ title: "StiStyleCoreXF Class"
 
 ## StiStyleCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiStyleCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Properties
 
@@ -38,3 +33,104 @@ public abstract class StiStyleCoreXF
 | **GetColors** | Color[] |  |
 | **GetColumnBorder** | Color |  |
 | **GetColumnBrush** | [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) |  |
+
+---
+
+### Method Details
+
+#### FillColumn
+
+**FillColumn**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **rect**: RectangleF, **cornerRadius**: StiCornerRadius, **brush**: [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md), **interaction**: [StiInteractionDataGeom](../Stimulsoft/Base/Context/StiInteractionDataGeom.md), **tooltip**: string, **elementIndex**: int): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **rect** (RectangleF)  
+- **cornerRadius** (StiCornerRadius)  
+- **brush** ([StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md))  
+- **interaction** ([StiInteractionDataGeom](../Stimulsoft/Base/Context/StiInteractionDataGeom.md))  
+- **tooltip** (string)  
+- **elementIndex** (int)  
+
+
+---
+
+#### GetAreaBrush
+
+**GetAreaBrush**(**color**: Color): [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)
+
+**Parameters**
+
+- **color** (Color)  
+
+**Returns** [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)
+
+
+---
+
+#### GetColorByIndex
+
+**GetColorByIndex**(**index**: int, **count**: int, ****: ColorseriesColors): Color
+
+**Parameters**
+
+- **index** (int)  
+- **count** (int)  
+- **** (ColorseriesColors)  
+
+**Returns** Color
+
+
+---
+
+#### GetColorBySeries
+
+**GetColorBySeries**(**series**: IStiSeries, ****: ColorseriesColors): Color
+
+**Parameters**
+
+- **series** (IStiSeries)  
+- **** (ColorseriesColors)  
+
+**Returns** Color
+
+
+---
+
+#### GetColors
+
+**GetColors**(**seriesCount**: int, ****: ColorseriesColors): Color[]
+
+**Parameters**
+
+- **seriesCount** (int)  
+- **** (ColorseriesColors)  
+
+**Returns** Color[]
+
+
+---
+
+#### GetColumnBorder
+
+**GetColumnBorder**(**color**: Color): Color
+
+**Parameters**
+
+- **color** (Color)  
+
+**Returns** Color
+
+
+---
+
+#### GetColumnBrush
+
+**GetColumnBrush**(**color**: Color): [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)
+
+**Parameters**
+
+- **color** (Color)  
+
+**Returns** [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)
+

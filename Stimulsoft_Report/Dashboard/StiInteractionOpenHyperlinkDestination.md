@@ -4,12 +4,7 @@ title: "StiInteractionOpenHyperlinkDestination Enum"
 
 ## StiInteractionOpenHyperlinkDestination Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiInteractionOpenHyperlinkDestination
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

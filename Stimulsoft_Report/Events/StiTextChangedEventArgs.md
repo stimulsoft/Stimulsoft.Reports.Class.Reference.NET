@@ -4,14 +4,9 @@ title: "StiTextChangedEventArgs Class"
 
 ## StiTextChangedEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event TextChanged.
-
-```csharp
-public class StiTextChangedEventArgs
-```
 
 ### Inheritance
 
@@ -22,6 +17,16 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiTextChangedEventArgs**(string oldValue, string newValue) | Creates a new object of the type StiTextChangedEventArgs. |
+
+**StiTextChangedEventArgs**(**oldValue**: string, **newValue**: string)
+
+Creates a new object of the type StiTextChangedEventArgs.
+
+**Parameters**
+
+- **oldValue** (string) — Old value of text.  
+- **newValue** (string) — New value of text.  
+
 
 ### Properties
 

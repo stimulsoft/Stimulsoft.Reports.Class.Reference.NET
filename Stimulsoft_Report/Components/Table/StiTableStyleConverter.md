@@ -4,12 +4,7 @@ title: "StiTableStyleConverter Class"
 
 ## StiTableStyleConverter Class
 
-**Namespace:** `Stimulsoft.Report.Components.Table`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTableStyleConverter
-```
+**Namespace:** `Stimulsoft.Report.Components.Table`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

@@ -4,12 +4,7 @@ title: "StiElementStyleIdent Enum"
 
 ## StiElementStyleIdent Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiElementStyleIdent
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

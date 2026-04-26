@@ -4,12 +4,7 @@ title: "StiOnlineMapValueViewMode Enum"
 
 ## StiOnlineMapValueViewMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiOnlineMapValueViewMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

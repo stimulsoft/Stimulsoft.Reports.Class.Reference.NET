@@ -4,18 +4,20 @@ title: "StiRecentCloudFolderChangedEventArgs Class"
 
 ## StiRecentCloudFolderChangedEventArgs Class
 
-**Namespace:** `Stimulsoft.Base.RecentFiles`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiRecentCloudFolderChangedEventArgs
-```
+**Namespace:** `Stimulsoft.Base.RecentFiles`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiRecentCloudFolderChangedEventArgs**(string folderKey) |  |
+
+**StiRecentCloudFolderChangedEventArgs**(**folderKey**: string)
+
+**Parameters**
+
+- **folderKey** (string)  
+
 
 ### Properties
 

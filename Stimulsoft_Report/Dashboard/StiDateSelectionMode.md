@@ -4,12 +4,7 @@ title: "StiDateSelectionMode Enum"
 
 ## StiDateSelectionMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDateSelectionMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

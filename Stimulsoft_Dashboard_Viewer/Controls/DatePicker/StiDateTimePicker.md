@@ -4,12 +4,7 @@ title: "StiDateTimePicker Class"
 
 ## StiDateTimePicker Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.DatePicker`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiDateTimePicker
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.DatePicker`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: Control
 | Constructor | Description |
 | --- | --- |
 | **StiDateTimePicker**(StiDatePickerElement element) |  |
+
+**StiDateTimePicker**(**element**: StiDatePickerElement)
+
+**Parameters**
+
+- **element** (StiDatePickerElement)  
+
 
 ### Properties
 
@@ -48,6 +50,174 @@ Inherits from: Control
 | **OnPaint** | void |  |
 | **OnSizeChanged** | void |  |
 | **ShowDropDown** | void |  |
+
+---
+
+### Method Details
+
+#### CloseDropDown
+
+**CloseDropDown**(): void
+
+
+---
+
+#### Dispose
+
+**Dispose**(**disposing**: bool): void
+
+**Parameters**
+
+- **disposing** (bool)  
+
+
+---
+
+#### DrawButton
+
+**DrawButton**(**g**: [Graphics](../../../Stimulsoft_Drawing/root/Graphics.md)): void
+
+**Parameters**
+
+- **g** ([Graphics](../../../Stimulsoft_Drawing/root/Graphics.md))  
+
+
+---
+
+#### GetButtonWidth
+
+**GetButtonWidth**(): int
+
+**Returns** int
+
+
+---
+
+#### OnBackColorChanged
+
+**OnBackColorChanged**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnFontChanged
+
+**OnFontChanged**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnForeColorChanged
+
+**OnForeColorChanged**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnGotFocus
+
+**OnGotFocus**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseDown
+
+**OnMouseDown**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnMouseEnter
+
+**OnMouseEnter**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseLeave
+
+**OnMouseLeave**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseMove
+
+**OnMouseMove**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnMouseUp
+
+**OnMouseUp**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnPaint
+
+**OnPaint**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+
+
+---
+
+#### OnSizeChanged
+
+**OnSizeChanged**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### ShowDropDown
+
+**ShowDropDown**(): void
+
 
 ### Events
 

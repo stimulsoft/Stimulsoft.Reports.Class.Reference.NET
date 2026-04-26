@@ -4,12 +4,7 @@ title: "StiBorderStyle Enum"
 
 ## StiBorderStyle Enum
 
-**Namespace:** `Stimulsoft.Report.Controls`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiBorderStyle
-```
+**Namespace:** `Stimulsoft.Report.Controls`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiOneListBoxElementControl Class"
 
 ## StiOneListBoxElementControl Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.ListBox`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiOneListBoxElementControl
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.ListBox`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: [StiListBoxElementControl](StiListBoxElementControl.md)
 | Constructor | Description |
 | --- | --- |
 | **StiOneListBoxElementControl**(IStiElement element) |  |
+
+**StiOneListBoxElementControl**(**element**: IStiElement)
+
+**Parameters**
+
+- **element** (IStiElement)  
+
 
 ### Methods
 
@@ -33,3 +35,78 @@ Inherits from: [StiListBoxElementControl](StiListBoxElementControl.md)
 | **RefreshFilter** | void |  |
 | **ResetFilter** | void |  |
 | **SetDefaultSelection** | void |  |
+
+---
+
+### Method Details
+
+#### CreateChild
+
+**CreateChild**(): void
+
+
+---
+
+#### Dispose
+
+**Dispose**(**disposing**: bool): void
+
+**Parameters**
+
+- **disposing** (bool)  
+
+
+---
+
+#### DisposeChild
+
+**DisposeChild**(): void
+
+
+---
+
+#### RefreshChildControl
+
+**RefreshChildControl**(****: StiListBoxItemitems): void
+
+**Parameters**
+
+- **** (StiListBoxItemitems)  
+
+
+---
+
+#### RefreshControl
+
+**RefreshControl**(**sender**: object, **e**: [StiReportControlUpdateEventArgs](../../../Stimulsoft_Report/Events/StiReportControlUpdateEventArgs.md)): void
+
+**Parameters**
+
+- **sender** (object)  
+- **e** ([StiReportControlUpdateEventArgs](../../../Stimulsoft_Report/Events/StiReportControlUpdateEventArgs.md))  
+
+
+---
+
+#### RefreshFilter
+
+**RefreshFilter**(): void
+
+
+---
+
+#### ResetFilter
+
+**ResetFilter**(): void
+
+
+---
+
+#### SetDefaultSelection
+
+**SetDefaultSelection**(**lockRefresh**: bool): void
+
+**Parameters**
+
+- **lockRefresh** (bool)  
+

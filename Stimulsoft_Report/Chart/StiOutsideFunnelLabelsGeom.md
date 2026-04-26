@@ -4,12 +4,7 @@ title: "StiOutsideFunnelLabelsGeom Class"
 
 ## StiOutsideFunnelLabelsGeom Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiOutsideFunnelLabelsGeom
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -27,3 +22,18 @@ Inherits from: [StiCenterFunnelLabelsGeom](StiCenterFunnelLabelsGeom.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Draw** | void | Draws area geom object on spefied context. |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md)): void
+
+Draws area geom object on spefied context.
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+

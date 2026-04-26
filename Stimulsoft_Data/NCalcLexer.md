@@ -4,12 +4,7 @@ title: "NCalcLexer Class"
 
 ## NCalcLexer Class
 
-**Namespace:** ``  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class NCalcLexer
-```
+**Namespace:** ``
 
 ### Inheritance
 
@@ -22,6 +17,26 @@ Inherits from: [Lexer](Expressions/Antlr/Runtime/Lexer.md)
 | **NCalcLexer**() |  |
 | **NCalcLexer**([ICharStream](Expressions/Antlr/Runtime/ICharStream.md) input) |  |
 | **NCalcLexer**([ICharStream](Expressions/Antlr/Runtime/ICharStream.md) input, [RecognizerSharedState](Expressions/Antlr/Runtime/RecognizerSharedState.md) state) |  |
+
+**NCalcLexer**()
+
+---
+
+**NCalcLexer**(**input**: [ICharStream](Expressions/Antlr/Runtime/ICharStream.md))
+
+**Parameters**
+
+- **input** ([ICharStream](Expressions/Antlr/Runtime/ICharStream.md))  
+
+---
+
+**NCalcLexer**(**input**: [ICharStream](Expressions/Antlr/Runtime/ICharStream.md), **state**: [RecognizerSharedState](Expressions/Antlr/Runtime/RecognizerSharedState.md))
+
+**Parameters**
+
+- **input** ([ICharStream](Expressions/Antlr/Runtime/ICharStream.md))  
+- **state** ([RecognizerSharedState](Expressions/Antlr/Runtime/RecognizerSharedState.md))  
+
 
 ### Properties
 
@@ -38,6 +53,41 @@ Inherits from: [Lexer](Expressions/Antlr/Runtime/Lexer.md)
 | **Error** *(+1 overloads)* | void |  |
 | **InitDFAs** | void |  |
 | **mTokens** | void |  |
+
+---
+
+### Method Details
+
+#### Error
+
+**Error**(**nvae**: [NoViableAltException](Expressions/Antlr/Runtime/NoViableAltException.md)): void
+
+**Parameters**
+
+- **nvae** ([NoViableAltException](Expressions/Antlr/Runtime/NoViableAltException.md))  
+
+---
+
+**Error**(**nvae**: [NoViableAltException](Expressions/Antlr/Runtime/NoViableAltException.md)): void
+
+**Parameters**
+
+- **nvae** ([NoViableAltException](Expressions/Antlr/Runtime/NoViableAltException.md))  
+
+
+---
+
+#### InitDFAs
+
+**InitDFAs**(): void
+
+
+---
+
+#### mTokens
+
+**mTokens**(): void
+
 
 ### Fields
 

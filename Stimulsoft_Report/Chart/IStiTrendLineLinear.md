@@ -4,12 +4,7 @@ title: "IStiTrendLineLinear Interface"
 
 ## IStiTrendLineLinear Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiTrendLineLinear
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

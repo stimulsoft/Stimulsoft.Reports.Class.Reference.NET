@@ -4,12 +4,7 @@ title: "CharStreamState Class"
 
 ## CharStreamState Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class CharStreamState
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`
 
 ### Fields
 

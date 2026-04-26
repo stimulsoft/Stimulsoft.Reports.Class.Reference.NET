@@ -4,11 +4,6 @@ title: "IStiPrintIfEmpty Interface"
 
 ## IStiPrintIfEmpty Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Allows to control of data printing, if data is empty.
-
-```csharp
-public interface IStiPrintIfEmpty
-```

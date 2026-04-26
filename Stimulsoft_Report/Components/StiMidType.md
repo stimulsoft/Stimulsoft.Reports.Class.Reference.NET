@@ -4,14 +4,9 @@ title: "StiMidType Enum"
 
 ## StiMidType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Types of mid values in indicator classes.
-
-```csharp
-public enum StiMidType
-```
 
 ### Members
 

@@ -4,11 +4,6 @@ title: "IStiFilter Interface"
 
 ## IStiFilter Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Allows to control filtering of data.
-
-```csharp
-public interface IStiFilter
-```

@@ -4,12 +4,7 @@ title: "StiDashboardAssemblyIsNotFoundException Class"
 
 ## StiDashboardAssemblyIsNotFoundException Class
 
-**Namespace:** `Stimulsoft.Base.Serializing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiDashboardAssemblyIsNotFoundException
-```
+**Namespace:** `Stimulsoft.Base.Serializing`
 
 ### Inheritance
 

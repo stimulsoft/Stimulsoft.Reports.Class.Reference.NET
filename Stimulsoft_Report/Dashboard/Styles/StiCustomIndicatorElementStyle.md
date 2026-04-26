@@ -4,12 +4,7 @@ title: "StiCustomIndicatorElementStyle Class"
 
 ## StiCustomIndicatorElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCustomIndicatorElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: [StiIndicatorElementStyle](StiIndicatorElementStyle.md)
 | Constructor | Description |
 | --- | --- |
 | **StiCustomIndicatorElementStyle**(StiIndicatorStyle style) |  |
+
+**StiCustomIndicatorElementStyle**(**style**: StiIndicatorStyle)
+
+**Parameters**
+
+- **style** (StiIndicatorStyle)  
+
 
 ### Properties
 

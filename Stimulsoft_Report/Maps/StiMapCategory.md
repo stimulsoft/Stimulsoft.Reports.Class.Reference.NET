@@ -4,12 +4,7 @@ title: "StiMapCategory Enum"
 
 ## StiMapCategory Enum
 
-**Namespace:** `Stimulsoft.Report.Maps`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiMapCategory
-```
+**Namespace:** `Stimulsoft.Report.Maps`
 
 ### Members
 

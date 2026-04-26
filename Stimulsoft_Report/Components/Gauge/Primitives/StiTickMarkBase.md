@@ -4,12 +4,7 @@ title: "StiTickMarkBase Class"
 
 ## StiTickMarkBase Class
 
-**Namespace:** `Stimulsoft.Report.Components.Gauge.Primitives`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiTickMarkBase
-```
+**Namespace:** `Stimulsoft.Report.Components.Gauge.Primitives`
 
 ### Inheritance
 
@@ -37,3 +32,73 @@ Inherits from: StiTickBase
 | **GetRelativeWidth** | float |  |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+**Returns** object
+
+
+---
+
+#### GetActualSkin
+
+**GetActualSkin**(): [StiGaugeElementSkin](../../../Gauge/StiGaugeElementSkin.md)
+
+**Returns** [StiGaugeElementSkin](../../../Gauge/StiGaugeElementSkin.md)
+
+
+---
+
+#### GetRelativeHeight
+
+**GetRelativeHeight**(**value**: float?): float
+
+**Parameters**
+
+- **value** (float?)  
+
+**Returns** float
+
+
+---
+
+#### GetRelativeWidth
+
+**GetRelativeWidth**(**value**: float?): float
+
+**Parameters**
+
+- **value** (float?)  
+
+**Returns** float
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../../../Stimulsoft_Base/Json/Linq/JObject.md)
+

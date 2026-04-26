@@ -4,12 +4,7 @@ title: "StiTextFormatState Enum"
 
 ## StiTextFormatState Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiTextFormatState
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

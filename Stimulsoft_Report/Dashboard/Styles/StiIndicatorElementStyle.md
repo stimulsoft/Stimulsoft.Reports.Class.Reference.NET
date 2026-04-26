@@ -4,12 +4,7 @@ title: "StiIndicatorElementStyle Class"
 
 ## StiIndicatorElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiIndicatorElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 
@@ -38,3 +33,38 @@ Inherits from: [StiElementStyle](StiElementStyle.md)
 | **DrawStyleForGallery** | void |  |
 | **GetGalleryBackColor** | Color |  |
 | **GetGalleryForeColor** | Color |  |
+
+---
+
+### Method Details
+
+#### DrawStyleForGallery
+
+**DrawStyleForGallery**(**g**: [Graphics](../../../Stimulsoft_Drawing/root/Graphics.md), **rect**: Rectangle, **indicatorFontIcons**: [StiFontIcons](../../../Stimulsoft_Base/Stimulsoft/Report/Helpers/StiFontIcons.md), **isDashboard**: bool, **isFormUI**: bool): void
+
+**Parameters**
+
+- **g** ([Graphics](../../../Stimulsoft_Drawing/root/Graphics.md))  
+- **rect** (Rectangle)  
+- **indicatorFontIcons** ([StiFontIcons](../../../Stimulsoft_Base/Stimulsoft/Report/Helpers/StiFontIcons.md))  
+- **isDashboard** (bool)  
+- **isFormUI** (bool)  
+
+
+---
+
+#### GetGalleryBackColor
+
+**GetGalleryBackColor**(): Color
+
+**Returns** Color
+
+
+---
+
+#### GetGalleryForeColor
+
+**GetGalleryForeColor**(): Color
+
+**Returns** Color
+

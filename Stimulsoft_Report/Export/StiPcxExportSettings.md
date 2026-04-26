@@ -4,14 +4,9 @@ title: "StiPcxExportSettings Class"
 
 ## StiPcxExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Class contains settings for export to PCX image format.
-
-```csharp
-public sealed class StiPcxExportSettings
-```
 
 ### Inheritance
 
@@ -22,3 +17,6 @@ Inherits from: [StiBitmapExportSettings](StiBitmapExportSettings.md)
 | Constructor | Description |
 | --- | --- |
 | **StiPcxExportSettings**() |  |
+
+**StiPcxExportSettings**()
+

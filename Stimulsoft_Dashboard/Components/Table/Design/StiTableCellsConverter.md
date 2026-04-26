@@ -4,12 +4,7 @@ title: "StiTableCellsConverter Class"
 
 ## StiTableCellsConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Table.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiTableCellsConverter
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Table.Design`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

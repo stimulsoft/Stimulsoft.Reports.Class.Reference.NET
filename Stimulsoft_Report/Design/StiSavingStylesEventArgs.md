@@ -4,12 +4,7 @@ title: "StiSavingStylesEventArgs Class"
 
 ## StiSavingStylesEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSavingStylesEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiSavingStylesEventArgs**(StiStylesCollection styles) |  |
+
+**StiSavingStylesEventArgs**(**styles**: StiStylesCollection)
+
+**Parameters**
+
+- **styles** (StiStylesCollection)  
+
 
 ### Properties
 

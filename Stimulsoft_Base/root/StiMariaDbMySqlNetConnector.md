@@ -1,0 +1,91 @@
+---
+title: "StiMariaDbMySqlNetConnector Class"
+---
+
+## StiMariaDbMySqlNetConnector Class
+
+**Namespace:** `Stimulsoft.Base`
+
+### Inheritance
+
+Inherits from: [StiMariaDbConnector](StiMariaDbConnector.md)  
+
+### Constructors
+
+| Constructor | Description |
+| --- | --- |
+| **StiMariaDbMySqlNetConnector**(string connectionString) |  |
+
+**StiMariaDbMySqlNetConnector**(**connectionString**: string)
+
+**Parameters**
+
+- **connectionString** (string)  
+
+
+### Methods
+
+| Method | Returns | Description |
+| --- | --- | --- |
+| **GetNetType** | Type | Returns a .NET type from the specified string representaion of the database type. |
+| **GetSampleConnectionString** | string | Returns sample of the connection string to this connector. |
+| **GetSqlType** | int | Returns a SQL based type from the .NET type. |
+| **RetrieveSchema** | [StiDataSchema](StiDataSchema.md) | Returns schema object which contains information about structure of the database. Schema returned start at specified root element (if it applicable). |
+
+---
+
+### Method Details
+
+#### GetNetType
+
+**GetNetType**(**dbType**: int): Type
+
+Returns a .NET type from the specified string representaion of the database type.
+
+**Parameters**
+
+- **dbType** (int)  
+
+**Returns** Type
+
+
+---
+
+#### GetSampleConnectionString
+
+**GetSampleConnectionString**(): string
+
+Returns sample of the connection string to this connector.
+
+**Returns** string
+
+
+---
+
+#### GetSqlType
+
+**GetSqlType**(**type**: Type): int
+
+Returns a SQL based type from the .NET type.
+
+**Parameters**
+
+- **type** (Type)  
+
+**Returns** int
+
+
+---
+
+#### RetrieveSchema
+
+**RetrieveSchema**(**allowException**: bool): [StiDataSchema](StiDataSchema.md)
+
+Returns schema object which contains information about structure of the database. Schema returned start at specified root element (if it applicable).
+
+**Parameters**
+
+- **allowException** (bool)  
+
+**Returns** [StiDataSchema](StiDataSchema.md)
+

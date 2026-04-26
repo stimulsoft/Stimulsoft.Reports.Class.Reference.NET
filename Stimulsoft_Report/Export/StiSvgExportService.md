@@ -4,12 +4,7 @@ title: "StiSvgExportService Class"
 
 ## StiSvgExportService Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSvgExportService
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Inheritance
 
@@ -20,3 +15,16 @@ Inherits from: [StiImageExportService](StiImageExportService.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetFilter** | string | Returns a filter for files with svg images. |
+
+---
+
+### Method Details
+
+#### GetFilter
+
+**GetFilter**(): string
+
+Returns a filter for files with svg images.
+
+**Returns** string — Returns a filter for files with svg images.
+

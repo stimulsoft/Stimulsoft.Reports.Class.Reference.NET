@@ -4,12 +4,7 @@ title: "StiSaveEventSource Enum"
 
 ## StiSaveEventSource Enum
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiSaveEventSource
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Members
 

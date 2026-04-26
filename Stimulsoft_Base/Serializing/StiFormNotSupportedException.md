@@ -4,12 +4,7 @@ title: "StiFormNotSupportedException Class"
 
 ## StiFormNotSupportedException Class
 
-**Namespace:** `Stimulsoft.Base.Serializing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiFormNotSupportedException
-```
+**Namespace:** `Stimulsoft.Base.Serializing`
 
 ### Inheritance
 

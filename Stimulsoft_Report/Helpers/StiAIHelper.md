@@ -4,12 +4,7 @@ title: "StiAIHelper Class"
 
 ## StiAIHelper Class
 
-**Namespace:** `Stimulsoft.Report.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiAIHelper
-```
+**Namespace:** `Stimulsoft.Report.Helpers`
 
 ### Methods
 
@@ -17,3 +12,23 @@ public static class StiAIHelper
 | --- | --- | --- |
 | **IsAIChatEnabled** `static` | bool |  |
 | **IsAIOptionEnabled** `static` | bool |  |
+
+---
+
+### Method Details
+
+#### IsAIChatEnabled `static`
+
+**IsAIChatEnabled**(): bool
+
+**Returns** bool
+
+
+---
+
+#### IsAIOptionEnabled `static`
+
+**IsAIOptionEnabled**(): bool
+
+**Returns** bool
+

@@ -4,14 +4,9 @@ title: "StiYRightChartAxisConverter Class"
 
 ## StiYRightChartAxisConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart.Design`
 
 Converts a StiYRightChartAxis object from one data type to another.
-
-```csharp
-public class StiYRightChartAxisConverter
-```
 
 ### Inheritance
 
@@ -23,3 +18,32 @@ Inherits from: TypeConverter
 | --- | --- | --- |
 | **CreateNewInstanceDescriptor** | object |  |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### CreateNewInstanceDescriptor
+
+**CreateNewInstanceDescriptor**(**info**: ConstructorInfo, ****: objectobjs): object
+
+**Parameters**
+
+- **info** (ConstructorInfo)  
+- **** (objectobjs)  
+
+**Returns** object
+
+
+---
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

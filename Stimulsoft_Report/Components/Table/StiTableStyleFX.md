@@ -4,12 +4,7 @@ title: "StiTableStyleFX Class"
 
 ## StiTableStyleFX Class
 
-**Namespace:** `Stimulsoft.Report.Components.Table`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiTableStyleFX
-```
+**Namespace:** `Stimulsoft.Report.Components.Table`
 
 ### Inheritance
 
@@ -26,3 +21,18 @@ Inherits from: Stimulsoft.Report.StiTableStyle
 | Method | Returns | Description |
 | --- | --- | --- |
 | **CreateFromJson** `static` | [StiTableStyleFX](StiTableStyleFX.md) |  |
+
+---
+
+### Method Details
+
+#### CreateFromJson `static`
+
+**CreateFromJson**(**styleId**: string): [StiTableStyleFX](StiTableStyleFX.md)
+
+**Parameters**
+
+- **styleId** (string)  
+
+**Returns** [StiTableStyleFX](StiTableStyleFX.md)
+

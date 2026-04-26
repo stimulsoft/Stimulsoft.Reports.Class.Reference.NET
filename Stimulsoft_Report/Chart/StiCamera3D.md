@@ -4,18 +4,21 @@ title: "StiCamera3D Class"
 
 ## StiCamera3D Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCamera3D
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiCamera3D**([StiRender3D](StiRender3D.md) render, [StiVector3](StiVector3.md) point) |  |
+
+**StiCamera3D**(**render**: [StiRender3D](StiRender3D.md), **point**: [StiVector3](StiVector3.md))
+
+**Parameters**
+
+- **render** ([StiRender3D](StiRender3D.md))  
+- **point** ([StiVector3](StiVector3.md))  
+
 
 ### Properties
 
@@ -31,6 +34,35 @@ public class StiCamera3D
 | **CameraMatrix** | [StiMatrix](../Export/StiMatrix.md) |  |
 | **RotateMatrix** | [StiMatrix](../Export/StiMatrix.md) |  |
 | **TranslateMatrix** | [StiMatrix](../Export/StiMatrix.md) |  |
+
+---
+
+### Method Details
+
+#### CameraMatrix
+
+**CameraMatrix**(): [StiMatrix](../Export/StiMatrix.md)
+
+**Returns** [StiMatrix](../Export/StiMatrix.md)
+
+
+---
+
+#### RotateMatrix
+
+**RotateMatrix**(): [StiMatrix](../Export/StiMatrix.md)
+
+**Returns** [StiMatrix](../Export/StiMatrix.md)
+
+
+---
+
+#### TranslateMatrix
+
+**TranslateMatrix**(): [StiMatrix](../Export/StiMatrix.md)
+
+**Returns** [StiMatrix](../Export/StiMatrix.md)
+
 
 ### Fields
 

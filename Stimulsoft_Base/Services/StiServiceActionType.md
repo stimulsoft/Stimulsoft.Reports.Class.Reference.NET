@@ -4,12 +4,7 @@ title: "StiServiceActionType Enum"
 
 ## StiServiceActionType Enum
 
-**Namespace:** `Stimulsoft.Base.Services`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiServiceActionType
-```
+**Namespace:** `Stimulsoft.Base.Services`
 
 ### Members
 

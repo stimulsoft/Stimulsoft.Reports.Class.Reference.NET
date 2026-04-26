@@ -4,12 +4,7 @@ title: "StiRegularPentagonShapeType Class"
 
 ## StiRegularPentagonShapeType Class
 
-**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRegularPentagonShapeType
-```
+**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`
 
 ### Inheritance
 

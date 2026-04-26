@@ -4,12 +4,7 @@ title: "StiCenterPictorialStackedLabelsCoreXF Class"
 
 ## StiCenterPictorialStackedLabelsCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCenterPictorialStackedLabelsCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiPictorialStackedLabelsCoreXF](StiPictorialStackedLabelsCoreXF
 | Constructor | Description |
 | --- | --- |
 | **StiCenterPictorialStackedLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |
+
+**StiCenterPictorialStackedLabelsCoreXF**(**seriesLabels**: IStiSeriesLabels)
+
+**Parameters**
+
+- **seriesLabels** (IStiSeriesLabels)  
+

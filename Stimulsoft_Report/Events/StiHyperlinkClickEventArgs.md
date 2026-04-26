@@ -4,12 +4,7 @@ title: "StiHyperlinkClickEventArgs Class"
 
 ## StiHyperlinkClickEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiHyperlinkClickEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiHyperlinkClickEventArgs**(string hyperlink) |  |
+
+**StiHyperlinkClickEventArgs**(**hyperlink**: string)
+
+**Parameters**
+
+- **hyperlink** (string)  
+
 
 ### Properties
 

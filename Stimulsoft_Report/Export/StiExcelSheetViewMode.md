@@ -4,14 +4,9 @@ title: "StiExcelSheetViewMode Enum"
 
 ## StiExcelSheetViewMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for setting modes of Excel sheet view
-
-```csharp
-public enum StiExcelSheetViewMode
-```
 
 ### Members
 

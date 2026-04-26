@@ -4,12 +4,7 @@ title: "StiInteractionDataGeom Class"
 
 ## StiInteractionDataGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiInteractionDataGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Properties
 

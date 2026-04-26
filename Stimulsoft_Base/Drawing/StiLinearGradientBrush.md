@@ -4,12 +4,7 @@ title: "StiLinearGradientBrush Class"
 
 ## StiLinearGradientBrush Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiLinearGradientBrush
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Inheritance
 
@@ -21,6 +16,19 @@ Inherits from: [StiBrush](StiBrush.md)
 | --- | --- |
 | **StiLinearGradientBrush**() |  |
 | **StiLinearGradientBrush**(Colorcolors , floatpositions , double angle) |  |
+
+**StiLinearGradientBrush**()
+
+---
+
+**StiLinearGradientBrush**(****: Colorcolors, ****: floatpositions, **angle**: double)
+
+**Parameters**
+
+- **** (Colorcolors)  
+- **** (floatpositions)  
+- **angle** (double)  
+
 
 ### Properties
 
@@ -35,3 +43,16 @@ Inherits from: [StiBrush](StiBrush.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **LoadValuesFromJson** | void |  |
+
+---
+
+### Method Details
+
+#### LoadValuesFromJson
+
+**LoadValuesFromJson**(**jObject**: [JObject](../Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../Json/Linq/JObject.md))  
+

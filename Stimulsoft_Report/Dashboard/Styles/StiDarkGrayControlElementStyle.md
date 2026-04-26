@@ -4,12 +4,7 @@ title: "StiDarkGrayControlElementStyle Class"
 
 ## StiDarkGrayControlElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDarkGrayControlElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 

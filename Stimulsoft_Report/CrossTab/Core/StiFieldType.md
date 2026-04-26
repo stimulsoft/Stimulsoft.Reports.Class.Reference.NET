@@ -4,12 +4,7 @@ title: "StiFieldType Enum"
 
 ## StiFieldType Enum
 
-**Namespace:** `Stimulsoft.Report.CrossTab.Core`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiFieldType
-```
+**Namespace:** `Stimulsoft.Report.CrossTab.Core`
 
 ### Members
 

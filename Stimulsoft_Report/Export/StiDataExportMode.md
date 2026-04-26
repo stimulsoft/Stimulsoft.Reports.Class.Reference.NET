@@ -4,12 +4,7 @@ title: "StiDataExportMode Enum"
 
 ## StiDataExportMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDataExportMode
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Members
 

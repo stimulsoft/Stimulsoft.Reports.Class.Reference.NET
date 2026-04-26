@@ -4,12 +4,7 @@ title: "StiToolboxGroupAttribute Class"
 
 ## StiToolboxGroupAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiToolboxGroupAttribute
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Inheritance
 

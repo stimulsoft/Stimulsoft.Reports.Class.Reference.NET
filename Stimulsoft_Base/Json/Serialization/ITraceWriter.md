@@ -4,11 +4,6 @@ title: "ITraceWriter Interface"
 
 ## ITraceWriter Interface
 
-**Namespace:** `Stimulsoft.Base.Json.Serialization`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Serialization`
 
 Represents a trace writer.
-
-```csharp
-public interface ITraceWriter
-```

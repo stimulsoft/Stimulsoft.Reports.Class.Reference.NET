@@ -4,12 +4,7 @@ title: "StiSeriesInteractionData Class"
 
 ## StiSeriesInteractionData Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSeriesInteractionData
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 
@@ -21,6 +16,19 @@ Inherits from: [StiInteractionData](StiInteractionData.md)
 | --- | --- |
 | **StiSeriesInteractionData**() |  |
 | **StiSeriesInteractionData**(IStiArea area, IStiSeries series, int pointIndex) |  |
+
+**StiSeriesInteractionData**()
+
+---
+
+**StiSeriesInteractionData**(**area**: IStiArea, **series**: IStiSeries, **pointIndex**: int)
+
+**Parameters**
+
+- **area** (IStiArea)  
+- **series** (IStiSeries)  
+- **pointIndex** (int)  
+
 
 ### Properties
 
@@ -44,3 +52,18 @@ Inherits from: [StiInteractionData](StiInteractionData.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Fill** | void |  |
+
+---
+
+### Method Details
+
+#### Fill
+
+**Fill**(**area**: IStiArea, **series**: IStiSeries, **pointIndex**: int): void
+
+**Parameters**
+
+- **area** (IStiArea)  
+- **series** (IStiSeries)  
+- **pointIndex** (int)  
+

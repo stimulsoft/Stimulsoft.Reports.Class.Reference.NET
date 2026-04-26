@@ -4,12 +4,7 @@ title: "StiPageViewMode Enum"
 
 ## StiPageViewMode Enum
 
-**Namespace:** `Stimulsoft.Report.Viewer`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiPageViewMode
-```
+**Namespace:** `Stimulsoft.Report.Viewer`
 
 ### Members
 

@@ -4,13 +4,8 @@ title: "IStiRefreshViewerElement Interface"
 
 ## IStiRefreshViewerElement Interface
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiRefreshViewerElement
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Inheritance
 
-Implements: [IStiRefreshAppControl](../../Stimulsoft_Base/IStiRefreshAppControl.md)  
+Implements: [IStiRefreshAppControl](../../Stimulsoft_Base/root/IStiRefreshAppControl.md)  

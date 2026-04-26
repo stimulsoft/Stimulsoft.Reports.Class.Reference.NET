@@ -4,12 +4,7 @@ title: "StiWCFRenderingInteractionsEventArgs Class"
 
 ## StiWCFRenderingInteractionsEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiWCFRenderingInteractionsEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 
@@ -19,7 +14,16 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| **StiWCFRenderingInteractionsEventArgs**(bytedata , [StiInteractionType](../StiInteractionType.md) interactionType, [IStiViewerControl](../Viewer/IStiViewerControl.md) viewer) |  |
+| **StiWCFRenderingInteractionsEventArgs**(bytedata , [StiInteractionType](../root/StiInteractionType.md) interactionType, [IStiViewerControl](../Viewer/IStiViewerControl.md) viewer) |  |
+
+**StiWCFRenderingInteractionsEventArgs**(****: bytedata, **interactionType**: [StiInteractionType](../root/StiInteractionType.md), **viewer**: [IStiViewerControl](../Viewer/IStiViewerControl.md))
+
+**Parameters**
+
+- **** (bytedata)  
+- **interactionType** ([StiInteractionType](../root/StiInteractionType.md))  
+- **viewer** ([IStiViewerControl](../Viewer/IStiViewerControl.md))  
+
 
 ### Properties
 
@@ -28,6 +32,6 @@ Inherits from: EventArgs
 | **Data** | byte[] |  |
 | **DrillDownMode** | [StiDrillDownMode](../Components/StiDrillDownMode.md) |  |
 | **Handled** | bool |  |
-| **InteractionType** | [StiInteractionType](../StiInteractionType.md) |  |
+| **InteractionType** | [StiInteractionType](../root/StiInteractionType.md) |  |
 | **Page** | StiPage |  |
 | **Viewer** | [IStiViewerControl](../Viewer/IStiViewerControl.md) |  |

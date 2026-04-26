@@ -4,12 +4,7 @@ title: "StiCreatedReportEventArgs Class"
 
 ## StiCreatedReportEventArgs Class
 
-**Namespace:** `Stimulsoft.Base.Wizards`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiCreatedReportEventArgs
-```
+**Namespace:** `Stimulsoft.Base.Wizards`
 
 ### Inheritance
 
@@ -24,7 +19,7 @@ Inherits from: EventArgs
 | **IsNewForm** | bool |  |
 | **IsNewReport** | bool |  |
 | **IsNewReportFromDataWizard** | bool |  |
-| **Report** | [IStiReport](../IStiReport.md) |  |
+| **Report** | [IStiReport](../root/IStiReport.md) |  |
 | **ReportPath** | string |  |
 | **StoreReportKey** | string |  |
 | **WizardServiceName** | string |  |
@@ -35,3 +30,23 @@ Inherits from: EventArgs
 | --- | --- | --- |
 | **IsBlankReport** | bool |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### IsBlankReport
+
+**IsBlankReport**(): bool
+
+**Returns** bool
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

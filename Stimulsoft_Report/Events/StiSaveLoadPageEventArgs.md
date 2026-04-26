@@ -4,14 +4,9 @@ title: "StiSaveLoadPageEventArgs Class"
 
 ## StiSaveLoadPageEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event SavePageToCache and LoadPageFromCache.
-
-```csharp
-public class StiSaveLoadPageEventArgs
-```
 
 ### Inheritance
 
@@ -22,6 +17,15 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiSaveLoadPageEventArgs**(StiPage page, int pageIndex, string cachePath) |  |
+
+**StiSaveLoadPageEventArgs**(**page**: StiPage, **pageIndex**: int, **cachePath**: string)
+
+**Parameters**
+
+- **page** (StiPage)  
+- **pageIndex** (int)  
+- **cachePath** (string)  
+
 
 ### Properties
 

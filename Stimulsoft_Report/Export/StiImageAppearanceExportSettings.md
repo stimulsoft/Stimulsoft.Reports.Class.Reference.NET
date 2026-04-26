@@ -4,14 +4,9 @@ title: "StiImageAppearanceExportSettings Class"
 
 ## StiImageAppearanceExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 The base class for all export settings file with image quality and resolution settings.
-
-```csharp
-public abstract class StiImageAppearanceExportSettings
-```
 
 ### Inheritance
 

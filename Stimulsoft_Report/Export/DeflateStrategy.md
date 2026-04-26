@@ -4,12 +4,7 @@ title: "DeflateStrategy Enum"
 
 ## DeflateStrategy Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum DeflateStrategy
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Members
 

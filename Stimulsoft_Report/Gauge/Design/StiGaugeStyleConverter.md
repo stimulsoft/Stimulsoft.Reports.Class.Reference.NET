@@ -4,12 +4,7 @@ title: "StiGaugeStyleConverter Class"
 
 ## StiGaugeStyleConverter Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGaugeStyleConverter
-```
+**Namespace:** `Stimulsoft.Report.Gauge.Design`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

@@ -4,12 +4,7 @@ title: "StiRangeSelectorDateTimeStep Enum"
 
 ## StiRangeSelectorDateTimeStep Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiRangeSelectorDateTimeStep
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

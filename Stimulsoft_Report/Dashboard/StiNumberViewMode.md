@@ -4,12 +4,7 @@ title: "StiNumberViewMode Enum"
 
 ## StiNumberViewMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiNumberViewMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

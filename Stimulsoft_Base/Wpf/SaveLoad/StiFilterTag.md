@@ -4,18 +4,22 @@ title: "StiFilterTag Class"
 
 ## StiFilterTag Class
 
-**Namespace:** `Stimulsoft.Base.Wpf.SaveLoad`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiFilterTag
-```
+**Namespace:** `Stimulsoft.Base.Wpf.SaveLoad`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiFilterTag**(string text, string filter, bool allowCloud) |  |
+
+**StiFilterTag**(**text**: string, **filter**: string, **allowCloud**: bool)
+
+**Parameters**
+
+- **text** (string)  
+- **filter** (string)  
+- **allowCloud** (bool)  
+
 
 ### Properties
 
@@ -30,3 +34,14 @@ public sealed class StiFilterTag
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

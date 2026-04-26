@@ -4,12 +4,7 @@ title: "StiRibbon22ImportType Enum"
 
 ## StiRibbon22ImportType Enum
 
-**Namespace:** `Stimulsoft.Base.Wpf.SaveLoad`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiRibbon22ImportType
-```
+**Namespace:** `Stimulsoft.Base.Wpf.SaveLoad`
 
 ### Members
 

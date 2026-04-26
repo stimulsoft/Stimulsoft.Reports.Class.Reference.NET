@@ -4,12 +4,7 @@ title: "StiNumberType Enum"
 
 ## StiNumberType Enum
 
-**Namespace:** `Stimulsoft.Base.Forms`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiNumberType
-```
+**Namespace:** `Stimulsoft.Base.Forms`
 
 ### Members
 

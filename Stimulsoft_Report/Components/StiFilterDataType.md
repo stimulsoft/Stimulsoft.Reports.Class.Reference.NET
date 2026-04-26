@@ -4,12 +4,7 @@ title: "StiFilterDataType Enum"
 
 ## StiFilterDataType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiFilterDataType
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

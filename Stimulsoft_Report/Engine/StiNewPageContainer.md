@@ -4,12 +4,7 @@ title: "StiNewPageContainer Class"
 
 ## StiNewPageContainer Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiNewPageContainer
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Inheritance
 
@@ -20,3 +15,6 @@ Inherits from: StiContainer
 | Constructor | Description |
 | --- | --- |
 | **StiNewPageContainer**() |  |
+
+**StiNewPageContainer**()
+

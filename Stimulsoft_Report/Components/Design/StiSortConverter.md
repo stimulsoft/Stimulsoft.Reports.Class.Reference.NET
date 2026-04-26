@@ -4,14 +4,9 @@ title: "StiSortConverter Class"
 
 ## StiSortConverter Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 Provides a type converter to convert sort rules to string.
-
-```csharp
-public class StiSortConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,19 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **SortToString** | string |  |
+
+---
+
+### Method Details
+
+#### SortToString
+
+**SortToString**(**sorts**: string, **dataSource**: StiDataSource): string
+
+**Parameters**
+
+- **sorts** (string)  
+- **dataSource** (StiDataSource)  
+
+**Returns** string
+

@@ -4,12 +4,7 @@ title: "StiWpfVisualizerAttribute Class"
 
 ## StiWpfVisualizerAttribute Class
 
-**Namespace:** `Stimulsoft.Dashboard.Visualizers`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiWpfVisualizerAttribute
-```
+**Namespace:** `Stimulsoft.Dashboard.Visualizers`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiWpfVisualizerAttribute**(string visualizerTypeName) |  |
 | **StiWpfVisualizerAttribute**(Type visualizerType) |  |
+
+**StiWpfVisualizerAttribute**(**visualizerTypeName**: string)
+
+**Parameters**
+
+- **visualizerTypeName** (string)  
+
+---
+
+**StiWpfVisualizerAttribute**(**visualizerType**: Type)
+
+**Parameters**
+
+- **visualizerType** (Type)  
+
 
 ### Properties
 

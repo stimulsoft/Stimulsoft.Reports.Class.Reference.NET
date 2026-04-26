@@ -4,12 +4,7 @@ title: "StiPivotToConvertedStateCache Class"
 
 ## StiPivotToConvertedStateCache Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiPivotToConvertedStateCache
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Methods
 
@@ -20,3 +15,64 @@ public static class StiPivotToConvertedStateCache
 | **IsConverted** `static` | bool |  |
 | **PutFalse** `static` | void |  |
 | **PutTrue** `static` | void |  |
+
+---
+
+### Method Details
+
+#### Clean `static`
+
+**Clean**(**reportKey**: string): void
+
+**Parameters**
+
+- **reportKey** (string)  
+
+
+---
+
+#### Contains `static`
+
+**Contains**(**element**: IStiPivotTableElement): bool
+
+**Parameters**
+
+- **element** (IStiPivotTableElement)  
+
+**Returns** bool
+
+
+---
+
+#### IsConverted `static`
+
+**IsConverted**(**element**: IStiPivotTableElement): bool
+
+**Parameters**
+
+- **element** (IStiPivotTableElement)  
+
+**Returns** bool
+
+
+---
+
+#### PutFalse `static`
+
+**PutFalse**(**element**: IStiPivotTableElement): void
+
+**Parameters**
+
+- **element** (IStiPivotTableElement)  
+
+
+---
+
+#### PutTrue `static`
+
+**PutTrue**(**element**: IStiPivotTableElement): void
+
+**Parameters**
+
+- **element** (IStiPivotTableElement)  
+

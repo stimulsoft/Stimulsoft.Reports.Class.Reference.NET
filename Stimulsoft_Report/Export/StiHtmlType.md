@@ -4,14 +4,9 @@ title: "StiHtmlType Enum"
 
 ## StiHtmlType Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration describes a type of the html exports.
-
-```csharp
-public enum StiHtmlType
-```
 
 ### Members
 

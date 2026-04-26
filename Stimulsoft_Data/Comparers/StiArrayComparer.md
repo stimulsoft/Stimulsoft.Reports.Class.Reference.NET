@@ -4,12 +4,7 @@ title: "StiArrayComparer Class"
 
 ## StiArrayComparer Class
 
-**Namespace:** `Stimulsoft.Data.Comparers`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class StiArrayComparer
-```
+**Namespace:** `Stimulsoft.Data.Comparers`
 
 ### Inheritance
 
@@ -20,3 +15,19 @@ Implements: IComparer<object[]>
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Compare** | int |  |
+
+---
+
+### Method Details
+
+#### Compare
+
+**Compare**(****: objectx, ****: objecty): int
+
+**Parameters**
+
+- **** (objectx)  
+- **** (objecty)  
+
+**Returns** int
+

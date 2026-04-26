@@ -4,12 +4,7 @@ title: "StiMap33StyleFX Class"
 
 ## StiMap33StyleFX Class
 
-**Namespace:** `Stimulsoft.Report.Maps`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiMap33StyleFX
-```
+**Namespace:** `Stimulsoft.Report.Maps`
 
 ### Inheritance
 
@@ -20,3 +15,6 @@ Inherits from: [StiMapStyleFX](StiMapStyleFX.md)
 | Constructor | Description |
 | --- | --- |
 | **StiMap33StyleFX**() |  |
+
+**StiMap33StyleFX**()
+

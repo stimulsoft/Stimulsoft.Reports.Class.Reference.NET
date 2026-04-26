@@ -4,12 +4,7 @@ title: "StiFiscalMonth Class"
 
 ## StiFiscalMonth Class
 
-**Namespace:** `Stimulsoft.Data.Types`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class StiFiscalMonth
-```
+**Namespace:** `Stimulsoft.Data.Types`
 
 ### Inheritance
 
@@ -20,6 +15,14 @@ Implements: IComparable
 | Constructor | Description |
 | --- | --- |
 | **StiFiscalMonth**([StiMonth](../Functions/StiMonth.md) month, [StiMonth](../Functions/StiMonth.md) startMonth) |  |
+
+**StiFiscalMonth**(**month**: [StiMonth](../Functions/StiMonth.md), **startMonth**: [StiMonth](../Functions/StiMonth.md))
+
+**Parameters**
+
+- **month** ([StiMonth](../Functions/StiMonth.md))  
+- **startMonth** ([StiMonth](../Functions/StiMonth.md))  
+
 
 ### Properties
 
@@ -34,6 +37,26 @@ Implements: IComparable
 | --- | --- | --- |
 | **GetHashCode** | int |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### GetHashCode
+
+**GetHashCode**(): int
+
+**Returns** int
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+
 
 ### Fields
 

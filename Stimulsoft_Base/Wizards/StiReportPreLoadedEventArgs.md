@@ -4,12 +4,7 @@ title: "StiReportPreLoadedEventArgs Class"
 
 ## StiReportPreLoadedEventArgs Class
 
-**Namespace:** `Stimulsoft.Base.Wizards`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiReportPreLoadedEventArgs
-```
+**Namespace:** `Stimulsoft.Base.Wizards`
 
 ### Inheritance
 

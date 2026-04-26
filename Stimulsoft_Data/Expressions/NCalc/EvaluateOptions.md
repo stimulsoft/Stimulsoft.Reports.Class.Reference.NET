@@ -4,12 +4,7 @@ title: "EvaluateOptions Enum"
 
 ## EvaluateOptions Enum
 
-**Namespace:** `Stimulsoft.Data.Expressions.NCalc`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum EvaluateOptions
-```
+**Namespace:** `Stimulsoft.Data.Expressions.NCalc`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "CommonErrorNode Class"
 
 ## CommonErrorNode Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Tree`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class CommonErrorNode
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Tree`
 
 ### Inheritance
 
@@ -20,6 +15,17 @@ Inherits from: [CommonTree](CommonTree.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+
 
 ### Fields
 

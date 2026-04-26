@@ -4,19 +4,29 @@ title: "StiDesignerInfo Class"
 
 ## StiDesignerInfo Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDesignerInfo
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiDesignerInfo**() | Creates a new object of the type StiDesignerInfo. |
-| **StiDesignerInfo**([StiReport](../StiReport.md) report) | Creates a new object of the type StiDesignerInfo. |
+| **StiDesignerInfo**([StiReport](../root/StiReport.md) report) | Creates a new object of the type StiDesignerInfo. |
+
+**StiDesignerInfo**()
+
+Creates a new object of the type StiDesignerInfo.
+
+---
+
+**StiDesignerInfo**(**report**: [StiReport](../root/StiReport.md))
+
+Creates a new object of the type StiDesignerInfo.
+
+**Parameters**
+
+- **report** ([StiReport](../root/StiReport.md)) — Report are these parameters belong to.  
+
 
 ### Properties
 
@@ -25,7 +35,7 @@ public class StiDesignerInfo
 | **AlignToGrid** | bool |  |
 | **AutoSaveInterval** | int |  |
 | **AutoSaveReportToReportClass** | bool |  |
-| **CurrentAction** | [StiAction](../../Stimulsoft_Report_Check/StiAction.md) | Currect action in designer. |
+| **CurrentAction** | [StiAction](../../Stimulsoft_Report_Check/root/StiAction.md) | Currect action in designer. |
 | **DefaultSaveFormat** | [StiReportSaveFormatId](../SaveLoad/StiReportSaveFormatId.md) |  |
 | **DraggingComponent** | StiComponent |  |
 | **DraggingLabelComponent** | StiComponent |  |
@@ -38,7 +48,7 @@ public class StiDesignerInfo
 | **FillCrossBands** | bool |  |
 | **ForceDesigningMode** | bool |  |
 | **GenerateLocalizedName** | bool |  |
-| **GridMode** | [StiGridMode](../StiGridMode.md) |  |
+| **GridMode** | [StiGridMode](../root/StiGridMode.md) |  |
 | **GridSizeCentimetres** | double |  |
 | **GridSizeHundredthsOfInch** | double |  |
 | **GridSizeInch** | double |  |
@@ -51,7 +61,7 @@ public class StiDesignerInfo
 | **MarkersStyle** | [StiMarkersStyle](../Components/StiMarkersStyle.md) |  |
 | **QuickInfoOverlay** | bool |  |
 | **QuickInfoType** | [StiQuickInfoType](../Components/StiQuickInfoType.md) |  |
-| **Report** | [StiReport](../StiReport.md) | Gets or sets the report to which these parameters belong. |
+| **Report** | [StiReport](../root/StiReport.md) | Gets or sets the report to which these parameters belong. |
 | **RunDesignerAfterInsert** | bool |  |
 | **ShowDimensionLines** | bool |  |
 | **ShowGrid** | bool |  |
@@ -62,7 +72,7 @@ public class StiDesignerInfo
 | **ShowSmartGuides** | bool |  |
 | **UseComponentColor** | bool |  |
 | **UseLastFormat** | bool |  |
-| **ViewMode** | [StiViewMode](../StiViewMode.md) |  |
+| **ViewMode** | [StiViewMode](../root/StiViewMode.md) |  |
 | **Zoom** | double |  |
 
 ### Methods
@@ -70,6 +80,23 @@ public class StiDesignerInfo
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetFillColor** | Color | Gets color of filling. |
+
+---
+
+### Method Details
+
+#### GetFillColor
+
+**GetFillColor**(**color**: Color): Color
+
+Gets color of filling.
+
+**Parameters**
+
+- **color** (Color) — Component color.  
+
+**Returns** Color — Color of filling.
+
 
 ### Fields
 

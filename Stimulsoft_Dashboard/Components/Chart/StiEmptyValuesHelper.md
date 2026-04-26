@@ -4,12 +4,7 @@ title: "StiEmptyValuesHelper Class"
 
 ## StiEmptyValuesHelper Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public static class StiEmptyValuesHelper
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart`
 
 ### Methods
 
@@ -19,3 +14,57 @@ public static class StiEmptyValuesHelper
 | **IsShowZeros** `static` | bool |  |
 | **IsShowZerosSimple** `static` | bool |  |
 | **IsSimple** `static` | bool |  |
+
+---
+
+### Method Details
+
+#### IsShowNulls `static`
+
+**IsShowNulls**(**seriesType**: [StiChartSeriesType](../../../Stimulsoft_Report/Dashboard/StiChartSeriesType.md)): bool
+
+**Parameters**
+
+- **seriesType** ([StiChartSeriesType](../../../Stimulsoft_Report/Dashboard/StiChartSeriesType.md))  
+
+**Returns** bool
+
+
+---
+
+#### IsShowZeros `static`
+
+**IsShowZeros**(**seriesType**: [StiChartSeriesType](../../../Stimulsoft_Report/Dashboard/StiChartSeriesType.md)): bool
+
+**Parameters**
+
+- **seriesType** ([StiChartSeriesType](../../../Stimulsoft_Report/Dashboard/StiChartSeriesType.md))  
+
+**Returns** bool
+
+
+---
+
+#### IsShowZerosSimple `static`
+
+**IsShowZerosSimple**(**seriesType**: [StiChartSeriesType](../../../Stimulsoft_Report/Dashboard/StiChartSeriesType.md)): bool
+
+**Parameters**
+
+- **seriesType** ([StiChartSeriesType](../../../Stimulsoft_Report/Dashboard/StiChartSeriesType.md))  
+
+**Returns** bool
+
+
+---
+
+#### IsSimple `static`
+
+**IsSimple**(**seriesType**: [StiChartSeriesType](../../../Stimulsoft_Report/Dashboard/StiChartSeriesType.md)): bool
+
+**Parameters**
+
+- **seriesType** ([StiChartSeriesType](../../../Stimulsoft_Report/Dashboard/StiChartSeriesType.md))  
+
+**Returns** bool
+

@@ -4,14 +4,9 @@ title: "StiProcessDescriptionEventArgs Class"
 
 ## StiProcessDescriptionEventArgs Class
 
-**Namespace:** `Stimulsoft.Base.Design`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Design`
 
 Describes an argument for the event StiProcessDescriptionEvent.
-
-```csharp
-public class StiProcessDescriptionEventArgs
-```
 
 ### Inheritance
 
@@ -22,6 +17,17 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiProcessDescriptionEventArgs**(Type componentType, string name, string description) | Initializes a new instance of the StiProcessDescriptionEventArgs class. |
+
+**StiProcessDescriptionEventArgs**(**componentType**: Type, **name**: string, **description**: string)
+
+Initializes a new instance of the StiProcessDescriptionEventArgs class.
+
+**Parameters**
+
+- **componentType** (Type)  
+- **name** (string)  
+- **description** (string)  
+
 
 ### Properties
 

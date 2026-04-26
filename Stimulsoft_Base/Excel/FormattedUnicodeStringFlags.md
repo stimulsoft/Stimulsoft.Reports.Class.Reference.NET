@@ -4,12 +4,7 @@ title: "FormattedUnicodeStringFlags Enum"
 
 ## FormattedUnicodeStringFlags Enum
 
-**Namespace:** `Stimulsoft.Base.Excel`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum FormattedUnicodeStringFlags
-```
+**Namespace:** `Stimulsoft.Base.Excel`
 
 ### Inheritance
 

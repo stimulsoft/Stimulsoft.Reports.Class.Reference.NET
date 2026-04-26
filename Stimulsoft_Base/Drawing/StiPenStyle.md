@@ -4,12 +4,7 @@ title: "StiPenStyle Enum"
 
 ## StiPenStyle Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiPenStyle
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

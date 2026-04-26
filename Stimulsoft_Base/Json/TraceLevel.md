@@ -4,14 +4,9 @@ title: "TraceLevel Enum"
 
 ## TraceLevel Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies what messages to output for the ITraceWriter class.
-
-```csharp
-public enum TraceLevel
-```
 
 ### Members
 

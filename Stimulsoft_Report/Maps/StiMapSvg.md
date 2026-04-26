@@ -4,12 +4,7 @@ title: "StiMapSvg Class"
 
 ## StiMapSvg Class
 
-**Namespace:** `Stimulsoft.Report.Maps`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiMapSvg
-```
+**Namespace:** `Stimulsoft.Report.Maps`
 
 ### Properties
 
@@ -37,3 +32,14 @@ public class StiMapSvg
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

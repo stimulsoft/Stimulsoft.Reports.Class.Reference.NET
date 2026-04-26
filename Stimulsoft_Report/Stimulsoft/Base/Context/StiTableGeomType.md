@@ -4,12 +4,7 @@ title: "StiTableGeomType Enum"
 
 ## StiTableGeomType Enum
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiTableGeomType
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Members
 

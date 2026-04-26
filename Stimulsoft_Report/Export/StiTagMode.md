@@ -4,12 +4,7 @@ title: "StiTagMode Enum"
 
 ## StiTagMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiTagMode
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Members
 

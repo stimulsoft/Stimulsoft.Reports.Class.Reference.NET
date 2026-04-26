@@ -4,14 +4,9 @@ title: "JsonConverterCollection Class"
 
 ## JsonConverterCollection Class
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Represents a collection of JsonConverter.
-
-```csharp
-public class JsonConverterCollection
-```
 
 ### Inheritance
 

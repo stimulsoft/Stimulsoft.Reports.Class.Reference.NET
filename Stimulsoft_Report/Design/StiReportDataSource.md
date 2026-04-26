@@ -4,12 +4,7 @@ title: "StiReportDataSource Class"
 
 ## StiReportDataSource Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiReportDataSource
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Inheritance
 
@@ -21,6 +16,18 @@ Inherits from: Component
 | --- | --- |
 | **StiReportDataSource**() |  |
 | **StiReportDataSource**(string name, object item) |  |
+
+**StiReportDataSource**()
+
+---
+
+**StiReportDataSource**(**name**: string, **item**: object)
+
+**Parameters**
+
+- **name** (string)  
+- **item** (object)  
+
 
 ### Properties
 

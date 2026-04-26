@@ -4,12 +4,7 @@ title: "StiBubbleAreaCoreXF Class"
 
 ## StiBubbleAreaCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiBubbleAreaCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiScatterAreaCoreXF](StiScatterAreaCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiBubbleAreaCoreXF**(IStiArea area) |  |
+
+**StiBubbleAreaCoreXF**(**area**: IStiArea)
+
+**Parameters**
+
+- **area** (IStiArea)  
+

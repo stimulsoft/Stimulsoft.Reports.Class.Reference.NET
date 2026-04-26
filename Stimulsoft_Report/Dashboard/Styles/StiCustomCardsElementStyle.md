@@ -4,12 +4,7 @@ title: "StiCustomCardsElementStyle Class"
 
 ## StiCustomCardsElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCustomCardsElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: StiCardsElementStyle
 | Constructor | Description |
 | --- | --- |
 | **StiCustomCardsElementStyle**(StiCardsStyle style) |  |
+
+**StiCustomCardsElementStyle**(**style**: StiCardsStyle)
+
+**Parameters**
+
+- **style** (StiCardsStyle)  
+
 
 ### Properties
 

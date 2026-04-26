@@ -4,12 +4,7 @@ title: "Identifier Class"
 
 ## Identifier Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class Identifier
-```
+**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 | Constructor | Description |
 | --- | --- |
 | **Identifier**(string name) |  |
+
+**Identifier**(**name**: string)
+
+**Parameters**
+
+- **name** (string)  
+
 
 ### Properties
 
@@ -32,3 +34,16 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Accept** | void |  |
+
+---
+
+### Method Details
+
+#### Accept
+
+**Accept**(**visitor**: [LogicalExpressionVisitor](LogicalExpressionVisitor.md)): void
+
+**Parameters**
+
+- **visitor** ([LogicalExpressionVisitor](LogicalExpressionVisitor.md))  
+

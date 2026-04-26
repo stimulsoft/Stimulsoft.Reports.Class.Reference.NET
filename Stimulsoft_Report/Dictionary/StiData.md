@@ -4,12 +4,7 @@ title: "StiData Class"
 
 ## StiData Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiData
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Constructors
 
@@ -18,6 +13,40 @@ public class StiData
 | **StiData**(string name, object data) | Creates a new object of the type StiData. |
 | **StiData**(string name, string alias, object data) | Creates a new object of the type StiData. |
 | **StiData**(string name, object data, object viewData) | Creates a new object of the type StiData. |
+
+**StiData**(**name**: string, **data**: object)
+
+Creates a new object of the type StiData.
+
+**Parameters**
+
+- **name** (string) — Name of Data.  
+- **data** (object) — Data.  
+
+---
+
+**StiData**(**name**: string, **alias**: string, **data**: object)
+
+Creates a new object of the type StiData.
+
+**Parameters**
+
+- **name** (string) — Name of Data.  
+- **alias** (string) — Alias of Data.  
+- **data** (object) — Data.  
+
+---
+
+**StiData**(**name**: string, **data**: object, **viewData**: object)
+
+Creates a new object of the type StiData.
+
+**Parameters**
+
+- **name** (string) — Name of Data.  
+- **data** (object) — Data.  
+- **viewData** (object) — Data for view.  
+
 
 ### Properties
 
@@ -34,3 +63,14 @@ public class StiData
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

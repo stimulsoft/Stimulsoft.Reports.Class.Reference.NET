@@ -4,14 +4,9 @@ title: "StiGaugeIteration Class"
 
 ## StiGaugeIteration Class
 
-**Namespace:** `Stimulsoft.Dashboard.Visuals.Gauge`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Visuals.Gauge`
 
 This class is used for the gauge element rendering.
-
-```csharp
-public class StiGaugeIteration
-```
 
 ### Properties
 

@@ -4,14 +4,9 @@ title: "StiColorScaleType Enum"
 
 ## StiColorScaleType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Types of color scale indicator.
-
-```csharp
-public enum StiColorScaleType
-```
 
 ### Members
 

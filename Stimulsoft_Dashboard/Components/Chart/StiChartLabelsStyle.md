@@ -4,12 +4,7 @@ title: "StiChartLabelsStyle Enum"
 
 ## StiChartLabelsStyle Enum
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public enum StiChartLabelsStyle
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart`
 
 ### Members
 

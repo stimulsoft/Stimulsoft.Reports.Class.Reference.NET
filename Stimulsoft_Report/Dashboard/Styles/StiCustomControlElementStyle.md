@@ -4,12 +4,7 @@ title: "StiCustomControlElementStyle Class"
 
 ## StiCustomControlElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCustomControlElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiControlElementStyle](StiControlElementStyle.md)
 | Constructor | Description |
 | --- | --- |
 | **StiCustomControlElementStyle**(StiDialogStyle style) |  |
+
+**StiCustomControlElementStyle**(**style**: StiDialogStyle)
+
+**Parameters**
+
+- **style** (StiDialogStyle)  
+

@@ -4,11 +4,6 @@ title: "IStiTextBrush Interface"
 
 ## IStiTextBrush Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Describes brush for text drawing.
-
-```csharp
-public interface IStiTextBrush
-```

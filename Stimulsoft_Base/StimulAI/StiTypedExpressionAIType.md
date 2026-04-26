@@ -4,12 +4,7 @@ title: "StiTypedExpressionAIType Enum"
 
 ## StiTypedExpressionAIType Enum
 
-**Namespace:** `Stimulsoft.Base.StimulAI`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiTypedExpressionAIType
-```
+**Namespace:** `Stimulsoft.Base.StimulAI`
 
 ### Members
 

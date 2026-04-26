@@ -4,12 +4,7 @@ title: "StiStringFromURL Class"
 
 ## StiStringFromURL Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiStringFromURL
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 
@@ -22,3 +17,21 @@ public sealed class StiStringFromURL
 | Method | Returns | Description |
 | --- | --- | --- |
 | **LoadString** `static` | string | Loads string from URL. |
+
+---
+
+### Method Details
+
+#### LoadString `static`
+
+**LoadString**(**url**: string, **cookieContainer**: CookieContainer): string
+
+Loads string from URL.
+
+**Parameters**
+
+- **url** (string)  
+- **cookieContainer** (CookieContainer)  
+
+**Returns** string
+

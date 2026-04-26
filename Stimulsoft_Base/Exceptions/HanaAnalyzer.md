@@ -4,12 +4,7 @@ title: "HanaAnalyzer Class"
 
 ## HanaAnalyzer Class
 
-**Namespace:** `Stimulsoft.Base.Exceptions`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class HanaAnalyzer
-```
+**Namespace:** `Stimulsoft.Base.Exceptions`
 
 ### Inheritance
 
@@ -20,3 +15,19 @@ Implements: IStiExceptionDatabaseAnalyzer
 | Method | Returns | Description |
 | --- | --- | --- |
 | **TryAnalyze** | bool |  |
+
+---
+
+### Method Details
+
+#### TryAnalyze
+
+**TryAnalyze**(**ex**: Exception, **info**: [StiDatabaseErrorInfo](StiDatabaseErrorInfo.md)): bool
+
+**Parameters**
+
+- **ex** (Exception)  
+- **info** ([StiDatabaseErrorInfo](StiDatabaseErrorInfo.md))  
+
+**Returns** bool
+

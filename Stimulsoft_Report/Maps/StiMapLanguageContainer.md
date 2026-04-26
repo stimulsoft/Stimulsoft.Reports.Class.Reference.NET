@@ -4,12 +4,7 @@ title: "StiMapLanguageContainer Class"
 
 ## StiMapLanguageContainer Class
 
-**Namespace:** `Stimulsoft.Report.Maps`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiMapLanguageContainer
-```
+**Namespace:** `Stimulsoft.Report.Maps`
 
 ### Properties
 

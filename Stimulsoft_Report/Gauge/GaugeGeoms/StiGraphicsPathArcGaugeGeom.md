@@ -4,12 +4,7 @@ title: "StiGraphicsPathArcGaugeGeom Class"
 
 ## StiGraphicsPathArcGaugeGeom Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGraphicsPathArcGaugeGeom
-```
+**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`
 
 ### Inheritance
 
@@ -20,6 +15,18 @@ Inherits from: [StiGaugeGeom](StiGaugeGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiGraphicsPathArcGaugeGeom**(float x, float y, float width, float height, float startAngle, float sweepAngle) |  |
+
+**StiGraphicsPathArcGaugeGeom**(**x**: float, **y**: float, **width**: float, **height**: float, **startAngle**: float, **sweepAngle**: float)
+
+**Parameters**
+
+- **x** (float)  
+- **y** (float)  
+- **width** (float)  
+- **height** (float)  
+- **startAngle** (float)  
+- **sweepAngle** (float)  
+
 
 ### Properties
 

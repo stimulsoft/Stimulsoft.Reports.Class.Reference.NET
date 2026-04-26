@@ -4,12 +4,7 @@ title: "StiMapSvgContainer Class"
 
 ## StiMapSvgContainer Class
 
-**Namespace:** `Stimulsoft.Report.Maps`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiMapSvgContainer
-```
+**Namespace:** `Stimulsoft.Report.Maps`
 
 ### Properties
 
@@ -32,3 +27,62 @@ public class StiMapSvgContainer
 | **Prepare** | void |  |
 | **SetGeometry3DWpf** | void |  |
 | **SetGeometryWpf** | void |  |
+
+---
+
+### Method Details
+
+#### GetGeometry3DWpf
+
+**GetGeometry3DWpf**(**key**: string): object
+
+**Parameters**
+
+- **key** (string)  
+
+**Returns** object
+
+
+---
+
+#### GetGeometryWpf
+
+**GetGeometryWpf**(**key**: string): object
+
+**Parameters**
+
+- **key** (string)  
+
+**Returns** object
+
+
+---
+
+#### Prepare
+
+**Prepare**(): void
+
+
+---
+
+#### SetGeometry3DWpf
+
+**SetGeometry3DWpf**(**key**: string, **geom**: object): void
+
+**Parameters**
+
+- **key** (string)  
+- **geom** (object)  
+
+
+---
+
+#### SetGeometryWpf
+
+**SetGeometryWpf**(**key**: string, **geom**: object): void
+
+**Parameters**
+
+- **key** (string)  
+- **geom** (object)  
+

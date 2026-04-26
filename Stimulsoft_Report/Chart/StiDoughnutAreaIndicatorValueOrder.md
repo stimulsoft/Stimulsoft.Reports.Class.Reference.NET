@@ -4,12 +4,7 @@ title: "StiDoughnutAreaIndicatorValueOrder Class"
 
 ## StiDoughnutAreaIndicatorValueOrder Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDoughnutAreaIndicatorValueOrder
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Fields
 

@@ -4,12 +4,7 @@ title: "StiSeriesLabelsValueType Enum"
 
 ## StiSeriesLabelsValueType Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiSeriesLabelsValueType
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

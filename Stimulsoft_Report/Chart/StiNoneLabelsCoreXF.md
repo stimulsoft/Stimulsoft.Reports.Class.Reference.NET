@@ -4,12 +4,7 @@ title: "StiNoneLabelsCoreXF Class"
 
 ## StiNoneLabelsCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiNoneLabelsCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: StiSeriesLabelsCoreXF
 | Constructor | Description |
 | --- | --- |
 | **StiNoneLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |
+
+**StiNoneLabelsCoreXF**(**seriesLabels**: IStiSeriesLabels)
+
+**Parameters**
+
+- **seriesLabels** (IStiSeriesLabels)  
+

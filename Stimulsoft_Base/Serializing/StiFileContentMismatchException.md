@@ -4,12 +4,7 @@ title: "StiFileContentMismatchException Class"
 
 ## StiFileContentMismatchException Class
 
-**Namespace:** `Stimulsoft.Base.Serializing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiFileContentMismatchException
-```
+**Namespace:** `Stimulsoft.Base.Serializing`
 
 ### Inheritance
 

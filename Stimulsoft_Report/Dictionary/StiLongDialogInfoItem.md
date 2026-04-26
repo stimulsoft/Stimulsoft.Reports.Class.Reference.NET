@@ -4,12 +4,7 @@ title: "StiLongDialogInfoItem Class"
 
 ## StiLongDialogInfoItem Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiLongDialogInfoItem
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 
@@ -20,3 +15,6 @@ Inherits from: StiDialogInfoItem
 | Constructor | Description |
 | --- | --- |
 | **StiLongDialogInfoItem**() |  |
+
+**StiLongDialogInfoItem**()
+

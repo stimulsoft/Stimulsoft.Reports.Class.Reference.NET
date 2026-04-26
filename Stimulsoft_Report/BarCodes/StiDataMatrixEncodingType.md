@@ -4,12 +4,7 @@ title: "StiDataMatrixEncodingType Enum"
 
 ## StiDataMatrixEncodingType Enum
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDataMatrixEncodingType
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Members
 

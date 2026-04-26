@@ -4,12 +4,7 @@ title: "StiProgressConditionPermissions Enum"
 
 ## StiProgressConditionPermissions Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiProgressConditionPermissions
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

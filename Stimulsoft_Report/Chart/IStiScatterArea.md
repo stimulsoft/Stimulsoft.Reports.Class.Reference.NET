@@ -4,12 +4,7 @@ title: "IStiScatterArea Interface"
 
 ## IStiScatterArea Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiScatterArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

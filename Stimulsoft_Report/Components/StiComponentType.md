@@ -4,14 +4,9 @@ title: "StiComponentType Enum"
 
 ## StiComponentType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 A type of processing of a component when printing.
-
-```csharp
-public enum StiComponentType
-```
 
 ### Members
 

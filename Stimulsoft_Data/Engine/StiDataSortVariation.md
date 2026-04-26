@@ -4,12 +4,7 @@ title: "StiDataSortVariation Class"
 
 ## StiDataSortVariation Class
 
-**Namespace:** `Stimulsoft.Data.Engine`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class StiDataSortVariation
-```
+**Namespace:** `Stimulsoft.Data.Engine`
 
 ### Methods
 
@@ -17,6 +12,34 @@ public class StiDataSortVariation
 | --- | --- | --- |
 | **CreateVariationSort** `static` | List<StiDataSortRule> |  |
 | **IsVariationSort** `static` | bool |  |
+
+---
+
+### Method Details
+
+#### CreateVariationSort `static`
+
+**CreateVariationSort**(**direction**: [StiDataSortDirection](StiDataSortDirection.md)): List<StiDataSortRule>
+
+**Parameters**
+
+- **direction** ([StiDataSortDirection](StiDataSortDirection.md))  
+
+**Returns** List<StiDataSortRule>
+
+
+---
+
+#### IsVariationSort `static`
+
+**IsVariationSort**(**sort**: IEnumerable<StiDataSortRule>): bool
+
+**Parameters**
+
+- **sort** (IEnumerable<StiDataSortRule>)  
+
+**Returns** bool
+
 
 ### Fields
 

@@ -4,12 +4,7 @@ title: "StiAllCheckBox Class"
 
 ## StiAllCheckBox Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiAllCheckBox
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`
 
 ### Inheritance
 
@@ -21,8 +16,24 @@ Inherits from: [StiTreeStateCheckBox](StiTreeStateCheckBox.md)
 | --- | --- |
 | **StiAllCheckBox**() |  |
 
+**StiAllCheckBox**()
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **OnPaint** | void |  |
+
+---
+
+### Method Details
+
+#### OnPaint
+
+**OnPaint**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+

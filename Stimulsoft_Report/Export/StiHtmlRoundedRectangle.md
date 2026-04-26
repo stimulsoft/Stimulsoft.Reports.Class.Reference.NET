@@ -4,12 +4,7 @@ title: "StiHtmlRoundedRectangle Class"
 
 ## StiHtmlRoundedRectangle Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiHtmlRoundedRectangle
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Fields
 

@@ -4,12 +4,7 @@ title: "StiColumnTypeProcessing Enum"
 
 ## StiColumnTypeProcessing Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiColumnTypeProcessing
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiNonSerializedAttribute Class"
 
 ## StiNonSerializedAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Serializing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiNonSerializedAttribute
-```
+**Namespace:** `Stimulsoft.Base.Serializing`
 
 ### Inheritance
 

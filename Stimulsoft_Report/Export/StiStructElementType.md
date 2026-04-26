@@ -4,12 +4,7 @@ title: "StiStructElementType Enum"
 
 ## StiStructElementType Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiStructElementType
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiGssMapHelper Class"
 
 ## StiGssMapHelper Class
 
-**Namespace:** `Stimulsoft.Report.Maps.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiGssMapHelper
-```
+**Namespace:** `Stimulsoft.Report.Maps.Helpers`
 
 ### Methods
 
@@ -17,3 +12,31 @@ public static class StiGssMapHelper
 | --- | --- | --- |
 | **AllowGss** `static` | bool |  |
 | **IsGssValue** `static` | bool |  |
+
+---
+
+### Method Details
+
+#### AllowGss `static`
+
+**AllowGss**(**id**: string): bool
+
+**Parameters**
+
+- **id** (string)  
+
+**Returns** bool
+
+
+---
+
+#### IsGssValue `static`
+
+**IsGssValue**(**value**: string): bool
+
+**Parameters**
+
+- **value** (string)  
+
+**Returns** bool
+

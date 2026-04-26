@@ -4,14 +4,9 @@ title: "MergeArrayHandling Enum"
 
 ## MergeArrayHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json.Linq`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Linq`
 
 Specifies how JSON arrays are merged together.
-
-```csharp
-public enum MergeArrayHandling
-```
 
 ### Members
 

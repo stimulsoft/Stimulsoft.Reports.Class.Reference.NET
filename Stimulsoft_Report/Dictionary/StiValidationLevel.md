@@ -4,14 +4,9 @@ title: "StiValidationLevel Enum"
 
 ## StiValidationLevel Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 Specifies the validation level for a given operation, indicating the severity of the validation result.
-
-```csharp
-public enum StiValidationLevel
-```
 
 ### Members
 

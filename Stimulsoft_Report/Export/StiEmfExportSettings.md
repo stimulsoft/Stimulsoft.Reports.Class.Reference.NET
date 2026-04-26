@@ -4,14 +4,9 @@ title: "StiEmfExportSettings Class"
 
 ## StiEmfExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Class contains settings for export to EMF image format.
-
-```csharp
-public sealed class StiEmfExportSettings
-```
 
 ### Inheritance
 
@@ -22,3 +17,6 @@ Inherits from: StiImageExportSettings
 | Constructor | Description |
 | --- | --- |
 | **StiEmfExportSettings**() |  |
+
+**StiEmfExportSettings**()
+

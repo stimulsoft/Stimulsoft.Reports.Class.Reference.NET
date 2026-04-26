@@ -4,12 +4,7 @@ title: "StiCSharpScriptParserOptions Class"
 
 ## StiCSharpScriptParserOptions Class
 
-**Namespace:** `Stimulsoft.Base.Parser`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiCSharpScriptParserOptions
-```
+**Namespace:** `Stimulsoft.Base.Parser`
 
 ### Properties
 

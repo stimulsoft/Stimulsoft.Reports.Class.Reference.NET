@@ -4,12 +4,7 @@ title: "StiAzureTableStorageSourceConverter Class"
 
 ## StiAzureTableStorageSourceConverter Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiAzureTableStorageSourceConverter
-```
+**Namespace:** `Stimulsoft.Report.Dictionary.Design`
 
 ### Inheritance
 

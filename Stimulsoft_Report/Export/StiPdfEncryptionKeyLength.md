@@ -4,14 +4,9 @@ title: "StiPdfEncryptionKeyLength Enum"
 
 ## StiPdfEncryptionKeyLength Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration which sets an encryption key length of the resulting pdf file.
-
-```csharp
-public enum StiPdfEncryptionKeyLength
-```
 
 ### Members
 

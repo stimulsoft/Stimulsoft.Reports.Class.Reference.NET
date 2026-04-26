@@ -4,12 +4,7 @@ title: "StiGraphicsArcGeometryGaugeGeom Class"
 
 ## StiGraphicsArcGeometryGaugeGeom Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGraphicsArcGeometryGaugeGeom
-```
+**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`
 
 ### Inheritance
 

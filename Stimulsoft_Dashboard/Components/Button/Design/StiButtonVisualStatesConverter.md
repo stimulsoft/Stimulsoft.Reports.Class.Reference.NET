@@ -4,12 +4,7 @@ title: "StiButtonVisualStatesConverter Class"
 
 ## StiButtonVisualStatesConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Button.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiButtonVisualStatesConverter
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Button.Design`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

@@ -4,16 +4,11 @@ title: "StiAzureSqlConnector Class"
 
 ## StiAzureSqlConnector Class
 
-**Namespace:** `Stimulsoft.Base.Data.Connectors.Azure`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiAzureSqlConnector
-```
+**Namespace:** `Stimulsoft.Base.Data.Connectors.Azure`
 
 ### Inheritance
 
-Inherits from: [StiMsSqlConnector](../../../StiMsSqlConnector.md)  
+Inherits from: [StiMsSqlConnector](../../../root/StiMsSqlConnector.md)  
 
 ### Constructors
 
@@ -21,9 +16,40 @@ Inherits from: [StiMsSqlConnector](../../../StiMsSqlConnector.md)
 | --- | --- |
 | **StiAzureSqlConnector**(string connectionString) |  |
 
+**StiAzureSqlConnector**(**connectionString**: string)
+
+**Parameters**
+
+- **connectionString** (string)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Get** `static` | [StiAzureSqlConnector](StiAzureSqlConnector.md) |  |
 | **GetSampleConnectionString** | string |  |
+
+---
+
+### Method Details
+
+#### Get `static`
+
+**Get**(**connectionString**: string): [StiAzureSqlConnector](StiAzureSqlConnector.md)
+
+**Parameters**
+
+- **connectionString** (string)  
+
+**Returns** [StiAzureSqlConnector](StiAzureSqlConnector.md)
+
+
+---
+
+#### GetSampleConnectionString
+
+**GetSampleConnectionString**(): string
+
+**Returns** string
+

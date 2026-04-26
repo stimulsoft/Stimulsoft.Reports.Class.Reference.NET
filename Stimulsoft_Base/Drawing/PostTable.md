@@ -4,12 +4,7 @@ title: "PostTable Class"
 
 ## PostTable Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class PostTable
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

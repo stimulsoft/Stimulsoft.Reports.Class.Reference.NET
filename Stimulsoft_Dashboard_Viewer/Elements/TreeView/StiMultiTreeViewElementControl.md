@@ -4,12 +4,7 @@ title: "StiMultiTreeViewElementControl Class"
 
 ## StiMultiTreeViewElementControl Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.TreeView`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiMultiTreeViewElementControl
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.TreeView`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: [StiTreeViewElementControl](StiTreeViewElementControl.md)
 | Constructor | Description |
 | --- | --- |
 | **StiMultiTreeViewElementControl**(IStiElement element) |  |
+
+**StiMultiTreeViewElementControl**(**element**: IStiElement)
+
+**Parameters**
+
+- **element** (IStiElement)  
+
 
 ### Methods
 
@@ -33,6 +35,81 @@ Inherits from: [StiTreeViewElementControl](StiTreeViewElementControl.md)
 | **RefreshFilter** | void |  |
 | **ResetFilter** | void |  |
 | **SetDefaultSelection** | void |  |
+
+---
+
+### Method Details
+
+#### CreateChild
+
+**CreateChild**(): void
+
+
+---
+
+#### Dispose
+
+**Dispose**(**disposing**: bool): void
+
+**Parameters**
+
+- **disposing** (bool)  
+
+
+---
+
+#### DisposeChild
+
+**DisposeChild**(): void
+
+
+---
+
+#### RefreshChild
+
+**RefreshChild**(**dataTable**: [StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md)): void
+
+**Parameters**
+
+- **dataTable** ([StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md))  
+
+
+---
+
+#### RefreshControl
+
+**RefreshControl**(**sender**: object, **e**: [StiReportControlUpdateEventArgs](../../../Stimulsoft_Report/Events/StiReportControlUpdateEventArgs.md)): void
+
+**Parameters**
+
+- **sender** (object)  
+- **e** ([StiReportControlUpdateEventArgs](../../../Stimulsoft_Report/Events/StiReportControlUpdateEventArgs.md))  
+
+
+---
+
+#### RefreshFilter
+
+**RefreshFilter**(): void
+
+
+---
+
+#### ResetFilter
+
+**ResetFilter**(): void
+
+
+---
+
+#### SetDefaultSelection
+
+**SetDefaultSelection**(**lockRefresh**: bool): void
+
+**Parameters**
+
+- **lockRefresh** (bool)  
+
 
 ### Fields
 

@@ -4,14 +4,9 @@ title: "StiTxtExportSettings Class"
 
 ## StiTxtExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 This class describes settings for export to TXT format.
-
-```csharp
-public class StiTxtExportSettings
-```
 
 ### Inheritance
 
@@ -37,4 +32,15 @@ Inherits from: [StiPageRangeExportSettings](StiPageRangeExportSettings.md)
 
 | Method | Returns | Description |
 | --- | --- | --- |
-| **GetExportFormat** | [StiExportFormat](../StiExportFormat.md) |  |
+| **GetExportFormat** | [StiExportFormat](../root/StiExportFormat.md) |  |
+
+---
+
+### Method Details
+
+#### GetExportFormat
+
+**GetExportFormat**(): [StiExportFormat](../root/StiExportFormat.md)
+
+**Returns** [StiExportFormat](../root/StiExportFormat.md)
+

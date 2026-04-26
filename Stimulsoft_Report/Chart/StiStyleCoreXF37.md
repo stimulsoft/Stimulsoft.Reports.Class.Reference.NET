@@ -4,12 +4,7 @@ title: "StiStyleCoreXF37 Class"
 
 ## StiStyleCoreXF37 Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiStyleCoreXF37
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: [StiStyleCoreXF26](StiStyleCoreXF26.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetAreaBrush** | [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md) |  |
+
+---
+
+### Method Details
+
+#### GetAreaBrush
+
+**GetAreaBrush**(**color**: Color): [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)
+
+**Parameters**
+
+- **color** (Color)  
+
+**Returns** [StiBrush](../../Stimulsoft_Base/Drawing/StiBrush.md)
+

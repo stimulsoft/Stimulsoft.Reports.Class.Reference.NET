@@ -4,12 +4,7 @@ title: "StiQuickBooksDatabaseConverter Class"
 
 ## StiQuickBooksDatabaseConverter Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiQuickBooksDatabaseConverter
-```
+**Namespace:** `Stimulsoft.Report.Dictionary.Design`
 
 ### Inheritance
 

@@ -4,18 +4,21 @@ title: "StiColumn Class"
 
 ## StiColumn Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab.Core`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiColumn
-```
+**Namespace:** `Stimulsoft.Report.CrossTab.Core`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiColumn**(object value, object displayValue) |  |
+
+**StiColumn**(**value**: object, **displayValue**: object)
+
+**Parameters**
+
+- **value** (object)  
+- **displayValue** (object)  
+
 
 ### Properties
 

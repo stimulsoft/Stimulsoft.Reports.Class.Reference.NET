@@ -4,12 +4,7 @@ title: "StiDateCondition Enum"
 
 ## StiDateCondition Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDateCondition
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

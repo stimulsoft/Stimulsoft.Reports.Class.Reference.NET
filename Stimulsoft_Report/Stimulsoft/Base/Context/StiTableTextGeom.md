@@ -4,12 +4,7 @@ title: "StiTableTextGeom Class"
 
 ## StiTableTextGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTableTextGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 

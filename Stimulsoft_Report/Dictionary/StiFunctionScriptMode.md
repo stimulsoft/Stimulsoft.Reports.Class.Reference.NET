@@ -4,12 +4,7 @@ title: "StiFunctionScriptMode Enum"
 
 ## StiFunctionScriptMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiFunctionScriptMode
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Members
 

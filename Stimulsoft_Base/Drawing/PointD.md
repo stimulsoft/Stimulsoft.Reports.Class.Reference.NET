@@ -4,18 +4,23 @@ title: "PointD Struct"
 
 ## PointD Struct
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public struct PointD
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **PointD**(double x, double y) | Initializes a new instance of the PointD class with the specified coordinates. |
+
+**PointD**(**x**: double, **y**: double)
+
+Initializes a new instance of the PointD class with the specified coordinates.
+
+**Parameters**
+
+- **x** (double) — The horizontal position of the point.  
+- **y** (double) — The vertical position of the point.  
+
 
 ### Properties
 
@@ -33,6 +38,63 @@ public struct PointD
 | **ToPoint** | Point |  |
 | **ToPointF** | PointF |  |
 | **ToString** | string | Converts this PointD to a human readable string. |
+
+---
+
+### Method Details
+
+#### Equals
+
+**Equals**(**obj**: object): bool
+
+Specifies whether this PointD contains the same coordinates as the specified Object.
+
+**Parameters**
+
+- **obj** (object) — The Object to test.  
+
+**Returns** bool — This method returns true if obj is a PointD and has the same coordinates as this Point.
+
+
+---
+
+#### GetHashCode
+
+**GetHashCode**(): int
+
+Returns a hash code for this PointD structure.
+
+**Returns** int — An integer value that specifies a hash value for this PointD structure.
+
+
+---
+
+#### ToPoint
+
+**ToPoint**(): Point
+
+**Returns** Point
+
+
+---
+
+#### ToPointF
+
+**ToPointF**(): PointF
+
+**Returns** PointF
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+Converts this PointD to a human readable string.
+
+**Returns** string
+
 
 ### Fields
 

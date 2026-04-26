@@ -4,14 +4,9 @@ title: "StiDataOptions Class"
 
 ## StiDataOptions Class
 
-**Namespace:** `Stimulsoft.Data.Options`  
-**Assembly:** `Stimulsoft.Data`
+**Namespace:** `Stimulsoft.Data.Options`
 
 This class contains data options.
-
-```csharp
-public sealed class StiDataOptions
-```
 
 ### Fields
 

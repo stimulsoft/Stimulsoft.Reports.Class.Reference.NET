@@ -4,12 +4,7 @@ title: "IStiSteppedAreaArea Interface"
 
 ## IStiSteppedAreaArea Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiSteppedAreaArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

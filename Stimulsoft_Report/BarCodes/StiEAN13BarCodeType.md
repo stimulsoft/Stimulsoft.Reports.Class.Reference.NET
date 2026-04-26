@@ -4,12 +4,7 @@ title: "StiEAN13BarCodeType Class"
 
 ## StiEAN13BarCodeType Class
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiEAN13BarCodeType
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: StiBarCodeTypeService
 | Constructor | Description |
 | --- | --- |
 | **StiEAN13BarCodeType**() |  |
+
+**StiEAN13BarCodeType**()
+
 
 ### Properties
 
@@ -57,3 +55,145 @@ Inherits from: StiBarCodeTypeService
 | **MakeEanAdd5Bars** | List<EanBarInfo> |  |
 | **SaveToJsonObject** | [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
 | **makeLonger** | string |  |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: object, **barCode**: StiBarCode, **rect**: RectangleF, **zoom**: float): void
+
+Draws the bar code with the specified parameters.
+
+**Parameters**
+
+- **context** (object) — Context for drawing.  
+- **barCode** (StiBarCode) — Component that invokes drawing.  
+- **rect** (RectangleF) — The rectangle that shows coordinates for drawing.  
+- **zoom** (float) — Zoom of drawing.  
+
+
+---
+
+#### DrawEanBars
+
+**DrawEanBars**(**context**: object, **barsArray**: List<EanBarInfo>, **barCode**: StiBarCode): void
+
+**Parameters**
+
+- **context** (object)  
+- **barsArray** (List<EanBarInfo>)  
+- **barCode** (StiBarCode)  
+
+
+---
+
+#### GetSymbolWidth
+
+**GetSymbolWidth**(**symbol**: char): float
+
+Returns width of one symbol in module.
+
+**Parameters**
+
+- **symbol** (char)  
+
+**Returns** float
+
+
+---
+
+#### IsSymbolSpace
+
+**IsSymbolSpace**(**symbol**: char): bool
+
+Returns true is char is space.
+
+**Parameters**
+
+- **symbol** (char)  
+
+**Returns** bool
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### MakeEan13Bars
+
+**MakeEan13Bars**(**code**: string, **isLast**: bool): List<EanBarInfo>
+
+**Parameters**
+
+- **code** (string)  
+- **isLast** (bool)  
+
+**Returns** List<EanBarInfo>
+
+
+---
+
+#### MakeEanAdd2Bars
+
+**MakeEanAdd2Bars**(**code**: string, **baseArray**: List<EanBarInfo>, **isLast**: bool): List<EanBarInfo>
+
+**Parameters**
+
+- **code** (string)  
+- **baseArray** (List<EanBarInfo>)  
+- **isLast** (bool)  
+
+**Returns** List<EanBarInfo>
+
+
+---
+
+#### MakeEanAdd5Bars
+
+**MakeEanAdd5Bars**(**code**: string, **baseArray**: List<EanBarInfo>, **isLast**: bool): List<EanBarInfo>
+
+**Parameters**
+
+- **code** (string)  
+- **baseArray** (List<EanBarInfo>)  
+- **isLast** (bool)  
+
+**Returns** List<EanBarInfo>
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+
+---
+
+#### makeLonger
+
+**makeLonger**(**symString**: string): string
+
+**Parameters**
+
+- **symString** (string)  
+
+**Returns** string
+

@@ -4,18 +4,21 @@ title: "StiGisMapData Class"
 
 ## StiGisMapData Class
 
-**Namespace:** `Stimulsoft.Base.Gis`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiGisMapData
-```
+**Namespace:** `Stimulsoft.Base.Gis`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiGisMapData**([StiFontIcons](../Stimulsoft/Report/Helpers/StiFontIcons.md) icon, Color iconColor) |  |
+
+**StiGisMapData**(**icon**: [StiFontIcons](../Stimulsoft/Report/Helpers/StiFontIcons.md), **iconColor**: Color)
+
+**Parameters**
+
+- **icon** ([StiFontIcons](../Stimulsoft/Report/Helpers/StiFontIcons.md))  
+- **iconColor** (Color)  
+
 
 ### Properties
 

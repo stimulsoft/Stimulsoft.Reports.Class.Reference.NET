@@ -4,12 +4,7 @@ title: "SimpleValue Class"
 
 ## SimpleValue Class
 
-**Namespace:** `Stimulsoft.Data.Types`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class SimpleValue
-```
+**Namespace:** `Stimulsoft.Data.Types`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Implements: IComparable
 | Constructor | Description |
 | --- | --- |
 | **SimpleValue**(object value) |  |
+
+**SimpleValue**(**value**: object)
+
+**Parameters**
+
+- **value** (object)  
+
 
 ### Properties
 
@@ -32,3 +34,14 @@ Implements: IComparable
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

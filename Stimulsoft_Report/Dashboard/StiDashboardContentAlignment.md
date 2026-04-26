@@ -4,12 +4,7 @@ title: "StiDashboardContentAlignment Enum"
 
 ## StiDashboardContentAlignment Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDashboardContentAlignment
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

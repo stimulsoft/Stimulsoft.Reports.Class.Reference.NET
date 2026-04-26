@@ -4,12 +4,7 @@ title: "StiRecentFileStructureItem Class"
 
 ## StiRecentFileStructureItem Class
 
-**Namespace:** `Stimulsoft.Base.RecentFiles`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiRecentFileStructureItem
-```
+**Namespace:** `Stimulsoft.Base.RecentFiles`
 
 ### Properties
 
@@ -27,3 +22,14 @@ public sealed class StiRecentFileStructureItem
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

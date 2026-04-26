@@ -4,22 +4,20 @@ title: "StiAppsDatabase Class"
 
 ## StiAppsDatabase Class
 
-**Namespace:** `Stimulsoft.Base.AppsDatabase`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiAppsDatabase
-```
+**Namespace:** `Stimulsoft.Base.AppsDatabase`
 
 ### Inheritance
 
-Inherits from: [StiKeyObject](../StiKeyObject.md)  
+Inherits from: [StiKeyObject](../root/StiKeyObject.md)  
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiAppsDatabase**() |  |
+
+**StiAppsDatabase**()
+
 
 ### Properties
 

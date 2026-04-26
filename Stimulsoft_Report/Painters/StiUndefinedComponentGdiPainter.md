@@ -4,12 +4,7 @@ title: "StiUndefinedComponentGdiPainter Class"
 
 ## StiUndefinedComponentGdiPainter Class
 
-**Namespace:** `Stimulsoft.Report.Painters`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiUndefinedComponentGdiPainter
-```
+**Namespace:** `Stimulsoft.Report.Painters`
 
 ### Inheritance
 
@@ -20,3 +15,17 @@ Inherits from: [StiComponentGdiPainter](StiComponentGdiPainter.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Paint** | void |  |
+
+---
+
+### Method Details
+
+#### Paint
+
+**Paint**(**component**: StiComponent, **e**: StiPaintEventArgs): void
+
+**Parameters**
+
+- **component** (StiComponent)  
+- **e** (StiPaintEventArgs)  
+

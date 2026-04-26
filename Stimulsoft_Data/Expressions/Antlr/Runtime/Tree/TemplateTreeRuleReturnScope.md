@@ -4,12 +4,7 @@ title: "TemplateTreeRuleReturnScope<TTemplate, TTree> Class"
 
 ## TemplateTreeRuleReturnScope<TTemplate, TTree> Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Tree`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class TemplateTreeRuleReturnScope<TTemplate, TTree>
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Tree`
 
 ### Inheritance
 

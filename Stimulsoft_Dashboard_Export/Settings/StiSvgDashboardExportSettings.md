@@ -4,12 +4,7 @@ title: "StiSvgDashboardExportSettings Class"
 
 ## StiSvgDashboardExportSettings Class
 
-**Namespace:** `Stimulsoft.Dashboard.Export.Settings`  
-**Assembly:** `Stimulsoft.Dashboard.Export`
-
-```csharp
-public class StiSvgDashboardExportSettings
-```
+**Namespace:** `Stimulsoft.Dashboard.Export.Settings`
 
 ### Inheritance
 

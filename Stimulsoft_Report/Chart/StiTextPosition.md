@@ -4,12 +4,7 @@ title: "StiTextPosition Enum"
 
 ## StiTextPosition Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiTextPosition
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

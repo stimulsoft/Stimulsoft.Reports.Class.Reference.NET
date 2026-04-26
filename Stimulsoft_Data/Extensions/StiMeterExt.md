@@ -4,12 +4,7 @@ title: "StiMeterExt Class"
 
 ## StiMeterExt Class
 
-**Namespace:** `Stimulsoft.Data.Extensions`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public static class StiMeterExt
-```
+**Namespace:** `Stimulsoft.Data.Extensions`
 
 ### Methods
 
@@ -17,3 +12,32 @@ public static class StiMeterExt
 | --- | --- | --- |
 | **GetDimensions** `static` | IEnumerable<[IStiDimensionMeter](../../Stimulsoft_Base/Meters/IStiDimensionMeter.md)> |  |
 | **IndexOf** `static` | int |  |
+
+---
+
+### Method Details
+
+#### GetDimensions `static`
+
+**GetDimensions**(**meters**: IEnumerable<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)>): IEnumerable<[IStiDimensionMeter](../../Stimulsoft_Base/Meters/IStiDimensionMeter.md)>
+
+**Parameters**
+
+- **meters** (IEnumerable<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)>)  
+
+**Returns** IEnumerable<[IStiDimensionMeter](../../Stimulsoft_Base/Meters/IStiDimensionMeter.md)>
+
+
+---
+
+#### IndexOf `static`
+
+**IndexOf**(**meters**: IEnumerable<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)>, **meter**: [IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)): int
+
+**Parameters**
+
+- **meters** (IEnumerable<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)>)  
+- **meter** ([IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md))  
+
+**Returns** int
+

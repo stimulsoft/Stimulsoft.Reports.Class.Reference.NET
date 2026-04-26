@@ -4,12 +4,7 @@ title: "StiCapStyle Enum"
 
 ## StiCapStyle Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiCapStyle
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

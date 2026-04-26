@@ -4,12 +4,7 @@ title: "StiTargetMode Enum"
 
 ## StiTargetMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiTargetMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

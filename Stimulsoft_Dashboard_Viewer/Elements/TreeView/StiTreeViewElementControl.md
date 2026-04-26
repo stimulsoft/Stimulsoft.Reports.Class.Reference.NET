@@ -4,12 +4,7 @@ title: "StiTreeViewElementControl Class"
 
 ## StiTreeViewElementControl Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.TreeView`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public abstract class StiTreeViewElementControl
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.TreeView`
 
 ### Inheritance
 
@@ -21,11 +16,34 @@ Inherits from: StiFilterElementControl
 | --- | --- |
 | **StiTreeViewElementControl**(IStiElement element) |  |
 
+**StiTreeViewElementControl**(**element**: IStiElement)
+
+**Parameters**
+
+- **element** (IStiElement)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetFullPathNodes** | List<TreeNode> |  |
+
+---
+
+### Method Details
+
+#### GetFullPathNodes
+
+**GetFullPathNodes**(**node**: TreeNode, **isFullPath**: bool): List<TreeNode>
+
+**Parameters**
+
+- **node** (TreeNode)  
+- **isFullPath** (bool)  
+
+**Returns** List<TreeNode>
+
 
 ### Fields
 

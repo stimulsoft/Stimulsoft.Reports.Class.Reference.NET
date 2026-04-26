@@ -4,12 +4,7 @@ title: "BinaryExpressionType Enum"
 
 ## BinaryExpressionType Enum
 
-**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum BinaryExpressionType
-```
+**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`
 
 ### Members
 

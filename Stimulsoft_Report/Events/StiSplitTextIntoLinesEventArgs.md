@@ -4,14 +4,9 @@ title: "StiSplitTextIntoLinesEventArgs Class"
 
 ## StiSplitTextIntoLinesEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event StiSplitTextIntoLines.
-
-```csharp
-public class StiSplitTextIntoLinesEventArgs
-```
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiLayoutKind Enum"
 
 ## StiLayoutKind Enum
 
-**Namespace:** `Stimulsoft.Report.App`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiLayoutKind
-```
+**Namespace:** `Stimulsoft.Report.App`
 
 ### Members
 

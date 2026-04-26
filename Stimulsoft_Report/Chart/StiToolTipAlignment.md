@@ -4,14 +4,9 @@ title: "StiToolTipAlignment Enum"
 
 ## StiToolTipAlignment Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Chart`
 
 Variants of the Tooltip object alignment.
-
-```csharp
-public enum StiToolTipAlignment
-```
 
 ### Members
 

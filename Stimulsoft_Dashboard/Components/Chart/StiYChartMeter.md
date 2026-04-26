@@ -4,14 +4,9 @@ title: "StiYChartMeter Class"
 
 ## StiYChartMeter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart`
 
 Describes a meter class which contains information about YCharts of the chart element.
-
-```csharp
-public class StiYChartMeter
-```
 
 ### Inheritance
 
@@ -24,6 +19,28 @@ Inherits from: StiDimensionMeter
 | **StiYChartMeter**() |  |
 | **StiYChartMeter**(string expression, string label) |  |
 | **StiYChartMeter**(string key, string expression, string label) |  |
+
+**StiYChartMeter**()
+
+---
+
+**StiYChartMeter**(**expression**: string, **label**: string)
+
+**Parameters**
+
+- **expression** (string)  
+- **label** (string)  
+
+---
+
+**StiYChartMeter**(**key**: string, **expression**: string, **label**: string)
+
+**Parameters**
+
+- **key** (string)  
+- **expression** (string)  
+- **label** (string)  
+
 
 ### Properties
 

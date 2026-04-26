@@ -4,12 +4,7 @@ title: "StiBorderSides Enum"
 
 ## StiBorderSides Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiBorderSides
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

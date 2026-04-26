@@ -4,12 +4,7 @@ title: "StiDesignerType Enum"
 
 ## StiDesignerType Enum
 
-**Namespace:** `Stimulsoft.Base.Design`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiDesignerType
-```
+**Namespace:** `Stimulsoft.Base.Design`
 
 ### Members
 

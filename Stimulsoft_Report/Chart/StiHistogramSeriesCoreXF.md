@@ -4,12 +4,7 @@ title: "StiHistogramSeriesCoreXF Class"
 
 ## StiHistogramSeriesCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiHistogramSeriesCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiClusteredColumnSeriesCoreXF](StiClusteredColumnSeriesCoreXF.m
 | Constructor | Description |
 | --- | --- |
 | **StiHistogramSeriesCoreXF**(IStiSeries series) |  |
+
+**StiHistogramSeriesCoreXF**(**series**: IStiSeries)
+
+**Parameters**
+
+- **series** (IStiSeries)  
+

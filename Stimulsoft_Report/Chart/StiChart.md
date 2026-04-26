@@ -4,12 +4,7 @@ title: "StiChart Class"
 
 ## StiChart Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiChart
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Properties
 
@@ -31,3 +26,38 @@ public class StiChart
 | --- | --- | --- |
 | **DrawChart** *(+1 overloads)* | void |  |
 | **RenderAtEnd** | void |  |
+
+---
+
+### Method Details
+
+#### DrawChart
+
+**DrawChart**(**g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **rect**: RectangleF, **useMargins**: bool, **useBackground**: bool): void
+
+**Parameters**
+
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **rect** (RectangleF)  
+- **useMargins** (bool)  
+- **useBackground** (bool)  
+
+---
+
+**DrawChart**(**g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **rect**: RectangleF, **useMargins**: bool, **useBackground**: bool, **zoom**: double): void
+
+**Parameters**
+
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **rect** (RectangleF)  
+- **useMargins** (bool)  
+- **useBackground** (bool)  
+- **zoom** (double)  
+
+
+---
+
+#### RenderAtEnd
+
+**RenderAtEnd**(): void
+

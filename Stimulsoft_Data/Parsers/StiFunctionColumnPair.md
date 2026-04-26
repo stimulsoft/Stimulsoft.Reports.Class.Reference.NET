@@ -4,12 +4,7 @@ title: "StiFunctionColumnPair Class"
 
 ## StiFunctionColumnPair Class
 
-**Namespace:** `Stimulsoft.Data.Parsers`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class StiFunctionColumnPair
-```
+**Namespace:** `Stimulsoft.Data.Parsers`
 
 ### Properties
 

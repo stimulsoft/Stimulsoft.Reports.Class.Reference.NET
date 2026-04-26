@@ -4,12 +4,7 @@ title: "StiLeftAxisLabelsCoreXF Class"
 
 ## StiLeftAxisLabelsCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiLeftAxisLabelsCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiCenterAxisLabelsCoreXF](StiCenterAxisLabelsCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiLeftAxisLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |
+
+**StiLeftAxisLabelsCoreXF**(**seriesLabels**: IStiSeriesLabels)
+
+**Parameters**
+
+- **seriesLabels** (IStiSeriesLabels)  
+

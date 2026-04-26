@@ -4,12 +4,7 @@ title: "StiAppAssemblyIsNotFoundException Class"
 
 ## StiAppAssemblyIsNotFoundException Class
 
-**Namespace:** `Stimulsoft.Base.Serializing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiAppAssemblyIsNotFoundException
-```
+**Namespace:** `Stimulsoft.Base.Serializing`
 
 ### Inheritance
 

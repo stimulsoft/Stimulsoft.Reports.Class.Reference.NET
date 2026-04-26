@@ -4,12 +4,7 @@ title: "StiClusteredColumnArea3D Class"
 
 ## StiClusteredColumnArea3D Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiClusteredColumnArea3D
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: StiAxisArea3D
 | Constructor | Description |
 | --- | --- |
 | **StiClusteredColumnArea3D**() |  |
+
+**StiClusteredColumnArea3D**()
+
 
 ### Properties
 
@@ -35,3 +33,47 @@ Inherits from: StiAxisArea3D
 | **GetSeriesTypes** | Type[] |  |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### GetDefaultSeriesType
+
+**GetDefaultSeriesType**(): Type
+
+**Returns** Type
+
+
+---
+
+#### GetSeriesTypes
+
+**GetSeriesTypes**(): Type[]
+
+**Returns** Type[]
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+

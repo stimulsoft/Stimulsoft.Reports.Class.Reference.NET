@@ -4,14 +4,9 @@ title: "StiProgressChangedEventArgs Class"
 
 ## StiProgressChangedEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Viewer`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Viewer`
 
 Describes an argument for the event ProgressChanged.
-
-```csharp
-public class StiProgressChangedEventArgs
-```
 
 ### Inheritance
 
@@ -22,6 +17,14 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiProgressChangedEventArgs**(int value, int maximum) |  |
+
+**StiProgressChangedEventArgs**(**value**: int, **maximum**: int)
+
+**Parameters**
+
+- **value** (int)  
+- **maximum** (int)  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiQRCodeErrorCorrectionLevel Enum"
 
 ## StiQRCodeErrorCorrectionLevel Enum
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiQRCodeErrorCorrectionLevel
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Members
 

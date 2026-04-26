@@ -4,14 +4,9 @@ title: "StiCloseValueChartMeter Class"
 
 ## StiCloseValueChartMeter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart`
 
 Describes a meter class which contains information about Close-Values of the chart element.
-
-```csharp
-public class StiCloseValueChartMeter
-```
 
 ### Inheritance
 
@@ -24,6 +19,28 @@ Inherits from: StiMeasureMeter
 | **StiCloseValueChartMeter**() |  |
 | **StiCloseValueChartMeter**(string expression, string label) |  |
 | **StiCloseValueChartMeter**(string key, string expression, string label) |  |
+
+**StiCloseValueChartMeter**()
+
+---
+
+**StiCloseValueChartMeter**(**expression**: string, **label**: string)
+
+**Parameters**
+
+- **expression** (string)  
+- **label** (string)  
+
+---
+
+**StiCloseValueChartMeter**(**key**: string, **expression**: string, **label**: string)
+
+**Parameters**
+
+- **key** (string)  
+- **expression** (string)  
+- **label** (string)  
+
 
 ### Properties
 

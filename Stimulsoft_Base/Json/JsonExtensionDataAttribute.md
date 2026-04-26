@@ -4,12 +4,7 @@ title: "JsonExtensionDataAttribute Class"
 
 ## JsonExtensionDataAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class JsonExtensionDataAttribute
-```
+**Namespace:** `Stimulsoft.Base.Json`
 
 ### Inheritance
 
@@ -20,6 +15,11 @@ Inherits from: Attribute
 | Constructor | Description |
 | --- | --- |
 | **JsonExtensionDataAttribute**() | Initializes a new instance of the JsonExtensionDataAttribute class. |
+
+**JsonExtensionDataAttribute**()
+
+Initializes a new instance of the JsonExtensionDataAttribute class.
+
 
 ### Properties
 

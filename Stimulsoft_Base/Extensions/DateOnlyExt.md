@@ -4,12 +4,7 @@ title: "DateOnlyExt Class"
 
 ## DateOnlyExt Class
 
-**Namespace:** `Stimulsoft.Base.Extensions`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class DateOnlyExt
-```
+**Namespace:** `Stimulsoft.Base.Extensions`
 
 ### Methods
 
@@ -17,6 +12,34 @@ public static class DateOnlyExt
 | --- | --- | --- |
 | **ToDateTime** `static` | DateTime |  |
 | **ToODate** `static` | double |  |
+
+---
+
+### Method Details
+
+#### ToDateTime `static`
+
+**ToDateTime**(**dateOnly**: [DateOnly](../System/DateOnly.md)): DateTime
+
+**Parameters**
+
+- **dateOnly** ([DateOnly](../System/DateOnly.md))  
+
+**Returns** DateTime
+
+
+---
+
+#### ToODate `static`
+
+**ToODate**(**dateOnly**: [DateOnly](../System/DateOnly.md)): double
+
+**Parameters**
+
+- **dateOnly** ([DateOnly](../System/DateOnly.md))  
+
+**Returns** double
+
 
 ### Fields
 

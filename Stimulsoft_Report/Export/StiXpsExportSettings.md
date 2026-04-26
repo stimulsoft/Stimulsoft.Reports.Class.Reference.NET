@@ -4,14 +4,9 @@ title: "StiXpsExportSettings Class"
 
 ## StiXpsExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 This class describes settings for export to XPS format.
-
-```csharp
-public class StiXpsExportSettings
-```
 
 ### Inheritance
 
@@ -28,4 +23,15 @@ Inherits from: [StiImageAppearanceExportSettings](StiImageAppearanceExportSettin
 
 | Method | Returns | Description |
 | --- | --- | --- |
-| **GetExportFormat** | [StiExportFormat](../StiExportFormat.md) |  |
+| **GetExportFormat** | [StiExportFormat](../root/StiExportFormat.md) |  |
+
+---
+
+### Method Details
+
+#### GetExportFormat
+
+**GetExportFormat**(): [StiExportFormat](../root/StiExportFormat.md)
+
+**Returns** [StiExportFormat](../root/StiExportFormat.md)
+

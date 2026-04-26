@@ -4,12 +4,7 @@ title: "StiDataFilterOperation Enum"
 
 ## StiDataFilterOperation Enum
 
-**Namespace:** `Stimulsoft.Data.Engine`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum StiDataFilterOperation
-```
+**Namespace:** `Stimulsoft.Data.Engine`
 
 ### Members
 

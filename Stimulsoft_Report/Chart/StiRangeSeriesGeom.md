@@ -4,12 +4,7 @@ title: "StiRangeSeriesGeom Class"
 
 ## StiRangeSeriesGeom Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRangeSeriesGeom
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,6 +15,15 @@ Inherits from: [StiLineSeriesGeom](StiLineSeriesGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiRangeSeriesGeom**([StiAreaGeom](StiAreaGeom.md) areaGeom, [StiSeriesPointsInfo](StiSeriesPointsInfo.md) pointsInfo, IStiSeries series) |  |
+
+**StiRangeSeriesGeom**(**areaGeom**: [StiAreaGeom](StiAreaGeom.md), **pointsInfo**: [StiSeriesPointsInfo](StiSeriesPointsInfo.md), **series**: IStiSeries)
+
+**Parameters**
+
+- **areaGeom** ([StiAreaGeom](StiAreaGeom.md))  
+- **pointsInfo** ([StiSeriesPointsInfo](StiSeriesPointsInfo.md))  
+- **series** (IStiSeries)  
+
 
 ### Properties
 
@@ -32,3 +36,16 @@ Inherits from: [StiLineSeriesGeom](StiLineSeriesGeom.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Draw** | void |  |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+

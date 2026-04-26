@@ -4,14 +4,9 @@ title: "StiGetHyperlinkEventConverter Class"
 
 ## StiGetHyperlinkEventConverter Class
 
-**Namespace:** `Stimulsoft.Report.Events.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events.Design`
 
 Provides a type converter to convert StiGetHyperlinkEvent objects to and from various other representations.
-
-```csharp
-public class StiGetHyperlinkEventConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,20 @@ Inherits from: [StiEventConverter](StiEventConverter.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ConvertFrom** | object |  |
+
+---
+
+### Method Details
+
+#### ConvertFrom
+
+**ConvertFrom**(**context**: ITypeDescriptorContext, **culture**: CultureInfo, **value**: object): object
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **culture** (CultureInfo)  
+- **value** (object)  
+
+**Returns** object
+

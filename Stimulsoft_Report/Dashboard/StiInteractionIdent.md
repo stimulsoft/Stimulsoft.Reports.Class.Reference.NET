@@ -4,12 +4,7 @@ title: "StiInteractionIdent Enum"
 
 ## StiInteractionIdent Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiInteractionIdent
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

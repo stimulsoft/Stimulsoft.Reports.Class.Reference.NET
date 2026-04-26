@@ -4,12 +4,7 @@ title: "StiServiceParamAttribute Class"
 
 ## StiServiceParamAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Services`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiServiceParamAttribute
-```
+**Namespace:** `Stimulsoft.Base.Services`
 
 ### Inheritance
 

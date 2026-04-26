@@ -4,11 +4,6 @@ title: "IStiComponentGuid Interface"
 
 ## IStiComponentGuid Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Allows to assign Guid to component.
-
-```csharp
-public interface IStiComponentGuid
-```

@@ -4,14 +4,9 @@ title: "IStiDataSource Interface"
 
 ## IStiDataSource Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Inteface describes a data source in the component.
-
-```csharp
-public interface IStiDataSource
-```
 
 ### Inheritance
 

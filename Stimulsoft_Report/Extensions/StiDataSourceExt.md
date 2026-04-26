@@ -4,12 +4,7 @@ title: "StiDataSourceExt Class"
 
 ## StiDataSourceExt Class
 
-**Namespace:** `Stimulsoft.Report.Extensions`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiDataSourceExt
-```
+**Namespace:** `Stimulsoft.Report.Extensions`
 
 ### Methods
 
@@ -17,3 +12,33 @@ public static class StiDataSourceExt
 | --- | --- | --- |
 | **ChildRelationList** `static` | IEnumerable<StiDataRelation> |  |
 | **ParentRelationList** `static` | IEnumerable<StiDataRelation> |  |
+
+---
+
+### Method Details
+
+#### ChildRelationList `static`
+
+**ChildRelationList**(**dataSource**: StiDataSource, **activePreferred**: bool): IEnumerable<StiDataRelation>
+
+**Parameters**
+
+- **dataSource** (StiDataSource)  
+- **activePreferred** (bool)  
+
+**Returns** IEnumerable<StiDataRelation>
+
+
+---
+
+#### ParentRelationList `static`
+
+**ParentRelationList**(**dataSource**: StiDataSource, **activePreferred**: bool): IEnumerable<StiDataRelation>
+
+**Parameters**
+
+- **dataSource** (StiDataSource)  
+- **activePreferred** (bool)  
+
+**Returns** IEnumerable<StiDataRelation>
+

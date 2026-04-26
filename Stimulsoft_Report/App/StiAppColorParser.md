@@ -4,12 +4,7 @@ title: "StiAppColorParser Class"
 
 ## StiAppColorParser Class
 
-**Namespace:** `Stimulsoft.Report.App`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiAppColorParser
-```
+**Namespace:** `Stimulsoft.Report.App`
 
 ### Methods
 
@@ -17,3 +12,35 @@ public static class StiAppColorParser
 | --- | --- | --- |
 | **GetBackColor** `static` | Color |  |
 | **GetForeColor** `static` | Color |  |
+
+---
+
+### Method Details
+
+#### GetBackColor `static`
+
+**GetBackColor**(**component**: object, **defaultColor**: Color, **allowDataLoading**: bool): Color
+
+**Parameters**
+
+- **component** (object)  
+- **defaultColor** (Color)  
+- **allowDataLoading** (bool)  
+
+**Returns** Color
+
+
+---
+
+#### GetForeColor `static`
+
+**GetForeColor**(**component**: object, **defaultColor**: Color, **allowDataLoading**: bool): Color
+
+**Parameters**
+
+- **component** (object)  
+- **defaultColor** (Color)  
+- **allowDataLoading** (bool)  
+
+**Returns** Color
+

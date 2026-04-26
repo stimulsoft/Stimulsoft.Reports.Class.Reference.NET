@@ -4,12 +4,7 @@ title: "IStiTrendLineExponential Interface"
 
 ## IStiTrendLineExponential Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiTrendLineExponential
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

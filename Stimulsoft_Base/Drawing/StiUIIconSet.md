@@ -4,12 +4,7 @@ title: "StiUIIconSet Enum"
 
 ## StiUIIconSet Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiUIIconSet
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

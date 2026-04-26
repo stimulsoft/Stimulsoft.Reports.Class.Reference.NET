@@ -4,12 +4,7 @@ title: "StiIndicatorValueType Enum"
 
 ## StiIndicatorValueType Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiIndicatorValueType
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

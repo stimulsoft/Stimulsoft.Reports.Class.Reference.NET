@@ -4,18 +4,20 @@ title: "StiControlColorCollection Class"
 
 ## StiControlColorCollection Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiControlColorCollection
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiControlColorCollection**(Control control) |  |
+
+**StiControlColorCollection**(**control**: Control)
+
+**Parameters**
+
+- **control** (Control)  
+
 
 ### Properties
 
@@ -48,3 +50,83 @@ public class StiControlColorCollection
 | **GetForeColor** | Color |  |
 | **GetGlyphColor** | Color |  |
 | **GetSeparatorColor** | Color |  |
+
+---
+
+### Method Details
+
+#### GetActionColors `static`
+
+**GetActionColors**(**element**: IStiElement, **isDarkMode**: bool?): [StiControlColorCollection](StiControlColorCollection.md)
+
+**Parameters**
+
+- **element** (IStiElement)  
+- **isDarkMode** (bool?)  
+
+**Returns** [StiControlColorCollection](StiControlColorCollection.md)
+
+
+---
+
+#### GetBackColor
+
+**GetBackColor**(**isSelected**: bool, **isHot**: bool): Color
+
+**Parameters**
+
+- **isSelected** (bool)  
+- **isHot** (bool)  
+
+**Returns** Color
+
+
+---
+
+#### GetElementColors `static`
+
+**GetElementColors**(**element**: IStiElement): [StiControlColorCollection](StiControlColorCollection.md)
+
+**Parameters**
+
+- **element** (IStiElement)  
+
+**Returns** [StiControlColorCollection](StiControlColorCollection.md)
+
+
+---
+
+#### GetForeColor
+
+**GetForeColor**(**isSelected**: bool, **isHot**: bool): Color
+
+**Parameters**
+
+- **isSelected** (bool)  
+- **isHot** (bool)  
+
+**Returns** Color
+
+
+---
+
+#### GetGlyphColor
+
+**GetGlyphColor**(**isSelected**: bool, **isHot**: bool): Color
+
+**Parameters**
+
+- **isSelected** (bool)  
+- **isHot** (bool)  
+
+**Returns** Color
+
+
+---
+
+#### GetSeparatorColor
+
+**GetSeparatorColor**(): Color
+
+**Returns** Color
+

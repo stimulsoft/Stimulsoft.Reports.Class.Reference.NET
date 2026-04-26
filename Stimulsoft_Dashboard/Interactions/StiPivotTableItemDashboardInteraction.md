@@ -4,14 +4,9 @@ title: "StiPivotTableItemDashboardInteraction Class"
 
 ## StiPivotTableItemDashboardInteraction Class
 
-**Namespace:** `Stimulsoft.Dashboard.Interactions`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Interactions`
 
 Describes an interaction functionality of the table column.
-
-```csharp
-public class StiPivotTableItemDashboardInteraction
-```
 
 ### Inheritance
 
@@ -22,6 +17,9 @@ Inherits from: StiDashboardInteraction
 | Constructor | Description |
 | --- | --- |
 | **StiPivotTableItemDashboardInteraction**() |  |
+
+**StiPivotTableItemDashboardInteraction**()
+
 
 ### Properties
 
@@ -37,3 +35,23 @@ Inherits from: StiDashboardInteraction
 | --- | --- | --- |
 | **ShouldSerializeOnClick** | bool |  |
 | **ShouldSerializeOnHover** | bool |  |
+
+---
+
+### Method Details
+
+#### ShouldSerializeOnClick
+
+**ShouldSerializeOnClick**(): bool
+
+**Returns** bool
+
+
+---
+
+#### ShouldSerializeOnHover
+
+**ShouldSerializeOnHover**(): bool
+
+**Returns** bool
+

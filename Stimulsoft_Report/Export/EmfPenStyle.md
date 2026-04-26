@@ -4,12 +4,7 @@ title: "EmfPenStyle Enum"
 
 ## EmfPenStyle Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum EmfPenStyle
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Members
 

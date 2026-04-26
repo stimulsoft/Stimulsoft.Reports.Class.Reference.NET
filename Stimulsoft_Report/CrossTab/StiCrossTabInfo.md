@@ -4,12 +4,7 @@ title: "StiCrossTabInfo Class"
 
 ## StiCrossTabInfo Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCrossTabInfo
-```
+**Namespace:** `Stimulsoft.Report.CrossTab`
 
 ### Inheritance
 

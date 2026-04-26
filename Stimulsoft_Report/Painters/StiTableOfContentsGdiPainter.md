@@ -4,12 +4,7 @@ title: "StiTableOfContentsGdiPainter Class"
 
 ## StiTableOfContentsGdiPainter Class
 
-**Namespace:** `Stimulsoft.Report.Painters`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTableOfContentsGdiPainter
-```
+**Namespace:** `Stimulsoft.Report.Painters`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: [StiBandGdiPainter](StiBandGdiPainter.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **PaintBandContent** | void |  |
+
+---
+
+### Method Details
+
+#### PaintBandContent
+
+**PaintBandContent**(**band**: StiBand, **g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **rect**: [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md)): void
+
+**Parameters**
+
+- **band** (StiBand)  
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **rect** ([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md))  
+

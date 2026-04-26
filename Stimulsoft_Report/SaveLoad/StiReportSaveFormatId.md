@@ -4,12 +4,7 @@ title: "StiReportSaveFormatId Enum"
 
 ## StiReportSaveFormatId Enum
 
-**Namespace:** `Stimulsoft.Report.SaveLoad`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiReportSaveFormatId
-```
+**Namespace:** `Stimulsoft.Report.SaveLoad`
 
 ### Members
 

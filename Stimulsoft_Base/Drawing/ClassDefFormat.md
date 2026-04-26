@@ -4,12 +4,7 @@ title: "ClassDefFormat Class"
 
 ## ClassDefFormat Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class ClassDefFormat
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 
@@ -24,3 +19,41 @@ public class ClassDefFormat
 | **GetClass** | ushort |  |
 | **GetDigestCoverage** | ushort[] |  |
 | **Read** `static` | [ClassDefFormat](ClassDefFormat.md) |  |
+
+---
+
+### Method Details
+
+#### GetClass
+
+**GetClass**(**glyph**: ushort): ushort
+
+**Parameters**
+
+- **glyph** (ushort)  
+
+**Returns** ushort
+
+
+---
+
+#### GetDigestCoverage
+
+**GetDigestCoverage**(): ushort[]
+
+**Returns** ushort[]
+
+
+---
+
+#### Read `static`
+
+**Read**(**reader**: StiFontReader, **offset**: uint): [ClassDefFormat](ClassDefFormat.md)
+
+**Parameters**
+
+- **reader** (StiFontReader)  
+- **offset** (uint)  
+
+**Returns** [ClassDefFormat](ClassDefFormat.md)
+

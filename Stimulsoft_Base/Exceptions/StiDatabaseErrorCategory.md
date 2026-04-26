@@ -4,12 +4,7 @@ title: "StiDatabaseErrorCategory Enum"
 
 ## StiDatabaseErrorCategory Enum
 
-**Namespace:** `Stimulsoft.Base.Exceptions`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiDatabaseErrorCategory
-```
+**Namespace:** `Stimulsoft.Base.Exceptions`
 
 ### Members
 

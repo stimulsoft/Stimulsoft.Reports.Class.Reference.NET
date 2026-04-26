@@ -4,11 +4,6 @@ title: "IStiVertAlignment Interface"
 
 ## IStiVertAlignment Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Describes the vertical alignment of an object.
-
-```csharp
-public interface IStiVertAlignment
-```

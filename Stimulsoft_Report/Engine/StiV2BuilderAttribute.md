@@ -4,12 +4,7 @@ title: "StiV2BuilderAttribute Class"
 
 ## StiV2BuilderAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiV2BuilderAttribute
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiV2BuilderAttribute**(string builderTypeName) |  |
 | **StiV2BuilderAttribute**(Type builderType) |  |
+
+**StiV2BuilderAttribute**(**builderTypeName**: string)
+
+**Parameters**
+
+- **builderTypeName** (string)  
+
+---
+
+**StiV2BuilderAttribute**(**builderType**: Type)
+
+**Parameters**
+
+- **builderType** (Type)  
+
 
 ### Properties
 

@@ -4,14 +4,9 @@ title: "Required Enum"
 
 ## Required Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Indicating whether a property is required.
-
-```csharp
-public enum Required
-```
 
 ### Members
 

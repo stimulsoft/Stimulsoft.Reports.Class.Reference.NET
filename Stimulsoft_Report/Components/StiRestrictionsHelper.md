@@ -4,12 +4,7 @@ title: "StiRestrictionsHelper Class"
 
 ## StiRestrictionsHelper Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiRestrictionsHelper
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Methods
 
@@ -21,3 +16,93 @@ public sealed class StiRestrictionsHelper
 | **IsAllowMove** `static` | bool |  |
 | **IsAllowResize** `static` | bool |  |
 | **IsAllowSelect** `static` | bool |  |
+
+---
+
+### Method Details
+
+#### IsAllowChange `static`
+
+**IsAllowChange**(**comp**: StiComponent): bool
+
+**Parameters**
+
+- **comp** (StiComponent)  
+
+**Returns** bool
+
+
+---
+
+#### IsAllowChangePosition `static`
+
+**IsAllowChangePosition**(**comp**: StiComponent): bool
+
+**Parameters**
+
+- **comp** (StiComponent)  
+
+**Returns** bool
+
+
+---
+
+#### IsAllowDelete `static`
+
+**IsAllowDelete**(**restrictions**: [StiRestrictions](StiRestrictions.md)): bool
+
+**Parameters**
+
+- **restrictions** ([StiRestrictions](StiRestrictions.md))  
+
+**Returns** bool
+
+---
+
+**IsAllowDelete**(**comp**: StiComponent): bool
+
+**Parameters**
+
+- **comp** (StiComponent)  
+
+**Returns** bool
+
+
+---
+
+#### IsAllowMove `static`
+
+**IsAllowMove**(**comp**: StiComponent): bool
+
+**Parameters**
+
+- **comp** (StiComponent)  
+
+**Returns** bool
+
+
+---
+
+#### IsAllowResize `static`
+
+**IsAllowResize**(**comp**: StiComponent): bool
+
+**Parameters**
+
+- **comp** (StiComponent)  
+
+**Returns** bool
+
+
+---
+
+#### IsAllowSelect `static`
+
+**IsAllowSelect**(**comp**: StiComponent): bool
+
+**Parameters**
+
+- **comp** (StiComponent)  
+
+**Returns** bool
+

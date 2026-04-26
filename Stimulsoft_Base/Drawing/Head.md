@@ -4,12 +4,7 @@ title: "Head Class"
 
 ## Head Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class Head
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

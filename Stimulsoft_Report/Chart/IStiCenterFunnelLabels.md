@@ -4,12 +4,7 @@ title: "IStiCenterFunnelLabels Interface"
 
 ## IStiCenterFunnelLabels Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiCenterFunnelLabels
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

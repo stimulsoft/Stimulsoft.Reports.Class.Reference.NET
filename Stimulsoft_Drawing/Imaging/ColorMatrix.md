@@ -4,12 +4,7 @@ title: "ColorMatrix Class"
 
 ## ColorMatrix Class
 
-**Namespace:** `Stimulsoft.Drawing.Imaging`  
-**Assembly:** `Stimulsoft.Drawing`
-
-```csharp
-public class ColorMatrix
-```
+**Namespace:** `Stimulsoft.Drawing.Imaging`
 
 ### Constructors
 
@@ -17,6 +12,17 @@ public class ColorMatrix
 | --- | --- |
 | **ColorMatrix**() |  |
 | **ColorMatrix**(floatnewColorMatrix ) |  |
+
+**ColorMatrix**()
+
+---
+
+**ColorMatrix**(****: floatnewColorMatrix)
+
+**Parameters**
+
+- **** (floatnewColorMatrix)  
+
 
 ### Properties
 

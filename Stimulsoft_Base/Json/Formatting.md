@@ -4,14 +4,9 @@ title: "Formatting Enum"
 
 ## Formatting Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies formatting options for the JsonTextWriter.
-
-```csharp
-public enum Formatting
-```
 
 ### Members
 

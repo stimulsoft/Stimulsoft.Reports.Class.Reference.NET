@@ -4,12 +4,7 @@ title: "StiRadarLineAreaCoreXF Class"
 
 ## StiRadarLineAreaCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRadarLineAreaCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiRadarAreaCoreXF](StiRadarAreaCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiRadarLineAreaCoreXF**(IStiArea area) |  |
+
+**StiRadarLineAreaCoreXF**(**area**: IStiArea)
+
+**Parameters**
+
+- **area** (IStiArea)  
+

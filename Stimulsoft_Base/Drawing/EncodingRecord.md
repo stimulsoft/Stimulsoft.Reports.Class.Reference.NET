@@ -4,12 +4,7 @@ title: "EncodingRecord Class"
 
 ## EncodingRecord Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class EncodingRecord
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

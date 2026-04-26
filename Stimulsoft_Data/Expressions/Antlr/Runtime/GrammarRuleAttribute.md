@@ -4,12 +4,7 @@ title: "GrammarRuleAttribute Class"
 
 ## GrammarRuleAttribute Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public sealed class GrammarRuleAttribute
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: Attribute
 | Constructor | Description |
 | --- | --- |
 | **GrammarRuleAttribute**(string name) |  |
+
+**GrammarRuleAttribute**(**name**: string)
+
+**Parameters**
+
+- **name** (string)  
+

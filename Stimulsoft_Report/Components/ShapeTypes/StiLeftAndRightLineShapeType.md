@@ -4,12 +4,7 @@ title: "StiLeftAndRightLineShapeType Class"
 
 ## StiLeftAndRightLineShapeType Class
 
-**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiLeftAndRightLineShapeType
-```
+**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`
 
 ### Inheritance
 

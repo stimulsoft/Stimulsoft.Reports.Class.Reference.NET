@@ -4,14 +4,9 @@ title: "StiCheckStyle Enum"
 
 ## StiCheckStyle Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Check style.
-
-```csharp
-public enum StiCheckStyle
-```
 
 ### Members
 

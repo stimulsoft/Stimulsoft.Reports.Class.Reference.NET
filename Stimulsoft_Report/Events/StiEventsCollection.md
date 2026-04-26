@@ -4,14 +4,9 @@ title: "StiEventsCollection Class"
 
 ## StiEventsCollection Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Collection of Events
-
-```csharp
-public class StiEventsCollection
-```
 
 ### Inheritance
 
@@ -28,3 +23,101 @@ Inherits from: CollectionBase
 | **Insert** | void |  |
 | **Remove** *(+1 overloads)* | void |  |
 | **ToList** | List<StiEvent> |  |
+
+---
+
+### Method Details
+
+#### Add
+
+**Add**(**ev**: StiEvent): void
+
+**Parameters**
+
+- **ev** (StiEvent)  
+
+
+---
+
+#### AddRange
+
+**AddRange**(**evs**: [StiEventsCollection](StiEventsCollection.md)): void
+
+**Parameters**
+
+- **evs** ([StiEventsCollection](StiEventsCollection.md))  
+
+---
+
+**AddRange**(****: StiEventevs): void
+
+**Parameters**
+
+- **** (StiEventevs)  
+
+
+---
+
+#### Contains
+
+**Contains**(**ev**: StiEvent): bool
+
+**Parameters**
+
+- **ev** (StiEvent)  
+
+**Returns** bool
+
+
+---
+
+#### IndexOf
+
+**IndexOf**(**ev**: StiEvent): int
+
+**Parameters**
+
+- **ev** (StiEvent)  
+
+**Returns** int
+
+
+---
+
+#### Insert
+
+**Insert**(**index**: int, **ev**: StiEvent): void
+
+**Parameters**
+
+- **index** (int)  
+- **ev** (StiEvent)  
+
+
+---
+
+#### Remove
+
+**Remove**(**evs**: [StiEventsCollection](StiEventsCollection.md)): void
+
+**Parameters**
+
+- **evs** ([StiEventsCollection](StiEventsCollection.md))  
+
+---
+
+**Remove**(**ev**: StiEvent): void
+
+**Parameters**
+
+- **ev** (StiEvent)  
+
+
+---
+
+#### ToList
+
+**ToList**(): List<StiEvent>
+
+**Returns** List<StiEvent>
+

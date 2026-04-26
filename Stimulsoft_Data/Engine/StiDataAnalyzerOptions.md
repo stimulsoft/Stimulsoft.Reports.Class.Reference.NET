@@ -4,12 +4,7 @@ title: "StiDataAnalyzerOptions Class"
 
 ## StiDataAnalyzerOptions Class
 
-**Namespace:** `Stimulsoft.Data.Engine`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class StiDataAnalyzerOptions
-```
+**Namespace:** `Stimulsoft.Data.Engine`
 
 ### Properties
 

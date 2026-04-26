@@ -4,12 +4,7 @@ title: "IStiImageUI Interface"
 
 ## IStiImageUI Interface
 
-**Namespace:** `Stimulsoft.Report.App`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiImageUI
-```
+**Namespace:** `Stimulsoft.Report.App`
 
 ### Inheritance
 

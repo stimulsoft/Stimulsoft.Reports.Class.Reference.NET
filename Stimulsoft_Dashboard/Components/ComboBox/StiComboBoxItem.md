@@ -4,12 +4,7 @@ title: "StiComboBoxItem Class"
 
 ## StiComboBoxItem Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.ComboBox`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiComboBoxItem
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.ComboBox`
 
 ### Constructors
 
@@ -17,6 +12,22 @@ public class StiComboBoxItem
 | --- | --- |
 | **StiComboBoxItem**(string label) |  |
 | **StiComboBoxItem**(string label, object value) |  |
+
+**StiComboBoxItem**(**label**: string)
+
+**Parameters**
+
+- **label** (string)  
+
+---
+
+**StiComboBoxItem**(**label**: string, **value**: object)
+
+**Parameters**
+
+- **label** (string)  
+- **value** (object)  
+
 
 ### Properties
 
@@ -31,3 +42,14 @@ public class StiComboBoxItem
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

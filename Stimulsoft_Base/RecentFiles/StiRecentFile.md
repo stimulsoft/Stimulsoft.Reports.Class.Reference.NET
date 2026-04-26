@@ -4,18 +4,16 @@ title: "StiRecentFile Class"
 
 ## StiRecentFile Class
 
-**Namespace:** `Stimulsoft.Base.RecentFiles`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiRecentFile
-```
+**Namespace:** `Stimulsoft.Base.RecentFiles`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiRecentFile**() |  |
+
+**StiRecentFile**()
+
 
 ### Properties
 
@@ -38,3 +36,14 @@ public sealed class StiRecentFile
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

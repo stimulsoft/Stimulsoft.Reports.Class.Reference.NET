@@ -4,12 +4,7 @@ title: "StiLicenseResultFormat Enum"
 
 ## StiLicenseResultFormat Enum
 
-**Namespace:** `Stimulsoft.Base.Licenses`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiLicenseResultFormat
-```
+**Namespace:** `Stimulsoft.Base.Licenses`
 
 ### Members
 

@@ -4,14 +4,9 @@ title: "StiChartSeriesLabelsValueTypeConverter Class"
 
 ## StiChartSeriesLabelsValueTypeConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart.Design`
 
 Converts the StiSeriesLabelsValueType object from one data type to another.
-
-```csharp
-public class StiChartSeriesLabelsValueTypeConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,19 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **CanConvertTo** | bool |  |
+
+---
+
+### Method Details
+
+#### CanConvertTo
+
+**CanConvertTo**(**context**: ITypeDescriptorContext, **destinationType**: Type): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **destinationType** (Type)  
+
+**Returns** bool
+

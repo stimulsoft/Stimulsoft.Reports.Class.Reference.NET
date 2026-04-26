@@ -4,12 +4,7 @@ title: "StiFieldsProcessingType Enum"
 
 ## StiFieldsProcessingType Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiFieldsProcessingType
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiDockStyle Enum"
 
 ## StiDockStyle Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDockStyle
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

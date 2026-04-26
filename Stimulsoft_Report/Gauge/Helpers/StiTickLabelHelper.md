@@ -4,12 +4,7 @@ title: "StiTickLabelHelper Class"
 
 ## StiTickLabelHelper Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiTickLabelHelper
-```
+**Namespace:** `Stimulsoft.Report.Gauge.Helpers`
 
 ### Properties
 
@@ -24,3 +19,14 @@ public static class StiTickLabelHelper
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

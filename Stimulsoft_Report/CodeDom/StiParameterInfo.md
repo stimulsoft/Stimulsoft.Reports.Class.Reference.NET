@@ -4,20 +4,25 @@ title: "StiParameterInfo Class"
 
 ## StiParameterInfo Class
 
-**Namespace:** `Stimulsoft.Report.CodeDom`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.CodeDom`
 
 Class describes parameters of user's report functions.
-
-```csharp
-public class StiParameterInfo
-```
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiParameterInfo**(Type type, string name) | Creates a new instance of the StiParameterInfo class. |
+
+**StiParameterInfo**(**type**: Type, **name**: string)
+
+Creates a new instance of the StiParameterInfo class.
+
+**Parameters**
+
+- **type** (Type) — Parameter type.  
+- **name** (string) — Parameter name.  
+
 
 ### Properties
 

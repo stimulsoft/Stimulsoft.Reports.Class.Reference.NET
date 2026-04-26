@@ -4,12 +4,7 @@ title: "StiFullStackedColumnSeriesCoreXF Class"
 
 ## StiFullStackedColumnSeriesCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiFullStackedColumnSeriesCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiStackedColumnSeriesCoreXF](StiStackedColumnSeriesCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiFullStackedColumnSeriesCoreXF**(IStiSeries series) |  |
+
+**StiFullStackedColumnSeriesCoreXF**(**series**: IStiSeries)
+
+**Parameters**
+
+- **series** (IStiSeries)  
+

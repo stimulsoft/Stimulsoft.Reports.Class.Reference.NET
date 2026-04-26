@@ -4,12 +4,7 @@ title: "StiMapStyleFX Class"
 
 ## StiMapStyleFX Class
 
-**Namespace:** `Stimulsoft.Report.Maps`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiMapStyleFX
-```
+**Namespace:** `Stimulsoft.Report.Maps`
 
 ### Inheritance
 

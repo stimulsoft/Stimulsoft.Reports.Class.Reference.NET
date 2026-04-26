@@ -4,12 +4,7 @@ title: "StiDataSortDesignerAttribute Class"
 
 ## StiDataSortDesignerAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiDataSortDesignerAttribute
-```
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiDataSortDesignerAttribute**(string designerTypeName) |  |
 | **StiDataSortDesignerAttribute**(Type type) |  |
+
+**StiDataSortDesignerAttribute**(**designerTypeName**: string)
+
+**Parameters**
+
+- **designerTypeName** (string)  
+
+---
+
+**StiDataSortDesignerAttribute**(**type**: Type)
+
+**Parameters**
+
+- **type** (Type)  
+
 
 ### Properties
 

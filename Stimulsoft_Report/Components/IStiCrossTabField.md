@@ -4,9 +4,4 @@ title: "IStiCrossTabField Interface"
 
 ## IStiCrossTabField Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiCrossTabField
-```
+**Namespace:** `Stimulsoft.Report.Components`

@@ -4,12 +4,7 @@ title: "StiDownButtonGeom Class"
 
 ## StiDownButtonGeom Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDownButtonGeom
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,6 +16,14 @@ Inherits from: StiCellGeom
 | --- | --- |
 | **StiDownButtonGeom**([IStiYAxis](IStiYAxis.md) axis, RectangleF clientRectangle) |  |
 
+**StiDownButtonGeom**(**axis**: [IStiYAxis](IStiYAxis.md), **clientRectangle**: RectangleF)
+
+**Parameters**
+
+- **axis** ([IStiYAxis](IStiYAxis.md))  
+- **clientRectangle** (RectangleF)  
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -29,3 +32,51 @@ Inherits from: StiCellGeom
 | **InvokeMouseDown** | void |  |
 | **InvokeMouseEnter** | void |  |
 | **InvokeMouseLeave** | void |  |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md)): void
+
+Draws cell geom object on spefied context.
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+
+
+---
+
+#### InvokeMouseDown
+
+**InvokeMouseDown**(**options**: [StiInteractionOptions](StiInteractionOptions.md)): void
+
+**Parameters**
+
+- **options** ([StiInteractionOptions](StiInteractionOptions.md))  
+
+
+---
+
+#### InvokeMouseEnter
+
+**InvokeMouseEnter**(**options**: [StiInteractionOptions](StiInteractionOptions.md)): void
+
+**Parameters**
+
+- **options** ([StiInteractionOptions](StiInteractionOptions.md))  
+
+
+---
+
+#### InvokeMouseLeave
+
+**InvokeMouseLeave**(**options**: [StiInteractionOptions](StiInteractionOptions.md)): void
+
+**Parameters**
+
+- **options** ([StiInteractionOptions](StiInteractionOptions.md))  
+

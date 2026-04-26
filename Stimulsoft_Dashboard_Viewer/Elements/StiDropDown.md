@@ -4,12 +4,7 @@ title: "StiDropDown Class"
 
 ## StiDropDown Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiDropDown
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements`
 
 ### Inheritance
 
@@ -20,3 +15,16 @@ Inherits from: ToolStripDropDown
 | Method | Returns | Description |
 | --- | --- | --- |
 | **OnVisibleChanged** | void |  |
+
+---
+
+### Method Details
+
+#### OnVisibleChanged
+
+**OnVisibleChanged**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+

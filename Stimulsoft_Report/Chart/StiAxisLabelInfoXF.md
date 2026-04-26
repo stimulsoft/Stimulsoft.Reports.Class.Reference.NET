@@ -4,12 +4,7 @@ title: "StiAxisLabelInfoXF Class"
 
 ## StiAxisLabelInfoXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiAxisLabelInfoXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Properties
 

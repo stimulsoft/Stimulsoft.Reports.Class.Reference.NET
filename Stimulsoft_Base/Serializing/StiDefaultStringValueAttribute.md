@@ -4,12 +4,7 @@ title: "StiDefaultStringValueAttribute Class"
 
 ## StiDefaultStringValueAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Serializing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiDefaultStringValueAttribute
-```
+**Namespace:** `Stimulsoft.Base.Serializing`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: Attribute
 | Constructor | Description |
 | --- | --- |
 | **StiDefaultStringValueAttribute**(string value) |  |
+
+**StiDefaultStringValueAttribute**(**value**: string)
+
+**Parameters**
+
+- **value** (string)  
+
 
 ### Properties
 

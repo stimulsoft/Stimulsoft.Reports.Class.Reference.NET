@@ -4,12 +4,7 @@ title: "StiMapGeomType Enum"
 
 ## StiMapGeomType Enum
 
-**Namespace:** `Stimulsoft.Base.Maps.Geoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiMapGeomType
-```
+**Namespace:** `Stimulsoft.Base.Maps.Geoms`
 
 ### Members
 

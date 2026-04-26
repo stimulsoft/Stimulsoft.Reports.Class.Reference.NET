@@ -4,12 +4,7 @@ title: "StiShowYAxis Enum"
 
 ## StiShowYAxis Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiShowYAxis
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

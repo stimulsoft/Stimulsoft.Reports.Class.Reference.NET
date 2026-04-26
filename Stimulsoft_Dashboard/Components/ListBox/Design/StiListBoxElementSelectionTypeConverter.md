@@ -4,14 +4,9 @@ title: "StiListBoxElementSelectionTypeConverter Class"
 
 ## StiListBoxElementSelectionTypeConverter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.ListBox.Design`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.ListBox.Design`
 
 Converts a StiListBoxSelectionType object from one data type to another.
-
-```csharp
-public class StiListBoxElementSelectionTypeConverter
-```
 
 ### Inheritance
 
@@ -23,3 +18,14 @@ Inherits from: [StiEnumConverter](../../../../Stimulsoft_Base/Localization/StiEn
 | --- | --- |
 | **StiListBoxElementSelectionTypeConverter**() |  |
 | **StiListBoxElementSelectionTypeConverter**(Type type) |  |
+
+**StiListBoxElementSelectionTypeConverter**()
+
+---
+
+**StiListBoxElementSelectionTypeConverter**(**type**: Type)
+
+**Parameters**
+
+- **type** (Type)  
+

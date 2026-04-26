@@ -4,12 +4,7 @@ title: "ParameterArgs Class"
 
 ## ParameterArgs Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.NCalc`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class ParameterArgs
-```
+**Namespace:** `Stimulsoft.Data.Expressions.NCalc`
 
 ### Inheritance
 

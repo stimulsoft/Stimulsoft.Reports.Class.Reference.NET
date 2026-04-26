@@ -4,12 +4,7 @@ title: "AlternateSet Class"
 
 ## AlternateSet Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class AlternateSet
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

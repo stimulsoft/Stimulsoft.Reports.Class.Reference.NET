@@ -4,14 +4,9 @@ title: "StiProcessCellEventArgs Class"
 
 ## StiProcessCellEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.CrossTab`
 
 Describes an argument for the event ProcessCell.
-
-```csharp
-public class StiProcessCellEventArgs
-```
 
 ### Inheritance
 

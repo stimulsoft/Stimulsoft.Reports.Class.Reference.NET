@@ -4,14 +4,9 @@ title: "StiIndicatorValueChartMeter Class"
 
 ## StiIndicatorValueChartMeter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart`  
-**Assembly:** `Stimulsoft.Dashboard`
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart`
 
 Describes a meter class which contains information about Indicator Value of the chart element.
-
-```csharp
-public class StiIndicatorValueChartMeter
-```
 
 ### Inheritance
 
@@ -24,6 +19,28 @@ Inherits from: StiMeasureMeter
 | **StiIndicatorValueChartMeter**() |  |
 | **StiIndicatorValueChartMeter**(string expression, string label) |  |
 | **StiIndicatorValueChartMeter**(string key, string expression, string label) |  |
+
+**StiIndicatorValueChartMeter**()
+
+---
+
+**StiIndicatorValueChartMeter**(**expression**: string, **label**: string)
+
+**Parameters**
+
+- **expression** (string)  
+- **label** (string)  
+
+---
+
+**StiIndicatorValueChartMeter**(**key**: string, **expression**: string, **label**: string)
+
+**Parameters**
+
+- **key** (string)  
+- **expression** (string)  
+- **label** (string)  
+
 
 ### Properties
 

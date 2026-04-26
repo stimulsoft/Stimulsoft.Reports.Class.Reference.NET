@@ -4,12 +4,7 @@ title: "StiCustomGaugeStyleCoreXF Class"
 
 ## StiCustomGaugeStyleCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCustomGaugeStyleCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Gauge`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: [StiGaugeStyleCoreXF25](StiGaugeStyleCoreXF25.md)
 | Constructor | Description |
 | --- | --- |
 | **StiCustomGaugeStyleCoreXF**(StiGaugeStyle style) |  |
+
+**StiCustomGaugeStyleCoreXF**(**style**: StiGaugeStyle)
+
+**Parameters**
+
+- **style** (StiGaugeStyle)  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiGroupSummaryType Enum"
 
 ## StiGroupSummaryType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiGroupSummaryType
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

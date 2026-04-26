@@ -4,12 +4,7 @@ title: "StiStripPositionXF Class"
 
 ## StiStripPositionXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiStripPositionXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Fields
 

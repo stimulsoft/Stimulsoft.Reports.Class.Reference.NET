@@ -8,4 +8,4 @@ title: "Stimulsoft.Report.Helper"
 
 | Namespace | Types |
 | --- | --- |
-| [Stimulsoft.Report.Helper](index.md) | 2 |
+| [Stimulsoft.Report.Helper](root/index.md) | 2 |

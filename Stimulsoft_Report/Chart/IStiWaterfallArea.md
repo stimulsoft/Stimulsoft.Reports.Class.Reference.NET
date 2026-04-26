@@ -4,12 +4,7 @@ title: "IStiWaterfallArea Interface"
 
 ## IStiWaterfallArea Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiWaterfallArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

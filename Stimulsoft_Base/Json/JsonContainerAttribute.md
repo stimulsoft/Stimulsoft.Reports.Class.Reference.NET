@@ -4,12 +4,7 @@ title: "JsonContainerAttribute Class"
 
 ## JsonContainerAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public abstract class JsonContainerAttribute
-```
+**Namespace:** `Stimulsoft.Base.Json`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **JsonContainerAttribute**() | Initializes a new instance of the JsonContainerAttribute class. |
 | **JsonContainerAttribute**(string id) | Initializes a new instance of the JsonContainerAttribute class with the specified container Id. |
+
+**JsonContainerAttribute**()
+
+Initializes a new instance of the JsonContainerAttribute class.
+
+---
+
+**JsonContainerAttribute**(**id**: string)
+
+Initializes a new instance of the JsonContainerAttribute class with the specified container Id.
+
+**Parameters**
+
+- **id** (string) — The container Id.  
+
 
 ### Properties
 

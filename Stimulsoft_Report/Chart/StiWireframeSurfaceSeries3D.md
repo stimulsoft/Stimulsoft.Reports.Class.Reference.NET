@@ -4,12 +4,7 @@ title: "StiWireframeSurfaceSeries3D Class"
 
 ## StiWireframeSurfaceSeries3D Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiWireframeSurfaceSeries3D
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,9 +16,32 @@ Inherits from: StiLineSeries3D
 | --- | --- |
 | **StiWireframeSurfaceSeries3D**() |  |
 
+**StiWireframeSurfaceSeries3D**()
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **CreateNew** | StiSeries |  |
 | **GetDefaultAreaType** | Type |  |
+
+---
+
+### Method Details
+
+#### CreateNew
+
+**CreateNew**(): StiSeries
+
+**Returns** StiSeries
+
+
+---
+
+#### GetDefaultAreaType
+
+**GetDefaultAreaType**(): Type
+
+**Returns** Type
+

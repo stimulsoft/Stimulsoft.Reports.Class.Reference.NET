@@ -4,14 +4,9 @@ title: "StiPdfZUGFeRDComplianceMode Enum"
 
 ## StiPdfZUGFeRDComplianceMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for setting modes of ZUGFeRD compliance
-
-```csharp
-public enum StiPdfZUGFeRDComplianceMode
-```
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiTextRenderer Class"
 
 ## StiTextRenderer Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiTextRenderer
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 
@@ -46,6 +41,166 @@ public class StiTextRenderer
 | **ToABC** `static` | string |  |
 | **ToRectangle** | Rectangle |  |
 
+---
+
+### Method Details
+
+#### CheckTextForHtmlTags `static`
+
+**CheckTextForHtmlTags**(**text**: string): bool
+
+**Parameters**
+
+- **text** (string)  
+
+**Returns** bool
+
+
+---
+
+#### Create `static`
+
+**Create**(): DRAWTEXTPARAMS
+
+**Returns** DRAWTEXTPARAMS
+
+
+---
+
+#### FromXYWH `static`
+
+**FromXYWH**(**x**: int, **y**: int, **width**: int, **height**: int): RECT
+
+**Parameters**
+
+- **x** (int)  
+- **y** (int)  
+- **width** (int)  
+- **height** (int)  
+
+**Returns** RECT
+
+
+---
+
+#### GetFontGlyphs `static`
+
+**GetFontGlyphs**(**font**: [Font](../../Stimulsoft_Drawing/root/Font.md)): object
+
+**Parameters**
+
+- **font** ([Font](../../Stimulsoft_Drawing/root/Font.md))  
+
+**Returns** object
+
+
+---
+
+#### GetOffsetFromStiHtml2 `static`
+
+**GetOffsetFromStiHtml2**(**text**: string): int
+
+**Parameters**
+
+- **text** (string)  
+
+**Returns** int
+
+
+---
+
+#### GetPlainTextFromHtmlTags `static`
+
+**GetPlainTextFromHtmlTags**(**input**: string): string
+
+**Parameters**
+
+- **input** (string)  
+
+**Returns** string
+
+
+---
+
+#### ParseColor `static`
+
+**ParseColor**(**colorAttribute**: string, **inheritColor**: Color): Color
+
+**Parameters**
+
+- **colorAttribute** (string)  
+- **inheritColor** (Color)  
+
+**Returns** Color
+
+
+---
+
+#### ParseHtmlToStates `static`
+
+**ParseHtmlToStates**(**inputHtml**: string, **baseState**: StiHtmlState, **storeStack**: bool): List<StiHtmlState>
+
+**Parameters**
+
+- **inputHtml** (string)  
+- **baseState** (StiHtmlState)  
+- **storeStack** (bool)  
+
+**Returns** List<StiHtmlState>
+
+
+---
+
+#### PrepareStateText `static`
+
+**PrepareStateText**(**stateText**: StringBuilder): StringBuilder
+
+**Parameters**
+
+- **stateText** (StringBuilder)  
+
+**Returns** StringBuilder
+
+
+---
+
+#### StateToHtml `static`
+
+**StateToHtml**(**state**: StiHtmlState, **state2**: StiHtmlState, **text**: string, **lineInfoIndent**: int, **onlyState**: bool): string
+
+**Parameters**
+
+- **state** (StiHtmlState)  
+- **state2** (StiHtmlState)  
+- **text** (string)  
+- **lineInfoIndent** (int)  
+- **onlyState** (bool)  
+
+**Returns** string
+
+
+---
+
+#### ToABC `static`
+
+**ToABC**(**value**: int): string
+
+**Parameters**
+
+- **value** (int)  
+
+**Returns** string
+
+
+---
+
+#### ToRectangle
+
+**ToRectangle**(): Rectangle
+
+**Returns** Rectangle
+
+
 ### Fields
 
 | Field | Type | Description |
@@ -59,7 +214,7 @@ public class StiTextRenderer
 | **DpiY** | float |  |
 | **FontList** | StiFontState[] |  |
 | **ForeColor** | Color |  |
-| **Graphics2** | [Graphics](../../Stimulsoft_Drawing/Graphics.md) |  |
+| **Graphics2** | [Graphics](../../Stimulsoft_Drawing/root/Graphics.md) |  |
 | **Hdc** | IntPtr |  |
 | **NewRegion** | IntPtr |  |
 | **OldGraphMode** | int |  |

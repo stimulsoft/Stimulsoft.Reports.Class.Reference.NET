@@ -4,14 +4,9 @@ title: "StiImageResolutionMode Enum"
 
 ## StiImageResolutionMode Enum
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Enumeration for setting modes of using of image resolution
-
-```csharp
-public enum StiImageResolutionMode
-```
 
 ### Members
 

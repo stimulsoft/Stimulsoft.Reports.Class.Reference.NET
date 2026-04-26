@@ -4,12 +4,7 @@ title: "StiLineAreaCoreXF Class"
 
 ## StiLineAreaCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiLineAreaCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiClusteredColumnAreaCoreXF](StiClusteredColumnAreaCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiLineAreaCoreXF**(IStiArea area) |  |
+
+**StiLineAreaCoreXF**(**area**: IStiArea)
+
+**Parameters**
+
+- **area** (IStiArea)  
+

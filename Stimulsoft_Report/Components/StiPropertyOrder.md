@@ -4,12 +4,7 @@ title: "StiPropertyOrder Class"
 
 ## StiPropertyOrder Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPropertyOrder
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Fields
 

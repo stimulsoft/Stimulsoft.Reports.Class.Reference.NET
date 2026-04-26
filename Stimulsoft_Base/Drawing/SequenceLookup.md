@@ -4,12 +4,7 @@ title: "SequenceLookup Struct"
 
 ## SequenceLookup Struct
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public struct SequenceLookup
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 
@@ -23,3 +18,18 @@ public struct SequenceLookup
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Read** `static` | [SequenceLookup](SequenceLookup.md) |  |
+
+---
+
+### Method Details
+
+#### Read `static`
+
+**Read**(**reader**: StiFontReader): [SequenceLookup](SequenceLookup.md)
+
+**Parameters**
+
+- **reader** (StiFontReader)  
+
+**Returns** [SequenceLookup](SequenceLookup.md)
+

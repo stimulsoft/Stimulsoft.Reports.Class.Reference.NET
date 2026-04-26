@@ -4,14 +4,9 @@ title: "StiTextEditorForm Class"
 
 ## StiTextEditorForm Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Table.Menu`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Table.Menu`
 
 This form is used for text editor.
-
-```csharp
-public class StiTextEditorForm
-```
 
 ### Inheritance
 
@@ -22,3 +17,10 @@ Inherits from: StiForm
 | Constructor | Description |
 | --- | --- |
 | **StiTextEditorForm**(string text) |  |
+
+**StiTextEditorForm**(**text**: string)
+
+**Parameters**
+
+- **text** (string)  
+

@@ -4,12 +4,7 @@ title: "StiCheckedListBox Class"
 
 ## StiCheckedListBox Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.ListBox`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiCheckedListBox
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.ListBox`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: CheckedListBox
 | Constructor | Description |
 | --- | --- |
 | **StiCheckedListBox**() |  |
+
+**StiCheckedListBox**()
+
 
 ### Properties
 
@@ -42,6 +40,98 @@ Inherits from: CheckedListBox
 | **OnMouseMove** | void |  |
 | **OnPaint** | void |  |
 | **OnSelectedIndexChanged** | void |  |
+
+---
+
+### Method Details
+
+#### IndexFromPointV2
+
+**IndexFromPointV2**(**pos**: Point): int
+
+**Parameters**
+
+- **pos** (Point)  
+
+**Returns** int
+
+
+---
+
+#### OnDrawItem
+
+**OnDrawItem**(**e**: DrawItemEventArgs): void
+
+**Parameters**
+
+- **e** (DrawItemEventArgs)  
+
+
+---
+
+#### OnItemCheck
+
+**OnItemCheck**(**ice**: ItemCheckEventArgs): void
+
+**Parameters**
+
+- **ice** (ItemCheckEventArgs)  
+
+
+---
+
+#### OnMouseHover
+
+**OnMouseHover**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseLeave
+
+**OnMouseLeave**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseMove
+
+**OnMouseMove**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnPaint
+
+**OnPaint**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+
+
+---
+
+#### OnSelectedIndexChanged
+
+**OnSelectedIndexChanged**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
 
 ### Events
 

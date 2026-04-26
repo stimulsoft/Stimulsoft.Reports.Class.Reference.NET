@@ -4,12 +4,7 @@ title: "StiDoughnutAreaGeom Class"
 
 ## StiDoughnutAreaGeom Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDoughnutAreaGeom
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,11 @@ Inherits from: [StiPieAreaGeom](StiPieAreaGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiDoughnutAreaGeom**(IStiArea area, RectangleF clientRectangle) |  |
+
+**StiDoughnutAreaGeom**(**area**: IStiArea, **clientRectangle**: RectangleF)
+
+**Parameters**
+
+- **area** (IStiArea)  
+- **clientRectangle** (RectangleF)  
+

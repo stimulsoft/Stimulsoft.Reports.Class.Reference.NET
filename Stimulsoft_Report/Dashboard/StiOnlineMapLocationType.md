@@ -4,12 +4,7 @@ title: "StiOnlineMapLocationType Enum"
 
 ## StiOnlineMapLocationType Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiOnlineMapLocationType
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "EncoderParameters Class"
 
 ## EncoderParameters Class
 
-**Namespace:** `Stimulsoft.Drawing.Imaging`  
-**Assembly:** `Stimulsoft.Drawing`
-
-```csharp
-public sealed class EncoderParameters
-```
+**Namespace:** `Stimulsoft.Drawing.Imaging`
 
 ### Inheritance
 
@@ -22,8 +17,28 @@ Implements: IDisposable
 | **EncoderParameters**() |  |
 | **EncoderParameters**(int count) |  |
 
+**EncoderParameters**()
+
+---
+
+**EncoderParameters**(**count**: int)
+
+**Parameters**
+
+- **count** (int)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Dispose** | void |  |
+
+---
+
+### Method Details
+
+#### Dispose
+
+**Dispose**(): void
+

@@ -4,12 +4,7 @@ title: "StiSteppedAreaAreaCoreXF Class"
 
 ## StiSteppedAreaAreaCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSteppedAreaAreaCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: [StiClusteredColumnAreaCoreXF](StiClusteredColumnAreaCoreXF.md)
 | Constructor | Description |
 | --- | --- |
 | **StiSteppedAreaAreaCoreXF**(IStiArea area) |  |
+
+**StiSteppedAreaAreaCoreXF**(**area**: IStiArea)
+
+**Parameters**
+
+- **area** (IStiArea)  
+

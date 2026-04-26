@@ -4,14 +4,9 @@ title: "ErrorContext Class"
 
 ## ErrorContext Class
 
-**Namespace:** `Stimulsoft.Base.Json.Serialization`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Serialization`
 
 Provides information surrounding an error.
-
-```csharp
-public class ErrorContext
-```
 
 ### Properties
 

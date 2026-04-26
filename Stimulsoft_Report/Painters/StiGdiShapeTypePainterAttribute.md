@@ -4,12 +4,7 @@ title: "StiGdiShapeTypePainterAttribute Class"
 
 ## StiGdiShapeTypePainterAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Painters`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGdiShapeTypePainterAttribute
-```
+**Namespace:** `Stimulsoft.Report.Painters`
 
 ### Inheritance
 
@@ -21,3 +16,18 @@ Inherits from: Attribute
 | --- | --- |
 | **StiGdiShapeTypePainterAttribute**(string painterTypeName) |  |
 | **StiGdiShapeTypePainterAttribute**(Type painterType) |  |
+
+**StiGdiShapeTypePainterAttribute**(**painterTypeName**: string)
+
+**Parameters**
+
+- **painterTypeName** (string)  
+
+---
+
+**StiGdiShapeTypePainterAttribute**(**painterType**: Type)
+
+**Parameters**
+
+- **painterType** (Type)  
+

@@ -4,12 +4,7 @@ title: "StiGaugeStyleXF34 Class"
 
 ## StiGaugeStyleXF34 Class
 
-**Namespace:** `Stimulsoft.Report.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGaugeStyleXF34
-```
+**Namespace:** `Stimulsoft.Report.Gauge`
 
 ### Inheritance
 
@@ -20,3 +15,6 @@ Inherits from: StiGaugeStyleXF
 | Constructor | Description |
 | --- | --- |
 | **StiGaugeStyleXF34**() |  |
+
+**StiGaugeStyleXF34**()
+

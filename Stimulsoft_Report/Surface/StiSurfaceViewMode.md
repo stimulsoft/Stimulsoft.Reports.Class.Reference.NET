@@ -4,12 +4,7 @@ title: "StiSurfaceViewMode Enum"
 
 ## StiSurfaceViewMode Enum
 
-**Namespace:** `Stimulsoft.Report.Surface`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiSurfaceViewMode
-```
+**Namespace:** `Stimulsoft.Report.Surface`
 
 ### Members
 

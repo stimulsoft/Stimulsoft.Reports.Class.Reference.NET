@@ -4,14 +4,9 @@ title: "ErrorEventArgs Class"
 
 ## ErrorEventArgs Class
 
-**Namespace:** `Stimulsoft.Base.Json.Serialization`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Serialization`
 
 Provides data for the Error event.
-
-```csharp
-public class ErrorEventArgs
-```
 
 ### Inheritance
 
@@ -22,6 +17,16 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **ErrorEventArgs**(object currentObject, [ErrorContext](ErrorContext.md) errorContext) | Initializes a new instance of the ErrorEventArgs class. |
+
+**ErrorEventArgs**(**currentObject**: object, **errorContext**: [ErrorContext](ErrorContext.md))
+
+Initializes a new instance of the ErrorEventArgs class.
+
+**Parameters**
+
+- **currentObject** (object) — The current object.  
+- **errorContext** ([ErrorContext](ErrorContext.md)) — The error context.  
+
 
 ### Properties
 

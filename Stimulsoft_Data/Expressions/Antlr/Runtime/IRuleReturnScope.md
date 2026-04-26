@@ -4,11 +4,6 @@ title: "IRuleReturnScope Interface"
 
 ## IRuleReturnScope Interface
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`  
-**Assembly:** `Stimulsoft.Data`
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime`
 
 Rules can have start/stop info.
-
-```csharp
-public interface IRuleReturnScope
-```

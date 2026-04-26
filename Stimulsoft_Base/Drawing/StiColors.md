@@ -4,14 +4,9 @@ title: "StiColors Class"
 
 ## StiColors Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 Colors of StiControls.
-
-```csharp
-public static class StiColors
-```
 
 ### Properties
 
@@ -43,3 +38,12 @@ public static class StiColors
 | Method | Returns | Description |
 | --- | --- | --- |
 | **InitColors** `static` | void |  |
+
+---
+
+### Method Details
+
+#### InitColors `static`
+
+**InitColors**(): void
+

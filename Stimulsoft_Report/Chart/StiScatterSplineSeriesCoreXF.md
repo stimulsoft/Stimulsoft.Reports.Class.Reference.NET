@@ -4,12 +4,7 @@ title: "StiScatterSplineSeriesCoreXF Class"
 
 ## StiScatterSplineSeriesCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiScatterSplineSeriesCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -21,8 +16,30 @@ Inherits from: [StiScatterSeriesCoreXF](StiScatterSeriesCoreXF.md)
 | --- | --- |
 | **StiScatterSplineSeriesCoreXF**(IStiSeries series) |  |
 
+**StiScatterSplineSeriesCoreXF**(**series**: IStiSeries)
+
+**Parameters**
+
+- **series** (IStiSeries)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **RenderLines** | void |  |
+
+---
+
+### Method Details
+
+#### RenderLines
+
+**RenderLines**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **geom**: [StiAreaGeom](StiAreaGeom.md), **pointsInfo**: [StiSeriesPointsInfo](StiSeriesPointsInfo.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **geom** ([StiAreaGeom](StiAreaGeom.md))  
+- **pointsInfo** ([StiSeriesPointsInfo](StiSeriesPointsInfo.md))  
+

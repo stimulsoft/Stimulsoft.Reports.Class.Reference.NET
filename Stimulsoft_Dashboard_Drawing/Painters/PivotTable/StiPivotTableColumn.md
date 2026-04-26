@@ -4,18 +4,20 @@ title: "StiPivotTableColumn Class"
 
 ## StiPivotTableColumn Class
 
-**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters.PivotTable`  
-**Assembly:** `Stimulsoft.Dashboard.Drawing`
-
-```csharp
-public class StiPivotTableColumn
-```
+**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters.PivotTable`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiPivotTableColumn**(double width) |  |
+
+**StiPivotTableColumn**(**width**: double)
+
+**Parameters**
+
+- **width** (double)  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiUserFunction Class"
 
 ## StiUserFunction Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiUserFunction
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 
@@ -23,6 +18,44 @@ Implements: ICloneable
 | **StiUserFunction**(string name) | Creates an object of the type StiUserFunction. |
 | **StiUserFunction**(string name, [StiFunctionCategory](StiFunctionCategory.md) category) | Creates an object of the type StiUserFunction. |
 | **StiUserFunction**(string name, [StiFunctionCategory](StiFunctionCategory.md) category, [StiUserFunctionArgumentType](StiUserFunctionArgumentType.md) returnType) | Creates an object of the type StiUserFunction. |
+
+**StiUserFunction**()
+
+Creates an object of the type StiUserFunction.
+
+---
+
+**StiUserFunction**(**name**: string)
+
+Creates an object of the type StiUserFunction.
+
+**Parameters**
+
+- **name** (string)  
+
+---
+
+**StiUserFunction**(**name**: string, **category**: [StiFunctionCategory](StiFunctionCategory.md))
+
+Creates an object of the type StiUserFunction.
+
+**Parameters**
+
+- **name** (string)  
+- **category** ([StiFunctionCategory](StiFunctionCategory.md))  
+
+---
+
+**StiUserFunction**(**name**: string, **category**: [StiFunctionCategory](StiFunctionCategory.md), **returnType**: [StiUserFunctionArgumentType](StiUserFunctionArgumentType.md))
+
+Creates an object of the type StiUserFunction.
+
+**Parameters**
+
+- **name** (string)  
+- **category** ([StiFunctionCategory](StiFunctionCategory.md))  
+- **returnType** ([StiUserFunctionArgumentType](StiUserFunctionArgumentType.md))  
+
 
 ### Properties
 
@@ -48,3 +81,47 @@ Implements: ICloneable
 | **GetFullScript** | string |  |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+**Returns** object
+
+
+---
+
+#### GetFullScript
+
+**GetFullScript**(**language**: [StiReportLanguageType](../root/StiReportLanguageType.md)): string
+
+**Parameters**
+
+- **language** ([StiReportLanguageType](../root/StiReportLanguageType.md))  
+
+**Returns** string
+
+
+---
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(): [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Returns** [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+

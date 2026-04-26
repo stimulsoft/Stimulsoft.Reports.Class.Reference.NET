@@ -4,15 +4,19 @@ title: "StiWizardHelper Class"
 
 ## StiWizardHelper Class
 
-**Namespace:** `Stimulsoft.Report.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiWizardHelper
-```
+**Namespace:** `Stimulsoft.Report.Helpers`
 
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **InitServices** `static` | void |  |
+
+---
+
+### Method Details
+
+#### InitServices `static`
+
+**InitServices**(): void
+

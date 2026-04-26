@@ -4,14 +4,9 @@ title: "JsonStringContract Class"
 
 ## JsonStringContract Class
 
-**Namespace:** `Stimulsoft.Base.Json.Serialization`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json.Serialization`
 
 Contract details for a Type used by the JsonSerializer.
-
-```csharp
-public class JsonStringContract
-```
 
 ### Inheritance
 
@@ -22,3 +17,12 @@ Inherits from: [JsonPrimitiveContract](JsonPrimitiveContract.md)
 | Constructor | Description |
 | --- | --- |
 | **JsonStringContract**(Type underlyingType) | Initializes a new instance of the JsonStringContract class. |
+
+**JsonStringContract**(**underlyingType**: Type)
+
+Initializes a new instance of the JsonStringContract class.
+
+**Parameters**
+
+- **underlyingType** (Type) — The underlying type for the contract.  
+

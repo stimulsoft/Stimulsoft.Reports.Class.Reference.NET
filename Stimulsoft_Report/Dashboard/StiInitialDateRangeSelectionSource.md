@@ -4,12 +4,7 @@ title: "StiInitialDateRangeSelectionSource Enum"
 
 ## StiInitialDateRangeSelectionSource Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiInitialDateRangeSelectionSource
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

@@ -4,14 +4,9 @@ title: "StiAutoLargeHeightEventArgs Class"
 
 ## StiAutoLargeHeightEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event AutoLargeHeightEvent.
-
-```csharp
-public class StiAutoLargeHeightEventArgs
-```
 
 ### Inheritance
 
@@ -21,11 +16,19 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| **StiAutoLargeHeightEventArgs**([StiReport](../StiReport.md) report, StiPage page) |  |
+| **StiAutoLargeHeightEventArgs**([StiReport](../root/StiReport.md) report, StiPage page) |  |
+
+**StiAutoLargeHeightEventArgs**(**report**: [StiReport](../root/StiReport.md), **page**: StiPage)
+
+**Parameters**
+
+- **report** ([StiReport](../root/StiReport.md))  
+- **page** (StiPage)  
+
 
 ### Properties
 
 | Property | Type | Description |
 | --- | --- | --- |
 | **Page** | StiPage |  |
-| **Report** | [StiReport](../StiReport.md) |  |
+| **Report** | [StiReport](../root/StiReport.md) |  |

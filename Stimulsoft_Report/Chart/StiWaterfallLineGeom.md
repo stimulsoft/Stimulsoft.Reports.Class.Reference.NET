@@ -4,12 +4,7 @@ title: "StiWaterfallLineGeom Class"
 
 ## StiWaterfallLineGeom Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiWaterfallLineGeom
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,6 +15,17 @@ Inherits from: StiCellGeom
 | Constructor | Description |
 | --- | --- |
 | **StiWaterfallLineGeom**(PointF pointStart, PointF pointEnd, [StiPenGeom](../Stimulsoft/Base/Context/StiPenGeom.md) pen, RectangleF clientRectangle, bool animation) |  |
+
+**StiWaterfallLineGeom**(**pointStart**: PointF, **pointEnd**: PointF, **pen**: [StiPenGeom](../Stimulsoft/Base/Context/StiPenGeom.md), **clientRectangle**: RectangleF, **animation**: bool)
+
+**Parameters**
+
+- **pointStart** (PointF)  
+- **pointEnd** (PointF)  
+- **pen** ([StiPenGeom](../Stimulsoft/Base/Context/StiPenGeom.md))  
+- **clientRectangle** (RectangleF)  
+- **animation** (bool)  
+
 
 ### Properties
 
@@ -35,3 +41,16 @@ Inherits from: StiCellGeom
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Draw** | void |  |
+
+---
+
+### Method Details
+
+#### Draw
+
+**Draw**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+

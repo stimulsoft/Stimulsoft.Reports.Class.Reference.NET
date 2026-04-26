@@ -4,18 +4,22 @@ title: "StiSortMenu Class"
 
 ## StiSortMenu Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiSortMenu
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiSortMenu**(StiContextMenu expressionMenu, Control control, IStiElement element) |  |
+
+**StiSortMenu**(**expressionMenu**: StiContextMenu, **control**: Control, **element**: IStiElement)
+
+**Parameters**
+
+- **expressionMenu** (StiContextMenu)  
+- **control** (Control)  
+- **element** (IStiElement)  
+
 
 ### Properties
 
@@ -40,3 +44,86 @@ public class StiSortMenu
 | **CreateSortByXValues** | void |  |
 | **CreateSortByYValues** | void |  |
 | **CreateSortDescending** | void |  |
+
+---
+
+### Method Details
+
+#### CreateItems
+
+**CreateItems**(**element**: IStiElement): void
+
+**Parameters**
+
+- **element** (IStiElement)  
+
+
+---
+
+#### CreateSortAscending
+
+**CreateSortAscending**(): void
+
+
+---
+
+#### CreateSortByArguments
+
+**CreateSortByArguments**(): void
+
+
+---
+
+#### CreateSortByNone
+
+**CreateSortByNone**(): void
+
+
+---
+
+#### CreateSortBySeries
+
+**CreateSortBySeries**(): void
+
+
+---
+
+#### CreateSortBySortBy
+
+**CreateSortBySortBy**(): void
+
+
+---
+
+#### CreateSortByValues
+
+**CreateSortByValues**(): void
+
+
+---
+
+#### CreateSortByVariation
+
+**CreateSortByVariation**(): void
+
+
+---
+
+#### CreateSortByXValues
+
+**CreateSortByXValues**(): void
+
+
+---
+
+#### CreateSortByYValues
+
+**CreateSortByYValues**(): void
+
+
+---
+
+#### CreateSortDescending
+
+**CreateSortDescending**(): void
+

@@ -4,12 +4,7 @@ title: "Glyph Class"
 
 ## Glyph Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class Glyph
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

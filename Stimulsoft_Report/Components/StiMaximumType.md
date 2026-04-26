@@ -4,14 +4,9 @@ title: "StiMaximumType Enum"
 
 ## StiMaximumType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Types of maximal values in indicator classes.
-
-```csharp
-public enum StiMaximumType
-```
 
 ### Members
 

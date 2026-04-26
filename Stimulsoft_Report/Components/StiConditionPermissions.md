@@ -4,12 +4,7 @@ title: "StiConditionPermissions Enum"
 
 ## StiConditionPermissions Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiConditionPermissions
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "IStiRadarPointSeries Interface"
 
 ## IStiRadarPointSeries Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiRadarPointSeries
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiRadiusMode Enum"
 
 ## StiRadiusMode Enum
 
-**Namespace:** `Stimulsoft.Report.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiRadiusMode
-```
+**Namespace:** `Stimulsoft.Report.Gauge`
 
 ### Members
 

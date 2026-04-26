@@ -4,18 +4,22 @@ title: "StiVector3 Class"
 
 ## StiVector3 Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiVector3
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiVector3**(double x, double y, double z) |  |
+
+**StiVector3**(**x**: double, **y**: double, **z**: double)
+
+**Parameters**
+
+- **x** (double)  
+- **y** (double)  
+- **z** (double)  
+
 
 ### Properties
 

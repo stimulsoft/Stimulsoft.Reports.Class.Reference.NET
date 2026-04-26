@@ -4,12 +4,7 @@ title: "StiTableZoneContainer Class"
 
 ## StiTableZoneContainer Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Table.Menu`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiTableZoneContainer
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Table.Menu`
 
 ### Inheritance
 
@@ -21,6 +16,9 @@ Inherits from: UserControl
 | --- | --- |
 | **StiTableZoneContainer**() |  |
 
+**StiTableZoneContainer**()
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -31,6 +29,62 @@ Inherits from: UserControl
 | **OnDragDrop** | void |  |
 | **OnDragOver** | void |  |
 | **RemoveFocused** | void |  |
+
+---
+
+### Method Details
+
+#### MoveDownFocused
+
+**MoveDownFocused**(): void
+
+
+---
+
+#### MoveUpFocused
+
+**MoveUpFocused**(): void
+
+
+---
+
+#### OnControlAdded
+
+**OnControlAdded**(**e**: ControlEventArgs): void
+
+**Parameters**
+
+- **e** (ControlEventArgs)  
+
+
+---
+
+#### OnDragDrop
+
+**OnDragDrop**(**e**: DragEventArgs): void
+
+**Parameters**
+
+- **e** (DragEventArgs)  
+
+
+---
+
+#### OnDragOver
+
+**OnDragOver**(**e**: DragEventArgs): void
+
+**Parameters**
+
+- **e** (DragEventArgs)  
+
+
+---
+
+#### RemoveFocused
+
+**RemoveFocused**(): void
+
 
 ### Events
 

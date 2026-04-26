@@ -4,12 +4,7 @@ title: "StiWizardSettings Class"
 
 ## StiWizardSettings Class
 
-**Namespace:** `Stimulsoft.Base.Wizards`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiWizardSettings
-```
+**Namespace:** `Stimulsoft.Base.Wizards`
 
 ### Properties
 
@@ -23,3 +18,12 @@ public static class StiWizardSettings
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Init** `static` | void |  |
+
+---
+
+### Method Details
+
+#### Init `static`
+
+**Init**(): void
+

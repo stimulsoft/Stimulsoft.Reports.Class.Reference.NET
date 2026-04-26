@@ -4,12 +4,7 @@ title: "StiRecentCreateReportTemplateResult Class"
 
 ## StiRecentCreateReportTemplateResult Class
 
-**Namespace:** `Stimulsoft.Base.Server`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiRecentCreateReportTemplateResult
-```
+**Namespace:** `Stimulsoft.Base.Server`
 
 ### Properties
 

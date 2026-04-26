@@ -4,12 +4,7 @@ title: "StiRegionMapElementControl Class"
 
 ## StiRegionMapElementControl Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.RegionMap`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiRegionMapElementControl
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.RegionMap`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: StiAtomElementControl
 | Constructor | Description |
 | --- | --- |
 | **StiRegionMapElementControl**(IStiElement element) |  |
+
+**StiRegionMapElementControl**(**element**: IStiElement)
+
+**Parameters**
+
+- **element** (IStiElement)  
+
 
 ### Methods
 
@@ -40,6 +42,163 @@ Inherits from: StiAtomElementControl
 | **RefreshStatus** | void |  |
 | **RemoveFilter** | void |  |
 | **SwitchFilterMultiOption** | void |  |
+
+---
+
+### Method Details
+
+#### Dispose
+
+**Dispose**(**disposing**: bool): void
+
+**Parameters**
+
+- **disposing** (bool)  
+
+
+---
+
+#### GetInteractiveCheckedState
+
+**GetInteractiveCheckedState**(): List<string>
+
+**Returns** List<string>
+
+
+---
+
+#### OnClick
+
+**OnClick**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseDown
+
+**OnMouseDown**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnMouseLeave
+
+**OnMouseLeave**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseMove
+
+**OnMouseMove**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnMouseUp
+
+**OnMouseUp**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnMouseWheel
+
+**OnMouseWheel**(**e**: MouseEventArgs): void
+
+**Parameters**
+
+- **e** (MouseEventArgs)  
+
+
+---
+
+#### OnPaint
+
+**OnPaint**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+
+
+---
+
+#### OnSizeChanged
+
+**OnSizeChanged**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### PaintAtom
+
+**PaintAtom**(**g**: [Graphics](../../../Stimulsoft_Drawing/root/Graphics.md)): void
+
+**Parameters**
+
+- **g** ([Graphics](../../../Stimulsoft_Drawing/root/Graphics.md))  
+
+
+---
+
+#### RefreshChild
+
+**RefreshChild**(**dataTable**: [StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md)): void
+
+**Parameters**
+
+- **dataTable** ([StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md))  
+
+
+---
+
+#### RefreshStatus
+
+**RefreshStatus**(**checkProgressStatus**: bool): void
+
+**Parameters**
+
+- **checkProgressStatus** (bool)  
+
+
+---
+
+#### RemoveFilter
+
+**RemoveFilter**(): void
+
+
+---
+
+#### SwitchFilterMultiOption
+
+**SwitchFilterMultiOption**(): void
+
 
 ### Fields
 

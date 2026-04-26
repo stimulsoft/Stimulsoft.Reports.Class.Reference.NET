@@ -4,12 +4,7 @@ title: "IStiEventScriptEditorStimulAI Interface"
 
 ## IStiEventScriptEditorStimulAI Interface
 
-**Namespace:** `Stimulsoft.Base.StimulAI`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public interface IStiEventScriptEditorStimulAI
-```
+**Namespace:** `Stimulsoft.Base.StimulAI`
 
 ### Inheritance
 

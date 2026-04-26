@@ -4,12 +4,7 @@ title: "StiTextSizeMode Enum"
 
 ## StiTextSizeMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiTextSizeMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiDateTimeOffsetDialogInfoItem Class"
 
 ## StiDateTimeOffsetDialogInfoItem Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDateTimeOffsetDialogInfoItem
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 
@@ -20,3 +15,6 @@ Inherits from: StiDialogInfoItem
 | Constructor | Description |
 | --- | --- |
 | **StiDateTimeOffsetDialogInfoItem**() |  |
+
+**StiDateTimeOffsetDialogInfoItem**()
+

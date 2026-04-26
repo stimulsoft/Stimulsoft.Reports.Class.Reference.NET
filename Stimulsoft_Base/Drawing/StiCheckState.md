@@ -4,12 +4,7 @@ title: "StiCheckState Enum"
 
 ## StiCheckState Enum
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiCheckState
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiChartElementGdiPainter Class"
 
 ## StiChartElementGdiPainter Class
 
-**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters`  
-**Assembly:** `Stimulsoft.Dashboard.Drawing`
-
-```csharp
-public class StiChartElementGdiPainter
-```
+**Namespace:** `Stimulsoft.Dashboard.Drawing.Painters`
 
 ### Inheritance
 
@@ -22,3 +17,45 @@ Inherits from: [StiAtomElementGdiPainter](StiAtomElementGdiPainter.md)
 | **GetTitleText** | string |  |
 | **PaintCheckBoxTitle** | void |  |
 | **PaintEmptyData** | void |  |
+
+---
+
+### Method Details
+
+#### GetTitleText
+
+**GetTitleText**(**element**: IStiElement): string
+
+**Parameters**
+
+- **element** (IStiElement)  
+
+**Returns** string
+
+
+---
+
+#### PaintCheckBoxTitle
+
+**PaintCheckBoxTitle**(**g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **rect**: [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md), **element**: IStiElement): void
+
+**Parameters**
+
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **rect** ([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md))  
+- **element** (IStiElement)  
+
+
+---
+
+#### PaintEmptyData
+
+**PaintEmptyData**(**g**: [Graphics](../../Stimulsoft_Drawing/root/Graphics.md), **rect**: [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md), **element**: IStiElement, **zoom**: double?): void
+
+**Parameters**
+
+- **g** ([Graphics](../../Stimulsoft_Drawing/root/Graphics.md))  
+- **rect** ([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md))  
+- **element** (IStiElement)  
+- **zoom** (double?)  
+

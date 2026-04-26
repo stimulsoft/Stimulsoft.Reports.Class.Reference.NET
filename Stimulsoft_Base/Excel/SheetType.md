@@ -4,12 +4,7 @@ title: "SheetType Enum"
 
 ## SheetType Enum
 
-**Namespace:** `Stimulsoft.Base.Excel`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum SheetType
-```
+**Namespace:** `Stimulsoft.Base.Excel`
 
 ### Inheritance
 

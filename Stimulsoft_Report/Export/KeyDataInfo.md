@@ -4,12 +4,7 @@ title: "KeyDataInfo Class"
 
 ## KeyDataInfo Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class KeyDataInfo
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Fields
 

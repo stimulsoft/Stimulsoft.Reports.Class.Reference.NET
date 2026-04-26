@@ -4,14 +4,9 @@ title: "StiDataRelationConverter Class"
 
 ## StiDataRelationConverter Class
 
-**Namespace:** `Stimulsoft.Report.Components.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components.Design`
 
 Provides a type converter to convert Data Relation to string.
-
-```csharp
-public class StiDataRelationConverter
-```
 
 ### Inheritance
 

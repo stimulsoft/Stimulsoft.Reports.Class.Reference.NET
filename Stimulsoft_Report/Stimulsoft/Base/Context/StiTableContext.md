@@ -4,12 +4,7 @@ title: "StiTableContext Class"
 
 ## StiTableContext Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiTableContext
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Properties
 
@@ -22,3 +17,16 @@ public abstract class StiTableContext
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Render** | void |  |
+
+---
+
+### Method Details
+
+#### Render
+
+**Render**(**rect**: RectangleF): void
+
+**Parameters**
+
+- **rect** (RectangleF)  
+

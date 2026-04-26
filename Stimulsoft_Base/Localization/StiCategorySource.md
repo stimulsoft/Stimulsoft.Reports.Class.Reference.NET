@@ -4,12 +4,7 @@ title: "StiCategorySource Enum"
 
 ## StiCategorySource Enum
 
-**Namespace:** `Stimulsoft.Base.Localization`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiCategorySource
-```
+**Namespace:** `Stimulsoft.Base.Localization`
 
 ### Members
 

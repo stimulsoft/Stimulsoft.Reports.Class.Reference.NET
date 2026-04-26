@@ -4,11 +4,6 @@ title: "IStiConditions Interface"
 
 ## IStiConditions Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Allows to control conditions.
-
-```csharp
-public interface IStiConditions
-```

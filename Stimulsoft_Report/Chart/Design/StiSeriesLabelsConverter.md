@@ -4,12 +4,7 @@ title: "StiSeriesLabelsConverter Class"
 
 ## StiSeriesLabelsConverter Class
 
-**Namespace:** `Stimulsoft.Report.Chart.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiSeriesLabelsConverter
-```
+**Namespace:** `Stimulsoft.Report.Chart.Design`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: TypeConverter
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

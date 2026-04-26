@@ -4,12 +4,7 @@ title: "StiCenterTreemapLabelsCoreXF Class"
 
 ## StiCenterTreemapLabelsCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCenterTreemapLabelsCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: StiSeriesLabelsCoreXF
 | Constructor | Description |
 | --- | --- |
 | **StiCenterTreemapLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |
+
+**StiCenterTreemapLabelsCoreXF**(**seriesLabels**: IStiSeriesLabels)
+
+**Parameters**
+
+- **seriesLabels** (IStiSeriesLabels)  
+

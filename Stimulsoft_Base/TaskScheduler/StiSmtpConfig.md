@@ -4,12 +4,7 @@ title: "StiSmtpConfig Class"
 
 ## StiSmtpConfig Class
 
-**Namespace:** `Stimulsoft.Base.TaskScheduler`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiSmtpConfig
-```
+**Namespace:** `Stimulsoft.Base.TaskScheduler`
 
 ### Properties
 
@@ -30,6 +25,42 @@ public sealed class StiSmtpConfig
 | **GetEmpty** `static` | [StiSmtpConfig](StiSmtpConfig.md) |  |
 | **IsValid** | bool |  |
 | **TrySave** | void |  |
+
+---
+
+### Method Details
+
+#### Get `static`
+
+**Get**(): [StiSmtpConfig](StiSmtpConfig.md)
+
+**Returns** [StiSmtpConfig](StiSmtpConfig.md)
+
+
+---
+
+#### GetEmpty `static`
+
+**GetEmpty**(): [StiSmtpConfig](StiSmtpConfig.md)
+
+**Returns** [StiSmtpConfig](StiSmtpConfig.md)
+
+
+---
+
+#### IsValid
+
+**IsValid**(): bool
+
+**Returns** bool
+
+
+---
+
+#### TrySave
+
+**TrySave**(): void
+
 
 ### Fields
 

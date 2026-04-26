@@ -4,12 +4,7 @@ title: "StiCross Class"
 
 ## StiCross Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab.Core`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCross
-```
+**Namespace:** `Stimulsoft.Report.CrossTab.Core`
 
 ### Inheritance
 
@@ -36,6 +31,40 @@ Inherits from: [StiGrid](StiGrid.md)
 | **Clear** | bool |  |
 | **Create** | void |  |
 | **HasRightCrossTitle** | bool |  |
+
+---
+
+### Method Details
+
+#### Clear
+
+**Clear**(): bool
+
+**Returns** bool
+
+
+---
+
+#### Create
+
+**Create**(**table**: DataTable, **report**: [StiReport](../../root/StiReport.md), **direction**: [StiSummaryDirection](StiSummaryDirection.md), **emptyValue**: string): void
+
+**Parameters**
+
+- **table** (DataTable)  
+- **report** ([StiReport](../../root/StiReport.md))  
+- **direction** ([StiSummaryDirection](StiSummaryDirection.md))  
+- **emptyValue** (string)  
+
+
+---
+
+#### HasRightCrossTitle
+
+**HasRightCrossTitle**(): bool
+
+**Returns** bool
+
 
 ### Fields
 

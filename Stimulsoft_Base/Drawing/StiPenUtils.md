@@ -4,12 +4,7 @@ title: "StiPenUtils Class"
 
 ## StiPenUtils Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiPenUtils
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Methods
 
@@ -17,3 +12,31 @@ public sealed class StiPenUtils
 | --- | --- | --- |
 | **GetLineCap** `static` | LineCap |  |
 | **GetPenStyle** `static` | DashStyle |  |
+
+---
+
+### Method Details
+
+#### GetLineCap `static`
+
+**GetLineCap**(**lineCap**: [StiPenLineCap](../Context/StiPenLineCap.md)): LineCap
+
+**Parameters**
+
+- **lineCap** ([StiPenLineCap](../Context/StiPenLineCap.md))  
+
+**Returns** LineCap
+
+
+---
+
+#### GetPenStyle `static`
+
+**GetPenStyle**(**penStyle**: [StiPenStyle](StiPenStyle.md)): DashStyle
+
+**Parameters**
+
+- **penStyle** ([StiPenStyle](StiPenStyle.md))  
+
+**Returns** DashStyle
+

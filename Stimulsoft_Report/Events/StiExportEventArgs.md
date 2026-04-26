@@ -4,14 +4,9 @@ title: "StiExportEventArgs Class"
 
 ## StiExportEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event Exporting and Exported.
-
-```csharp
-public class StiExportEventArgs
-```
 
 ### Inheritance
 
@@ -21,10 +16,17 @@ Inherits from: EventArgs
 
 | Constructor | Description |
 | --- | --- |
-| **StiExportEventArgs**([StiExportFormat](../StiExportFormat.md) format) |  |
+| **StiExportEventArgs**([StiExportFormat](../root/StiExportFormat.md) format) |  |
+
+**StiExportEventArgs**(**format**: [StiExportFormat](../root/StiExportFormat.md))
+
+**Parameters**
+
+- **format** ([StiExportFormat](../root/StiExportFormat.md))  
+
 
 ### Properties
 
 | Property | Type | Description |
 | --- | --- | --- |
-| **ExportFormat** | [StiExportFormat](../StiExportFormat.md) |  |
+| **ExportFormat** | [StiExportFormat](../root/StiExportFormat.md) |  |

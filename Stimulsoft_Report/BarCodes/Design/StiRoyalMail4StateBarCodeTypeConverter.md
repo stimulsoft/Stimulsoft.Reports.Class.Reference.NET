@@ -4,14 +4,9 @@ title: "StiRoyalMail4StateBarCodeTypeConverter Class"
 
 ## StiRoyalMail4StateBarCodeTypeConverter Class
 
-**Namespace:** `Stimulsoft.Report.BarCodes.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.BarCodes.Design`
 
 Provides a type converter to convert BarCodeType objects to and from various other representations.
-
-```csharp
-public class StiRoyalMail4StateBarCodeTypeConverter
-```
 
 ### Inheritance
 
@@ -22,3 +17,18 @@ Inherits from: [StiBarCodeTypeServiceConverter](StiBarCodeTypeServiceConverter.m
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

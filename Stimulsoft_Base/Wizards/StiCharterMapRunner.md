@@ -4,12 +4,7 @@ title: "StiCharterMapRunner Class"
 
 ## StiCharterMapRunner Class
 
-**Namespace:** `Stimulsoft.Base.Wizards`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiCharterMapRunner
-```
+**Namespace:** `Stimulsoft.Base.Wizards`
 
 ### Methods
 
@@ -17,3 +12,27 @@ public static class StiCharterMapRunner
 | --- | --- | --- |
 | **AllowChartermapWindow** `static` | bool |  |
 | **StiWindow** `static` | [IStiCharterMapWindow](IStiCharterMapWindow.md) |  |
+
+---
+
+### Method Details
+
+#### AllowChartermapWindow `static`
+
+**AllowChartermapWindow**(): bool
+
+**Returns** bool
+
+
+---
+
+#### StiWindow `static`
+
+**StiWindow**(**fontFamily**: string): [IStiCharterMapWindow](IStiCharterMapWindow.md)
+
+**Parameters**
+
+- **fontFamily** (string)  
+
+**Returns** [IStiCharterMapWindow](IStiCharterMapWindow.md)
+

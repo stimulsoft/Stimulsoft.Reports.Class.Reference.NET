@@ -4,14 +4,9 @@ title: "StiViewerConfigService Class"
 
 ## StiViewerConfigService Class
 
-**Namespace:** `Stimulsoft.Report.Viewer`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Viewer`
 
 Class describes the configuration of the viewer window.
-
-```csharp
-public class StiViewerConfigService
-```
 
 ### Inheritance
 

@@ -4,11 +4,6 @@ title: "IStiText Interface"
 
 ## IStiText Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Dewscribes text in the component.
-
-```csharp
-public interface IStiText
-```

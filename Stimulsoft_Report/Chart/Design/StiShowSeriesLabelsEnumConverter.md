@@ -4,14 +4,9 @@ title: "StiShowSeriesLabelsEnumConverter Class"
 
 ## StiShowSeriesLabelsEnumConverter Class
 
-**Namespace:** `Stimulsoft.Report.Chart.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Chart.Design`
 
 Provides a type converter to convert Enum objects to and from various other representations.
-
-```csharp
-public class StiShowSeriesLabelsEnumConverter
-```
 
 ### Inheritance
 
@@ -24,8 +19,34 @@ Inherits from: [StiEnumConverter](../../../Stimulsoft_Base/Localization/StiEnumC
 | **StiShowSeriesLabelsEnumConverter**() |  |
 | **StiShowSeriesLabelsEnumConverter**(Type type) |  |
 
+**StiShowSeriesLabelsEnumConverter**()
+
+---
+
+**StiShowSeriesLabelsEnumConverter**(**type**: Type)
+
+**Parameters**
+
+- **type** (Type)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetStandardValues** | StandardValuesCollection |  |
+
+---
+
+### Method Details
+
+#### GetStandardValues
+
+**GetStandardValues**(**context**: ITypeDescriptorContext): StandardValuesCollection
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** StandardValuesCollection
+

@@ -4,12 +4,7 @@ title: "StiPropertyGridOptions Class"
 
 ## StiPropertyGridOptions Class
 
-**Namespace:** `Stimulsoft.Base.Design`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiPropertyGridOptions
-```
+**Namespace:** `Stimulsoft.Base.Design`
 
 ### Properties
 

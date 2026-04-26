@@ -4,12 +4,7 @@ title: "BinaryExpression Class"
 
 ## BinaryExpression Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class BinaryExpression
-```
+**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`
 
 ### Inheritance
 
@@ -20,6 +15,15 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 | Constructor | Description |
 | --- | --- |
 | **BinaryExpression**([BinaryExpressionType](BinaryExpressionType.md) type, [LogicalExpression](LogicalExpression.md) leftExpression, [LogicalExpression](LogicalExpression.md) rightExpression) |  |
+
+**BinaryExpression**(**type**: [BinaryExpressionType](BinaryExpressionType.md), **leftExpression**: [LogicalExpression](LogicalExpression.md), **rightExpression**: [LogicalExpression](LogicalExpression.md))
+
+**Parameters**
+
+- **type** ([BinaryExpressionType](BinaryExpressionType.md))  
+- **leftExpression** ([LogicalExpression](LogicalExpression.md))  
+- **rightExpression** ([LogicalExpression](LogicalExpression.md))  
+
 
 ### Properties
 
@@ -34,3 +38,16 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Accept** | void |  |
+
+---
+
+### Method Details
+
+#### Accept
+
+**Accept**(**visitor**: [LogicalExpressionVisitor](LogicalExpressionVisitor.md)): void
+
+**Parameters**
+
+- **visitor** ([LogicalExpressionVisitor](LogicalExpressionVisitor.md))  
+

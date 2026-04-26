@@ -4,18 +4,16 @@ title: "StiRecentFileStructure Class"
 
 ## StiRecentFileStructure Class
 
-**Namespace:** `Stimulsoft.Base.RecentFiles`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiRecentFileStructure
-```
+**Namespace:** `Stimulsoft.Base.RecentFiles`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiRecentFileStructure**() |  |
+
+**StiRecentFileStructure**()
+
 
 ### Properties
 
@@ -33,6 +31,57 @@ public sealed class StiRecentFileStructure
 | **MoveBack** | void |  |
 | **MoveTo** | bool |  |
 | **NewFolder** | bool |  |
+
+---
+
+### Method Details
+
+#### GotoFolder
+
+**GotoFolder**(**path**: string, **errorMessage**: string): bool
+
+**Parameters**
+
+- **path** (string)  
+- **errorMessage** (string)  
+
+**Returns** bool
+
+
+---
+
+#### MoveBack
+
+**MoveBack**(): void
+
+
+---
+
+#### MoveTo
+
+**MoveTo**(**item**: [StiRecentFileStructureItem](StiRecentFileStructureItem.md), **errorMessage**: string): bool
+
+**Parameters**
+
+- **item** ([StiRecentFileStructureItem](StiRecentFileStructureItem.md))  
+- **errorMessage** (string)  
+
+**Returns** bool
+
+
+---
+
+#### NewFolder
+
+**NewFolder**(**name**: string, **errorMessage**: string): bool
+
+**Parameters**
+
+- **name** (string)  
+- **errorMessage** (string)  
+
+**Returns** bool
+
 
 ### Fields
 

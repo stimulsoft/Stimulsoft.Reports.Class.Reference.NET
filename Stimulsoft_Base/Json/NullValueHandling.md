@@ -4,14 +4,9 @@ title: "NullValueHandling Enum"
 
 ## NullValueHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Json`
 
 Specifies null value handling options for the JsonSerializer.
-
-```csharp
-public enum NullValueHandling
-```
 
 ### Members
 

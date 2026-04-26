@@ -4,12 +4,7 @@ title: "StiMapData Class"
 
 ## StiMapData Class
 
-**Namespace:** `Stimulsoft.Report.Maps`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiMapData
-```
+**Namespace:** `Stimulsoft.Report.Maps`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Implements: INotifyPropertyChanged
 | Constructor | Description |
 | --- | --- |
 | **StiMapData**(string key) |  |
+
+**StiMapData**(**key**: string)
+
+**Parameters**
+
+- **key** (string)  
+
 
 ### Properties
 
@@ -36,6 +38,35 @@ Implements: INotifyPropertyChanged
 | **Clone** | [StiMapData](StiMapData.md) |  |
 | **GetValue** | double? |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): [StiMapData](StiMapData.md)
+
+**Returns** [StiMapData](StiMapData.md)
+
+
+---
+
+#### GetValue
+
+**GetValue**(): double?
+
+**Returns** double?
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+
 
 ### Events
 

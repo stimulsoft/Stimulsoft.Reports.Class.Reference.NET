@@ -4,12 +4,7 @@ title: "StiTextInCellsV2Builder Class"
 
 ## StiTextInCellsV2Builder Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTextInCellsV2Builder
-```
+**Namespace:** `Stimulsoft.Report.Engine`
 
 ### Inheritance
 
@@ -20,3 +15,18 @@ Inherits from: [StiSimpleTextV2Builder](StiSimpleTextV2Builder.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **InternalRender** | StiComponent |  |
+
+---
+
+### Method Details
+
+#### InternalRender
+
+**InternalRender**(**masterComp**: StiComponent): StiComponent
+
+**Parameters**
+
+- **masterComp** (StiComponent)  
+
+**Returns** StiComponent
+

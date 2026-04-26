@@ -4,12 +4,7 @@ title: "StiMathFormulaGroupType Enum"
 
 ## StiMathFormulaGroupType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiMathFormulaGroupType
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

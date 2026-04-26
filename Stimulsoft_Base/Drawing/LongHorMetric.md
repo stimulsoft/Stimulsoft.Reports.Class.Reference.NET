@@ -4,12 +4,7 @@ title: "LongHorMetric Class"
 
 ## LongHorMetric Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class LongHorMetric
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

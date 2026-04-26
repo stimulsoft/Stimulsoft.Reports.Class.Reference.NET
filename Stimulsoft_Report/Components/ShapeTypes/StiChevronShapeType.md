@@ -4,12 +4,7 @@ title: "StiChevronShapeType Class"
 
 ## StiChevronShapeType Class
 
-**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiChevronShapeType
-```
+**Namespace:** `Stimulsoft.Report.Components.ShapeTypes`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: StiShapeTypeService
 | --- | --- |
 | **StiChevronShapeType**() | Creates a new Chevron. |
 | **StiChevronShapeType**([StiShapeDirection](StiShapeDirection.md) direction) | Creates a new Chevron with specified arguments. |
+
+**StiChevronShapeType**()
+
+Creates a new Chevron.
+
+---
+
+**StiChevronShapeType**(**direction**: [StiShapeDirection](StiShapeDirection.md))
+
+Creates a new Chevron with specified arguments.
+
+**Parameters**
+
+- **direction** ([StiShapeDirection](StiShapeDirection.md)) — Arrow direction.  
+
 
 ### Properties
 
@@ -34,3 +44,29 @@ Inherits from: StiShapeTypeService
 | --- | --- | --- |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../../Stimulsoft_Base/Json/Linq/JObject.md)
+

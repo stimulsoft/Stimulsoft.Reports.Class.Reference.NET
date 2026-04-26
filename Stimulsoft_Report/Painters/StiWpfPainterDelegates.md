@@ -4,12 +4,7 @@ title: "StiWpfPainterDelegates Class"
 
 ## StiWpfPainterDelegates Class
 
-**Namespace:** `Stimulsoft.Report.Painters`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiWpfPainterDelegates
-```
+**Namespace:** `Stimulsoft.Report.Painters`
 
 ### Fields
 

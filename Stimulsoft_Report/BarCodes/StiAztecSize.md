@@ -4,12 +4,7 @@ title: "StiAztecSize Enum"
 
 ## StiAztecSize Enum
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiAztecSize
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Members
 

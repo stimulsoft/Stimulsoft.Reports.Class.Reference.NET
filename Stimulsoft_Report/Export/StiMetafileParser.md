@@ -4,12 +4,7 @@ title: "StiMetafileParser Class"
 
 ## StiMetafileParser Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiMetafileParser
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Fields
 

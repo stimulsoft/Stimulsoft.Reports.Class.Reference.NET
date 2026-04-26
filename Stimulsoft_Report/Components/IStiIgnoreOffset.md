@@ -4,11 +4,6 @@ title: "IStiIgnoreOffset Interface"
 
 ## IStiIgnoreOffset Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Allows to hide component from Offset method.
-
-```csharp
-public interface IStiIgnoreOffset
-```

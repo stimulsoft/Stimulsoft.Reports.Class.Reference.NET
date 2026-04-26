@@ -4,12 +4,7 @@ title: "StiGeoRenderMode Enum"
 
 ## StiGeoRenderMode Enum
 
-**Namespace:** `Stimulsoft.Map.Gis.Core`  
-**Assembly:** `Stimulsoft.Map`
-
-```csharp
-public enum StiGeoRenderMode
-```
+**Namespace:** `Stimulsoft.Map.Gis.Core`
 
 ### Members
 

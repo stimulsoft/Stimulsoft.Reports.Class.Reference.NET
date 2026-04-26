@@ -4,12 +4,7 @@ title: "StiRestrictions Enum"
 
 ## StiRestrictions Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiRestrictions
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

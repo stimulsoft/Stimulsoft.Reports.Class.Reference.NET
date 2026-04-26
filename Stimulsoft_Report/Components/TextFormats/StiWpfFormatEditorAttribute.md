@@ -4,12 +4,7 @@ title: "StiWpfFormatEditorAttribute Class"
 
 ## StiWpfFormatEditorAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Components.TextFormats`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiWpfFormatEditorAttribute
-```
+**Namespace:** `Stimulsoft.Report.Components.TextFormats`
 
 ### Inheritance
 
@@ -21,6 +16,21 @@ Inherits from: Attribute
 | --- | --- |
 | **StiWpfFormatEditorAttribute**(string editorTypeName) |  |
 | **StiWpfFormatEditorAttribute**(Type type) |  |
+
+**StiWpfFormatEditorAttribute**(**editorTypeName**: string)
+
+**Parameters**
+
+- **editorTypeName** (string)  
+
+---
+
+**StiWpfFormatEditorAttribute**(**type**: Type)
+
+**Parameters**
+
+- **type** (Type)  
+
 
 ### Properties
 

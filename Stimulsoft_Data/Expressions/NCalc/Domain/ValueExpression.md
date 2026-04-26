@@ -4,12 +4,7 @@ title: "ValueExpression Class"
 
 ## ValueExpression Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class ValueExpression
-```
+**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`
 
 ### Inheritance
 
@@ -27,6 +22,62 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 | **ValueExpression**(bool value) |  |
 | **ValueExpression**(object value, [ValueType](ValueType.md) type) |  |
 
+**ValueExpression**(**value**: object)
+
+**Parameters**
+
+- **value** (object)  
+
+---
+
+**ValueExpression**(**value**: string)
+
+**Parameters**
+
+- **value** (string)  
+
+---
+
+**ValueExpression**(**value**: int)
+
+**Parameters**
+
+- **value** (int)  
+
+---
+
+**ValueExpression**(**value**: float)
+
+**Parameters**
+
+- **value** (float)  
+
+---
+
+**ValueExpression**(**value**: DateTime)
+
+**Parameters**
+
+- **value** (DateTime)  
+
+---
+
+**ValueExpression**(**value**: bool)
+
+**Parameters**
+
+- **value** (bool)  
+
+---
+
+**ValueExpression**(**value**: object, **type**: [ValueType](ValueType.md))
+
+**Parameters**
+
+- **value** (object)  
+- **type** ([ValueType](ValueType.md))  
+
+
 ### Properties
 
 | Property | Type | Description |
@@ -39,3 +90,16 @@ Inherits from: [LogicalExpression](LogicalExpression.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Accept** | void |  |
+
+---
+
+### Method Details
+
+#### Accept
+
+**Accept**(**visitor**: [LogicalExpressionVisitor](LogicalExpressionVisitor.md)): void
+
+**Parameters**
+
+- **visitor** ([LogicalExpressionVisitor](LogicalExpressionVisitor.md))  
+

@@ -4,12 +4,7 @@ title: "StiGaugeCalculationMode Enum"
 
 ## StiGaugeCalculationMode Enum
 
-**Namespace:** `Stimulsoft.Report.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiGaugeCalculationMode
-```
+**Namespace:** `Stimulsoft.Report.Gauge`
 
 ### Members
 

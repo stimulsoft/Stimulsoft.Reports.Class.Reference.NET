@@ -4,12 +4,7 @@ title: "StiTreeStateCheckBox Class"
 
 ## StiTreeStateCheckBox Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiTreeStateCheckBox
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`
 
 ### Inheritance
 
@@ -21,6 +16,9 @@ Inherits from: CheckBox
 | --- | --- |
 | **StiTreeStateCheckBox**() |  |
 
+**StiTreeStateCheckBox**()
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -30,3 +28,60 @@ Inherits from: CheckBox
 | **OnMouseMove** | void |  |
 | **OnPaint** | void |  |
 | **OnPaintBackground** | void |  |
+
+---
+
+### Method Details
+
+#### OnMouseEnter
+
+**OnMouseEnter**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseLeave
+
+**OnMouseLeave**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### OnMouseMove
+
+**OnMouseMove**(**mevent**: MouseEventArgs): void
+
+**Parameters**
+
+- **mevent** (MouseEventArgs)  
+
+
+---
+
+#### OnPaint
+
+**OnPaint**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+
+
+---
+
+#### OnPaintBackground
+
+**OnPaintBackground**(**e**: PaintEventArgs): void
+
+**Parameters**
+
+- **e** (PaintEventArgs)  
+

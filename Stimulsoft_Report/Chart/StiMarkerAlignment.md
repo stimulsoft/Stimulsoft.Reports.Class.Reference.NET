@@ -4,12 +4,7 @@ title: "StiMarkerAlignment Enum"
 
 ## StiMarkerAlignment Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiMarkerAlignment
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Members
 

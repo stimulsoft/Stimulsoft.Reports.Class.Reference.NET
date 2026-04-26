@@ -4,12 +4,7 @@ title: "StiWhiteBlackIndicatorElementStyle Class"
 
 ## StiWhiteBlackIndicatorElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiWhiteBlackIndicatorElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 
@@ -34,3 +29,23 @@ Inherits from: [StiIndicatorElementStyle](StiIndicatorElementStyle.md)
 | --- | --- | --- |
 | **GetGalleryBackColor** | Color |  |
 | **GetGalleryForeColor** | Color |  |
+
+---
+
+### Method Details
+
+#### GetGalleryBackColor
+
+**GetGalleryBackColor**(): Color
+
+**Returns** Color
+
+
+---
+
+#### GetGalleryForeColor
+
+**GetGalleryForeColor**(): Color
+
+**Returns** Color
+

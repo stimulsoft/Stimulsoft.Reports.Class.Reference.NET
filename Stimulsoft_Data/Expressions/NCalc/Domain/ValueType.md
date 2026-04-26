@@ -4,12 +4,7 @@ title: "ValueType Enum"
 
 ## ValueType Enum
 
-**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum ValueType
-```
+**Namespace:** `Stimulsoft.Data.Expressions.NCalc.Domain`
 
 ### Members
 

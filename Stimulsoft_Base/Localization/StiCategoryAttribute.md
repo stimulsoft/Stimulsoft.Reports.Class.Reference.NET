@@ -4,12 +4,7 @@ title: "StiCategoryAttribute Class"
 
 ## StiCategoryAttribute Class
 
-**Namespace:** `Stimulsoft.Base.Localization`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiCategoryAttribute
-```
+**Namespace:** `Stimulsoft.Base.Localization`
 
 ### Inheritance
 
@@ -21,6 +16,28 @@ Inherits from: Attribute
 | --- | --- |
 | **StiCategoryAttribute**(string category, int order) | Initializes a new instance of the StiCategoryAttribute class using the category name Default. |
 | **StiCategoryAttribute**(string category, [StiCategorySource](StiCategorySource.md) source, int order) | Initializes a new instance of the StiCategoryAttribute class using the category name Default. |
+
+**StiCategoryAttribute**(**category**: string, **order**: int)
+
+Initializes a new instance of the StiCategoryAttribute class using the category name Default.
+
+**Parameters**
+
+- **category** (string) — The name of the category for the property or event that this attribute is applied to.  
+- **order** (int) — The order position in the list of categories.  
+
+---
+
+**StiCategoryAttribute**(**category**: string, **source**: [StiCategorySource](StiCategorySource.md), **order**: int)
+
+Initializes a new instance of the StiCategoryAttribute class using the category name Default.
+
+**Parameters**
+
+- **category** (string) — The name of the category for the property or event that this attribute is applied to.  
+- **source** ([StiCategorySource](StiCategorySource.md)) — The source of the localization keys from which that category should be taken.  
+- **order** (int)  
+
 
 ### Properties
 

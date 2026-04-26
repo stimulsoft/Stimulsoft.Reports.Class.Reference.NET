@@ -4,12 +4,7 @@ title: "StiBlocksConst Class"
 
 ## StiBlocksConst Class
 
-**Namespace:** `Stimulsoft.Base.Blocks`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiBlocksConst
-```
+**Namespace:** `Stimulsoft.Base.Blocks`
 
 ### Fields
 

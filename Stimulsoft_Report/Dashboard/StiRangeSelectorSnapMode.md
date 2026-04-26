@@ -4,12 +4,7 @@ title: "StiRangeSelectorSnapMode Enum"
 
 ## StiRangeSelectorSnapMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiRangeSelectorSnapMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "IStiExportImageExtended Interface"
 
 ## IStiExportImageExtended Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiExportImageExtended
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Inheritance
 

@@ -4,9 +4,4 @@ title: "IStiPivotRow Interface"
 
 ## IStiPivotRow Interface
 
-**Namespace:** `Stimulsoft.Base.Meters`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public interface IStiPivotRow
-```
+**Namespace:** `Stimulsoft.Base.Meters`

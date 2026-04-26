@@ -4,12 +4,7 @@ title: "StiGraphicsPathIndicatorGeom Class"
 
 ## StiGraphicsPathIndicatorGeom Class
 
-**Namespace:** `Stimulsoft.Base.Indicator`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGraphicsPathIndicatorGeom
-```
+**Namespace:** `Stimulsoft.Base.Indicator`
 
 ### Inheritance
 
@@ -20,6 +15,17 @@ Inherits from: [StiIndicatorGeom](StiIndicatorGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiGraphicsPathIndicatorGeom**(RectangleF rect, PointF startPoint, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) background, [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md) borderBrush, float borderWidth) |  |
+
+**StiGraphicsPathIndicatorGeom**(**rect**: RectangleF, **startPoint**: PointF, **background**: [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md), **borderBrush**: [StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md), **borderWidth**: float)
+
+**Parameters**
+
+- **rect** (RectangleF)  
+- **startPoint** (PointF)  
+- **background** ([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md))  
+- **borderBrush** ([StiBrush](../../../../Stimulsoft_Base/Drawing/StiBrush.md))  
+- **borderWidth** (float)  
+
 
 ### Properties
 
@@ -38,3 +44,23 @@ Inherits from: [StiIndicatorGeom](StiIndicatorGeom.md)
 | --- | --- | --- |
 | **AddGraphicsPathCloseFigureGaugeGeom** | void |  |
 | **AddGraphicsPathLinesGaugeGeom** | void |  |
+
+---
+
+### Method Details
+
+#### AddGraphicsPathCloseFigureGaugeGeom
+
+**AddGraphicsPathCloseFigureGaugeGeom**(): void
+
+
+---
+
+#### AddGraphicsPathLinesGaugeGeom
+
+**AddGraphicsPathLinesGaugeGeom**(****: PointFpoints): void
+
+**Parameters**
+
+- **** (PointFpoints)  
+

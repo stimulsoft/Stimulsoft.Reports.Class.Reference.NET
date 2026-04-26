@@ -4,12 +4,7 @@ title: "Cff Class"
 
 ## Cff Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class Cff
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Methods
 
@@ -21,6 +16,64 @@ public class Cff
 | **GetSize** | int |  |
 | **Read** | void |  |
 | **Save** | byte[] |  |
+
+---
+
+### Method Details
+
+#### CutUnusedSubr
+
+**CutUnusedSubr**(): void
+
+
+---
+
+#### GetBaseTablesString
+
+**GetBaseTablesString**(): string
+
+**Returns** string
+
+
+---
+
+#### GetNewTablesString
+
+**GetNewTablesString**(): string
+
+**Returns** string
+
+
+---
+
+#### GetSize
+
+**GetSize**(): int
+
+**Returns** int
+
+
+---
+
+#### Read
+
+**Read**(****: bytefontBytes, **offset**: int, **length**: int): void
+
+**Parameters**
+
+- **** (bytefontBytes)  
+- **offset** (int)  
+- **length** (int)  
+
+
+---
+
+#### Save
+
+**Save**(): byte[]
+
+**Returns** byte[]
+
 
 ### Fields
 

@@ -4,14 +4,9 @@ title: "StiDataTableSetNameService Class"
 
 ## StiDataTableSetNameService Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 Describes the service, which is used for setting the names of the data source under its creation.
-
-```csharp
-public class StiDataTableSetNameService
-```
 
 ### Inheritance
 
@@ -22,3 +17,20 @@ Inherits from: [StiService](../../Stimulsoft_Base/Services/StiService.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **SetName** | void | Installs the names and alieses of the data source. |
+
+---
+
+### Method Details
+
+#### SetName
+
+**SetName**(**dataTableSource**: [StiDataTableSource](StiDataTableSource.md), **dataSet**: DataSet, **name**: string): void
+
+Installs the names and alieses of the data source.
+
+**Parameters**
+
+- **dataTableSource** ([StiDataTableSource](StiDataTableSource.md))  
+- **dataSet** (DataSet)  
+- **name** (string)  
+

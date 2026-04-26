@@ -4,12 +4,7 @@ title: "StiActivationType Enum"
 
 ## StiActivationType Enum
 
-**Namespace:** `Stimulsoft.Base.Licenses`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum StiActivationType
-```
+**Namespace:** `Stimulsoft.Base.Licenses`
 
 ### Members
 

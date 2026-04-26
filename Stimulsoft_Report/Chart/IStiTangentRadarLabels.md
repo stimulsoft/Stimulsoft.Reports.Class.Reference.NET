@@ -4,12 +4,7 @@ title: "IStiTangentRadarLabels Interface"
 
 ## IStiTangentRadarLabels Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiTangentRadarLabels
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiHeatmapLegend Class"
 
 ## StiHeatmapLegend Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiHeatmapLegend
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: StiLegend
 | Constructor | Description |
 | --- | --- |
 | **StiHeatmapLegend**() |  |
+
+**StiHeatmapLegend**()
+
 
 ### Properties
 
@@ -41,3 +39,14 @@ Inherits from: StiLegend
 | Method | Returns | Description |
 | --- | --- | --- |
 | **CreateNew** | StiLegend |  |
+
+---
+
+### Method Details
+
+#### CreateNew
+
+**CreateNew**(): StiLegend
+
+**Returns** StiLegend
+

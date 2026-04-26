@@ -4,12 +4,7 @@ title: "StiServerPlan Class"
 
 ## StiServerPlan Class
 
-**Namespace:** `Stimulsoft.Base.Plans`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public abstract class StiServerPlan
-```
+**Namespace:** `Stimulsoft.Base.Plans`
 
 ### Inheritance
 

@@ -4,12 +4,7 @@ title: "StiDateViewMode Enum"
 
 ## StiDateViewMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDateViewMode
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiGlyphInfo Struct"
 
 ## StiGlyphInfo Struct
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public struct StiGlyphInfo
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Constructors
 
@@ -17,11 +12,30 @@ public struct StiGlyphInfo
 | --- | --- |
 | **StiGlyphInfo**(ushort glyphId, int cluster) |  |
 
+**StiGlyphInfo**(**glyphId**: ushort, **cluster**: int)
+
+**Parameters**
+
+- **glyphId** (ushort)  
+- **cluster** (int)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+
 
 ### Fields
 

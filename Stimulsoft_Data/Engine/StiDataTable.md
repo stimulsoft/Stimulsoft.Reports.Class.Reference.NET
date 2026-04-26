@@ -4,12 +4,7 @@ title: "StiDataTable Class"
 
 ## StiDataTable Class
 
-**Namespace:** `Stimulsoft.Data.Engine`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class StiDataTable
-```
+**Namespace:** `Stimulsoft.Data.Engine`
 
 ### Constructors
 
@@ -17,6 +12,18 @@ public class StiDataTable
 | --- | --- |
 | **StiDataTable**() |  |
 | **StiDataTable**(List<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)> meters, List<object> rows) |  |
+
+**StiDataTable**()
+
+---
+
+**StiDataTable**(**meters**: List<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)>, **rows**: List<object>)
+
+**Parameters**
+
+- **meters** (List<[IStiMeter](../../Stimulsoft_Base/Meters/IStiMeter.md)>)  
+- **rows** (List<object>)  
+
 
 ### Properties
 

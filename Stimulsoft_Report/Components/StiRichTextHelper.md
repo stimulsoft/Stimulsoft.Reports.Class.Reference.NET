@@ -4,12 +4,7 @@ title: "StiRichTextHelper Class"
 
 ## StiRichTextHelper Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRichTextHelper
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Fields
 

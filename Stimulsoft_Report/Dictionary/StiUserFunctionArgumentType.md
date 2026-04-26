@@ -4,12 +4,7 @@ title: "StiUserFunctionArgumentType Enum"
 
 ## StiUserFunctionArgumentType Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiUserFunctionArgumentType
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Members
 

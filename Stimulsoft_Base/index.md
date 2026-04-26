@@ -8,7 +8,7 @@ title: "Stimulsoft.Base"
 
 | Namespace | Types |
 | --- | --- |
-| [Stimulsoft.Base](index.md) | 234 |
+| [Stimulsoft.Base](root/index.md) | 234 |
 | [Stimulsoft.Base.AppsDatabase](AppsDatabase/index.md) | 12 |
 | [Stimulsoft.Base.AppsDatabase.SignalR.Event](AppsDatabase/SignalR/Event/index.md) | 7 |
 | [Stimulsoft.Base.Blockly](Blockly/index.md) | 2 |

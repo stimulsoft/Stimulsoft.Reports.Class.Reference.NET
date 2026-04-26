@@ -4,12 +4,7 @@ title: "StiRotationAnimation Class"
 
 ## StiRotationAnimation Class
 
-**Namespace:** `Stimulsoft.Base.Context.Animation`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRotationAnimation
-```
+**Namespace:** `Stimulsoft.Base.Context.Animation`
 
 ### Inheritance
 
@@ -20,6 +15,17 @@ Inherits from: [StiAnimation](StiAnimation.md)
 | Constructor | Description |
 | --- | --- |
 | **StiRotationAnimation**(double startAngle, double endAngle, PointF centerPoint, TimeSpan duration, TimeSpan beginTime) |  |
+
+**StiRotationAnimation**(**startAngle**: double, **endAngle**: double, **centerPoint**: PointF, **duration**: TimeSpan, **beginTime**: TimeSpan)
+
+**Parameters**
+
+- **startAngle** (double)  
+- **endAngle** (double)  
+- **centerPoint** (PointF)  
+- **duration** (TimeSpan)  
+- **beginTime** (TimeSpan)  
+
 
 ### Properties
 
@@ -34,3 +40,16 @@ Inherits from: [StiAnimation](StiAnimation.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ApplyPreviousAnimation** | void |  |
+
+---
+
+### Method Details
+
+#### ApplyPreviousAnimation
+
+**ApplyPreviousAnimation**(**previousAnimations**: List<[StiAnimation](StiAnimation.md)>): void
+
+**Parameters**
+
+- **previousAnimations** (List<[StiAnimation](StiAnimation.md)>)  
+

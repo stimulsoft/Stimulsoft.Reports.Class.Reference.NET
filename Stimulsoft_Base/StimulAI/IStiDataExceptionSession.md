@@ -4,12 +4,7 @@ title: "IStiDataExceptionSession Interface"
 
 ## IStiDataExceptionSession Interface
 
-**Namespace:** `Stimulsoft.Base.StimulAI`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public interface IStiDataExceptionSession
-```
+**Namespace:** `Stimulsoft.Base.StimulAI`
 
 ### Inheritance
 

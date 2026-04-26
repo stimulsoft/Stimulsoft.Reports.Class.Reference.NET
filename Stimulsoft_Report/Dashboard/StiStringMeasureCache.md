@@ -4,12 +4,7 @@ title: "StiStringMeasureCache Class"
 
 ## StiStringMeasureCache Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiStringMeasureCache
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Methods
 
@@ -17,3 +12,32 @@ public static class StiStringMeasureCache
 | --- | --- | --- |
 | **GetSize** `static` | SizeF? |  |
 | **PutSize** `static` | void |  |
+
+---
+
+### Method Details
+
+#### GetSize `static`
+
+**GetSize**(**font**: [Font](../../Stimulsoft_Drawing/root/Font.md), **str**: string): SizeF?
+
+**Parameters**
+
+- **font** ([Font](../../Stimulsoft_Drawing/root/Font.md))  
+- **str** (string)  
+
+**Returns** SizeF?
+
+
+---
+
+#### PutSize `static`
+
+**PutSize**(**font**: [Font](../../Stimulsoft_Drawing/root/Font.md), **str**: string, **size**: SizeF): void
+
+**Parameters**
+
+- **font** ([Font](../../Stimulsoft_Drawing/root/Font.md))  
+- **str** (string)  
+- **size** (SizeF)  
+

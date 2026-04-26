@@ -4,12 +4,7 @@ title: "ColorBlend Class"
 
 ## ColorBlend Class
 
-**Namespace:** `Stimulsoft.Drawing.Drawing2D`  
-**Assembly:** `Stimulsoft.Drawing`
-
-```csharp
-public class ColorBlend
-```
+**Namespace:** `Stimulsoft.Drawing.Drawing2D`
 
 ### Constructors
 
@@ -17,6 +12,17 @@ public class ColorBlend
 | --- | --- |
 | **ColorBlend**() |  |
 | **ColorBlend**(int count) |  |
+
+**ColorBlend**()
+
+---
+
+**ColorBlend**(**count**: int)
+
+**Parameters**
+
+- **count** (int)  
+
 
 ### Properties
 

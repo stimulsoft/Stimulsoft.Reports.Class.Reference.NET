@@ -4,12 +4,7 @@ title: "StiImageProcessingDuplicatesType Enum"
 
 ## StiImageProcessingDuplicatesType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiImageProcessingDuplicatesType
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

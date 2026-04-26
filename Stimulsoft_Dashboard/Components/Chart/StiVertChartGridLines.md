@@ -4,12 +4,7 @@ title: "StiVertChartGridLines Class"
 
 ## StiVertChartGridLines Class
 
-**Namespace:** `Stimulsoft.Dashboard.Components.Chart`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiVertChartGridLines
-```
+**Namespace:** `Stimulsoft.Dashboard.Components.Chart`
 
 ### Inheritance
 
@@ -21,6 +16,18 @@ Inherits from: StiChartGridLines
 | --- | --- |
 | **StiVertChartGridLines**() |  |
 | **StiVertChartGridLines**(Color color, bool visible) |  |
+
+**StiVertChartGridLines**()
+
+---
+
+**StiVertChartGridLines**(**color**: Color, **visible**: bool)
+
+**Parameters**
+
+- **color** (Color)  
+- **visible** (bool)  
+
 
 ### Properties
 

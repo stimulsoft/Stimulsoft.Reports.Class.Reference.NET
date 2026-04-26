@@ -4,12 +4,7 @@ title: "StiTextDashboardInteraction Class"
 
 ## StiTextDashboardInteraction Class
 
-**Namespace:** `Stimulsoft.Dashboard.Interactions`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public class StiTextDashboardInteraction
-```
+**Namespace:** `Stimulsoft.Dashboard.Interactions`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: [StiSimpleDashboardInteraction](StiSimpleDashboardInteraction.md)
 | Constructor | Description |
 | --- | --- |
 | **StiTextDashboardInteraction**() |  |
+
+**StiTextDashboardInteraction**()
+
 
 ### Properties
 

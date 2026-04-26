@@ -4,14 +4,9 @@ title: "StiGetDefaultFontEventArgs Class"
 
 ## StiGetDefaultFontEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event GetDefaultFont.
-
-```csharp
-public class StiGetDefaultFontEventArgs
-```
 
 ### Inheritance
 
@@ -22,6 +17,16 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiGetDefaultFontEventArgs**(string name, float size, FontStyle style, GraphicsUnit unit) |  |
+
+**StiGetDefaultFontEventArgs**(**name**: string, **size**: float, **style**: FontStyle, **unit**: GraphicsUnit)
+
+**Parameters**
+
+- **name** (string)  
+- **size** (float)  
+- **style** (FontStyle)  
+- **unit** (GraphicsUnit)  
+
 
 ### Properties
 

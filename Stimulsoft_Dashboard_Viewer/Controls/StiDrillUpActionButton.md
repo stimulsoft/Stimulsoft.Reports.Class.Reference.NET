@@ -4,12 +4,7 @@ title: "StiDrillUpActionButton Class"
 
 ## StiDrillUpActionButton Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiDrillUpActionButton
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`
 
 ### Inheritance
 
@@ -21,8 +16,25 @@ Inherits from: StiActionButton
 | --- | --- |
 | **StiDrillUpActionButton**([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position) |  |
 
+**StiDrillUpActionButton**(**colors**: [StiControlColorCollection](StiControlColorCollection.md), **position**: Point?)
+
+**Parameters**
+
+- **colors** ([StiControlColorCollection](StiControlColorCollection.md))  
+- **position** (Point?)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **RefreshImageOrIcon** | void |  |
+
+---
+
+### Method Details
+
+#### RefreshImageOrIcon
+
+**RefreshImageOrIcon**(): void
+

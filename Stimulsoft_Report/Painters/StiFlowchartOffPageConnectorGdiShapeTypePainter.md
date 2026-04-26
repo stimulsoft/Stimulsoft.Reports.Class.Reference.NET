@@ -4,12 +4,7 @@ title: "StiFlowchartOffPageConnectorGdiShapeTypePainter Class"
 
 ## StiFlowchartOffPageConnectorGdiShapeTypePainter Class
 
-**Namespace:** `Stimulsoft.Report.Painters`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiFlowchartOffPageConnectorGdiShapeTypePainter
-```
+**Namespace:** `Stimulsoft.Report.Painters`
 
 ### Inheritance
 
@@ -20,3 +15,20 @@ Inherits from: [StiGdiShapeTypePainter](StiGdiShapeTypePainter.md)
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Paint** | void |  |
+
+---
+
+### Method Details
+
+#### Paint
+
+**Paint**(**context**: object, **shape**: StiShape, **shapeType**: StiShapeTypeService, **rect**: RectangleF, **zoom**: float): void
+
+**Parameters**
+
+- **context** (object)  
+- **shape** (StiShape)  
+- **shapeType** (StiShapeTypeService)  
+- **rect** (RectangleF)  
+- **zoom** (float)  
+

@@ -4,12 +4,7 @@ title: "StiPictorialStackedArea Class"
 
 ## StiPictorialStackedArea Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPictorialStackedArea
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: StiArea
 | Constructor | Description |
 | --- | --- |
 | **StiPictorialStackedArea**() |  |
+
+**StiPictorialStackedArea**()
+
 
 ### Properties
 
@@ -35,3 +33,41 @@ Inherits from: StiArea
 | **GetDefaultSeriesType** | Type |  |
 | **GetSeriesLabelsTypes** | Type[] |  |
 | **GetSeriesTypes** | Type[] |  |
+
+---
+
+### Method Details
+
+#### GetDefaultSeriesLabelsType
+
+**GetDefaultSeriesLabelsType**(): Type
+
+**Returns** Type
+
+
+---
+
+#### GetDefaultSeriesType
+
+**GetDefaultSeriesType**(): Type
+
+**Returns** Type
+
+
+---
+
+#### GetSeriesLabelsTypes
+
+**GetSeriesLabelsTypes**(): Type[]
+
+**Returns** Type[]
+
+
+---
+
+#### GetSeriesTypes
+
+**GetSeriesTypes**(): Type[]
+
+**Returns** Type[]
+

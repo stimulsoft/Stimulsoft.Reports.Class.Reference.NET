@@ -4,14 +4,9 @@ title: "StiPropertiesTab Class"
 
 ## StiPropertiesTab Class
 
-**Namespace:** `Stimulsoft.Base.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Base.Design`
 
 Class describes the panel of properties StiPropertyGrid.
-
-```csharp
-public class StiPropertiesTab
-```
 
 ### Inheritance
 
@@ -29,3 +24,44 @@ Inherits from: PropertiesTab
 | --- | --- | --- |
 | **CanExtend** | bool |  |
 | **GetProperties** *(+1 overloads)* | PropertyDescriptorCollection |  |
+
+---
+
+### Method Details
+
+#### CanExtend
+
+**CanExtend**(**extendee**: object): bool
+
+**Parameters**
+
+- **extendee** (object)  
+
+**Returns** bool
+
+
+---
+
+#### GetProperties
+
+**GetProperties**(**context**: ITypeDescriptorContext, **component**: object, ****: Attributeattributes): PropertyDescriptorCollection
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **component** (object)  
+- **** (Attributeattributes)  
+
+**Returns** PropertyDescriptorCollection
+
+---
+
+**GetProperties**(**component**: object, ****: Attributeattributes): PropertyDescriptorCollection
+
+**Parameters**
+
+- **component** (object)  
+- **** (Attributeattributes)  
+
+**Returns** PropertyDescriptorCollection
+

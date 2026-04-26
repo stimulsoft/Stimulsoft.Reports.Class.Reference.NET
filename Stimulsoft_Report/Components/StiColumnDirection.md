@@ -4,14 +4,9 @@ title: "StiColumnDirection Enum"
 
 ## StiColumnDirection Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Enumeration contains type of column direction.
-
-```csharp
-public enum StiColumnDirection
-```
 
 ### Members
 

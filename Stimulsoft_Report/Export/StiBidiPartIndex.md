@@ -4,12 +4,7 @@ title: "StiBidiPartIndex Class"
 
 ## StiBidiPartIndex Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiBidiPartIndex
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Fields
 

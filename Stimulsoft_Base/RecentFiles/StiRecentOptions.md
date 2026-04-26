@@ -4,12 +4,7 @@ title: "StiRecentOptions Class"
 
 ## StiRecentOptions Class
 
-**Namespace:** `Stimulsoft.Base.RecentFiles`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public sealed class StiRecentOptions
-```
+**Namespace:** `Stimulsoft.Base.RecentFiles`
 
 ### Properties
 
@@ -25,6 +20,22 @@ public sealed class StiRecentOptions
 | Method | Returns | Description |
 | --- | --- | --- |
 | **InvokeDisplayRecentFileInDesigner** `static` | [StiDisplayRecentFileEventArgs](StiDisplayRecentFileEventArgs.md) |  |
+
+---
+
+### Method Details
+
+#### InvokeDisplayRecentFileInDesigner `static`
+
+**InvokeDisplayRecentFileInDesigner**(**designer**: object, **recentFile**: [StiRecentFile](../../Stimulsoft_Report/Design/StiRecentFile.md)): [StiDisplayRecentFileEventArgs](StiDisplayRecentFileEventArgs.md)
+
+**Parameters**
+
+- **designer** (object)  
+- **recentFile** ([StiRecentFile](../../Stimulsoft_Report/Design/StiRecentFile.md))  
+
+**Returns** [StiDisplayRecentFileEventArgs](StiDisplayRecentFileEventArgs.md)
+
 
 ### Events
 

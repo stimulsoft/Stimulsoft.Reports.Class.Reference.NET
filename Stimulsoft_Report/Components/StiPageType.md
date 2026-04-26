@@ -4,12 +4,7 @@ title: "StiPageType Enum"
 
 ## StiPageType Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiPageType
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

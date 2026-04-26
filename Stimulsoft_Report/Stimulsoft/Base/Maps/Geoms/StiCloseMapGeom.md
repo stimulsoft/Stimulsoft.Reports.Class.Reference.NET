@@ -4,12 +4,7 @@ title: "StiCloseMapGeom Class"
 
 ## StiCloseMapGeom Class
 
-**Namespace:** `Stimulsoft.Base.Maps.Geoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCloseMapGeom
-```
+**Namespace:** `Stimulsoft.Base.Maps.Geoms`
 
 ### Inheritance
 

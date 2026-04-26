@@ -4,12 +4,7 @@ title: "Format12 Class"
 
 ## Format12 Class
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class Format12
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Properties
 

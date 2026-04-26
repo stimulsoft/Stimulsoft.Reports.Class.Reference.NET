@@ -4,15 +4,23 @@ title: "StiDataSourceParserHelper Class"
 
 ## StiDataSourceParserHelper Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public static class StiDataSourceParserHelper
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ConnectSqlSource** `static` | void |  |
+
+---
+
+### Method Details
+
+#### ConnectSqlSource `static`
+
+**ConnectSqlSource**(**sqlSource**: [StiSqlSource](StiSqlSource.md)): void
+
+**Parameters**
+
+- **sqlSource** ([StiSqlSource](StiSqlSource.md))  
+

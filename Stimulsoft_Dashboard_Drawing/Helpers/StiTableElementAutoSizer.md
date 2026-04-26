@@ -4,12 +4,7 @@ title: "StiTableElementAutoSizer Class"
 
 ## StiTableElementAutoSizer Class
 
-**Namespace:** `Stimulsoft.Dashboard.Drawing.Helpers`  
-**Assembly:** `Stimulsoft.Dashboard.Drawing`
-
-```csharp
-public class StiTableElementAutoSizer
-```
+**Namespace:** `Stimulsoft.Dashboard.Drawing.Helpers`
 
 ### Inheritance
 
@@ -21,3 +16,27 @@ Implements: [IStiTableElementAutoSizer](../../Stimulsoft_Report/Dashboard/IStiTa
 | --- | --- | --- |
 | **AutoMeasureToColumn** | void |  |
 | **AutoMeasureToTable** | void |  |
+
+---
+
+### Method Details
+
+#### AutoMeasureToColumn
+
+**AutoMeasureToColumn**(**tableElement**: IStiTableElement): void
+
+**Parameters**
+
+- **tableElement** (IStiTableElement)  
+
+
+---
+
+#### AutoMeasureToTable
+
+**AutoMeasureToTable**(**tableElement**: IStiTableElement): void
+
+**Parameters**
+
+- **tableElement** (IStiTableElement)  
+

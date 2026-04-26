@@ -4,12 +4,7 @@ title: "StiPivotTableElementClickEventArgs Class"
 
 ## StiPivotTableElementClickEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiPivotTableElementClickEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Helpers`
 
 ### Inheritance
 

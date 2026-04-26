@@ -4,12 +4,7 @@ title: "StiTrendLineNoneCoreXF Class"
 
 ## StiTrendLineNoneCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiTrendLineNoneCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,3 +15,10 @@ Inherits from: StiTrendLineCoreXF
 | Constructor | Description |
 | --- | --- |
 | **StiTrendLineNoneCoreXF**(IStiTrendLine trendLine) |  |
+
+**StiTrendLineNoneCoreXF**(**trendLine**: IStiTrendLine)
+
+**Parameters**
+
+- **trendLine** (IStiTrendLine)  
+

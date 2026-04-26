@@ -4,12 +4,7 @@ title: "StiCell Class"
 
 ## StiCell Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCell
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Inheritance
 
@@ -20,14 +15,25 @@ Implements: ICloneable
 | Constructor | Description |
 | --- | --- |
 | **StiCell**() |  |
-| **StiCell**([StiExportFormat](../StiExportFormat.md) exportFormat) |  |
+| **StiCell**([StiExportFormat](../root/StiExportFormat.md) exportFormat) |  |
+
+**StiCell**()
+
+---
+
+**StiCell**(**exportFormat**: [StiExportFormat](../root/StiExportFormat.md))
+
+**Parameters**
+
+- **exportFormat** ([StiExportFormat](../root/StiExportFormat.md))  
+
 
 ### Properties
 
 | Property | Type | Description |
 | --- | --- | --- |
 | **CellStyle** | [StiCellStyle](StiCellStyle.md) |  |
-| **ExportFormat** | [StiExportFormat](../StiExportFormat.md) |  |
+| **ExportFormat** | [StiExportFormat](../root/StiExportFormat.md) |  |
 | **ExportImage** | [IStiExportImage](../Components/IStiExportImage.md) |  |
 | **Left** | int |  |
 | **Text** | string |  |
@@ -38,3 +44,14 @@ Implements: ICloneable
 | Method | Returns | Description |
 | --- | --- | --- |
 | **Clone** | object |  |
+
+---
+
+### Method Details
+
+#### Clone
+
+**Clone**(): object
+
+**Returns** object
+

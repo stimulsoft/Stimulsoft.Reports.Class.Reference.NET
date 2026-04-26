@@ -4,12 +4,7 @@ title: "DataIntegrityInfo Class"
 
 ## DataIntegrityInfo Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class DataIntegrityInfo
-```
+**Namespace:** `Stimulsoft.Report.Export`
 
 ### Fields
 

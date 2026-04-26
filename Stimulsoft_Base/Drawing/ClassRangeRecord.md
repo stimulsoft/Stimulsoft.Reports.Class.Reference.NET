@@ -4,12 +4,7 @@ title: "ClassRangeRecord Struct"
 
 ## ClassRangeRecord Struct
 
-**Namespace:** `Stimulsoft.Base.Drawing`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public struct ClassRangeRecord
-```
+**Namespace:** `Stimulsoft.Base.Drawing`
 
 ### Fields
 

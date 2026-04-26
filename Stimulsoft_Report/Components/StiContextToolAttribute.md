@@ -4,12 +4,7 @@ title: "StiContextToolAttribute Class"
 
 ## StiContextToolAttribute Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public sealed class StiContextToolAttribute
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Inheritance
 
@@ -20,6 +15,15 @@ Inherits from: Attribute
 | Constructor | Description |
 | --- | --- |
 | **StiContextToolAttribute**(Type type) | Creates a new attribute of the type StiContextToolAttribute. |
+
+**StiContextToolAttribute**(**type**: Type)
+
+Creates a new attribute of the type StiContextToolAttribute.
+
+**Parameters**
+
+- **type** (Type) — The type that can be processed with the context tool.  
+
 
 ### Properties
 

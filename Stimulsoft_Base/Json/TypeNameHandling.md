@@ -4,12 +4,7 @@ title: "TypeNameHandling Enum"
 
 ## TypeNameHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum TypeNameHandling
-```
+**Namespace:** `Stimulsoft.Base.Json`
 
 ### Members
 

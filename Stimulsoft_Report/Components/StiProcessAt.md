@@ -4,14 +4,9 @@ title: "StiProcessAt Enum"
 
 ## StiProcessAt Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 A modes of the text processing.
-
-```csharp
-public enum StiProcessAt
-```
 
 ### Members
 

@@ -4,14 +4,9 @@ title: "StiGetSkipIndicesEventConverter Class"
 
 ## StiGetSkipIndicesEventConverter Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.Events.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Gauge.Events.Design`
 
 Provides a type converter to convert StiGetSkipIndicesEvent objects to and from various other representations.
-
-```csharp
-public class StiGetSkipIndicesEventConverter
-```
 
 ### Inheritance
 
@@ -24,3 +19,47 @@ Inherits from: TypeConverter
 | **CanConvertFrom** | bool |  |
 | **ConvertFrom** | object |  |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### CanConvertFrom
+
+**CanConvertFrom**(**context**: ITypeDescriptorContext, **sourceType**: Type): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **sourceType** (Type)  
+
+**Returns** bool
+
+
+---
+
+#### ConvertFrom
+
+**ConvertFrom**(**context**: ITypeDescriptorContext, **culture**: CultureInfo, **value**: object): object
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **culture** (CultureInfo)  
+- **value** (object)  
+
+**Returns** object
+
+
+---
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

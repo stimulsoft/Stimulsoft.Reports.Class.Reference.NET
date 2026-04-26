@@ -4,14 +4,9 @@ title: "StiAllowClipboardOperationEventArgs Class"
 
 ## StiAllowClipboardOperationEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event AllowClipboardOperation.
-
-```csharp
-public class StiAllowClipboardOperationEventArgs
-```
 
 ### Inheritance
 
@@ -22,6 +17,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiAllowClipboardOperationEventArgs**(StiComponentsCollection comps) |  |
+
+**StiAllowClipboardOperationEventArgs**(**comps**: StiComponentsCollection)
+
+**Parameters**
+
+- **comps** (StiComponentsCollection)  
+
 
 ### Properties
 

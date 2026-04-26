@@ -4,12 +4,7 @@ title: "StiImageFitMode Enum"
 
 ## StiImageFitMode Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiImageFitMode
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

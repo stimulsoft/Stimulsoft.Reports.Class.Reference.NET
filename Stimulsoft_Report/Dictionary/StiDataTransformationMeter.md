@@ -4,18 +4,21 @@ title: "StiDataTransformationMeter Class"
 
 ## StiDataTransformationMeter Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public abstract class StiDataTransformationMeter
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiDataTransformationMeter**(string expression, string label) |  |
+
+**StiDataTransformationMeter**(**expression**: string, **label**: string)
+
+**Parameters**
+
+- **expression** (string)  
+- **label** (string)  
+
 
 ### Properties
 
@@ -30,3 +33,23 @@ public abstract class StiDataTransformationMeter
 | --- | --- | --- |
 | **GetUniqueCode** | int |  |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### GetUniqueCode
+
+**GetUniqueCode**(): int
+
+**Returns** int
+
+
+---
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

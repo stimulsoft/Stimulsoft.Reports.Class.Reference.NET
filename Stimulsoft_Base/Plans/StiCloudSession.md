@@ -4,12 +4,7 @@ title: "StiCloudSession Class"
 
 ## StiCloudSession Class
 
-**Namespace:** `Stimulsoft.Base.Plans`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiCloudSession
-```
+**Namespace:** `Stimulsoft.Base.Plans`
 
 ### Properties
 

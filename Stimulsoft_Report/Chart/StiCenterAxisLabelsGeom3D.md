@@ -4,12 +4,7 @@ title: "StiCenterAxisLabelsGeom3D Class"
 
 ## StiCenterAxisLabelsGeom3D Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCenterAxisLabelsGeom3D
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -35,3 +30,54 @@ Inherits from: [StiSeriesLabelsGeom3D](StiSeriesLabelsGeom3D.md)
 | **DrawLabelArea** | void |  |
 | **DrawLabelText** | void |  |
 | **GetLabelRect** | SizeF |  |
+
+---
+
+### Method Details
+
+#### DrawElements
+
+**DrawElements**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **vertices**: [StiMatrix](../Export/StiMatrix.md)): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **vertices** ([StiMatrix](../Export/StiMatrix.md))  
+
+
+---
+
+#### DrawLabelArea
+
+**DrawLabelArea**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **rect**: RectangleF): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **rect** (RectangleF)  
+
+
+---
+
+#### DrawLabelText
+
+**DrawLabelText**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md), **rect**: RectangleF): void
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+- **rect** (RectangleF)  
+
+
+---
+
+#### GetLabelRect
+
+**GetLabelRect**(**context**: [StiContext](../Stimulsoft/Base/Context/StiContext.md)): SizeF
+
+**Parameters**
+
+- **context** ([StiContext](../Stimulsoft/Base/Context/StiContext.md))  
+
+**Returns** SizeF
+

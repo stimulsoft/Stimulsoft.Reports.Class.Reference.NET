@@ -4,12 +4,7 @@ title: "StiRoundedRectangleGaugeGeom Class"
 
 ## StiRoundedRectangleGaugeGeom Class
 
-**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRoundedRectangleGaugeGeom
-```
+**Namespace:** `Stimulsoft.Report.Gauge.GaugeGeoms`
 
 ### Inheritance
 

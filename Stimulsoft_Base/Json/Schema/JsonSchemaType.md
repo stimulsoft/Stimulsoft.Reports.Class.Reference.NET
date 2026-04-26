@@ -4,12 +4,7 @@ title: "JsonSchemaType Enum"
 
 ## JsonSchemaType Enum
 
-**Namespace:** `Stimulsoft.Base.Json.Schema`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum JsonSchemaType
-```
+**Namespace:** `Stimulsoft.Base.Json.Schema`
 
 ### Members
 

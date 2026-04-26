@@ -4,12 +4,7 @@ title: "StiGS1ApplicationIdentifierItem Class"
 
 ## StiGS1ApplicationIdentifierItem Class
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGS1ApplicationIdentifierItem
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Fields
 

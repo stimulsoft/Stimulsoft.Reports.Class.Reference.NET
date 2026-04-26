@@ -4,12 +4,7 @@ title: "TreeIterator Class"
 
 ## TreeIterator Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Tree`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class TreeIterator
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Tree`
 
 ### Inheritance
 
@@ -22,6 +17,22 @@ Implements: IEnumerator<object>
 | **TreeIterator**([CommonTree](CommonTree.md) tree) |  |
 | **TreeIterator**([ITreeAdaptor](ITreeAdaptor.md) adaptor, object tree) |  |
 
+**TreeIterator**(**tree**: [CommonTree](CommonTree.md))
+
+**Parameters**
+
+- **tree** ([CommonTree](CommonTree.md))  
+
+---
+
+**TreeIterator**(**adaptor**: [ITreeAdaptor](ITreeAdaptor.md), **tree**: object)
+
+**Parameters**
+
+- **adaptor** ([ITreeAdaptor](ITreeAdaptor.md))  
+- **tree** (object)  
+
+
 ### Methods
 
 | Method | Returns | Description |
@@ -29,6 +40,31 @@ Implements: IEnumerator<object>
 | **Dispose** | void |  |
 | **MoveNext** | bool |  |
 | **Reset** | void |  |
+
+---
+
+### Method Details
+
+#### Dispose
+
+**Dispose**(): void
+
+
+---
+
+#### MoveNext
+
+**MoveNext**(): bool
+
+**Returns** bool
+
+
+---
+
+#### Reset
+
+**Reset**(): void
+
 
 ### Fields
 

@@ -4,12 +4,7 @@ title: "StiDataSourceSynchronizationMode Enum"
 
 ## StiDataSourceSynchronizationMode Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiDataSourceSynchronizationMode
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Members
 

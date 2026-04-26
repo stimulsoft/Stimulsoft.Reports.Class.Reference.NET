@@ -4,14 +4,9 @@ title: "StiGetPropertiesEventArgs Class"
 
 ## StiGetPropertiesEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Events`
 
 Describes an argument for the event GetProperties.
-
-```csharp
-public class StiGetPropertiesEventArgs
-```
 
 ### Inheritance
 
@@ -22,6 +17,16 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiGetPropertiesEventArgs**(objectselectedObjects , PropertyDescriptorCollection properties, System.Windows.Forms.PropertySort propertySort, Base.StiGuiMode guiMode) |  |
+
+**StiGetPropertiesEventArgs**(****: objectselectedObjects, **properties**: PropertyDescriptorCollection, **propertySort**: System.Windows.Forms.PropertySort, **guiMode**: Base.StiGuiMode)
+
+**Parameters**
+
+- **** (objectselectedObjects)  
+- **properties** (PropertyDescriptorCollection)  
+- **propertySort** (System.Windows.Forms.PropertySort)  
+- **guiMode** (Base.StiGuiMode)  
+
 
 ### Properties
 

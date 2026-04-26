@@ -4,14 +4,9 @@ title: "StiCsvExportSettings Class"
 
 ## StiCsvExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Class describes settings for export to CSV format.
-
-```csharp
-public class StiCsvExportSettings
-```
 
 ### Inheritance
 
@@ -22,3 +17,6 @@ Inherits from: StiDataExportSettings
 | Constructor | Description |
 | --- | --- |
 | **StiCsvExportSettings**() |  |
+
+**StiCsvExportSettings**()
+

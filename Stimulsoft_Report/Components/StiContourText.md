@@ -4,12 +4,7 @@ title: "StiContourText Class"
 
 ## StiContourText Class
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiContourText
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Inheritance
 
@@ -22,6 +17,32 @@ Inherits from: StiText
 | **StiContourText**() | Creates a new contour text. |
 | **StiContourText**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect) | Creates a new contour text. |
 | **StiContourText**([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md) rect, string text) | Creates a new contour text. |
+
+**StiContourText**()
+
+Creates a new contour text.
+
+---
+
+**StiContourText**(**rect**: [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md))
+
+Creates a new contour text.
+
+**Parameters**
+
+- **rect** ([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md)) — Rectangle describes size and position of the component.  
+
+---
+
+**StiContourText**(**rect**: [RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md), **text**: string)
+
+Creates a new contour text.
+
+**Parameters**
+
+- **rect** ([RectangleD](../../Stimulsoft_Base/Drawing/RectangleD.md)) — Rectangle describes size and position of the component.  
+- **text** (string) — Text.  
+
 
 ### Properties
 
@@ -36,3 +57,29 @@ Inherits from: StiText
 | --- | --- | --- |
 | **LoadFromJsonObject** | void |  |
 | **SaveToJsonObject** | [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md) |  |
+
+---
+
+### Method Details
+
+#### LoadFromJsonObject
+
+**LoadFromJsonObject**(**jObject**: [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)): void
+
+**Parameters**
+
+- **jObject** ([JObject](../../Stimulsoft_Base/Json/Linq/JObject.md))  
+
+
+---
+
+#### SaveToJsonObject
+
+**SaveToJsonObject**(**mode**: [StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md)): [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+
+**Parameters**
+
+- **mode** ([StiJsonSaveMode](../../Stimulsoft_Base/root/StiJsonSaveMode.md))  
+
+**Returns** [JObject](../../Stimulsoft_Base/Json/Linq/JObject.md)
+

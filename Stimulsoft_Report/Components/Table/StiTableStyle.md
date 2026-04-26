@@ -4,12 +4,7 @@ title: "StiTableStyle Enum"
 
 ## StiTableStyle Enum
 
-**Namespace:** `Stimulsoft.Report.Components.Table`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiTableStyle
-```
+**Namespace:** `Stimulsoft.Report.Components.Table`
 
 ### Members
 

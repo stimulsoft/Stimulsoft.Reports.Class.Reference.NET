@@ -4,12 +4,7 @@ title: "StiMSAccessDatabase Class"
 
 ## StiMSAccessDatabase Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiMSAccessDatabase
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 
@@ -25,12 +20,132 @@ Inherits from: StiSqlDatabase
 | **StiMSAccessDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword) | Creates a new object of the type StiMSAccessDatabase. |
 | **StiMSAccessDatabase**(string name, string alias, string connectionString, bool promptUserNameAndpassword, string key) | Creates a new object of the type StiMSAccessDatabase. |
 
+**StiMSAccessDatabase**()
+
+Creates a new object of the type StiMSAccessDatabase.
+
+---
+
+**StiMSAccessDatabase**(**name**: string, **connectionString**: string)
+
+Creates a new object of the type StiMSAccessDatabase.
+
+**Parameters**
+
+- **name** (string)  
+- **connectionString** (string)  
+
+---
+
+**StiMSAccessDatabase**(**name**: string, **alias**: string, **connectionString**: string)
+
+Creates a new object of the type StiMSAccessDatabase.
+
+**Parameters**
+
+- **name** (string)  
+- **alias** (string)  
+- **connectionString** (string)  
+
+---
+
+**StiMSAccessDatabase**(**name**: string, **alias**: string, **connectionString**: string, **promptUserNameAndpassword**: bool)
+
+Creates a new object of the type StiMSAccessDatabase.
+
+**Parameters**
+
+- **name** (string)  
+- **alias** (string)  
+- **connectionString** (string)  
+- **promptUserNameAndpassword** (bool)  
+
+---
+
+**StiMSAccessDatabase**(**name**: string, **alias**: string, **connectionString**: string, **promptUserNameAndpassword**: bool, **key**: string)
+
+Creates a new object of the type StiMSAccessDatabase.
+
+**Parameters**
+
+- **name** (string)  
+- **alias** (string)  
+- **connectionString** (string)  
+- **promptUserNameAndpassword** (bool)  
+- **key** (string)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
-| **CreateConnector** | [StiDataConnector](../../Stimulsoft_Base/StiDataConnector.md) | Returns new data connector for this database. |
+| **CreateConnector** | [StiDataConnector](../../Stimulsoft_Base/root/StiDataConnector.md) | Returns new data connector for this database. |
 | **CreateDataSource** | [StiSqlSource](StiSqlSource.md) | Returns new data source for this database. |
 | **GetConnectionStringHelper** | string |  |
 | **GetDataAdapterType** | Type |  |
 | **MapUserNameAndPassword** | string |  |
+
+---
+
+### Method Details
+
+#### CreateConnector
+
+**CreateConnector**(**connectionString**: string): [StiDataConnector](../../Stimulsoft_Base/root/StiDataConnector.md)
+
+Returns new data connector for this database.
+
+**Parameters**
+
+- **connectionString** (string)  
+
+**Returns** [StiDataConnector](../../Stimulsoft_Base/root/StiDataConnector.md) — Created connector.
+
+
+---
+
+#### CreateDataSource
+
+**CreateDataSource**(**nameInSource**: string, **name**: string): [StiSqlSource](StiSqlSource.md)
+
+Returns new data source for this database.
+
+**Parameters**
+
+- **nameInSource** (string)  
+- **name** (string)  
+
+**Returns** [StiSqlSource](StiSqlSource.md) — Created data source.
+
+
+---
+
+#### GetConnectionStringHelper
+
+**GetConnectionStringHelper**(): string
+
+**Returns** string
+
+
+---
+
+#### GetDataAdapterType
+
+**GetDataAdapterType**(): Type
+
+**Returns** Type
+
+
+---
+
+#### MapUserNameAndPassword
+
+**MapUserNameAndPassword**(**userName**: string, **password**: string): string
+
+**Parameters**
+
+- **userName** (string)  
+- **password** (string)  
+
+**Returns** string
+

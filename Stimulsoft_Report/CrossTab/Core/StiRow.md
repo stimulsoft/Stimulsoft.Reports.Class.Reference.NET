@@ -4,18 +4,21 @@ title: "StiRow Class"
 
 ## StiRow Class
 
-**Namespace:** `Stimulsoft.Report.CrossTab.Core`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRow
-```
+**Namespace:** `Stimulsoft.Report.CrossTab.Core`
 
 ### Constructors
 
 | Constructor | Description |
 | --- | --- |
 | **StiRow**(object value, object displayValue) |  |
+
+**StiRow**(**value**: object, **displayValue**: object)
+
+**Parameters**
+
+- **value** (object)  
+- **displayValue** (object)  
+
 
 ### Properties
 

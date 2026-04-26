@@ -4,12 +4,7 @@ title: "StiDialogPanel Class"
 
 ## StiDialogPanel Class
 
-**Namespace:** `Stimulsoft.Report.Controls`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiDialogPanel
-```
+**Namespace:** `Stimulsoft.Report.Controls`
 
 ### Inheritance
 
@@ -21,9 +16,36 @@ Inherits from: Panel
 | --- | --- |
 | **StiDialogPanel**() |  |
 
+**StiDialogPanel**()
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **OnPaint** | void |  |
 | **OnSystemColorsChanged** | void |  |
+
+---
+
+### Method Details
+
+#### OnPaint
+
+**OnPaint**(**p**: PaintEventArgs): void
+
+**Parameters**
+
+- **p** (PaintEventArgs)  
+
+
+---
+
+#### OnSystemColorsChanged
+
+**OnSystemColorsChanged**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+

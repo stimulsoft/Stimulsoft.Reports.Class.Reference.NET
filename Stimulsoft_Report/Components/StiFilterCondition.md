@@ -4,12 +4,7 @@ title: "StiFilterCondition Enum"
 
 ## StiFilterCondition Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiFilterCondition
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

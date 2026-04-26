@@ -4,12 +4,7 @@ title: "DefaultValueHandling Enum"
 
 ## DefaultValueHandling Enum
 
-**Namespace:** `Stimulsoft.Base.Json`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public enum DefaultValueHandling
-```
+**Namespace:** `Stimulsoft.Base.Json`
 
 ### Members
 

@@ -4,14 +4,9 @@ title: "StiChartSeriesOrientation Enum"
 
 ## StiChartSeriesOrientation Enum
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Chart`
 
 Describes orientation of chart series.
-
-```csharp
-public enum StiChartSeriesOrientation
-```
 
 ### Members
 

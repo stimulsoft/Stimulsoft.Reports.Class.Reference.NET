@@ -4,12 +4,7 @@ title: "BitmapData Class"
 
 ## BitmapData Class
 
-**Namespace:** `Stimulsoft.Drawing.Imaging`  
-**Assembly:** `Stimulsoft.Drawing`
-
-```csharp
-public sealed class BitmapData
-```
+**Namespace:** `Stimulsoft.Drawing.Imaging`
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "StiResizeType Enum"
 
 ## StiResizeType Enum
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiResizeType
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Members
 

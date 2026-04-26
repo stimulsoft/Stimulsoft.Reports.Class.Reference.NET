@@ -4,12 +4,7 @@ title: "StiLinearBarSkin Enum"
 
 ## StiLinearBarSkin Enum
 
-**Namespace:** `Stimulsoft.Report.Gauge`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiLinearBarSkin
-```
+**Namespace:** `Stimulsoft.Report.Gauge`
 
 ### Members
 

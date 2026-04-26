@@ -4,12 +4,7 @@ title: "StiShiftMode Enum"
 
 ## StiShiftMode Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiShiftMode
-```
+**Namespace:** `Stimulsoft.Report.Components`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiListBoxElementControl Class"
 
 ## StiListBoxElementControl Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.ListBox`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public abstract class StiListBoxElementControl
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Elements.ListBox`
 
 ### Inheritance
 
@@ -21,12 +16,43 @@ Inherits from: StiFilterElementControl
 | --- | --- |
 | **StiListBoxElementControl**(IStiElement element) |  |
 
+**StiListBoxElementControl**(**element**: IStiElement)
+
+**Parameters**
+
+- **element** (IStiElement)  
+
+
 ### Methods
 
 | Method | Returns | Description |
 | --- | --- | --- |
 | **RefreshChild** | void |  |
 | **RefreshChildControl** | void |  |
+
+---
+
+### Method Details
+
+#### RefreshChild
+
+**RefreshChild**(**dataTable**: [StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md)): void
+
+**Parameters**
+
+- **dataTable** ([StiDataTable](../../../Stimulsoft_Data/Engine/StiDataTable.md))  
+
+
+---
+
+#### RefreshChildControl
+
+**RefreshChildControl**(****: StiListBoxItemitems): void
+
+**Parameters**
+
+- **** (StiListBoxItemitems)  
+
 
 ### Fields
 

@@ -4,14 +4,9 @@ title: "StiVariableSortField Enum"
 
 ## StiVariableSortField Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 Enum contains types of the fields for sorting.
-
-```csharp
-public enum StiVariableSortField
-```
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiAliceBluePivotElementStyle Class"
 
 ## StiAliceBluePivotElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiAliceBluePivotElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 

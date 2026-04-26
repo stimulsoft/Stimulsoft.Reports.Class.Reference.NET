@@ -4,12 +4,7 @@ title: "StiLicenseActivationRequest Class"
 
 ## StiLicenseActivationRequest Class
 
-**Namespace:** `Stimulsoft.Base.Licenses`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiLicenseActivationRequest
-```
+**Namespace:** `Stimulsoft.Base.Licenses`
 
 ### Inheritance
 
@@ -20,6 +15,9 @@ Inherits from: [StiLicenseObject](StiLicenseObject.md)
 | Constructor | Description |
 | --- | --- |
 | **StiLicenseActivationRequest**() |  |
+
+**StiLicenseActivationRequest**()
+
 
 ### Properties
 
@@ -44,3 +42,37 @@ Inherits from: [StiLicenseObject](StiLicenseObject.md)
 | --- | --- | --- |
 | **CreateStik** | string |  |
 | **Get** `static` *(+1 overloads)* | [StiLicenseActivationRequest](StiLicenseActivationRequest.md) |  |
+
+---
+
+### Method Details
+
+#### CreateStik
+
+**CreateStik**(): string
+
+**Returns** string
+
+
+---
+
+#### Get `static`
+
+**Get**(****: bytebytes): [StiLicenseActivationRequest](StiLicenseActivationRequest.md)
+
+**Parameters**
+
+- **** (bytebytes)  
+
+**Returns** [StiLicenseActivationRequest](StiLicenseActivationRequest.md)
+
+---
+
+**Get**(**str**: string): [StiLicenseActivationRequest](StiLicenseActivationRequest.md)
+
+**Parameters**
+
+- **str** (string)  
+
+**Returns** [StiLicenseActivationRequest](StiLicenseActivationRequest.md)
+

@@ -4,12 +4,7 @@ title: "StiUserViewStateConverter Class"
 
 ## StiUserViewStateConverter Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiUserViewStateConverter
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Design`
 
 ### Inheritance
 
@@ -21,3 +16,32 @@ Inherits from: TypeConverter
 | --- | --- | --- |
 | **CanConvertTo** | bool |  |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### CanConvertTo
+
+**CanConvertTo**(**context**: ITypeDescriptorContext, **destinationType**: Type): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **destinationType** (Type)  
+
+**Returns** bool
+
+
+---
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

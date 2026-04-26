@@ -4,14 +4,9 @@ title: "StiTiffExportSettings Class"
 
 ## StiTiffExportSettings Class
 
-**Namespace:** `Stimulsoft.Report.Export`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Export`
 
 Class contains settings for export to TIFF image format.
-
-```csharp
-public sealed class StiTiffExportSettings
-```
 
 ### Inheritance
 
@@ -22,3 +17,6 @@ Inherits from: [StiBitmapExportSettings](StiBitmapExportSettings.md)
 | Constructor | Description |
 | --- | --- |
 | **StiTiffExportSettings**() |  |
+
+**StiTiffExportSettings**()
+

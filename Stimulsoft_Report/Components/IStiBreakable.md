@@ -4,11 +4,6 @@ title: "IStiBreakable Interface"
 
 ## IStiBreakable Interface
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Describes interface of breakable feature.
-
-```csharp
-public interface IStiBreakable
-```

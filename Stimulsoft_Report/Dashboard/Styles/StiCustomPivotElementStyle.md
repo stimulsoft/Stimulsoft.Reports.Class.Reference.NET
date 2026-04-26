@@ -4,12 +4,7 @@ title: "StiCustomPivotElementStyle Class"
 
 ## StiCustomPivotElementStyle Class
 
-**Namespace:** `Stimulsoft.Report.Dashboard.Styles`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCustomPivotElementStyle
-```
+**Namespace:** `Stimulsoft.Report.Dashboard.Styles`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: [StiPivotElementStyle](StiPivotElementStyle.md)
 | Constructor | Description |
 | --- | --- |
 | **StiCustomPivotElementStyle**(StiCrossTabStyle style) |  |
+
+**StiCustomPivotElementStyle**(**style**: StiCrossTabStyle)
+
+**Parameters**
+
+- **style** (StiCrossTabStyle)  
+
 
 ### Properties
 

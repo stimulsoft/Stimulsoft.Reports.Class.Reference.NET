@@ -4,12 +4,7 @@ title: "StiOSVersion Class"
 
 ## StiOSVersion Class
 
-**Namespace:** `Stimulsoft.Base.Helpers`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiOSVersion
-```
+**Namespace:** `Stimulsoft.Base.Helpers`
 
 ### Properties
 
@@ -22,3 +17,14 @@ public static class StiOSVersion
 | Method | Returns | Description |
 | --- | --- | --- |
 | **IsWindows11** `static` | bool |  |
+
+---
+
+### Method Details
+
+#### IsWindows11 `static`
+
+**IsWindows11**(): bool
+
+**Returns** bool
+

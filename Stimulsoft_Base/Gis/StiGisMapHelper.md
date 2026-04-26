@@ -4,12 +4,7 @@ title: "StiGisMapHelper Class"
 
 ## StiGisMapHelper Class
 
-**Namespace:** `Stimulsoft.Base.Gis`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public static class StiGisMapHelper
-```
+**Namespace:** `Stimulsoft.Base.Gis`
 
 ### Properties
 
@@ -22,3 +17,18 @@ public static class StiGisMapHelper
 | Method | Returns | Description |
 | --- | --- | --- |
 | **GetProviderName** `static` | string |  |
+
+---
+
+### Method Details
+
+#### GetProviderName `static`
+
+**GetProviderName**(**id**: [StiGeoMapProviderType](StiGeoMapProviderType.md)): string
+
+**Parameters**
+
+- **id** ([StiGeoMapProviderType](StiGeoMapProviderType.md))  
+
+**Returns** string
+

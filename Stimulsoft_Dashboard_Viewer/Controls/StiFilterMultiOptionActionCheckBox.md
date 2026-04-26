@@ -4,12 +4,7 @@ title: "StiFilterMultiOptionActionCheckBox Class"
 
 ## StiFilterMultiOptionActionCheckBox Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiFilterMultiOptionActionCheckBox
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls`
 
 ### Inheritance
 
@@ -20,3 +15,11 @@ Inherits from: [StiActionCheckBox](StiActionCheckBox.md)
 | Constructor | Description |
 | --- | --- |
 | **StiFilterMultiOptionActionCheckBox**([StiControlColorCollection](StiControlColorCollection.md) colors, Point? position) |  |
+
+**StiFilterMultiOptionActionCheckBox**(**colors**: [StiControlColorCollection](StiControlColorCollection.md), **position**: Point?)
+
+**Parameters**
+
+- **colors** ([StiControlColorCollection](StiControlColorCollection.md))  
+- **position** (Point?)  
+

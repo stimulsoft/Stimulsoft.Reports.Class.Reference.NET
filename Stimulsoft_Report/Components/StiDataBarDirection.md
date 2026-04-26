@@ -4,14 +4,9 @@ title: "StiDataBarDirection Enum"
 
 ## StiDataBarDirection Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 In which direction data bar will be filled by brush, from left to right or from right to left.
-
-```csharp
-public enum StiDataBarDirection
-```
 
 ### Members
 

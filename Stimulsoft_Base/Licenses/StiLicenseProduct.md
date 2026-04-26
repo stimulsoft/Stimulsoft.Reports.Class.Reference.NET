@@ -4,12 +4,7 @@ title: "StiLicenseProduct Class"
 
 ## StiLicenseProduct Class
 
-**Namespace:** `Stimulsoft.Base.Licenses`  
-**Assembly:** `Stimulsoft.Base`
-
-```csharp
-public class StiLicenseProduct
-```
+**Namespace:** `Stimulsoft.Base.Licenses`
 
 ### Properties
 
@@ -23,3 +18,14 @@ public class StiLicenseProduct
 | Method | Returns | Description |
 | --- | --- | --- |
 | **ToString** | string |  |
+
+---
+
+### Method Details
+
+#### ToString
+
+**ToString**(): string
+
+**Returns** string
+

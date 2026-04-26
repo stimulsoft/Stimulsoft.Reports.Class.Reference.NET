@@ -4,12 +4,7 @@ title: "BufferedTreeNodeStream Class"
 
 ## BufferedTreeNodeStream Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Tree`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class BufferedTreeNodeStream
-```
+**Namespace:** `Stimulsoft.Data.Expressions.Antlr.Runtime.Tree`
 
 ### Inheritance
 
@@ -22,6 +17,32 @@ Implements: [ITreeNodeStream](ITreeNodeStream.md), [ITokenStreamInformation](../
 | **BufferedTreeNodeStream**(object tree) |  |
 | **BufferedTreeNodeStream**([ITreeAdaptor](ITreeAdaptor.md) adaptor, object tree) |  |
 | **BufferedTreeNodeStream**([ITreeAdaptor](ITreeAdaptor.md) adaptor, object tree, int initialBufferSize) |  |
+
+**BufferedTreeNodeStream**(**tree**: object)
+
+**Parameters**
+
+- **tree** (object)  
+
+---
+
+**BufferedTreeNodeStream**(**adaptor**: [ITreeAdaptor](ITreeAdaptor.md), **tree**: object)
+
+**Parameters**
+
+- **adaptor** ([ITreeAdaptor](ITreeAdaptor.md))  
+- **tree** (object)  
+
+---
+
+**BufferedTreeNodeStream**(**adaptor**: [ITreeAdaptor](ITreeAdaptor.md), **tree**: object, **initialBufferSize**: int)
+
+**Parameters**
+
+- **adaptor** ([ITreeAdaptor](ITreeAdaptor.md))  
+- **tree** (object)  
+- **initialBufferSize** (int)  
+
 
 ### Methods
 
@@ -50,6 +71,264 @@ Implements: [ITreeNodeStream](ITreeNodeStream.md), [ITokenStreamInformation](../
 | **ToTokenString** | string |  |
 | **ToTokenTypeString** | string |  |
 | **getLastTreeNode** | object |  |
+
+---
+
+### Method Details
+
+#### AddNavigationNode
+
+**AddNavigationNode**(**ttype**: int): void
+
+**Parameters**
+
+- **ttype** (int)  
+
+
+---
+
+#### Consume
+
+**Consume**(): void
+
+
+---
+
+#### Dispose
+
+**Dispose**(): void
+
+
+---
+
+#### FillBuffer
+
+**FillBuffer**(): void
+
+---
+
+**FillBuffer**(**t**: object): void
+
+**Parameters**
+
+- **t** (object)  
+
+
+---
+
+#### GetCurrentSymbol
+
+**GetCurrentSymbol**(): object
+
+**Returns** object
+
+
+---
+
+#### GetNodeIndex
+
+**GetNodeIndex**(**node**: object): int
+
+**Parameters**
+
+- **node** (object)  
+
+**Returns** int
+
+
+---
+
+#### Iterator
+
+**Iterator**(): IEnumerator<object>
+
+**Returns** IEnumerator<object>
+
+
+---
+
+#### LA
+
+**LA**(**i**: int): int
+
+**Parameters**
+
+- **i** (int)  
+
+**Returns** int
+
+
+---
+
+#### LB
+
+**LB**(**k**: int): object
+
+**Parameters**
+
+- **k** (int)  
+
+**Returns** object
+
+
+---
+
+#### LT
+
+**LT**(**k**: int): object
+
+**Parameters**
+
+- **k** (int)  
+
+**Returns** object
+
+
+---
+
+#### Mark
+
+**Mark**(): int
+
+**Returns** int
+
+
+---
+
+#### MoveNext
+
+**MoveNext**(): bool
+
+**Returns** bool
+
+
+---
+
+#### Pop
+
+**Pop**(): int
+
+**Returns** int
+
+
+---
+
+#### Push
+
+**Push**(**index**: int): void
+
+**Parameters**
+
+- **index** (int)  
+
+
+---
+
+#### Release
+
+**Release**(**marker**: int): void
+
+**Parameters**
+
+- **marker** (int)  
+
+
+---
+
+#### ReplaceChildren
+
+**ReplaceChildren**(**parent**: object, **startChildIndex**: int, **stopChildIndex**: int, **t**: object): void
+
+**Parameters**
+
+- **parent** (object)  
+- **startChildIndex** (int)  
+- **stopChildIndex** (int)  
+- **t** (object)  
+
+
+---
+
+#### Reset
+
+**Reset**(): void
+
+---
+
+**Reset**(): void
+
+
+---
+
+#### Rewind
+
+**Rewind**(**marker**: int): void
+
+**Parameters**
+
+- **marker** (int)  
+
+---
+
+**Rewind**(): void
+
+
+---
+
+#### Seek
+
+**Seek**(**index**: int): void
+
+**Parameters**
+
+- **index** (int)  
+
+
+---
+
+#### ToString
+
+**ToString**(**start**: object, **stop**: object): string
+
+**Parameters**
+
+- **start** (object)  
+- **stop** (object)  
+
+**Returns** string
+
+
+---
+
+#### ToTokenString
+
+**ToTokenString**(**start**: int, **stop**: int): string
+
+**Parameters**
+
+- **start** (int)  
+- **stop** (int)  
+
+**Returns** string
+
+
+---
+
+#### ToTokenTypeString
+
+**ToTokenTypeString**(): string
+
+**Returns** string
+
+
+---
+
+#### getLastTreeNode
+
+**getLastTreeNode**(): object
+
+**Returns** object
+
 
 ### Fields
 

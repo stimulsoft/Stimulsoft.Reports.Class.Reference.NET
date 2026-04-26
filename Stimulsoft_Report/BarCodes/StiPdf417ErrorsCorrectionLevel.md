@@ -4,12 +4,7 @@ title: "StiPdf417ErrorsCorrectionLevel Enum"
 
 ## StiPdf417ErrorsCorrectionLevel Enum
 
-**Namespace:** `Stimulsoft.Report.BarCodes`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiPdf417ErrorsCorrectionLevel
-```
+**Namespace:** `Stimulsoft.Report.BarCodes`
 
 ### Members
 

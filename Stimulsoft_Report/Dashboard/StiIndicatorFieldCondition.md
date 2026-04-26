@@ -4,12 +4,7 @@ title: "StiIndicatorFieldCondition Enum"
 
 ## StiIndicatorFieldCondition Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiIndicatorFieldCondition
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

@@ -4,12 +4,7 @@ title: "StiRectangle3D Struct"
 
 ## StiRectangle3D Struct
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public struct StiRectangle3D
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Properties
 

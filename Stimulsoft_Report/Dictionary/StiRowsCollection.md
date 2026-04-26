@@ -4,12 +4,7 @@ title: "StiRowsCollection Class"
 
 ## StiRowsCollection Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiRowsCollection
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Implements: IEnumerable, IEnumerator
 | Constructor | Description |
 | --- | --- |
 | **StiRowsCollection**(StiDataSource dataSource) |  |
+
+**StiRowsCollection**(**dataSource**: StiDataSource)
+
+**Parameters**
+
+- **dataSource** (StiDataSource)  
+
 
 ### Fields
 

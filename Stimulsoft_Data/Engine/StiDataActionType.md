@@ -4,12 +4,7 @@ title: "StiDataActionType Enum"
 
 ## StiDataActionType Enum
 
-**Namespace:** `Stimulsoft.Data.Engine`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum StiDataActionType
-```
+**Namespace:** `Stimulsoft.Data.Engine`
 
 ### Members
 

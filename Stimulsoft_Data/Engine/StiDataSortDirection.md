@@ -4,12 +4,7 @@ title: "StiDataSortDirection Enum"
 
 ## StiDataSortDirection Enum
 
-**Namespace:** `Stimulsoft.Data.Engine`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public enum StiDataSortDirection
-```
+**Namespace:** `Stimulsoft.Data.Engine`
 
 ### Members
 

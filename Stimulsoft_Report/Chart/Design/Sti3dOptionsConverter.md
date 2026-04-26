@@ -4,16 +4,11 @@ title: "Sti3dOptionsConverter Class"
 
 ## Sti3dOptionsConverter Class
 
-**Namespace:** `Stimulsoft.Report.Chart.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class Sti3dOptionsConverter
-```
+**Namespace:** `Stimulsoft.Report.Chart.Design`
 
 ### Inheritance
 
-Inherits from: [StiUniversalConverter](../../../Stimulsoft_Base/StiUniversalConverter.md)  
+Inherits from: [StiUniversalConverter](../../../Stimulsoft_Base/root/StiUniversalConverter.md)  
 
 ### Methods
 
@@ -21,3 +16,32 @@ Inherits from: [StiUniversalConverter](../../../Stimulsoft_Base/StiUniversalConv
 | --- | --- | --- |
 | **CanConvertTo** | bool |  |
 | **GetPropertiesSupported** | bool |  |
+
+---
+
+### Method Details
+
+#### CanConvertTo
+
+**CanConvertTo**(**context**: ITypeDescriptorContext, **destinationType**: Type): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+- **destinationType** (Type)  
+
+**Returns** bool
+
+
+---
+
+#### GetPropertiesSupported
+
+**GetPropertiesSupported**(**context**: ITypeDescriptorContext): bool
+
+**Parameters**
+
+- **context** (ITypeDescriptorContext)  
+
+**Returns** bool
+

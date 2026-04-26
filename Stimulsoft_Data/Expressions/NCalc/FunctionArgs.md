@@ -4,12 +4,7 @@ title: "FunctionArgs Class"
 
 ## FunctionArgs Class
 
-**Namespace:** `Stimulsoft.Data.Expressions.NCalc`  
-**Assembly:** `Stimulsoft.Data`
-
-```csharp
-public class FunctionArgs
-```
+**Namespace:** `Stimulsoft.Data.Expressions.NCalc`
 
 ### Inheritance
 
@@ -26,3 +21,14 @@ Inherits from: EventArgs
 | Method | Returns | Description |
 | --- | --- | --- |
 | **EvaluateParameters** | object[] |  |
+
+---
+
+### Method Details
+
+#### EvaluateParameters
+
+**EvaluateParameters**(): object[]
+
+**Returns** object[]
+

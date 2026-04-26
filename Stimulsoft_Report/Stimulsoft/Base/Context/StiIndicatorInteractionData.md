@@ -4,12 +4,7 @@ title: "StiIndicatorInteractionData Class"
 
 ## StiIndicatorInteractionData Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiIndicatorInteractionData
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 

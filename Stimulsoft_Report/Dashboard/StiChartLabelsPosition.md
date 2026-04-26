@@ -4,12 +4,7 @@ title: "StiChartLabelsPosition Enum"
 
 ## StiChartLabelsPosition Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiChartLabelsPosition
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

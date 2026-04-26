@@ -4,12 +4,7 @@ title: "IStiFormRunner Interface"
 
 ## IStiFormRunner Interface
 
-**Namespace:** `Stimulsoft.Report.Helpers`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiFormRunner
-```
+**Namespace:** `Stimulsoft.Report.Helpers`
 
 ### Inheritance
 

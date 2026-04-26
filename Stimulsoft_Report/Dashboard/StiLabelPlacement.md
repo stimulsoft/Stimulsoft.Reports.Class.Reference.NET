@@ -4,12 +4,7 @@ title: "StiLabelPlacement Enum"
 
 ## StiLabelPlacement Enum
 
-**Namespace:** `Stimulsoft.Report.Dashboard`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiLabelPlacement
-```
+**Namespace:** `Stimulsoft.Report.Dashboard`
 
 ### Members
 

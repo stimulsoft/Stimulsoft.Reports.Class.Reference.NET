@@ -4,12 +4,7 @@ title: "StiBezierSegmentGeom Class"
 
 ## StiBezierSegmentGeom Class
 
-**Namespace:** `Stimulsoft.Base.Context`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiBezierSegmentGeom
-```
+**Namespace:** `Stimulsoft.Base.Context`
 
 ### Inheritance
 
@@ -20,6 +15,17 @@ Inherits from: [StiSegmentGeom](StiSegmentGeom.md)
 | Constructor | Description |
 | --- | --- |
 | **StiBezierSegmentGeom**(PointF pt1, PointF pt2, PointF pt3, PointF pt4, [StiAnimation](Animation/StiAnimation.md) animation) |  |
+
+**StiBezierSegmentGeom**(**pt1**: PointF, **pt2**: PointF, **pt3**: PointF, **pt4**: PointF, **animation**: [StiAnimation](Animation/StiAnimation.md))
+
+**Parameters**
+
+- **pt1** (PointF)  
+- **pt2** (PointF)  
+- **pt3** (PointF)  
+- **pt4** (PointF)  
+- **animation** ([StiAnimation](Animation/StiAnimation.md))  
+
 
 ### Properties
 

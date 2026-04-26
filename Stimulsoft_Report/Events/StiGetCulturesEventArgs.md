@@ -4,12 +4,7 @@ title: "StiGetCulturesEventArgs Class"
 
 ## StiGetCulturesEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Events`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiGetCulturesEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Events`
 
 ### Inheritance
 

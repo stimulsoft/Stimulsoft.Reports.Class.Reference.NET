@@ -4,14 +4,9 @@ title: "StiWebDataException Class"
 
 ## StiWebDataException Class
 
-**Namespace:** `Stimulsoft.Base.Exceptions`  
-**Assembly:** `Stimulsoft.Base`
+**Namespace:** `Stimulsoft.Base.Exceptions`
 
 Exception wrapper for cloud data operations that need special handling.
-
-```csharp
-public class StiWebDataException
-```
 
 ### Inheritance
 
@@ -22,6 +17,13 @@ Inherits from: Exception
 | Constructor | Description |
 | --- | --- |
 | **StiWebDataException**(Exception innerException) |  |
+
+**StiWebDataException**(**innerException**: Exception)
+
+**Parameters**
+
+- **innerException** (Exception)  
+
 
 ### Properties
 

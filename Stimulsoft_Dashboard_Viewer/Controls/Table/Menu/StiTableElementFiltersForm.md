@@ -4,12 +4,7 @@ title: "StiTableElementFiltersForm Class"
 
 ## StiTableElementFiltersForm Class
 
-**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Table.Menu`  
-**Assembly:** `Stimulsoft.Dashboard.Viewer`
-
-```csharp
-public class StiTableElementFiltersForm
-```
+**Namespace:** `Stimulsoft.Dashboard.Viewer.Controls.Table.Menu`
 
 ### Inheritance
 
@@ -21,3 +16,23 @@ Inherits from: StiForm
 | --- | --- | --- |
 | **OnShown** | void |  |
 | **WriteColumnFilters** | void |  |
+
+---
+
+### Method Details
+
+#### OnShown
+
+**OnShown**(**e**: EventArgs): void
+
+**Parameters**
+
+- **e** (EventArgs)  
+
+
+---
+
+#### WriteColumnFilters
+
+**WriteColumnFilters**(): void
+

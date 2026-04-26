@@ -4,12 +4,7 @@ title: "StiConnectionOrder Enum"
 
 ## StiConnectionOrder Enum
 
-**Namespace:** `Stimulsoft.Report.Dictionary`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public enum StiConnectionOrder
-```
+**Namespace:** `Stimulsoft.Report.Dictionary`
 
 ### Members
 

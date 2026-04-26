@@ -4,12 +4,7 @@ title: "StiMeterIdent Enum"
 
 ## StiMeterIdent Enum
 
-**Namespace:** `Stimulsoft.Dashboard.Components`  
-**Assembly:** `Stimulsoft.Dashboard`
-
-```csharp
-public enum StiMeterIdent
-```
+**Namespace:** `Stimulsoft.Dashboard.Components`
 
 ### Members
 

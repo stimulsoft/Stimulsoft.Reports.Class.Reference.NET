@@ -4,12 +4,7 @@ title: "StiOpenRecentFileObjectEventArgs Class"
 
 ## StiOpenRecentFileObjectEventArgs Class
 
-**Namespace:** `Stimulsoft.Report.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiOpenRecentFileObjectEventArgs
-```
+**Namespace:** `Stimulsoft.Report.Design`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: EventArgs
 | Constructor | Description |
 | --- | --- |
 | **StiOpenRecentFileObjectEventArgs**([Stimulsoft.Base.RecentFiles.StiRecentFile](../../Stimulsoft_Base/RecentFiles/StiRecentFile.md) recentFile) |  |
+
+**StiOpenRecentFileObjectEventArgs**(**recentFile**: [Stimulsoft.Base.RecentFiles.StiRecentFile](../../Stimulsoft_Base/RecentFiles/StiRecentFile.md))
+
+**Parameters**
+
+- **recentFile** ([Stimulsoft.Base.RecentFiles.StiRecentFile](../../Stimulsoft_Base/RecentFiles/StiRecentFile.md))  
+
 
 ### Properties
 

@@ -4,12 +4,7 @@ title: "IStiBorderFrame Interface"
 
 ## IStiBorderFrame Interface
 
-**Namespace:** `Stimulsoft.App.Components`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiBorderFrame
-```
+**Namespace:** `Stimulsoft.App.Components`
 
 ### Inheritance
 

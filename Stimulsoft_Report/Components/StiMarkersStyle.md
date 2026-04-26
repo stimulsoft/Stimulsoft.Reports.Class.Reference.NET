@@ -4,14 +4,9 @@ title: "StiMarkersStyle Enum"
 
 ## StiMarkersStyle Enum
 
-**Namespace:** `Stimulsoft.Report.Components`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Components`
 
 Enumeration which sets a style of markers of the component in the designer.
-
-```csharp
-public enum StiMarkersStyle
-```
 
 ### Members
 

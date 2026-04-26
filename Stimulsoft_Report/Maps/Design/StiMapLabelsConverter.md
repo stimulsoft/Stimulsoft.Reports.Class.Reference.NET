@@ -4,15 +4,10 @@ title: "StiMapLabelsConverter Class"
 
 ## StiMapLabelsConverter Class
 
-**Namespace:** `Stimulsoft.Report.Maps.Design`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Maps.Design`
 
 Converts the StiMapLabels object from one data type to another.
 
-```csharp
-public class StiMapLabelsConverter
-```
-
 ### Inheritance
 
-Inherits from: [StiUniversalConverter](../../../Stimulsoft_Base/StiUniversalConverter.md)  
+Inherits from: [StiUniversalConverter](../../../Stimulsoft_Base/root/StiUniversalConverter.md)  

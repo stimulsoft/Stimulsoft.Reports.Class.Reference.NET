@@ -4,12 +4,7 @@ title: "IStiTwoColumnsPieLabels Interface"
 
 ## IStiTwoColumnsPieLabels Interface
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public interface IStiTwoColumnsPieLabels
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 

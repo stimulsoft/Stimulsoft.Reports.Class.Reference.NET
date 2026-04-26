@@ -4,14 +4,9 @@ title: "StiLevelEndContainer Class"
 
 ## StiLevelEndContainer Class
 
-**Namespace:** `Stimulsoft.Report.Engine`  
-**Assembly:** `Stimulsoft.Report`
+**Namespace:** `Stimulsoft.Report.Engine`
 
 A class describes a container which is the marker. This container is added into the output stream for identification of the end of the groupping level.
-
-```csharp
-public class StiLevelEndContainer
-```
 
 ### Inheritance
 
@@ -22,3 +17,6 @@ Inherits from: [StiLevelContainer](StiLevelContainer.md)
 | Constructor | Description |
 | --- | --- |
 | **StiLevelEndContainer**() |  |
+
+**StiLevelEndContainer**()
+

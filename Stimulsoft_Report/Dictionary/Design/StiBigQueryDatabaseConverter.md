@@ -4,12 +4,7 @@ title: "StiBigQueryDatabaseConverter Class"
 
 ## StiBigQueryDatabaseConverter Class
 
-**Namespace:** `Stimulsoft.Report.Dictionary.Design`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiBigQueryDatabaseConverter
-```
+**Namespace:** `Stimulsoft.Report.Dictionary.Design`
 
 ### Inheritance
 

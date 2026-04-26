@@ -4,12 +4,7 @@ title: "StiCenterPie3dLabelsCoreXF Class"
 
 ## StiCenterPie3dLabelsCoreXF Class
 
-**Namespace:** `Stimulsoft.Report.Chart`  
-**Assembly:** `Stimulsoft.Report`
-
-```csharp
-public class StiCenterPie3dLabelsCoreXF
-```
+**Namespace:** `Stimulsoft.Report.Chart`
 
 ### Inheritance
 
@@ -20,6 +15,13 @@ Inherits from: StiSeriesLabelsCoreXF
 | Constructor | Description |
 | --- | --- |
 | **StiCenterPie3dLabelsCoreXF**(IStiSeriesLabels seriesLabels) |  |
+
+**StiCenterPie3dLabelsCoreXF**(**seriesLabels**: IStiSeriesLabels)
+
+**Parameters**
+
+- **seriesLabels** (IStiSeriesLabels)  
+
 
 ### Fields
 
